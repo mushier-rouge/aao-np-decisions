@@ -1,0 +1,342 @@
+U.S. Citizenship 
+and Immigration 
+Services Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: WL. 28, 2023 In Re: 27611613 
+Appeal ofNebraska Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner , an assistant professor of computer science, seeks classification as an individual of 
+extraordinary ability. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. 
+§ 1153(b)(l)(A). This first preference classification makes immigrant visas available to those who 
+can demonstrate their extraordinary ability through sustained national or international acclaim and 
+whose achievements have been recognized in their field through extensive documentation . 
+The Director of the Texas Service Center denied the petition, concluding that the record did not 
+establish that the Petitioner satisfied the initial evidence requirements for this classification by 
+demonstrating his receipt of a major, internationally recognized award or by meeting at least three of 
+the ten evidentiary criteria at 8 C.F.R. § 204.5(h)(3). The Director further concluded that the Petitioner 
+did not establish that he seeks to enter the United States to continue work in his area of extraordinary 
+ability and that his entry will substantially benefit the United States. The matter is now before us on 
+appeal. 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproofto demonstrate eligibility by a preponderance ofthe evidence . 
+Matter ofChawathe, 25 l&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christa 's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b )(1 )(A) ofthe Act makes visas available to noncitizens: 
+• who have extraordinary ability in the sciences, arts, education , business, or athletics 
+which has been demonstrated by sustained national or international acclaim and 
+whose achievements have been recognized in the field through extensive 
+documentation ; 
+• who seek to enter the United States to continue work in the area of extraordinary 
+ability, and 
+• whose entry will substantially benefit prospectively the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner may demonstrate 
+international recognition of their achievements in the field through a one-time achievement (that is, a 
+major, internationally recognized award). Absent such an achievement, the petitioner must provide 
+sufficient qualifying documentation demonstrating that they meet at least three ofthe ten criteria listed 
+at 8 C.F.R. § 204.5(h)(3)(i) -(x) (including items such as awards, published material in certain media, 
+and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination). 
+II. ANALYSIS 
+The record reflects that the Petitioner is an assistant professor and researcher in the field of computer 
+science with research interests in the areas of Latent Semantic Indexing (LSI) based information 
+retrieval, the semantic web, and data mining. He completed his bachelor's and master's degrees in 
+computer enrneering at a Chinese university and received his doctorate in computer science fromI University in 2006. The Petitioner indicates he has been employed as an assistant ~r of computer science for a community college within the City University I I 
+L___J system since 2004. In separate statements, the Petitioner has expressed his intent to continue 
+serving in his current faculty position as well as to start his own technology-based company that would 
+rely on his research in the computer science field and expand it for commercial use. 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or established that he has received a major, internationally 
+recognized award, he must show that he satisfies at least three of the regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). The Petitioner initially claimed to meet five of the ten criteria, 
+summarized below: 1 
+• (i), Lesser nationally or internationally recognized prizes or awards; 
+• (iv), Participation as a judge of the work of others; 
+• (v), Original contributions of major significance; 
+1 In his response to a request for evidence (RFE), the Petitioner also claimed he could meet the criterion at 8 C.F.R. 
+§ 204.5(h)(3)(iii), which requires documentation ofpublished materials about the individual and their work in professional 
+publications or major media. The Director determined the submitted evidence did not satisfy this criterion. The Petitioner 
+does not contest that determination on appeal, nor has he claimed that he meets the criteria at 8 C.F.R. § 204.5(h)(3)(ii), 
+(vii), (ix) or (x). As the Petitioner provides no evidence or arguments addressing these five criteria on appeal, we consider 
+them to be waived. See Matter ofR-A-M-, 25 l&N Dec. 657. 658 n.2 (BIA 2012) (stating that when a filing party fails to 
+appeal an issue addressed in an adverse decision, that issue is waived). See also Sepulveda v. U.S. Atty. Gen., 401 F.3d 
+1226. 1228 n. 2 (11th Cir. 2005) (citing United States v. Cunningham, 161 F.3d 1343, 1344 (11th Cir. 1998). 
+2 
+• (vi), Authorship of scholarly articles; and 
+• (viii), Leading or critical role for distinguished organizations or establishments. 
+The Director determined the Petitioner satisfied only one of the claimed criteria, related to authorship 
+of scholarly articles in professional publications, at 8 C.F.R. § 204.5(h)(3)(vi). We agree with that 
+determination. The Petitioner provided evidence that he has published two articles that appeared in the 
+journals Data & Knowledge Engineering and Lecture Notes in Computer Science. 
+On appeal, the Petitioner submits additional evidence and asserts that the Director reached unjustified 
+conclusions with respect to the four remaining claimed criteria. He maintains that he satisfies at least 
+three ofthe evidentiary criteria at 8 C.F.R. § 204.5(h)(3) and is otherwise eligible for the classification 
+sought. 
+For the reasons provided below, we conclude that the Petitioner has not demonstrated that he satisfies 
+the requirements of at least three of the ten criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). 
+Documentation of the individual's receipt of lesser nationally or internationally 
+recognized prizes or awards for excellence in the field of endeavor. 8 C.F.R. § 
+204.5(h)(3)(i) 
+To satisfy this criterion, the Petitioner must demonstrate he was the rec1p1ent of nationally or 
+internationally recognized prizes or awards for excellence in his field of endeavor. Relevant 
+considerations regarding whether the basis for granting the prizes or awards was "excellence in the 
+field" include but are not limited to: the criteria used to grant the awards or prizes, the national or 
+international significance of the awards or prizes in the field, and the number of awardees or prize 
+recipients, as well as any limitations on competitors.2 
+At the time of filing, the Petitioner indicated he was submitting the following evidence in support of 
+this criterion: (1) a September 2001 letter from a professor atl l(his Ph.D. advisor) inviting 
+him to participate in the MLabNet 2001 Seminar to be held in Japan in October 2001, in conjunction 
+with the Tokyo-based National Institute oflnformatics (NII); and (2) the January 2002 edition of NII 
+News which is written almost exclusively in the Japanese language and was not accompanied by a 
+certified English translation as required by 8 C.F.R. § 103.2(b)(3). The invitation to the MLabNet 
+2001 Seminar indicates that the Petitioner's expenses would be fully paid through the computer 
+science department's National Science Foundation (NSF) grant. 
+In the RFE, the Director advised the Petitioner that his initial evidence did not establish he was the 
+recipient of a nationally or internationally recognized prize or award for excellence in his field and 
+therefore did not meet the plain language of this criterion. The Director provided a list ofthe types of 
+evidence he could provide to establish eligibility and advised him of the need for translations of any 
+foreign language documentation submitted. The record reflects that although the Petitioner responded 
+to the RFE, he did not address this criterion in his response. Accordingly, the Director determined 
+that he did not meet this criterion. 
+2 See 6 USC1S Policy Manual F(2) appendix, http://www.uscis.gov/policy-manual (indicating that an award limited to 
+competitors from a single institution. for example, may have little national or international significance). 
+3 
+On appeal, the Petitioner, asserts that "having been INVITED and ATTENDED the National Science 
+Foundation's MLabNet Seminar is a highly praised honor for any person who has been recognized for 
+their exceptional work and contribution in the Computer Science field." He also emphasizes that the 
+seminar was organized by the NSF's Office of International Science and Engineering, noting that 
+invitees "have been technically 'internationally awarded' an opportunity to attend the seminar." He 
+provides additional information regarding MLabN et and the purpose ofthe 2001 seminar and indicates 
+he was invited because he "had ... demonstrated his excellence in the field of endeavor." 
+The Petitioner resubmits a copy of the September 2001 invitation letter from his Ph.D. advisor at I land evidence related to the NSF grant that fonded participation ofthe invitees. According 
+to this documentation, the NSF awarded $5,290 to "support the participation ofAmerican scientists in 
+a U.S.-Japan seminar on MLabNet 2000 advanced multimedia systems and applications." It indicates 
+that the seminar's organizers "made a special effort to involve younger researchers, postdocs and 
+graduate students as both participants and observers." 
+The record does not establish that the Petitioner has been the recipient of an award or prize for 
+excellence in his field. While we acknowledge his claim that it was an honor for him to be invited to 
+attend the MLabN et Seminar in Japan as a graduate student, we cannot conclude this invitation was 
+an "award or prize," or that he was invited to the seminar in recognition of his excellence in the field. 
+The only "award" documented is an NSF grant awarded to a university and intended to support any 
+unnamed "American scientists" who may be invited to participate in the seminar. The Petitioner may 
+have benefited from the grant award, but he was not the individual recipient. The grant abstract 
+provides no criteria for the selection of participants and does not indicate whether those outside of the 
+awarded university were eligible to be invited under the auspices of the NSF grant. 
+Finally, although the Petitioner initially indicated that he was submitting the January 2002 NII News 
+publication in support of this criterion, it was not accompanied by the required English translation, 
+and we cannot determine whether or to what extent it may support his claims. Therefore, for the 
+reasons discussed, the Petitioner has not established that he meets the criterion at 8 C.F.R. 
+§ 204.5(h)(3)(i). 
+Evidence ofthe individual's participation, either individually or on a panel, as ajudge 
+of the work of others in the same or an allied field of specialization for which 
+class[fication is sought. 8 C.F.R. § 204.5(h)(3)(iv) 
+To meet this criterion, a petitioner must show that they have not only been invited to judge the work 
+of others, but that they have participated in judging the work of others in the same or allied field of 
+specialization. Peer reviewing for a scholarly journal may meet this criterion if a petitioner provides 
+evidence of a request from the journal for the person to do the review, and proof that the review was 
+actually completed. See generally 6 USCIS Policy Manual, supra, at F.2 appendix. 
+The Petitioner submitted evidence that he was invited to review three papers submitted to the 
+NSF/National Institute of Justice (NIJ) Intelligence and Security Informatics Symposium held in 
+Arizona in June 2003, along with evidence that he completed his peer review of all three articles. He 
+also provided evidence that he reviewed a paper submitted for publication to Information Sciences in 
+April 2008. While the Director concluded that the documentation did not demonstrate the Petitioner's 
+4 
+completion ofpeer review activities, we disagree and conclude that the submitted evidence is sufficient 
+to satisfy the criterion at 8 C.F.R. § 204.5(h)(3)(iv). 
+Evidence ofthe individual's original scientific, scholarly, artistic, athletic, or business­
+related contributions ofmajor sign[ficance in the field. 8 C.F.R. § 204.5(h)(3)(v). 
+This criterion calls for evidence of a petitioner's original scientific, scholarly, artistic, athletic, or 
+business-related contributions of major significance in the field. For example, a petitioner may show 
+that their contributions have been widely implemented throughout the field, have demonstrably 
+impacted or influenced the field, or have otherwise risen to a level of major significance in the field. 
+At the time of filing, the Petitioner indicated that he satisfied this criterion based on his "scholarly 
+contributions done for NSF/NTT "bis "Retrieval Recomj'endations," and his article 'l II 'which was published in Data & Knowledge 
+Engineering in 2008. Based on the submitted documentation, the referenced "contributions done for 
+NSF/NU" refers to the Petitioner's peer review activities for the 2003 NSF/NU Symposium on 
+Intelligence and Security Informatics, while the "Retrieval Recommendations" appears to refer to his 
+peer review service for the journal Information Sciences, in 2008. He did not explain how his peer 
+review of other researchers' work could be considered an "original" contribution, nor did he provide 
+support for a claim that his contributions as a peer reviewer have been of major significance in the 
+field of computer science. 
+Similarly, the Petitioner submitted a copy of his article published in Data & Knowledge Engineering 
+but did not identify or document how his research findings have been widely implemented throughout 
+his field or how his research has impacted or influenced the field. Although funded and published 
+work may be "original," this fact alone is not sufficient to establish that the work is of major 
+significance. To satisfy this criterion, the Petitioner must demonstrate that the reaction from the field 
+upon the dissemination of his work confirms that his research rises to the level of a "contribution of 
+major significance" in the field. See 8 C.F.R. § 204.5(h)(3)(v).3 The Petitioner did not provide a 
+citation history for his published work or other evidence of its impact or influence, nor did he identify 
+a specific original contribution he has made in his research area or explain the significance of his 
+contributions. 
+In the RFE, the Director provided a list of the types of documentary evidence the Petitioner could 
+submit, such as testimonial letters from experts in the field, evidence that people throughout the field 
+regard his original contributions as important, evidence that his work has been widely cited or has 
+provoked widespread commentary, or evidence that his work is being implemented by others. The 
+Petitioner's response to the RFE did not address this criterion or include any additional evidence. 
+Accordingly, the Director concluded that the Petitioner did not satisfy this criterion. The Director 
+observed that the Petitioner's published research demonstrated original contributions in his field but 
+emphasized that he had not provided evidence that his work had been widely cited. The Director also 
+3 See generally 6 USCIS Policy Manual, supra at F.2 appendix, https://www.uscis.gov/policy-manual) (stating that "[p Jeer­
+reviewed presentations at academic symposia or peer-reviewed articles in scholarly journals that have provoked 
+widespread commentary or received notice from others working in the field, or entries (particularly a goodly number) in a 
+citation index which cite the individual's work as authoritative in the field, may be probative of the significance of their 
+contributions to the field of endeavor). 
+5 
+noted, in both the RFE and the denial, that USCIS had reviewed the Petitioner's publicly available 
+Google Scholar profile and found it did not support a finding that his work had received significant 
+notice from others in the field. 
+On appeal, the Petitioner asserts that while his own publications have only 10 cumulative citations, 
+his work "did indirectly gamer hundreds of citations" because "his data was cited by other researchers 
+and scholars as a very reliable source of data" and "their articles and publications did contribute to a 
+major significance in the field of computer science." The Petitioner submits a Scotus citation history 
+corroborating that his 2008 article has been cited 10 times. This evidence also provides citation counts 
+for articles citing the Petitioner's work and shows that three ofthose articles have been cited 434, 375, 
+and 126 times, respectively. He contends the Director's conclusion that he has not made contributions 
+of major significance in the field of computer science is a "completely unjustified assumption." 
+The Petitioner also provides evidence his 2005 conference paper, '~-----------~ I I" has been accessed digitally 707 times. Finally, 
+he reiterates his previous claim that his peer review activities satisfy this criterion and submits 
+evidence to document that one of the papers he reviewed for the 2003 NSF/NIJ Symposium on 
+Intelligence and Security Informatics has been accessed 1,669 times. He states this level of interest in 
+the paper demonstrates the major significance of his scholarly contribution. 
+As noted, the Petitioner was provided an opportunity to submit additional evidence in support of this 
+criterion prior to the denial of the petition and did not address it in his RFE response. The Petitioner 
+does not contend that the evidence provided for the first time on appeal was unavailable at the time he 
+responded to the Director's RFE. Therefore, we need not consider this evidence. See 8 C.F.R. 
+§ 103.2(b)(l 1) (requiring all evidence requested in an RFE to be submitted together at one time); see 
+also Matter ofSoriano, 19 I&N Dec. 764, 766 (BIA 1988) (providing that if "the petitioner was put 
+on notice of the required evidence and given a reasonable opportunity to provide it for the record 
+before the denial, we will not consider evidence submitted on appeal"); see also Matter ofObaigbena, 
+19 I&N Dec 533 (BIA 1988). 
+Nevertheless, even ifthe Petitioner had submitted the same evidence in response to the RFE, it would 
+be insufficient to show that he meets this criterion. The Petitioner asserts that his published work has 
+garnered nearly 1000 "indirect citations" and appears to suggest that any paper referenced in a highly 
+cited publication should be deemed a contribution of major significance in a given field. He provides 
+no evidentiary basis for this broad supposition. He has not, for example, provided copies ofthe papers 
+that cited his work in support ofhis claim that his research findings were highly impactful or influential 
+on other researchers. Generally, citations can serve as an indication that the field has taken interest in 
+a petitioner's published or presented work. However, the Petitioner has not demonstrated that the 
+number of citations received by his published work is commensurate with a contribution of major 
+significance. 
+The Petitioner provides evidence that one of his articles has been digitally accessed over 700 times, 
+but the record does not contain comparative information, such as access data for other papers published 
+in his field in the same year. Without supporting evidence to provide such context, he has not 
+supported his claim that the total number of times his paper was accessed establishes the major 
+significance of his published research. In addition, an access count does not tell us whether or how 
+6 
+the Petitioner's research findings have been used in subsequent studies. If access of his paper has 
+rarely resulted in citations, then the access count does not appear to correlate to the impact or influence 
+ofthe Petitioner's research in the field. Here, although he provided evidence that his 2005 conference 
+paper was accessed 707 times, he did not provide evidence that this paper has been cited by any other 
+researchers. Finally, the Petitioner provides evidence that an article he peer-reviewed prior to 
+publication has been accessed over 1600 times and cited 22 times. Even if we determined that this 
+article constituted a contribution of major significance in the field, it was not co-authored by the 
+Petitioner and cannot be considered his original contribution to the field; his role was limited to the 
+provision of edits and comments as part of his service as a peer reviewer. 
+The burden is on the Petitioner to not only identify his original contributions but to also demonstrate 
+why they are considered to be of major significance in the field. Here, for the reasons discussed, the 
+Petitioner has not met this burden. 
+Evidence that the individual has performed in a leading or critical role for 
+organizations or establishments that have a distinguished reputation. 8 C.F.R. § 
+204.5(h)(3)(viii) 
+This criterion requires a two-part determination in which we consider both (1) the significance of an 
+individual's role within an organization or establishment (or within a division or department of an 
+organization or establishment), and (2) the reputation of the organization or establishment (or its 
+division or department). For a leading role, the evidence should establish that the individual is (or 
+was) a leader within the organization. A title, with appropriate matching duties may help to 
+demonstrate performance in a leading role. For a critical role, the evidence should establish that the 
+person has contributed n a way that is of significant importance to the outcome of the organization or 
+establishment's activities ( or those of a specific division or department thereof See generally, 6 
+USCIS Policy Manual, supra, at F.2 appendix. Letters from persons with personal knowledge of the 
+significance of the individual's leading or critical role can be persuasive if they contain detailed and 
+probative information that specifically addresses how the person's role within an organization or 
+establishment was leading or critical. Id. 
+In a cover letter accompanying the petition, the Petitioner stated he "has performed in a critical role 
+for organizations that have a distinguished reputation" and indicated he was submitting academic 
+records relating to his bachelor's, master's and doctoral degrees; a copy of his Ph.D. dissertation; an 
+academic credentials evaluation report; and proof of his membership in Triple Nine Society, which 
+was granted based on his submission of score at or above the 99.9th percentile on a standardized 
+intelligence or general aptitude test. He did not identify the organization( s) for which he performed 
+in a critical role, identify the specific critical role( s) he has held, or provide letters from persons with 
+knowledge ofhis performance in such roles. Further, he did not submit evidence intended to establish 
+the distinguished reputation of a specific organization or establishment. 
+In the RFE, the Director acknowledged this evidence and other evidence submitted in support of the 
+petition, and informed the Petitioner why it was insufficient to establish that he meets this criterion. 
+The RFE provided a list of evidence the Petitioner could submit, emphasizing that letters from current 
+or former employers with personal knowledge of the significance of his roles, or other documentary 
+7 
+evidence, may be particularly effective in supporting his claim. Although the Petitioner submitted a 
+response to the RFE, he did not provide any additional evidence in support of this criterion. 
+On appeal, the Petitioner re-submits the evidence he previously provided in support of this criterion 
+but does not articulate a claim that the Director erred in evaluating this evidence under the plain 
+language of the criterion at 8 C.F.R. § 204.5(h)(3)(viii). The Petitioner states he has "continued to 
+perform critical roles in organizations that have a distinguished reputation in the Computer Science 
+field," noting he is now a member of the Institute of Electrical and Electronics Engineers (IEEE) 
+Computer Society. He describes this association as "the world's leading membership organization 
+dedicated to science and technology" and a "community for technology leaders." The evidence on 
+appeal documents that the Petitioner became a member of IEEE and IEEE Computer Society in 2023. 
+We agree with the Director's determination that the Petitioner did not submit evidence to satisfy the 
+plain language ofthis criterion. Based on the evidence he provided, he appears to rely on his academic 
+achievements and association memberships rather than his performance in a leading or critical role for 
+an organization or establishment that has a distinguished reputation. 4 
+The record reflects that the Petitioner has spent most ofhis post-graduate professional career employed 
+as an assistant professor for a community college within thd lsystem in New York. However, 
+he has not submitted evidence of his leading or critical role with this organization or evidence of the 
+distinguished reputation of the college or department that employs him. A letter from his employer's 
+human resources department provides his job title and current salary and confirms that he is 
+responsible for "teaching courses and conducting research in the field of Computer Science." The 
+letter does not contain sufficient detail to support a determination that the Petitioner performs in a 
+leading or critical role for this organization. The record also contains a May 2000 employment offer 
+letter froml I The Petitioner's curriculum vitae indicates he worked 
+for this company as a web developer from May 2000 until August 2001, but the record does not contain 
+evidence that he performed in a leading or critical role or establish the company's distinguished 
+reputation. 
+For the reasons discussed above, the Petitioner has not established that he meets the criterion at 8 
+C.F.R. § 204.5(h)(3)(viii). 
+B. Summary and Reserved Issues 
+The Petitioner has satisfied only two of the ten criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x) and therefore 
+does not meet the initial evidence requirement for this classification. As noted, the Director also 
+determined the Petitioner did not establish that he intends to enter the United States to continue work 
+4 As noted, the Petitioner did not claim that he can satisfy the criterion at 8 C.F.R. 204.5(h)(3)(ii), which requires evidence 
+of an individual's membership in associations in the field for which classification is sought, which require outstanding 
+achievements of their members as judged by recognized national or international experts in their fields. Although the 
+Petitioner was a member of Triple Nine Society at the time of filing, the record does not show this association is in the 
+computer science or engineering field or that it requires outstanding achievements as judged by experts in the field. The 
+Petitioner's membership in IEEE Computer Society post-dates the filing of the petition. A petitioner must establish 
+eligibility for the benefit sought at the time of filing the benefit request and must continue to be eligible through 
+adjudication. 8 C.F.R. § 103.2(b)(l). 
+8 
+in his area of extraordinary ability and that his entry would substantially benefit prospectively the 
+United States as required by section 203(b)(l)(A)(ii) and (iii) of the Act and 8 C.F.R. § 204.5(h)(5). 
+Detailed discussion of these remaining grounds for denial cannot change the outcome of this appeal. 
+Therefore, we reserve and will not discuss the Petitioner's appellate arguments relating to these issues. 
+See INS v. Bagamasbad, 429 U.S. 24, 25-26 (1976) (stating that, like courts, federal agencies are not 
+generally required to make findings and decisions unnecessary to the results they reach); see also 
+Matter ofL-A-C-, 26 I&N Dec. 516, 526 n.7 (BIA 2015) (declining to reach alternative issues on 
+appeal where an applicant is otherwise ineligible). 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three ofthe ten criteria. As a result, we need not provide the type of final 
+merits determination referenced in Kazarian, 596 F.3d at 1119-20. Nevertheless, we advise that we 
+have reviewed the record in the aggregate and conclude that it does not support a finding that the 
+Petitioner has established the acclaim and recognition required for the classification sought. 
+The Petitioner seeks a highly restrictive visa classification. USCIS has long held that even athletes 
+performing at the major league level do not automatically meet the "extraordinary ability" 
+standard. Matter ofPrice, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994). Here, the Petitioner has not 
+shown that the significance ofhis work is indicative ofthe required sustained national or international 
+acclaim or that it is consistent with a "career of acclaimed work in the field" as contemplated by 
+Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 203(b)(l)(A) of the 
+Act. Moreover, the record does not otherwise demonstrate that the Petitioner has garnered national or 
+international acclaim in the field, and that he is one of the small percentage who has risen to the very 
+top of the field of endeavor. See section 203(b )(1 )(A) of the Act and 8 C.F.R. § 204.5(h)(2). 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an individual of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+9 

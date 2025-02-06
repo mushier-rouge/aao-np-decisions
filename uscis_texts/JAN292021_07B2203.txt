@@ -1,0 +1,253 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 11283620 
+Appeal of Nebraska Service Center Decision Non-Precedent Decision of the 
+Administrative Appeals Office 
+Date: JAN. 29, 2021 
+Form 1-140, Immigrant Petition for Alien Worker (Extraordinary Ability) 
+The Petitioner, a director of engineering for an e-commerce company , seeks classification as an 
+individual of extraordinary ability. See Immigration and Nationality Act (the Act) section 203(b )( 1 )(A), 
+8 U.S.C. § 1153(b)(l)(A) . This first preference classification makes immigrant visas available to those 
+who can demonstrate their extraordinary ability through sustained national or international acclaim and 
+whose achievements have been recognized in their field through extensive documentation . 
+The Director of the Nebraska Service Center denied the petition, concluding that the Petitioner 
+satisfied only two of the ten initial evidentiary criteria for this classification , of which he must meet at 
+least three. The matter is now before us on appeal. 
+In these proceedings , it is the Petitioner's burden to establish eligibility for the requested benefit. See 
+Section 291 of the Act, 8 U.S.C. § 1361. Upon de nova review, we conclude that the Petitioner has 
+not met this burden. Accordingly , we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation , 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a pet1t10ner can demonstrate 
+international recognition of his or her achievements in the field through a one-time achievement (that 
+is, a major, internationally recognized award). If that petitioner does not submit this evidence, then 
+he or she must provide sufficient qualifying documentation that meets at least three of the ten criteria 
+listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as awards, published material in certain 
+media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+The record reflects that the Petitioner is currently employed as a director of software engineering with 
+I l where he has worked in H-lB nonimmigrant status since October 2015. He joined 
+~----~lwith 15 years of pro ressive ex erience in the software en ineering field, most recently 
+as an assistant vice president fo where he worked from 2014 
+to 2015. The Petitioner has a bachelor of technology degree from ~-----------~ University in India. 
+Because the Petitioner has not indicated or established that he has received a major, internationally 
+recognized award, he must satisfy at least three of the ten alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). The Petitioner claims to have met three criteria, summarized below: 
+• (v), Original contributions of major significance; 
+• (viii), Leading or critical role for distinguished organizations or establishments; and 
+• (ix), High salary or other significantly high remuneration in relation to others in the field. 
+The Director found that the Petitioner met the criteria pertaining to leading or critical roles and high 
+salary. On appeal, the Petitioner maintains that he also meets the original contributions criterion and 
+asserts that the Director did not properly weigh the submitted evidence of his business and engineering 
+related contributions and the significance of these contributions in his field. 
+We have reviewed all the evidence in the record and conclude that it does not demonstrate that the 
+Petitioner satisfies the requirements of at least three criteria. The Petitioner meets only the two criteria 
+granted by the Director. We will discuss the remaining claimed criterion below. 
+Evidence of the individual's original scient[fic, scholarly, artistic, athletic, or business-related 
+contributions of major sign[ficance in the field. 8 C.F.R. § 204.5(h)(3)(v). 
+2 
+To satisfy this criterion, the Petitioner must establish that not only has he made original contributions 
+but that they have been of major significance in the field. Major significance in the field may be shown 
+through evidence that his original contributions have been widely accepted and implemented 
+throughout the field, have remarkably impacted or influenced the field, or have otherwise risen to a 
+level of major significance in the field. 1 
+On appeal, the Petitioner claims that he provided ample evidence of his original contributions to the 
+software engineering field and asserts that the Director failed to discuss the detailed information 
+contained in letters from his current and former employers, submitted at the time of filing. The record 
+also includes two expert opinion letters from university professors in the computer science field. 
+With respect to the Petitioner's contributions during his tenure ate=] he provided a letter from 
+I ts Senior Vice President -Head of Digital Product Strategy.I ~ indicates 
+that he previously served as Head of Product Development withinl business 
+division, noting he frequently interacted with the Petitioner, who he describes as "the lead 
+development engineer" within the division and "one of the firm's most important technical 
+contributors to the broader suite of core innovative products for our department." He describes I I as a "single integrated messaging and connectivity engine" that was "specially designed 
+for asset managers, insurance companies, banks ... and other technology platforms." 
+~---~I goes on to describe some of the Petitioner's contributions to the division, noting that he 
+"engineered and developed a remarkable and outstanding multi-bank event management and 
+notification workflow solution designed to simplify the most challenging corporate actions lifecycle 
+processes." He explains the complexity of the problem addressed by this workflow solution, and notes 
+that the system "adds a strategic advantage" compared to "traditional systems." He describes its 
+features, and states that there are "no off-the-shelf software solutions available that can match these 
+capabilities and provide this end to end workflow." I I also credits the Petitioner with 
+developing "an advanced configurable rule-based engine to process complex rules to handle data from 
+several message systems" and describes the capabilities of this solution. 
+While this evidence demonstrates that the Petitioner made original engineering contributions toe=] s I F division that benefited the company and its clients, it does not establish how such 
+contributions to~s products have remarkably impacted or influenced the field or industry.c=J I I praises the Petitioner's "in-depth knowledge on building scalable real time systems and his 
+ability to lead a team to successfully [] execute on his vision to drive significant business upside" as 
+well as his ability "to delight customers with pioneering solutions to challenging problems." He also 
+generally states that the types of solutions the Petitioner developed "can be useful for systems and 
+organizations that exchange data," but does not elaborate on their impact on the field. In order to 
+establish that his contributions ate=] satisfy this criterion, the Petitioner must establish that his 
+contributions have been widely implemented in the field or have otherwise been recognized for their 
+major significance. The record does not include, for example, evidence that other com1anies have 
+adopted the types of engineering solutions he helped develop during his tenure at The plain 
+1 See USCIS Policy Memorandum PM-602-0005.1, Evaluation of Evidence Submitted with Certain Form 1-140 Petitions; 
+Revisions to the Adjudicator's Field Manual (AFM) Chapter 22.2, AFM Update ADJJ-14 8-9 (Dec. 22, 2010), 
+https://www.uscis.gov/sites/ default/files/USCIS/Laws/Memoranda/i- l 40-evidence-pm-6002-005-1.pdf. 
+3 
+language of the phrase "contributions of major significance in the field" requires evidence of an impact 
+beyond one's employer and clients or customers. See Visinscaia v. Beers, 4 F. Supp. 3d 126, 134-135 
+(D.D.C. 2013). While the evidence demonstrates that the Petitioner possesses technological knowledr 
+and skills that enabled him to solve engineering challenges faced byc=]and its clients,! s 
+letter does not establish how his contributions impacted the field. 
+In the RFE, the Director provided the Petitioner an opportunity to submit additional independent, 
+objective evidence, beyond testimonial letters, to establish that his contributions have significantly 
+influenced the field. The Petitioner's response to the RFE included two expert opinion letters from 
+university professors, which we will discuss further below, and copies of previously submitted evidence. 
+On appeal, the Petitioner now asks that we consider "several industry articles" intended to provide 
+supplemental explanations of the im act of his work on the field. The evidence includes: 1 an October 
+2013 ress release titled 
+'· 2 a 2015 ress release titled ~-----t 
+and 3 a 2018 ress release 
+published by Business Insider, which announces the company's release of.__ _____ __, 
+Where, as here, a Petitioner has been put on notice of a deficiency in the evidence and has been given 
+an opportunity to respond to that deficiency, the AAO will not accept evidence offered for the first 
+time on appeal. Matter of Soriano, 19 I&N Dec. 764 (BIA 1988); Matter of Obaigbena, 19 I&N Dec. 
+533 (BIA 1988). Further, even if we review this evidence along withl ts letter, the record 
+would not support a determination that the Petitioner made original contributions of major significance 
+while employed b~ I The 2013 press release pre-dates the Petitioner's employment withe=] by 
+a year and the 2018 press release post-dates his tenure by over two years. We also note that the spepi.fi.c; ~ts mentioned in these press releases! I are not referenced byLJ 
+L___J in his letter. Finally, while these product releases were deemed sufficiently significant to 
+warrant the company's issuance of a press release, the press releases alone do not demonstrate how 
+these technologies remarkably impacted the field. 
+The referenced 2015 press release coincides with the Petitioner's one-ear tenure withc=]but marks 
+the automation of 1.3 million fund orders "throu h th s I I offshore fund platform andL...---r---i-------' over a period of three years (since 2012). 
+However, sincec=]s relationship with~_~predated the Petitioner's tenure with the company, 
+the press release alone does not establish that his contributions to the existing! I platform 
+remarkably impacted the industry and such contributions were not addressed inl Vs letter. 
+The Petitioner has also provided two letters that directly address his contributions during his tenure at I I. is described in the record asl I retailer of1 I sports 
+merchandise L-------------~__J ............................. ~ofessional sports leagues and for over 
+300 collegiate and professional team properties . .__ ____ _., the company's Chief Technology & 
+Product Officer, credits the Petitioner with developing new capabilities for itsl I 
+Platform which have significantly contributed to the company's revenue growth. He explains that the 
+Petitioner's unique combination of software en ineering skills enabled his design and development of 
+I I and which have enabled the com an to offer fans I I gear ~------------------------------~ 
+4 
+D and other major sports franchises. He states that "80+ business managers working on 300+ sites 
+use these tools on a regular basis." 
+I !further describes these tools in considerable detail, noting that few engineers have the 
+diverse skill set required to meet the company's technological challen es and attributing! I 
+significant sales growth to the Petitioner's enhancements of its platform. He also 
+discusses the Petitioner's work on the platform's~-----~system, noting that he developed 
+a I I system" which he describes as a "unique solution which very few companies 
+across the world have attempted." I I explains that thel I 
+system the Petitioner built allowsl I payment systems to operate in a fall back mode and 
+.__ __________________________________ ____. during 
+primary gateway down times." 
+The Petitioner also provided a letter form I • I Vice President of Product Technology at I l who states that he leads product management for all aspects ofi t cloud commerce 
+platform. I I likd I highly praises the Petitioner's engineering talent and 
+leadership abilities and discusses his contributions to the company's! I platform. He 
+highlights thd I solution (noting the Petitioner solved a "problem that every payment 
+accepting! I faces"), ~ I System ( a security feature that detects anomalies in user 
+activities), and the Petitioner's integration ofl I risk analysis engine to protect the 
+platform from abuse. 
+The contributions described byl I an~ I are novel and innovative in that they 
+fill the unique needs of the I I platform, and their letters establish that the Petitioner has 
+performed in a critical capacity for the company. However, the record does not establish how such 
+contributions have had a significant impact or influence on thel I software technology field 
+outside of the company. The record does not establish, for example, that the Petitioner's enhancements 
+to th~ I platform have generated widespread commentary or discussion in the field or that 
+other I I companies have modeled their I I platforms on enhancements the 
+Petitioner made to th~ I platform. 
+A letter froml 6 business architect withl l also discusses the Petitioner's work 
+in th~ I field.I !describes the Petitioner as "an avid open source contributor for 
+many public open-source software libraries" and that states his work "is very significant to a large 
+scale platform which deals with data." He credits the Petitioner with: designing and implementing a 
+scalable platform called! Ito power business analytics; designing dynamic configuration 
+capabilities and an intelligent! I that allow an application/website behavior to be 
+changed dramatically; developing tracking software that can benefit "many small scale-to-medium 
+I !companies"; and introducing speedy checkout tol !checkout payment flows. 
+With respect tol I paymentsJ I states that the "integration models and interfaces 
+built by [the Petitioner] are significantly helping! I companies the way [sic] customers can 
+make payments on any! I websites in a more secure and simplified way." However, he does 
+not offer any specific examples, and the record does not contain supporting evidence, of how these 
+technologies have been adopted by any companies other than the Petitioner's own employer. Simply 
+stating that the Petitioner developed novel solutions that could be useful to other organizations is not 
+5 
+sufficient to show that his work has already proven to be remarkably impactful or influential in the 
+field. 
+Finally, we have considered the expert opinion letters of two professors of computer science. USCIS 
+may, in its discretion, use as advisory opinions statements from universities, professional 
+organizations, or other sources submitted in evidence as expert testimony. Matter of Caron Int 'l, 19 
+I&N Dec. 791, 795 (Comm'r. 1988). However, USCIS is ultimately responsible for making the final 
+determination regarding a foreign national's eligibility . The submission of letters from experts 
+supporting the petition is not presumptive evidence of eligibility. Id. 
+ln his letter,! lo~ I University summarizes ilielletters g[°vided byD I ~ and I and the contributions the Petitioner made t{LJ and He concludes 
+that his contributions are beneficial to the companies he has worked for and "will have lasting effects 
+on the industry as a whole." He states that "[t]his is evident based on a simple comparison of similar 
+platforms at other companies" noting that some features the Petitioner developed ad I are "some 
+of the first to be contained in technologies of this nature and have the potential to be patented." 
+Although his letter supports a finding that the Petitioner's contributions are novel, he does not state 
+that those contributions have already impacted or influenced the broader industry . 
+.__ _____ ___.I Professor and Chair of Computer Science at University! I 
+indicates that the Petitioner "has made major original business contributions m the form of 
+groundbreaking technology innovations in the field o~ I" Like ________ he 
+discusses the letters provided by the Petitioner's employers, noting that the letters establish his ability 
+to develop specific technology solutions that "improve the efficiency and overall profitability of 
+standard processes," and noting that such solutions have "far-reaching significance." He further states 
+that such achievements "are far outside the ken of the vast majority of developers and software 
+engineers, and as such extend their influence into the industry at large." However, these statements 
+are general and do not specify how the Petitioner's contributions have been of "major significance" in 
+the field within the meaning of 8 C.F.R. § 204.5(h)(3)(v) . 
+,___ __ ____.lalso highlights the Petitioner's work onl I atl I noting that "this 
+contribution extends far outside of its immediate application" at his employer. He notes that I I is a "cutting edge security solution" used inl I and retail banking, and states 
+that the Petitioner's I I solution stands out as among the 
+leading advancements in this area in the short time since the development of the I I 
+technology" and "bears major significance for the over......,....__ ___ ..... industry" by "adding to the 
+growing number of technical improvements in the area o nd increasing competition in 
+the same." Although! I refers to the Petitioner's work on.__ __ _. payment system as a 
+"leading advancement" that has added to the incremental innovations in a growing area of technology, 
+the record does not contain supporting evidence or specific examples showing that this advancement 
+has already extended "far outside its immediate application" ad I such that it could be deemed 
+an original contribution of major significance in the field. 
+In summary, the submitted letters do not contain specific, detailed information explaining the unusual 
+influence or impact his work atOandl I has had in the overall field. Letters that specifically 
+articulate how a petitioner's contributions are of major significance to the field and its impact on 
+6 
+subsequent work add value. 2 On the other hand, letters that lack specifics do not add value, and are 
+not considered to be probative evidence that may form the basis for meeting this criterion. 3 Moreover, 
+USCIS need not accept primarily conclusory statements. 1756, Inc. v. The US. Att'y Gen., 745 F. 
+Supp. 9, 15 (D.C. Dist. 1990). 
+For the reasons discussed above, considered both individually and collectively, the Petitioner has not 
+shown that he has made original contributions of major significance in the field. 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three of the ten criteria. As a result, we need not provide the type of final 
+merits determination referenced in Kazarian, 596 F.3d at 1119-20. Nevertheless, we advise that we 
+have reviewed the record in the aggregate, concluding that it does not support a finding that the 
+Petitioner has established the acclaim and recognition required for the classification sought. 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than for individuals progressing toward the top. USCIS has long held 
+that even athletes performing at the major league level do not automatically meet the "extraordinary 
+ability" standard. Matter of Price, 20 I&N Dec. 953,954 (Assoc. Comm'r 1994). Here, the Petitioner 
+has not shown that the significance of his work is indicative of the required sustained national or 
+international acclaim or that it is consistent with a "career of acclaimed work in the field" as 
+contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section203(b)(l)(A) 
+of the Act. Moreover, the record does not otherwise demonstrate that the Petitioner has garnered 
+national or international acclaim in the field, and he is one of the small percentage who has risen to 
+the very top of the field of endeavor. See section 203(b )(1 )(A) of the Act and 8 C.F .R. § 204.5(h)(2). 
+The Petitioner has not demonstrated his eligibility as an individual of extraordinary ability. The appeal 
+will be dismissed for the above stated reasons. 
+ORDER: The appeal is dismissed. 
+2 See USCIS Policy Memorandum PM 602-0005 .1, supra, at 8-9. 
+3 Id. at 9. 
+7 

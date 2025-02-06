@@ -1,0 +1,364 @@
+U.S. Citizenship 
+and Immigration 
+Services Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: MAY 17, 2024 In Re: 31109673 
+Appeal of Texas Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a computer scientist currently working with artificial intelligence and machine learning 
+(AI/ML) technology, seeks classification as an individual of extraordinary ability. See Immigration 
+and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A) . This first preference 
+classification makes immigrant visas available to those who can demonstrate their extraordinary 
+ability through sustained national or international acclaim and whose achievements have been 
+recognized in their field through extensive documentation . 
+The Director of the Texas Service Center denied the petition, concluding that although the Petitioner 
+satisfied the initial evidentiary requirements for this classification, he did not demonstrate, as required, 
+that he has sustained national or international acclaim and is among that small percentage at the very 
+top of his field. The matter is now before us on appeal pursuant to 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b )(1 )(A) of the Act makes immigrant visas available to individuals with extraordinary 
+ability in the sciences, arts, education, business, or athletics which has been demonstrated by sustained 
+national or international acclaim and whose achievements have been recognized in the field through 
+extensive documentation, provided that the individual seeks to enter the United States to continue 
+work in the area of extraordinary ability, and the individual's entry into the United States will 
+substantially benefit prospectively the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate 
+international recognition of their achievements in the field through a one-time achievement (that is, a 
+major, internationally recognized award). If the petitioner does not submit this evidence, then they 
+must provide sufficient qualifying documentation they meet at least three of the ten criteria listed at 
+8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as awards, published material in certain media, 
+and authorship of scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+The 
+Petitioner completed his graduate studies in electrical engineering and computer science in Brazil. 
+He worked as a faculty member and department head at two Brazilian institutions between 2001 and 
+2021. At the time of filing this petition, he was employed as the executive director for data science 
+for a U.S.-based financial technology company, in 0-1 nonimmigrant status. 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or established that he has received a major, internationally 
+recognized award, he must satisfy at least three of the alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). The Petitioner claimed to meet six criteria at 8 C.F.R. § 204.5(h)(3), 
+summarized below: 
+• (ii), Membership in professional associations that require outstanding achievements; 
+• (iii), Published material in major media; 
+• (iv), Participation as a judge of the work of others; 
+• (v), Original contributions of major significance; 
+• (vi), Authorship of scholarly articles; and 
+• (viii), Leading or critical roles for organizations that have a distinguished reputation. 
+The Director determined that the Petitioner satisfied the criteria at 8 C.F.R. § 204.5(h)(3)(iv), (vi) and 
+(viii). The record supports the Director's determination. The Petitioner provided evidence of his 
+involvement in peer review for scientific journals and conferences which demonstrates that he 
+participated as a judge of the work of others in his field under 8 C.F.R. § 204.5(h)(3)(iv). In addition, 
+the Petitioner has authored and published scholarly articles and therefore satisfies the criterion at 8 
+C.F.R. § 204.5(h)(3)(vi). 
+Finally, the record includes a letter from the Petitioner's current employer which provides a detailed 
+account of the nature of his leadership role as executive director for data science, as well as an 
+explanation of how his contributions in this role have been critical to his employer's technological 
+development and financial growth. This letter was accompanied by evidence of the employer's 
+distinguished reputation in its field, including evidence that the business has received significant 
+2 
+funding from investors, positive coverage in industry media, and industry awards. Therefore, we agree 
+with the Director that the Petitioner met the criterion at 8 C.F.R. § 204.5(h)(3)(viii), which requires 
+evidence that the individual has performed in a leading or critical role for organizations or 
+establishments that have a distinguished reputation. As the Director determined that the Petitioner 
+met three of the evidentiary criteria and thereby satisfied the initial evidence requirements, they 
+proceeded to a final merits determination. 
+On appeal, the Petitioner asserts that he also satisfies the criteria at 8 C.F.R. § 204.5(h)(3)(ii) and (iii). 1 
+Because the Petitioner has shown that he satisfies three criteria, we will evaluate his claims regarding 
+these two additional criteria in the context of the final merits determination below. 
+B. Final Merits Determination 
+As the Petitioner submitted the reqms1te initial evidence, we will evaluate whether he has 
+demonstrated, by a preponderance of the evidence, his sustained national or international claim, that 
+he is one of the small percentage at the very top of his endeavor, and that his achievements have been 
+recognized in the field through extensive documentation. In a final merits determination, we analyze 
+a petitioner's accomplishments and weigh the totality of the evidence to determine if those 
+achievements are sufficient to demonstrate their extraordinary ability in the field of endeavor. See 
+section 203(b )(l)(A) of the Act; 8 C.F.R. § 204.5(h)(2), (3); see also Kazarian, 596 F.3d at 1119-20. 
+As a preliminary matter, we note that a significant portion of the appellate brief references the 
+Petitioner's filing of an immigrant petition requesting a national interest waiver (NIW) under section 
+203(b )(2)(B)(i) of the Act. Specifically, the brief mentions his eligibility under the three-prong 
+analytical framework for adjudication of NTW petitions set forth in Matter ofDhanasar, 26 T&N Dec. 
+884, 889 (AAO 2016) and requests that the AAO "grant him the National Interest Waiver pursuant to 
+INA§ 203(b)(2)(B)." If it was the Petitioner's intent to request a change in the requested immigrant 
+visa classification on appeal, we note that such a change cannot be granted after a petition has been 
+adjudicated; we will only consider his eligibility for the visa classification annotated on the petition. 
+With respect to the immigrant classification requested on the petition, the Petitioner generally contests 
+the Director's unfavorable decision, emphasizes that he met at least three evidentiary criteria at 8 
+C.F.R. § 204.5(h)(3), and asserts that he is eligible for classification as an individual of extraordinary 
+ability. 
+According to his resume, the Petitioner completed his bachelor's degree in computer science in 1997 
+and received both his master's degree in electrical engineering and doctorate in computer science from 
+in Brazil, in 2001 and 2011, 
+respectively. From 2001 until 2018, the Petitioner was employed by ___________ 
+a Brazilian college, as the head ofthe computer information systems department. In 2021, 
+he joined the faculty of ______________________ as a computer 
+1 On appeal, the Petitioner does not contest the Director's determination that he did not satisfy the criterion at 8 C.F.R. 
+§ 204.5(h)(3)(v), which requires evidence of an individual's original scientific, scholarly, artistic, athletic. or business­
+related contributions of major significance in the field. Rather, the Petitioner asserts in his brief that the Director 
+determined that he met this criterion. We note, however, that the Director's analysis of the claims and supporting 
+documentation submitted in support ofthis criterion concluded with a determination that "the submitted evidence does not 
+meet this criterion." 
+3 I 
+science professor and head ofl Iinformation technology department, responsible for supervising 
+the campus computer network infrastructure. Since 2021, the Petitioner has served as the executive 
+director for data science for a U.S.-based financial technology company, where 
+he is responsible for leading a team of artificial intelligence professionals to develop machine learning 
+models for financial applications. 
+As mentioned above, the Petitioner has participated as a judge of the work of others in his field as a 
+peer reviewer, authored scholarly articles, and holds a leading or critical role for his current employer. 
+We have also considered evidence related to his membership in an association in his field, his original 
+research contributions, and published materials about him. This evidence reflects that he is an 
+experienced and accomplished researcher, educator, and manager in the computer science field. The 
+record, however, does not contain evidence sufficient to show that he has risen to the very top of his 
+field and has sustained national or international acclaim. 
+The Petitioner provided evidence of his service as a peer reviewer for several professional journals 
+and conferences in his field. Specifically, he documented that he reviewed manuscripts submitted for 
+publication to the following journals and conferences: IEEE Pervasive Computing ( one review in 
+2008); 2008 IEEE Conference on Emerging Technologies & Factory Automation (ETF A) (two 
+reviews); Journal of Medical Systems (one manuscript in 2014); and Journal of Network and 
+Computer Applications (five reviews between June 2022 and April 2023). The Petitioner's resume 
+indicates that he has also served as a reviewer for Journal ofEnte,prise Information Management, 
+IEEE Transactions on Mobile Computing, IEEE Communications Letters, and the 44th and 45th 
+Southeastern Symposia on System Theory. In addition, some of the submitted reference letters 
+indicate the Petitioner has reviewed "dozens" of manuscripts. However, he has not sufficiently 
+documented any additional peer review activities beyond the nine instances mentioned above. 
+An evaluation of the significance of the Petitioner's experience is appropriate to determine if such 
+evidence is indicative ofthe extraordinary ability required for this highly restrictive classification. See 
+Kazarian, 596 F. 3d at 1121-22 (finding that a review of the significance of the evidence submitted is 
+appropriate in a final merits determination); see generally 6 USCIS Policy Manual F.2(B)(l), 
+https://www.uscis.gov/policy-manual. The Director observed that "reviewing manuscripts for 
+journals is a common expectation in the research and academic fields for professionals who themselves 
+author and submit articles for review." The Director acknowledged that peer review work "indicates 
+a level of knowledge or expertise in the field" but concluded "the record does not demonstrate that the 
+[Petitioner's] judging/review work has set him apart from others." 
+We agree with the Director's determination that participation in the peer review process does not 
+automatically support a conclusion that a researcher has achieved the recognition required for this 
+classification, a determination that the Petitioner has not addressed on appeal. The Petitioner provided 
+an expert opinion letter from a professor at who states that "being asked to 
+serve as a judge ... for someone's work in scholarly events or academia recognizes [the Petitioner's] 
+expertise," but he did not further expand on how the Petitioner's activities as a peer reviewer 
+distinguish him from others in the field. 
+A recommendation letter from one of the Petitioner's former professors at I Istates that "well­
+known scientific journals only invite leading scientists to review/judge the scientific work submitted." 
+4 
+However, this statement is not adequately supported in the record, which does not include 
+corroborating evidence documenting the criteria used by journals (such as IEEE Pervasive Computing 
+or Journal ofNetwork and Computer Applications) to select peer reviewers. Absent such evidence, 
+the record does not support a determination that the journals that invited the Petitioner to conduct peer 
+reviews reserve this distinction for those scientists and researchers at the top of a given field. In fact, 
+the evidence submitted to document the Petitioner's peer review service for the 2008 IEEE ETFA 
+Conference indicated that manuscript submissions were reviewed by approximately 300 reviewers and 
+that all prospective conference participants who submitted their work were asked to review 
+manuscripts submitted by their peers; there was no indication that the conference reserved such 
+requests for "leading scientists." 
+Finally, as noted, while some of the submitted reference letters indicate the Petitioner completed 
+"dozens" of reviews, he did not fully document his claimed peer review activities. Rather, he 
+submitted evidence documenting his review of nine manuscripts over a period of 15 years. Without 
+evidence that sets the Petitioner apart from other researchers who are called on to perform peer review 
+services in his field, he has not provided sufficient context to demonstrate that the nature and scope of 
+his peer review work is indicative of his sustained national or international acclaim or indicative of a 
+"career of acclaimed work in the field" as contemplated by Congress. See H.R. Rep. No. at 59 and 
+section 203(b)(l)(A) of the Act. 
+Likewise, publication of research does not automatically place a researcher or professor at the top of 
+their field. Here, the Petitioner submitted his Google Scholar profile showing that 12 of his 
+publications have been cited at least one time, including several journal articles and conference 
+presentations, a book chapter, his master's degree thesis, and his doctoral dissertation. The dates of 
+publication range from 2003 to 2021, with only two works published in the ten years preceding the 
+filing of the petition in 2023 ( one in 2015 and one in 2021 ). The Petitioner did not provide evidence 
+differentiating his publication rate from those of others in his field, or otherwise establish that it is 
+reflective of one who is among the small percentage at the very top of his field of endeavor. See 8 
+C.F.R. § 204.5(h)(2). 
+As authoring scholarly articles is often inherent to the work of scientists, researchers and academics, 
+the citation history or other evidence of the influence of his articles can be an indicator to determine 
+the recognition that his work has had on the field and whether such recognition or influence has been 
+sustained. For example, numerous independent citations of the Petitioner's work may provide solid 
+evidence that his work has been recognized and that other researchers have been influenced by his 
+work. Such an analysis at the final merits determination stage is appropriate pursuant to Kazarian, 
+596 F.3d at 1122. 
+Here, the record indicates that, as of February 2023, the Petitioner's body of published work had 
+received 74 total citations, with 13 citations since 2018. The Petitioner's two most-cited articles, a 
+2008 conference presentation titled 
+1 I and a 2010 article titled __________________I I published in Business Process Management Journal, had received 32 and 13 citations 
+respectively, with the latter last cited in 2018. The Petitioner's citations, both individually and 
+collectively, show that his work has received some recognition in his field. However, he did not 
+provide evidence demonstrating that the total rate of citations to his body of published work is high 
+5 
+relative to others in the field or that the citations to his research represent attention at a level consistent 
+with being among small percentage at the very top ofhis field. See generally 6 USCIS Policy Manual, 
+supra, at F.2(B)(2) (stating that depending on the field and the comparative data a petitioner provides, 
+such evidence may indicate a person's high overall standing in a given field). 
+The Petitioner emphasized that several of his peer-reviewed articles have been accessed or 
+downloaded directly from the publishers' websites and that overall, his work had been downloaded 
+"more than 3200 times," with one article receiving over 1600 downloads. However, the record does 
+not contain comparative information, such as access or download data for papers published by others 
+in his field. Without supporting evidence to provide such context, he has not supported his claim that 
+the total number of times his published research was downloaded or accessed is indicative of his 
+standing at the top of his field. Nor does the record demonstrate that evidence of downloads should 
+carry the same weight as a high number ofcitations in terms ofestablishing the Petitioner's recognition 
+in the field. Unlike a citation history, an access or download count does not convey whether or how 
+the Petitioner's research findings have been used in subsequent research activities. If downloads of 
+his work have resulted in few citations, then we cannot conclude that the number of downloads can be 
+correlated with a pattern of sustained acclaim and recognition in the field. Here, although the 
+Petitioner provided evidence that his 2010 article published in Business Process Management Journal 
+was downloaded or accessed 1,600 times, the article was cited a total of 13 times in 13 years and had 
+not been cited by others in the five years immediately preceding the date of filing. While we do not 
+discount the possibility that a high number of downloads could indicate a level of recognition 
+comparable to a high level of citations, the record here does not provide the context or evidence to 
+support such a finding. 
+The Petitioner also stated that his most recent article, the final version ofwhich was published in 2023, 
+appeared in the Journal ofIntelligent Manufacturing. The Petitioner emphasized that this journal has 
+an impact factor of 7.136, which places it among the "most influential" journals in the field. 
+Publication of an article in a journal with a relatively high impact factor, however, does not indicate 
+the Petitioner has necessarily garnered recognition or acclaim as a result of such publication. A 
+reference letter from the Petitioner's former colleague and fellow researcher atl Ihighlights the 
+impact factor ofthis journal as evidence ofthis article's "academic relevance" but the record otherwise 
+lacks information regarding the level of recognition or acclaim associated with publishing in the 
+Journal ofIntelligent Manufacturing. 
+The Petitioner also highlights the inclusion of his article titled ____________ in in the Astrophysics Data System (ADS), a digital library portal 
+operated by the Smithsonian Astrophysical Observatory under a cooperative agreement with NASA. 
+Evidence in the record indicates that ADS maintains over 13 million physics, astrophysics, and general 
+science publications. The Petitioner submitted articles that highlighted the inclusion of his work in 
+the ADS database from three Brazilian publications, including two newspapers and a technology news 
+website. However, as discussed in the Director's decision, the Petitioner did not demonstrate that 
+these published articles appeared in professional or major trade publications or other major media or 
+that they otherwise contributed to the Petitioner's national or international acclaim in the field. 
+Further, the record contains insufficient evidence to establish that having an article included in this 
+database of 13 million publications is indicative of an individual researcher's standing in their field. 
+The record lacks supporting evidence regarding ADS and the criteria it uses to select articles for 
+6 
+inclusion in the database. Notably, the article the Petitioner had selected for inclusion in ADS, which 
+was published in International Journal ofElectronics in 2015, has been cited only one time, according 
+to his Google Scholar profile. 
+Therefore, while the Petitioner's publication in a high impact journal and the inclusion of his article 
+in ADS may be noteworthy, he did not demonstrate that his overall publication record demonstrates 
+the required sustained national or international acclaim for this classification or reflects that he has 
+reached the very top of his field of endeavor. See section 203(b )(l)(A) of the Act. 
+In addressing the Petitioner's leading and critical roles, the Director recognized the valuable work and 
+contributions he has made to his employers' organizations. However, the Director concluded that the 
+record lacked evidence to demonstrate how his work for those organizations sets him apart from others 
+or how his roles reflected or resulted in his sustained national or international acclaim in the field. The 
+Petitioner does not address or contest this conclusion on appeal. 
+The record reflects the Petitioner has been employed as a department head by two institutions of higher 
+education in Brazil and in a senior management role with 
+Evidence ofa person's employment or research experience with leading institutions in their field ( such 
+as U.S. or foreign universities with high or very high research activity, or a university that is highly 
+regarded accordingly to widely recognized metrics) can be a positive factor toward demonstrating that 
+the person is among the small percentage at the very top of their field. See generally 6 USCIS Policy 
+Manual, supra, at F.2(B)(2). While the Petitioner provided evidence to demonstrate that his current 
+employer has a distinguished reputation in its industry, he did not submit sufficient independent 
+evidence demonstrating that the organizations that employed him previously are leading or highly 
+regarded/highly ranked research institutions in Brazil, or that they, or the specific academic 
+departments that he led, otherwise enjoy a distinguished reputation. 
+Further, although the record supports the Director's conclusion that the Petitioner has performed in 
+critical roles for his employers, he has not demonstrated how or to what his extent his employment in 
+these roles resulted in or is indicative of his sustained acclaim or recognition in his field. For example, 
+with respect to his role at I I a letter from the school's director-general, indicates that all its 
+professor vacancies "must be hired upon approval in a Civil Service Examination for government 
+jobs." SheShe states that the Petitioner "achieved the second-highest score in the public examination for 
+professors," and as a result secured one of the available positions outlined in a public notice. 
+While the Petitioner was successful in this competitive hiring process, the record does not establish 
+how his high score on a civil service examination is consistent with national acclaim or indicative of 
+his standing at the top of his field. The director-general's letter describes some of the projects the 
+Petitioner undertook during his tenure atl Iand notes that he was invited to be a commencement 
+speaker for graduating students of "the Technical Course in Computing Integrated to High School at I However, the letter from I Idoes not discuss how his role garnered him individual 
+recognition outside of this organization at a level consistent with sustained national or international 
+acclaim. 
+The letters documenting the Petitioner's tenure at I I similarly lack an explanation as to how 
+his role with this college contributed to his national or international acclaim in his field. While a 
+former student from the Petitioner's department provided a letter highlighting his own professional 
+7 I 
+successes and those of other alumni, this evidence does not establish that the achievements of the 
+college's graduates resulted in the Petitioner's receipt of widespread recognition or acclaim within the 
+broader field. The Petitioner also provided evidence that he was one of several persons in his field 
+quoted in an article titled which was published by 
+the Brazilian newspaper Diario de Canoas in __2018. The article identified the Petitioner as a 
+professor and "coordinator of the Information Technology course" atl I However, as noted 
+by the Director, the article was not about him or his work in the field and was not published in major 
+media. 
+Regarding his role as the executive director of data science at I I a letter from the 
+company's CEO indicates that the Petitioner was hired for his position based on the recommendation 
+ofal Iemployee who had worked with him during his graduate studies atl IWhile 
+the CEO's letter details his important contributions to I I it does not indicate that the 
+Petitioner's activities with this company have garnered him individual recognition from the field or 
+contributed to his sustained national or international acclaim, nor does it indicate that he was recruited 
+or sought for the role based on his acclaim or standing in his field. 
+The Petitioner has consistently emphasized his senior membership in the Institute of Electrical and 
+Electronics Engineers (IEEE) as evidence of his extraordinary ability, noting that only lOpercent of 
+IEEE's over 400,000 members hold this membership rank. The record reflects that the Petitioner's 
+senior membership in IEEE is notable in that it requires "extensive experience" and certain 
+professional accomplishments in the field, such as publication ofpapers or development or furtherance 
+of scientific or engineering courses. However, the record does not demonstrate that the "senior 
+member" rank is reserved only for those IEEE members who have achieved acclaim at the national or 
+international level or is otherwise indicative of their standing at the very top of the field. 
+With respect to the Petitioner's research activities, the Director observed that he had made original 
+contributions to the field through his authorship of papers, conference presentations, and book 
+chapters, and acknowledged the value this work. The Director also acknowledged evidence ofinterest 
+in his work through citations and downloads, evidence that his work had been used by others 
+(including the Hewlett Packard RFID Center ofExcellence in Brazil), and the Petitioner's submission 
+of letters from his colleagues, employers and experts that speak to both the nature and impact of his 
+contributions and his standing in the field. However, the Director determined that he had not 
+demonstrated that his contributions are of major significance to the field or that such contributions 
+resulted in the Petitioner "having achieved sustained acclaim as one of the very top of the field of 
+endeavor." The Petitioner does not directly address this determination on appeal. 
+The Petitioner has shown that his work, particularly the research he conducted in the field of RFID 
+technology, was valuable and that he was a contributor to joint research efforts conducted by Brazil's 
+universities and the private sector when this technology was in an early stage of development and 
+adoption in the early 2000s. However, the evidence, considered individually and collectively, does 
+not establish that his contributions have been recognized at a level that elevates him to the top of his 
+field or that they have resulted in his sustained national or international acclaim. 
+For example, a letter from R-S-F-, a principal scientist at the _________ who states 
+that he is personally familiar with the Petitioner's work, provides an overview of the Petitioner's 
+8 
+education and career, and details the nature of his contributions to this field by summarizing his 
+publications and the number of citations or downloads they received. He opines that the Petitioner 
+"can be considered a reference" in the RFID field but does not further elaborate on how his 
+achievements have been recognized at a level that places him at the very top ofthe field. A letter from 
+E-L-B-, a Microsoft software engineer who attended I lwith the Petitioner, is similar in content. 
+The letter provides an overview of the Petitioner's contributions to the RFID field, referring to him as 
+a "key figure" in the development of this technology. A letter from S-P-D-, a manager at The 
+states that the Petitioner has '-----------------------------' "widely recognized achievements" and "remarkable accomplishments" in the field of RFID 
+technology and "revolutionized its utilization." While the Petitioner has earned significant praise from 
+his former colleagues, the solicited letters do not provide sufficient information and explanation, nor 
+does the record include sufficient corroborating evidence, to show that the Petitioner's contributions 
+in the RFID field, primarily conducted while he was completing his graduate studies, have resulted in 
+his sustained national or international acclaim and that he is more broadly recognized as being among 
+that small percentage at the very top of his field of endeavor. 
+The record, including the evidence discussed above, does not establish the Petitioner's eligibility for 
+the benefit sought. The Petitioner seeks a highly restrictive visa classification, intended for individuals 
+at the top of their respective fields. USCIS has long held that even athletes performing at the major 
+league level do not automatically meet the statutory standards for classification as an individual of 
+"extraordinary ability." Matter ofPrice, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994). While the 
+Petitioner need not establish that there is no one more accomplished to qualify for the classification 
+sought, the record does not indicate a degree of recognition consistent with the sustained acclaim that 
+the statute demands. See section 203(b)(l)(A)(i) of the Act; 8 C.F.R. § 204.5(h)(2). 
+C. 0-1 Nonimmigrant Status 
+The record reflects that USCIS previously approved a petition classifying the Petitioner as an 0-1 
+nonimmigrant with extraordinary ability. Each petition is separate and independent and must be 
+adjudicated on its own merits, under the corresponding statutory and regulatory provisions. Therefore, 
+the Petitioner's 0-1 status has been considered but is not determinative in the adjudication of this 
+immigrant petition, which is governed by a different section of the statute and regulations and case 
+law. We are not bound by service center or district director's decisions. See, e.g., La. Philharmonic 
+Orchestra v. INS, 248 F.3d 1139 (5th Cir. 200 I) (per curiam). For the reasons addressed above, the 
+record does not establish the Petitioner's eligibility for classification under section 203(b )(1 )(A) ofthe 
+Act. We are not required to approve applications or petitions where eligibility has not been 
+demonstrated merely because of prior approvals that may have been erroneous. See Matter ofChurch 
+Scientology Int'!, 19 I&N Dec. 593, 597 (Comm'r 1988). 
+ITT. CONCLUSION 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an individual of 
+extraordinary ability. Accordingly, the appeal will be dismissed. 
+ORDER: The appeal is dismissed. 
+9 

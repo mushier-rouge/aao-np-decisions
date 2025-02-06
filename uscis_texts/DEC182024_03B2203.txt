@@ -1,0 +1,234 @@
+U.S. Citizenship 
+and Immigration 
+Services Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: DEC. 18, 2024 In Re: 35063680 
+Appeal of Nebraska Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner , a systems administrator specializing in cyber security, seeks classification as an 
+individual of extraordinary ability. See Immigration and Nationality Act (the Act) section 
+203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A) . This first preference classification makes immigrant visas 
+available to those who can demonstrate their extraordinary ability through sustained national or 
+international acclaim and whose achievements have been recognized in their field through extensive 
+documentation. 
+The Director of the Nebraska Service Center denied the petition, concluding that the record did not 
+establish that the Petitioner satisfied the initial evidence requirements for this classification, either 
+through his receipt of a major internationally recognized award or, in the alternative, by meeting at 
+least three of ten evidentiary criteria set forth in the regulations. The matter is now before us on appeal 
+pursuant to 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter afChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter a/Christa's, Inc., 26 l&N Dec. 537,537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+To qualify as a noncitizen with extraordinary ability, a petitioner must demonstrate that they: 
+• Have "extraordinary ability in the sciences, arts, education, business, or athletics;" 
+• Seek to continue work in their field of expertise in the United States; and 
+• Through their work, would substantially benefit the country. 
+Section 203(b )(l)(A)(i)-(iii) of the Act. The term "extraordinary ability" means expertise 
+commensurate with "one of that small percentage who have risen to the very top of the field of 
+endeavor." 8 C.F.R. § 204.5(h)(2). 
+Evidence of extraordinary ability must initially demonstrate a noncitizen's receipt of either "a major, 
+international recognized award" or satisfaction of at least three of ten lesser evidentiary criteria. 
+8 C.F.R. § 204.5(h)(3)(i)-(x). 1 If a petitioner meets either standard, U.S. Citizenship and Immigration 
+Services (USCTS) must then make a final merits determination as to whether the record, as a whole, 
+establishes their sustained national or international acclaim and recognized achievements placing them 
+among the small percentage at the very top of their field. See Kazarian v. USCIS, 596 F.3d 1115 (9th 
+Cir.2010) ( discussing a two-part review where the documentation is first counted and then, iffulfilling 
+the required number of criteria, considered in the context of a final merits determination); see also 
+Amin v. Mayorkas, 24 F.4th 383, 391 (5th Cir. 2022) (finding USCIS' two-step analysis of 
+extraordinary ability "consistent with the governing statute and regulation"). 
+II. ANALYSIS 
+The Petitioner, who claims extraordinary ability in the fields of cybersecurity and computer science, 
+has not indicated or shown that he has received a major, internationally recognized award. Therefore, 
+the issue before us on appeal is whether he has established that he meets at least three of the ten initial 
+evidentiary criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). 
+A. Evidentiary Criteria 
+The 
+Petitioner claimed he could meet three ofthe ten criteria, including 8 C.F.R. § 204.5(h)(3)(ii), (v), 
+and (vi), based, respectively, on his submission of evidence of his memberships in associations in his 
+field, his original contributions in his field, and his authorship of scholarly articles. 2 The Director 
+concluded that the Petitioner satisfied the criteria at 8 C.F.R. § 204.5(h)(3)(v) and (vi) but did not 
+demonstrate his membership in an association that requires outstanding achievements as judged by 
+recognized national or international experts in the field. 
+After reviewing all the evidence in the record, we conclude that the Petitioner has not established that 
+he meets at least three ofthe ten evidentiary criteria. Accordingly, he has not established his eligibility 
+for classification as an individual of extraordinary ability. 
+1. Evidence of Membership in Associations 
+The regulation at 8 C.F.R. § 204.5(h)(3)(ii) calls for "documentation ofthe [noncitizen's] membership 
+in associations in the field for which classification is sought, which require outstanding achievements 
+1 Additionally, if the criteria at 8 C.F.R. § 204.5(h)(3) do not readily apply to a petitioner's occupation, they may submit 
+"comparable evidence" to establish their eligibility. 8 C.F.R. § 204.5(h)(4). 
+2 A cover letter from counsel, submitted at the time of filing, stated the Petitioner could meet the criterion at 8 C.F.R. 
+§ 204.5(h)(3)(iv), which requires evidence of participation as a judge of the work of others in the same field or an allied 
+field. However, the Petitioner did not submit evidence in support of this criterion, did not address it in his response to the 
+Director's request for evidence, and does not contest the Director's determination that he did not satisfy the criterion. Any 
+ground ofineligibility that is not raised on appeal is waived. See Matter o(O-R-E-, 28 I&N Dec. 330,336 n.5 (BIA 2021) 
+(citing Matter ofR-A-M-, 25 I&N Dec. 657, 658 n.2 (BIA 2012)). The Petitioner has not claimed he can meet the criteria 
+at 8 C.F.R. § 204.5(h)(3)(i), (iii), (vii), (viii), (ix) and (x). 
+2 
+of their members, as judged by recognized national or international experts in their disciplines or 
+fields." 
+Here, the Petitioner claims eligibility under this criterion based on his membership in the International 
+Systems Security Association (ISSA), noting that this association "has a stellar reputation and requires 
+outstanding achievements of its members."3 The Petitioner provided a copy of his ISSA membership 
+card indicating that he is a general member of this association, along with a copy of the 2021 Annual 
+ISSA International Report. 
+In a request for evidence (RFE) the Director advised the Petitioner that the initial evidence did not 
+demonstrate that ISSA requires outstanding achievements as a condition for membership and that 
+prospective members' achievements are judged by recognized national or international experts in the 
+field, as required by the plain language of the regulation. 
+In response, the Petitioner reasserted his eligibility based on his ISSA membership and provided a 
+copy ofISSA's "International Association Bylaws." Membership is addressed in the bylaws at article 
+III, which states: 
+Membership in the Association is based upon one having primary interest or active 
+involvement in information systems security in the educational, private or public sector. 
+In addition, membership is contingent upon interest in the purposes and objectives of 
+the Association as stated in Article II and observance of the Code of Ethics as a 
+prerequisite for and as a condition of continued affiliation with the Association. 
+Membership is defined in policy by the Board of Directors, is subject to the provisions 
+of the Articles oflncorporation and Bylaws and is not transferable or assignable. 
+The 2021 Annual ISSA International Report, which the Petitioner resubmitted in response to the RFE, 
+describes the association's "Fellows and Distinguished Fellows Program" which honors "established 
+cyber professionals with demonstrated success and contributions to the industry." The annual report 
+mentions that an ISSA Fellow must have 8 years ofmembership in the association, 12 years ofrelevant 
+professional experience, and 5 years of "significant performance in the profession," while an ISSA 
+Distinguished Fellow must have 12 years of association membership, 16 years of professional 
+experience in the field, 10 years of documented exceptional service to the security community and a 
+"significant contribution to security posture or capability." As noted, the Petitioner's membership 
+card indicates his "general membership" in the ISSA. 
+The Director concluded the Petitioner did not demonstrate he meets the plain language of the criterion 
+because the evidence provided, including the ISSA bylaws, did not demonstrate that this association 
+requires outstanding achievement of members as judged by recognized national or international 
+experts in their fields. 
+3 At the time of filing, the Petitioner also provided a certificate indicating he was admitted as a member of "ISACA" in 
+July 2023. However, he did not submit any supporting evidence about this association or reference this membership in his 
+statement addressing the criterion at 8 C.F.R. § 204.5(h)(3)(ii). 
+3 
+On appeal, the Petitioner asserts that the recent United States Supreme Cout decision in Loper Bright 
+Enterprises v. Raimondo, 144 S.Ct. 2244 (2024) "means that the USCIS must take a more literal 
+interpretation of criteria in the [ extraordinary ability] process" and "places a much tighter leash on a 
+federal agency's ability to interpret laws." 
+In his brief: the Petitioner also highlights a portion of the Kazarian decision in which the court 
+determined that the AAO improperly imposed a novel evidentiary requirement when evaluating 
+evidence submitted under the criterion at 8 C.F.R. § 204.5(h)(3)(iv). The Petitioner asserts: 
+Please keep in mind that generating merely two (2) scholarly articles legally satisfies 
+the Scholarly Articles criterion. Also, merely "reviewing 'diploma works' for fellow 
+students at one's own university" as Dr. Kazarian did in the landmark Kazarian case 
+satisfies the "Service as a Judge criterion. Both of these standards are remarkable [sic] 
+low. These two standards are almost comically law [sic]. No other legal interpretation 
+is reasonably or legally acceptable. 
+The Petitioner maintains that the criterion at 8 C.F.R. § 204.5(h)(3)(ii) "should also be adjudicated in 
+a similar legal manner" and that "[ t ]he difficulty of satisfying the Membership in Association criterion 
+must be ofequal ease as 'scholarly articles' and 'serving as a judge."' He contends that "under a proper 
+adjudication in line with both Kazarian and Loper, and taking into account all the evidence submitted 
+with his case, [he] has satisfied the 'Membership in Associations' criterion." 
+The Petitioner's assertions are not persuasive. First, the Petitioner has not addressed the specific 
+evidence he submitted in support of the membership criterion and why he believes it demonstrates his 
+eligibility, nor has he contested the Director's stated reasons for finding that evidence to be insufficient 
+to meet the criterion. The record supports the Director's conclusion that the ISSA bylaws and annual 
+report do not establish, by a preponderance of the evidence, that one must have outstanding 
+achievements, as judged by recognized national or international experts, to be admitted to the ISSA as 
+a general member. The Director did not, as implied by the Petitioner, impose a novel evidentiary 
+requirement by requiring the Petitioner to satisfy the plain language of the regulation at 8 C.F.R. 
+§ 204.5(h)(3)(ii). 
+The record reflects that membership in the ISSA "is based upon one having primary interest or active 
+involvement in information systems security in the educational, private or public sector" and is 
+"contingent upon interest in the purposes and objectives of the Association." Nothing in this language 
+indicates or implies that a prospective member must demonstrate "outstanding achievements" in the 
+field ofinformation systems security to be admitted to the ISSA. Further, the submitted evidence does 
+not address the !SSA's process for admitting new members and therefore does not demonstrate that 
+this process involves review by recognized national or international experts in the field who judge the 
+achievements of prospective members. 
+Second, the Petitioner's assertion that Loper requires USCIS to "re-examine its adjudication" of the 
+criteria found at 8 C.F.R. § 204.5(h)(3)(i)-(x) misinterprets the reach of the Supreme Court's decision. 
+Loper overturned Chevron USA v. Natural Resources Defense Council, 467 U.S. 837 (1984), ruling 
+that federal courts need not defer to agencies' reasonable interpretations of ambiguous federal laws. 
+Rather, Loper provides the judiciary with the sole prerogative to "say what the law is," stating: "Courts 
+4 
+must exercise their independent judgment in deciding whether an agency has acted within its statutory 
+authority." Loper, 144 S. Ct. at 2257, 2273. 
+Loper affects federal courts, not federal agencies. A federal court reviewing our interpretation of an 
+ambiguous statute must follow Loper. But Loper does not change how we interpret such laws or 
+mandate, as the Petitioner suggests, an immediate change in how USCIS adjudicates immigrant 
+petitions for noncitizens of extraordinary ability. 
+Moreover, Loper involved an agency's interpretation of a statute. Loper, 144 S.Ct. at 2254-56. The 
+Director's denial ofthis petition, and our adjudication ofthis appeal, rest on a determination ofwhether 
+the Petitioner met his burden to demonstrate that he meets at least three of the ten regulatory criteria 
+at 8 C.F.R. § 204.5(h)(3)(i)-(x); it is not based on the agency's interpretation of a statute. Even if the 
+regulations are ambiguous, our interpretation of them would merit deference under Auer v. Robbins, 
+519 U.S. 452 (1997), which Loper did not reverse. See, e.g., United States v. Boler, 115 F.4th 316, 
+322 n.4 (4th Cir. 2024) (declining to apply Loper to an issue involving an agency's interpretation of 
+its own regulations). 
+Finally, we acknowledge the Petitioner's claim that there is a "low bar" for meeting certain criteria 
+under 8 C.F.R. § 204.5(h)(3)(i)-(x), specifically, the criteria pertaining to publication of scholarly 
+articles and participation as a judge of the work of others. In this regard, agency policy guidance 
+recognizes that, based on the plain language of the regulations, some of the criteria have multiple 
+elements and/or clear qualitative requirements and some do not. For example, participating as a judge 
+of the work of others in the same or an allied field of specialization alone, regardless of the 
+circumstances, should satisfy the regulatory criterion at 8 C.F.R. § 204.5(h)(3)(iv). See generally 6 
+USCIS Policy Manual F.2(B), https://www.uscis.gov/policy-manual. 
+The Petitioner suggests that there should be a similarly "low bar" for meeting the membership criterion 
+at 8 C.F.R. § 204.5(h)(3)(ii) but overlooks the multiple elements that must be met based on the plain 
+language of that regulation. An individual cannot satisfy this criterion simply by providing evidence 
+of their membership in an association in their field. Rather, a petitioner must submit evidence 
+demonstrating that they are a member of an association in their field that requires outstanding 
+achievements as judged by recognized national or international experts. As noted, the Director did not, 
+as suggested by the Petitioner, improperly impose a novel evidentiary requirement that is not found in 
+the plain language of the membership criterion. 
+The submitted evidence is insufficient to meet the Petitioner's burden to demonstrate that he meets all 
+elements ofthe plain language of the regulation at 8 C.F.R. § 204.5(h)(3)(ii). Although the Petitioner 
+established that he is a member of ISSA, the Director properly concluded that the submitted ISSA 
+bylaws and annual report do not show that recognized national or international experts judged the 
+Petitioner as having attained outstanding achievements in his field as a condition for admitting him as 
+a general member. Accordingly, the Petitioner has not demonstrated that he meets this criterion. 
+2. Evidence of Authorship of Scholarly Articles 
+The regulation at 8 C.F.R. § 204.5(h)(3)(vi) calls for "[e]vidence of the [noncitizen's] authorship of 
+scholarly articles in the field, in professional or major trade publications or other major media." 
+5 
+We withdraw the Director's determination that the Petitioner met this criterion. The Petitioner 
+submitted several papers and one presentation slide deck in support of this criterion. However, the 
+record does not demonstrate whether or where these articles and presentation were published and 
+therefore does not contain evidence that they were published in professional or major trade 
+publications or other major media, as required by the regulations. Rather, the identifying information 
+on the submitted papers and presentation indicate that they were written by the Petitioner to fulfill his 
+graduate program course requirements at I I 
+The Director noted this evidentiary deficiency in the RFE and requested additional documentary 
+evidence "to establish that the publications in which the articles appear are professional publications, 
+trade publications or other major media." In response to the RFE, the Petitioner emphasized that the 
+previously submitted papers qualify as "scholarly articles" based on the guidance and examples 
+provided for adjudication of this criterion in the USCIS Policy Manual. However, the RFE response 
+did not include evidence demonstrating that any of the submitted papers had been published in a 
+professional publication, such as a peer reviewed journal, a major trade publication, or other major 
+media. Therefore, the record does not support the Director's determination that the Petitioner satisfied 
+this criterion. 
+B. Summary and Reserved Issue 
+Because the Petitioner has not demonstrated that he meets 
+two ofthe three claimed evidentiary criteria 
+at 8 C.F.R. § 204.5(h)(3)(i)-(x), he cannot satisfy the initial evidence requirements for this 
+classification. As such, we need not provide the type of final merits determination referenced in 
+Kazarian, 596 F.3d at 1119-20 and further addressed at 6 USCIS Policy Manual at F.2(B)(2). Further, 
+we need not address the Petitioner's contention that "the new 'Loper' case also means that the AAO 
+must put an end to the extra-statutory 'Final Merits Determination" in adjudicating extraordinary 
+ability cases." Because the Applicant/Petitioner is ineligible for the benefit sought, we need not reach, 
+and therefore reserve, these issues. See INS v. Bagamasbad, 429 U.S. 24, 25 (1976) (per curiam) 
+(holding that agencies are not required to make "purely advisory findings" on issues that are 
+unnecessary to the ultimate decision). 
+III. CONCLUSION 
+The Petitioner has not shown that he received a major, internationally recognized award or that he 
+satisfied at least three often initial regulatory criteria, and therefore has not demonstrated his eligibility 
+as an individual of extraordinary ability. Moreover, the Petitioner seeks a highly restrictive visa 
+classification, intended for individuals already at the top of their respective fields. USCIS has long 
+held that even athletes performing at the major league level do not automatically meet the 
+"extraordinary ability" standard. Matter ofPrice, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994). 
+Although we are not required to conduct a final merits determination, we nevertheless note that the 
+Petitioner has not shown that the significance ofhis work to date is indicative ofthe required sustained 
+national or international acclaim or that it is consistent with a "career of acclaimed work in the field" 
+as contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 
+203(b )(l)(A) of the Act. Moreover, the record does not otherwise demonstrate that the Petitioner has 
+garnered sustained national or international acclaim in the field, and that he is one of the small 
+6 
+percentage who have risen to the very top of the field of endeavor. See section 203(b )(l)(A) of the Act 
+and 8 C.F.R. § 204.5(h)(2). 
+ORDER: The appeal is dismissed. 
+7 

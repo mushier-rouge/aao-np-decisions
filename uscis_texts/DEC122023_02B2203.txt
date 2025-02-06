@@ -1,0 +1,177 @@
+U.S. Citizenship 
+and Immigration 
+Services Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: DEC. 12, 2023 In Re: 28981666 
+Appeal of Nebraska Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, an artificial intelligence and natural language processing technology business, seeks to 
+classify the Beneficiary, a software engineer, as an individual of extraordinary ability. See Immigration 
+and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A) . This first preference 
+classification makes immigrant visas available to those who can demonstrate their extraordinary ability 
+through sustained national or international acclaim and whose achievements have been recognized in 
+their field through extensive documentation. 
+The Director of the Nebraska Service Center denied the petition, concluding the Petitioner did not 
+establish the Beneficiary satisfied at least three ofthe initial evidentiary criteria. The matter is now before 
+us on appeal. 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance ofthe evidence. 
+Matter ofChawathe , 25 l&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc. , 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l)(A) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and the recognition of achievements in the field through a one-time achievement (that is, a 
+major, internationally recognized award) or qualifying documentation that meets at least three of the 
+ten categories listed at 8 C.F.R. § 204.5(h)(3)(i) -(x) (including items such as awards, published 
+material in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+Because the Petitioner has not indicated or established the Beneficiary has received a major, 
+internationally recognized award, he must satisfy at least three of the alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). Although the Petitioner claimed the Beneficiary met five criteria, the 
+Director determined the Petitioner did not fulfill any of them. On appeal, the Petitioner maintains the 
+Beneficiary qualifies for three categories of evidence. 1 
+A. Evidentiary Criteria 
+Evidence of the alien's original scient[fic, scholarly, artistic, athletic, or business­
+related contributions ofmajor sign[ficance in the field. 8 C.F.R. § 204.5(h)(3)(v). 
+In order to satisfy the regulation at 8 C.F.R. § 204.5(h)(3)(v), USCIS determines whether the person 
+has made original contributions in the field. 2 USCIS then determines whether the original 
+contributions are of major significance to the field. 3 Examples of relevant evidence include, but are 
+not limited to: published materials about the significance of the person's original work; testimonials, 
+letters, and affidavits about the persons original work; documentation that the person's original work 
+was cited at a level indicative of major significance in the field; and patents or licenses deriving from 
+the person's work or evidence of commercial use of the person's work. 4 
+The Petitioner claims it demonstrated the Beneficiary's eligibility for this criterion based on the 
+submission of reference letters and patent information. The record reflects the Petitioner presented 
+1 We consider the Petitioner's prior eligibility claims not contested on appeal to be abandoned. An issue not raised on 
+appeal is waived. See, e.g., Matter ofO-R-E-, 28 T&N Dec. 330,336 n.5 (BIA 2021) (citing Matter ofR-A-M-, 25 T&N 
+Dec. 657, 658 n.2 (BIA 2012)). 
+2 See generally 6 USCIS Policy Manual F.2(B)(l), https://www.uscis.gov/policymanual. 
+3 Id. 
+4 Id. 
+2 
+several letters from individuals who worked with the Beneficiary. Although the letters indicate 
+projects in which the Beneficiary collaborated or developed, the letters do not show how they resulted 
+in original contributions of major significance in the field. Instead, the letters briefly describe the 
+Beneficiary's projects without detailing the significance of the work in the field. For instance, "[the 
+Beneficiary] worked as a Software Engineer on a project developing a single, universal solution for 
+cardiac device patient management that meets the in-office needs of clinicians and the emerging and 
+changing needs of remote patients" (O-B-); "[the Beneficiary] was responsible for a project that 
+developed a clinical trial management system for pharmaceutical and biotechnology companies"; and 
+"we've done a few projects related to upgrades of OpenStack-based clouds, performance testing ofthe 
+different scenarios live-migrations that are relevant in the enterprise environments" (V-N-). Here, 
+none of the letters farther elaborate and describe whether the Beneficiary's projects or work has 
+influenced or impacted the field in a major way. Similarly, although B-C-claimed the Beneficiary 
+"had a tremendous impact on the [A-] product," the letter does not farther explain or justify how the 
+Beneficiary "had a tremendous impact." Moreover, B-C-'s vague claim refers to the limited impact 
+on the employer rather than the overall field. 
+Detailed letters from experts in the field explaining the nature and significance of the person's 
+contribution may also provide valuable context for evaluating the claimed original contributions of 
+major significance, particularly when the record includes documentation corroborating the claimed 
+significance.5 Submitted letters should specifically describe the person's contribution and its 
+significance to the field and should also set forth the basis of the writer's knowledge and expertise. 6 
+In this case, the letters lack specific, detailed information explaining how the Beneficiary has made 
+original contributions of major significance in the field. USCIS need not accept primarily conclusory 
+statements. 1756, Inc. v. The US. Att'y Gen., 745 F. Supp. 9, 15 (D.C. Dist. 1990). 
+Regarding the patents, the Petitioner offered a letter from O-R-who stated the Beneficiary 
+"contributed to the design architecture of our entire solution by applying his knowledge and skills in 
+maintaining scalable, high-loaded Web applications" for P-. In addition, O-R-briefly described two 
+patents in which the collaborated and stated "[t]his was a novel solution to the technical problem faced 
+by systems for matching electronic activities to CRM system," and "[t]his invention ... represents a 
+novel and original contribution to the development of information technology platforms for large­
+scale, complex enterprise revenue intelligence systems." Again, O-R-did not farther elaborate and 
+explain how the patents resulted in being majorly significant in the field. The letter, for example, does 
+not show how the patents have impacted or influenced the field in a major manner. Furthermore, 
+although O-R-listed five patents "where [the Beneficiary] has filed for patents to protect inventions," 
+the letter does not indicate whether any of the patents have been commercialized or utilized by P-or 
+has otherwise garnered widespread attention from the field. 
+Analysis under this criterion focuses on whether the person's original work constitutes major, 
+significant contributions to the field. 7 Evidence that the person's work was fonded, patented, or 
+published, while potentially demonstrating the work's originality, will not necessarily establish, on its 
+own, that the work is ofmajor significance to the field. 8 Evidence that the person developed a patented 
+5 See generally 6 USCTS Policy Manual, supra, at F.2(B)(l ). 
+6 Id. 
+7 See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+8 Id. 
+3 
+technology that has attracted significant attention or commercialization may establish the significance 
+of the person's original contribution to the field. 9 Here, the Petitioner did not show how any of the 
+patents involving the Beneficiary have been widely implemented throughout the field, has remarkably 
+impacted or influenced the field, or has otherwise risen to a level of major significance in the field. 
+For the reasons discussed above, considered both individually and collectively, the Petitioner has not 
+shown the Beneficiary has made original contributions of major significance in the field. 
+B. 0-1 Nonimmigrant Status 
+We note that the record reflects that the Beneficiary received 0-1 status, a classification reserved for 
+nonimmigrants of extraordinary ability. Although USCIS has approved 0-1 nonimmigrant visa 
+petitions filed on behalf of the Beneficiary, the prior approval does not preclude USCIS from denying 
+an immigrant visa petition which is adjudicated based on a different standard - statute, regulations, 
+and case law. Many Form 1-140 immigrant petitions are denied after USCIS approves prior 
+nonimmigrant petitions. See, e.g., Q Data Consulting, Inc. v. INS, 293 F. Supp. 2d 25 (D.D.C. 2003); 
+IKEA US v. US Dept. ofJustice, 48 F. Supp. 2d 22 (D.D.C. 1999); Fedin Bros. Co., Ltd. v. Sava, 724 
+F. Supp. 1103, 1108 (E.D.N.Y. 1989), affd, 905 F. 2d 41 (2d. Cir. 1990). Furthermore, our authority 
+over the USCIS service centers, the office adjudicating the nonimmigrant visa petition, is comparable 
+to the relationship between a court of appeals and a district court. Even if a service center director has 
+approved a nonimmigrant petition on behalf of an individual, we are not bound to follow that finding 
+in the adjudication of another immigration petition. See La. Philharmonic Orchestra v. INS, No. 98-
+2855, 2000 WL 282785, at *2 (E.D. La. 2000). 10 
+III. CONCLUSION 
+The Petitioner did not establish 
+the Beneficiary satisfies the criteria relating to original contributions. 
+Although the Petitioner also claims the Beneficiary's eligibility for the leading or critical role criterion 
+under 8 C.F.R. § 204.5(h)(3)(viii) and high salary under 8 C.F.R. § 204.5(h)(3)(ix), we need not reach 
+these additional grounds because the Beneficiary cannot fulfill the initial evidentiary requirement of 
+three criteria under 8 C.F.R. § 204.5(h)(3). We also need not provide the type of final merits 
+determination referenced in Kazarian, 596 F.3d at 1119-20. Accordingly, we reserve these issues. 11 
+Nevertheless, we have reviewed the record in the aggregate, concluding it does not support a 
+conclusion that the Petitioner has established the Beneficiary's acclaim and recognition required for 
+the classification sought. The Petitioner seeks a highly restrictive visa classification for the 
+Beneficiary, intended for individuals already at the top of their respective fields, rather than those 
+progressing toward the top. Matter of Price, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994) 
+( concluding that even major league level athletes do not automatically meet the statutory standards for 
+classification as an individual of "extraordinary ability,"); Visinscaia, 4 F. Supp. 3d at 131 (internal 
+quotation marks omitted) (finding that the extraordinary ability designation is "extremely restrictive 
+9 Id. 
+10 See generally 6 USCIS Policy Manual, supra, at F.2(B)(3). 
+11 See INS v. Bagamasbad, 429 U.S. 24, 25 (1976) (stating that agencies are not required to make "purely advisory findings" 
+on issues that are unnecessary to the ultimate decision); see also Matter ofL-A-C-, 26 l&N Dec. 516,526 n.7 (BIA 2015) 
+( declining to reach alternate issues on appeal where applicants do not otherwise meet their burden of proof). 
+4 
+by design,"); Hamal v. Dep 't ofHomeland Sec. (Hamal II), No. 19-cv-2534, 2021 WL 2338316, at *5 
+(D.D.C. June 8, 2021), ~ff'd, 2023 WL 1156801 (D.C. Cir. Jan. 31, 2023)(determining that EB-1 visas 
+are "reserved for a very small percentage of prospective immigrants"). See also Hamal v. Dep 't of 
+Homeland Sec. (Hamal I), No. 19-cv-2534, 2020 WL 2934954, at * 1 (D.D.C. June 3, 2020) ( citing 
+Kazarian, 596 at 1122 (upholding denial of petition of a published theoretical physicist specializing 
+in non-Einsteinian theories of gravitation) (stating that "[c]ourts have found that even highly 
+accomplished individuals fail to win this designation")); Lee v. Ziglar, 237 F. Supp. 2d 914,918 (N.D. 
+Ill. 2002) (finding that "arguably one of the most famous baseball players in Korean history" did not 
+qualify for visa as a baseball coach). Here, the Petitioner has not shown the significance of 
+Beneficiary's work is indicative of the required sustained national or international acclaim or it is 
+consistent with a "career of acclaimed work in the field" as contemplated by Congress. H.R. Rep. No. 
+101-723, 59 (Sept. 19, 1990); see also section 203(b)(l)(A) of the Act. Moreover, the record does not 
+otherwise demonstrate the Beneficiary has garnered national or international acclaim in the field, and 
+he is one of the small percentage who has risen to the very top of the field of endeavor. See section 
+203(b)(l)(A) of the Act and 8 C.F.R. § 204.5(h)(2). The record does not contain sufficient evidence 
+establishing the Beneficiary among the upper echelon in his field. 
+For the reasons discussed above, the Petitioner has not demonstrated the Beneficiary's eligibility as 
+an individual of extraordinary ability. The appeal will be dismissed for the above stated reasons, with 
+each considered as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+5 

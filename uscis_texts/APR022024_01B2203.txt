@@ -1,0 +1,218 @@
+U.S. Citizenship 
+and Immigration 
+Services Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: APR. 2, 2024 In Re: 28963434 
+Appeal of Texas Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner is a computer scientist specializing in medical imaging and computer vision who seeks 
+classification as an alien ofextraordinary ability. See Immigration and Nationality Act (the Act) section 
+203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A) . This first preference classification makes immigrant visas 
+available to those who can demonstrate their extraordinary ability through sustained national or 
+international acclaim and whose achievements have been recognized in their field through extensive 
+documentation. 
+The Texas Service Center Director denied the Form 1-140, Immigrant Petition for Alien Workers 
+(petition), concluding the record did not establish that the Petitioner had a major, internationally 
+recognized award, nor did it demonstrate that he met at least three of the ten regulatory criteria. The 
+matter is now before us on appeal. The Petitioner bears the burden of proof to demonstrate eligibility 
+to U.S. Citizenship and Immigration Services (USCIS) by a preponderance of the evidence. Section 
+291 of the Act; Matter ofChawathe, 25 l&N Dec. 369, 375 (AAO 2010). We review the questions in 
+this matter de novo. Matter ofChristo 's Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo 
+review, we will dismiss the appeal. 
+I. LAW 
+To qualify under this immigrant 
+classification, the statute requires the filing party demonstrate: 
+• The foreign national enjoys extraordinary ability in the sciences, arts, education, business, or 
+athletics; 
+• They seek to enter the country to continue working in the area of extraordinary ability; and 
+• The foreign national's entry into the United States will substantially benefit the country in the 
+future. 
+Section 203(b)(1 )(A)(i)-(iii) of the Act. The term "extraordinary ability" refers only to those 
+individuals in "that small percentage who have risen to the very top of the field of endeavor." 8 C.F.R. 
+§ 204.5(h)(2). 
+The implementing regulation at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a 
+petitioner can demonstrate international recognition of his or her achievements in the field through a 
+one-time achievement (that is, a major, internationally recognized award). If that petitioner does not 
+submit this evidence, then he or she must provide sufficient qualifying documentation that meets at 
+least three of the ten criteria listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as awards, 
+published material in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115, 1121 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also Amin 
+v. Mayorkas, 24 F.4th 383, 394 (5th Cir. 2022). 
+TI. ANALYSIS 
+The Petitioner earned a foreign bachelor's degree in engineering, a master's degree in statistics, and 
+froml Ia Ph.D. in computer science. He specializes in machine and deep 
+learning models relating to medical post-processing imaging in computer vision. The goal in this work 
+is to divide an image into different meaningful and distinguishable regions or objects, then to offer 
+quantitative analysis of those images. 
+Because the Petitioner has not indicated or established that he has received a major, internationally 
+recognized award, he must satisfy at least three of the alternate regulatory criteria at 8 C.F.R. 
+§ 204.5(h)(3)(i)-(x). Before the Director, the Petitioner claimed he met three ofthe regulatory criteria. 
+The Director decided that the Petitioner met the requirements for two ofthe criteria relating to judging 
+and the authorship of scholarly articles, but that he had not satisfied the criterion associated with 
+original contributions of major significance. On appeal, the Petitioner maintains that he meets the 
+evidentiary criteria relating to contributions. After reviewing all the evidence in the record, we 
+conclude he has not satisfied the contributions criterion, meaning he has not met the required three 
+evidentiary criteria to warrant a final merits analysis. 
+Evidence of the alien's original scientific, scholarly, artistic, athletic, or business-related 
+contributions ofmajor sign[ficance in the.field. 8 C.F.R. § 204.5(h)(3)(v). 
+The Petitioner provided several forms ofevidence relating to his citation record and his findings within 
+that work, and several letters of support from others in his field. The Director determined that the 
+Petitioner did not satisfy the requirements of this criterion. 
+The primary requirements here are that the Petitioner's contributions in their field were original and 
+they rise to the level of major significance in the field as a whole, rather than to a project or to an 
+organization. See Amin, 24 F.4th at 394 ( citing Visinscaia v. Beers, 4 F. Supp. 3d 126, 134 (D.D.C. 
+2013)). The regulatory phrase "major significance" is not superfluous and, thus, it has some meaning. 
+Nielsen v. Preap, 139 S. Ct. 954, 969 (2019) (finding that every word and every provision in a statute 
+is to be given effect and none should needlessly be given an interpretation that causes it to duplicate 
+2 
+another provision or to have no consequence). Further, the Petitioner's contributions must have 
+already been realized rather than being potential, future improvements. Contributions of major 
+significance connotes that the Petitioner's work has significantly impacted the field. The Petitioner 
+must submit evidence satisfying all of these elements to meet the plain language requirements of this 
+criterion. 
+We agree that the Petitioner is accomplished and some of his work has garnered several citations. 
+However, beyond offering accurate and reliable research that others in the field rely on in their own 
+work, what the Petitioner does not present is the next step required here in showing how those citation 
+rates have been of major significance in the broader field. Where he falls short is the Petitioner does 
+not parlay his citation record into a discemable significant impact in the field as a whole. 
+Generally, it is not enough to satisfy this criterion's requirements for this Petitioner to compare his 
+entire publication citation totals to a group of researchers that he characterizes as "extraordinary" or 
+"the most well-respected contributors to the field." As the Director noted in the denial, comparing 
+overall citation rates of individuals is more appropriate to the final merits determination, where it can 
+serve as a metric of acclaim and renown within the field. The Petitioner focuses on his total number 
+of citations comparing that recognition to other researchers in his field. A more apt metric under this 
+criterion would be comparing citations to one of the Petitioner's individual published articles (as 
+opposed to all of his work) with other researchers' single published papers in his specialized field. 
+We view a comparison ofcitations to individual scientific articles to be more relevant for this criterion 
+to establish the overall field's general view of a contribution of major significance. See generally 6 
+USCIS Policy Manual B.1, https://www.uscis.gov/policymanual (providing that "published research 
+that has provoked widespread commentary on its importance from others working in the field, and 
+documentation that it has been highly cited relative to others' work in that field, may be probative of 
+the significance of the person's contributions to the field of endeavor"). We note agency policy here 
+does not reference the entire body of work of other researchers compared with a petitioner's body of 
+work as he advances in this petition. Rather, users policy focuses on whether a petitioner's 
+individual published article is highly cited relative to other researcher's individual work in the field. 
+We also note the Petitioner relied on evidence originating from OpenAlex in support ofhis comparison 
+to other researchers. The appeal brief reflects the following: 
+He also presented quantitative data from OpenAlex that compares his research impact 
+to the respective research impacts of others in his field []. As a reminder, OpenAlex 
+data contextualizes [the Petitioner's] place at the forefront of this field in ways that 
+Google Scholar cannot, and it establishes that [his] publication and citation rates place 
+him among the top 0.14% of researchers in the computer science field in terms of 
+citation impact []. This evidence extends far beyond average citation rates for the 
+category of Computer Science, indicating that users has failed to evaluate all of the 
+relevant evidence of record. 
+Later in the appeal brief, the Petitioner claims his citation record positions him at the top of his field 
+again relying on data from "OpenAlex, which indicates that [his] citation record places him among 
+the top 0.11 % ofresearchers in the computer science field in terms of citation impact." The graphical 
+3 
+image the Petitioner presented to support this figure indicates these statistics relate to an "In-Field 
+Author Citation Impact for Publications between 2015 and 2023." 
+We find several issues diminishing the evidentiary value of the Petitioner's claims stemming from the 
+material from OpenAlex. Setting aside the slightly conflicting statistics ( .14 versus .11 ), the evidence 
+the Petitioner offered in the record from OpenAlex is undated, and considering his own graph, the 
+statistics included his work through some unknown point in 2023. This postdates the petition filing 
+date in 2022 and because he must demonstrate eligibility based on the facts as they existed on the date 
+he filed the petition, this material from OpenAlex is significantly diminished. 8 C.F.R. § 103.2(b)(l) 
+(requiring petitioners to establish they have satisfied all eligibility requirements for the immigration 
+benefit from the time of the petition filing). 
+More importantly, because of the evidentiary shortcomings with this material, we attempted to 
+reproduce the Petitioner's results on OpenAlex, but we were unable to do so. Also, the material the 
+Petitioner submitted reflected he crafted the search to focus on computer science as the field, and this 
+factor is corroborated in his appellate statement we quote above. But OpenAlex has additional tools 
+to further specify a researcher's area of expertise, and it contains one that appears to directly align 
+with the Petitioner's area, "Computer Vision and Pattern Recognition." The Petitioner did not explain 
+why he specified a search parameter in OpenAlex that was different than his specialty, and it is unclear 
+how that shift in terminology might have affected the search results in this online database. 
+Related to those differing parameters, the Petitioner did not show how OpenAlex calculates the 
+percentile figures he provided. While we do not imply that the Petitioner here has manipulated the 
+data in his favor, the failure to essentially "show the work" of how OpenAlex calculates its results 
+leaves open that possibility, and doing so falls short of the Petitioner satisfying his burden of proof 
+when relying on this material. All of these factors further reduce the reliability of the material from 
+OpenAlex and it will not serve to demonstrate he has satisfied this criterion's requirements. 
+We now tum to the letters the Petitioner provided, each of which should describe how his efforts have 
+effected a significant impact in the field as a whole. The first support letter is from I I I IProfessor of Cognitive Science and Computer Science atl I I I Professor I I described the Petitioner's work in the early detection of pancreatic 
+tumors. He portrayed the unique method the Petitioner utilized along with its effectiveness. Professor 
+_ _.lcharacterized this work as a step forward for medical imaging that has a variety of applications. 
+He indicated the Petitioner's 3D course-to-fine segmentation method has improved the field's ability 
+to efficiently determine the probability of pancreatic cancer in abdominal CT scans. However, 
+Professor I did not offer additional information speaking to the extent that this method has 
+improved the field's ability to accurately recognize cancer in CT scans. 
+He also discussed the Petitioner's work assessing lymph nodes status, concluding that when his system 
+was evaluated on a data set of esophageal cancer patients, the system demonstrated a high rate of 
+effectiveness. But the professor still did not offer an indication of how this has impacted the field; 
+only that the Petitioner's methods have been successful and an improvement. Professor I !closed 
+his letter noting researchers are recognizing the originality of the Petitioner's research and are taking 
+notice, that his work is of interest to a variety of researchers, and that his research is wholly original. 
+He also noted the Petitioner's overall record demonstrates his ability to produce credible and relevant 
+4 
+research for the United States and for the computer science field. But still lacking was an explanation 
+reflecting the Petitioner has contributed to the field at a level commensurate with this criterion's 
+requirements. 
+Next, ___________________ Research Scientist for _____ 
+in Canada described some of the Petitioner's work, noting its success and effectiveness, and claiming 
+it has been hi hi valuable and that other researchers find the Petitioner's findings trnstworthy and 
+accurate. sto ed short of explaining how the Petitioner's work has actually impacted the 
+field. Similarly, _____ a research scientist at I I explained the Petitioner's 
+methodology of pancreatic cancer early detection is vital to the United States and that he is uniquely 
+positioned to benefit the entire medical community.I I continued that the Petitioner's research 
+is proven to have wide applications in a variety of medical imaging, not just pancreatic cancer. But 
+much like the above letters,! I did not offer details of how the Petitioner has already spawned 
+a significant impact within the field as a whole. 
+In a similar vein,I I Adjunct Professor at of Science and Technology 
+described the Petitioner's work as the cutting edge of developing accurate 3D shape retrieval, as well 
+as beneficial to a variety of sectors. But simply being on the cutting edge, without some discernible 
+and significant impact in the field, is premature when it comes to this criterion's mandates. 
+Responding to the RFE, the Petitioner provided additional letters. The first from I I a 
+physician at the I _Hospital in Taiwan who claimed two of his projects relied on 
+the Petitioner's published work, and that his contributions to the advancement ofmedical imaging and 
+radiation therapy technology have had a major influence on head and neck and esophageal cancer. 
+But I Idid not further describe the manner or extent to which those contributions have already 
+influenced the field. While I I indicated the Petitioner's automatic segmentation algorithms for 
+organs at risk are currently being integrated into the PACS system of a private company, he did not 
+explain what the acronym P ACS represents, but more importantly, the record lacks an indication of 
+how this has impacted the broader field. I lthen described some of the Petitioner's work as 
+pioneering and he claimed it had delivered significant performance improvements, but still no 
+information of how the field has been affected. 
+Lastly, is the letter froml lof the 
+described how the Petitioner's software has been successfully implemented in the radiation treatment 
+planning system at his hospital. He indicated the Petitioner's software and algorithm have enabled his 
+hospital to accurately delineate lymph node growth tumor volumes and organs at risk, leading to more 
+precise and effective treatment plans for their patients. While I Istates the Petitioner's technology 
+has garnered attention from top medical technology companies, we note the Petitioner did not provide 
+evidence showing his work has been sufficiently incorporated by additional medical facilities such 
+that it demonstrates a contribution of major significance in the field as a whole. 
+In short, we have no doubt that the Petitioner is an accomplished researcher who has made original 
+discoveries with the potential to have the type of impact in his field that would allow him to meet this 
+criterion's mandates. But the evidence does not lead us to the conclusion that the required impact has 
+already been achieved. The record does not include adequate corroborating documentation to 
+demonstrate the nature of the contributions the Petitioner has made to the field that are of major 
+5 
+significance. We agree with the Director's ultimate conclusion that the Petitioner has not submitted 
+adequate evidence that meets the plain language requirements of this criterion. 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three of the ten criteria. As a result, we do not need to provide the type 
+of final merits determination referenced in Kazarian, 596 F.3d at 1119-20. Nevertheless, we advise 
+that we have reviewed the record in the aggregate, concluding it does not support a finding that the 
+Petitioner has established the acclaim and recognition required for the classification sought. 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than for individuals progressing toward that goal. USCIS has long 
+held that even athletes performing at the major league level do not automatically meet the 
+"extraordinary ability" standard. Matter of Price, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994). 
+Here, the Petitioner has not shown the significance of their work is indicative of the required sustained 
+national or international acclaim or that it is consistent with a "career of acclaimed work in the field" 
+as contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 
+203(b)(1 )(A). Moreover, the record does not otherwise demonstrate that the Petitioner has garnered 
+national or international acclaim in the field, and they are one of the small percentage who has risen 
+to the very top of the field of endeavor. See section 203(b)(l)(A) and 8 C.F.R. § 204.5(h)(2). 
+For the reasons discussed above, the Petitioner has not demonstrated their eligibility as an individual 
+of extraordinary ability. The appeal will be dismissed for the above stated reasons, with each 
+considered as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+6 

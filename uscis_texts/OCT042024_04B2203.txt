@@ -1,0 +1,369 @@
+U.S. Citizenship 
+and Immigration 
+Services Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: OCT. 4, 2024 In Re: 33942824 
+Appeal of Texas Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner is a researcher who seeks classification as an alien of extraordinary ability. See 
+Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § l 153(b)(l)(A). This first 
+preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation . 
+The Texas Service Center Director denied the Form 1-140, Immigrant Petition for Alien Workers 
+(petition), concluding that the Petitioner did not establish her eligibility. The matter is now before us 
+on appeal. The Petitioner bears the burden of proof to demonstrate eligibility to U.S. Citizenship and 
+Immigration Services (USCIS) by a preponderance of the evidence. Section 291 of the Act; Matter of 
+Chawathe , 25 I&N Dec. 369, 375 (AAO 2010). We review the questions in this matter de novo. 
+Matter of Christa 's Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, we will 
+dismiss the appeal. 
+I. LAW 
+To qualify under this immigrant 
+classification, the statute requires the filing party demonstrate: 
+• The foreign national enjoys extraordinary ability in the sciences, arts, education, business, or 
+athletics; 
+• They seek to enter the country to continue working in the area of extraordinary ability; and 
+• The foreign national's entry into the United States will substantially benefit the country in the 
+future. 
+Section 203(b)(1 )(A)(i)-(iii) of the Act. The term "extraordinary ability" refers only to those 
+individuals in "that small percentage who have risen to the very top of the field of endeavor." 8 C.F.R. 
+§ 204.5(h)(2) . 
+The implementing regulation at 8 C.F.R. § 204.5(h)(3) sets forth a multi-step analysis. In the first 
+step, a petitioner can demonstrate international recognition of his or her achievements in the field 
+through a one-time achievement (that is, a major, internationally recognized award). If that petitioner 
+does not submit this evidence, then he or she must provide sufficient qualifying documentation that 
+meets at least three of the ten criteria listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as 
+awards, published material in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then move to the second step to 
+consider the totality of the material provided in a final merits determination and assess whether the 
+record shows sustained national or international acclaim and demonstrates that the individual is among 
+the small percentage at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115, 
+1121 (9th Cir. 2010) (discussing a two-step review where the documentation is first counted and then, 
+if fulfilling the required number of criteria, considered in the context of a final merits determination); 
+see also Amin v. Mayorkas, 24 F.4th 383, 394 (5th Cir. 2022). 
+TI. ANALYSIS 
+The Petitioner completed her PhD in Biological Science in 2022, and when she filed the petition she 
+worked for a clinical-stage biotechnology company. 
+Because the Petitioner has not indicated or established that she has received a major, internationally 
+recognized award, she must satisfy at least three of the alternate regulatory criteria at 8 C.F.R. 
+§ 204.5(h)(3)(i)-(x). The Director decided that the Petitioner satisfied two of the criteria relating to 
+judging and authoring scholarly articles, but she had not satisfied the criteria associated with original 
+contributions of major significance. On appeal, the Petitioner maintains that she meets the 
+contributions criterion as well as performing in a leading or critical role. After reviewing all the 
+evidence in the record, we agree with the Director's ultimate determination. 
+We begin addressing counsel's argument in the appeal brief that the Director improperly invoked a 
+precedent decision: Matter ofKatigbak, 14 I&N Dec. 45 (Reg'l Comrn'r 1971). The Director accepted 
+the Petitioner's Google Scholar profile printout she filed with the petition, but when she offered an 
+updated profile in her request for evidence (RFE) response, the Director cited to Katigbak and noted they 
+would only consider evidence that existed on the date she filed the petition. While the Petitioner attempts 
+to distinguish this case's facts with those in Katigbak and they view this as an error, we do not. Katigbak, 
+14 I&N Dec. at 49 provides: 
+If the petition is approved, he has established a priority date for visa number assignment 
+as of the date that petition was filed. A petition may not be approved for a profession for 
+which the Beneficiary is not qualified at the time of its filing. The Beneficiary cannot 
+expect to qualify subsequently by taking additional courses and then still claim a priority 
+date as of the date the petition was filed, a date on which he was not qualified. 
+Section 204 ofthe Act requires the filing of a visa petition for classification under section 
+203(a)(3). The latter section states, in pertinent part: "Visas shall next be made available 
+to qualified immigrants who are members of the professions." (Emphasis added.) It is 
+clear that it was the intent of Congress that an alien be a recognized and fully qualified 
+member of the professions at the time the petition is filed. Congress did not intend that a 
+petition that was properly denied because the Beneficiary was not at that time qualified 
+be subsequently approved at a future date when the Beneficiary may become qualified 
+2 
+under a new set of facts. To do otherwise would make a farce of the preference system 
+and priorities set up by statute and regulation. 
+Id. The Regional Commissioner continued this reasoning in Matter of Wing's Tea House, 16 T&N Dec. 
+158, 160 (Reg'l Cornrn'r 1977). That decision reemphasizes the importance of not obtaining a priority 
+date prior to being eligible based on future experience. In fact, despite counsel's assertion to the contrary, 
+this principle has been extended beyond the foreign national's eligibility for the classification sought. For 
+example, an employer must establish its ability to pay the proffered wage as ofthe date of filing. Matter 
+of Great Wall, 16 I&N Dec. 142, 144--45 (Acting Reg'l Comm'r 1977). That decision provides that a 
+petition should not become approvable under a new set of facts. Recognizing that Matter ofKatigbak, 
+14 I&N Dec. at 49 was not "foursquare with the instant case" in that it dealt with a beneficiary's eligibility, 
+Great Wall, 16 I&N Dec. at 145 still applies the reasoning. The decision provides: 
+In sixth-preference visa petition proceedings the Service must consider the merits of the 
+Petitioner's job offer, so that a determination can be made whether the job offer is realistic 
+and whether the wage offer can be met, as well as determine whether the alien meets the 
+minimum requirements to perform the offered job satisfactorily. It follows that such 
+consideration by the Service would necessarily be focused on the circumstances at the 
+time offiling of the petition. The Petitioner in the instant case cannot expect to establish 
+a priority date for visa issuance for the Beneficiary when at the time of making the job 
+offer and the filing of the petition with this Service he could not, in all reality, pay the 
+salary as stated in the job offer. 
+(Emphasis in original.) Finally, when evaluating revisions to a partnership agreement the Associate 
+Commissioner stated that "a petition cannot be approved at a future date after the Petitioner becomes 
+eligible under a new set of facts." Matter oflzummi, 22 I&N Dec. 169, 175 (Assoc. Comm'r 1998). The 
+Izummi decision further provides that USCIS cannot "consider facts that come into being only subsequent 
+to the filing of a petition." Id. at 176. "To do otherwise would make a farce ofthe preference system and 
+priorities set up by statute and regulation." Matter ofBardouille, 18 I&N Dec. 114, 117 (BIA 1981 ). 
+While citations published after the date of filing may serve as evidence of the continued relevance of a 
+foreign national's work that had already been well cited as of the filing date, they cannot be considered 
+evidence that they were already influential as ofthat date. Moreover, a petitioner's articles that were not 
+published as of the date of filing and, thus, had not been subject to peer review and disseminated in the 
+field as ofthat date, cannot establish eligibility as ofthe date of filing. To hold otherwise would have the 
+untenable result of a foreign national securing a priority date based on the speculation that their work 
+might prove influential while the petition is pending. The regulation at 8 C.F.R. § 103.2(b)(l), (12) 
+further supports this limitation and requires a filing party to demonstrate eligibility as of the date they 
+file the petition. 
+A. Evidence ofthe alien's original scientific, scholarly, artistic, athletic, or business-related contributions 
+ofmajor significance in the field. 8 C.F.R. § 204.5(h)(3)(v). 
+The primary requirements here are that the Petitioner's contributions in their field were original and 
+they rise to the level of major significance in the field as a whole, rather than to a project or to an 
+organization. See Amin, 24 F.4th at 394 ( citing Visinscaia v. Beers, 4 F. Supp. 3d 126, 134 (D.D.C. 
+3 
+2013)). The regulatory phrase "major significance" is not superfluous and, thus, it has some meaning. 
+Nielsen v. Preap, 586 U.S. 392,415 (2019) (finding that every word and every provision in a statute 
+is to be given effect and none should needlessly be given an interpretation that causes it to duplicate 
+another provision or to have no consequence). Further, the Petitioner's contributions must have 
+already been realized rather than being potential, future improvements. Contributions of major 
+significance connotes that the Petitioner's work has significantly impacted the field. The Petitioner 
+must submit evidence satisfying all of these elements to meet the plain language requirements of this 
+criterion. 
+The Director discussed the Petitioner's evidence to include her publication record, the journal rankings 
+where her works were published, opinion letters from others in her field, and her judging service. 
+While the Director acknowledged the originality of her work, they determined that she did not 
+demonstrate that work was already ofmajor significance in her field. Within the appeal, the Petitioner 
+divides the brief into two sections. The first section discusses evidence the Director didn't mention in 
+the denial, or didn't adequately evaluate. Within the second section, the Petitioner asserts the Director 
+did not evaluate the evidence under the preponderance standard. Because there is some evidentiary 
+crossover between the two sections, for simplicity, we will follow the same format in this decision that 
+the Petitioner used in the appeal brief. 
+1. Evidence the Director Ignored or Failed to Evaluate 
+On appeal the Petitioner argues the Director either ignored or did not evaluate some of her evidence. 
+For instance, regarding to her evidence relating to the citation percentiles, the Petitioner submitted an 
+article to the Director from Scientometrics authored by Lutz Bornmann and W emer Marx, entitled 
+"How to evaluate individual researchers working in the natural and life sciences meaningfully? A 
+proposal of methods based on percentiles of citations." 
+This article presented their opinions for "how to evaluate individual researchers in the natural and life 
+sciences" for purposes of fonding and promotion or hiring decisions. The authors stated that 
+"publications which are among the 10% most cited publications in their subject area are as a rule called 
+highly cited or excellent" and that "the top l0% based excellence indicator" should be given "the 
+highest weight when comparing the scientific performance of single researchers." But the Petitioner 
+did not offer evidence establishing reputable academic or professional organizations have accepted 
+and implemented these authors' methodology. Here, the Petitioner has not shown their alleged abuse 
+of discretion, nor does this evidence satisfy their burden of persuasion. See Matter of Y-B-, 21 I&N 
+Dec. 1136, 1142 n.3 (BIA 1998) (finding that a petitioner's burden of proof comprises both the initial 
+burden of production, as well as the ultimate burden of persuasion). 
+We further note these authors advise against "using Google Scholar (GS) as a basis for bibliometric 
+analysis. Several studies have pointed out that GS has numerous deficiencies for research evaluation." 
+Yet, the Petitioner has relied on Google Scholar materials throughout these proceedings. 
+Furthermore, the Petitioner submitted OpenAlex author metrics she claims compares her citation 
+impact to that of other researchers. While this information lists a percentile ranking, we note issues 
+that diminish the evidentiary value of the evidence. First, the material is not dated. Second, the 
+document simply lists categories and data associated with those categories and it does not reflect that 
+4 
+the actual source ofthe information was OpenAlex as claimed. And third, the Petitioner did not submit 
+material revealing the method by which the presented figures were calculated. This collectively means 
+we have no method to verify the information the Petitioner presented. Although this does not render 
+the evidence to be of no worth, its value is significantly diminished. The Petitioner cannot meet her 
+burden of proof relying on this qualitatively deficient material. In evaluating the evidence, the truth 
+is to be determined not by the quantity of evidence alone but by its quality. See Chawathe, 25 I&N 
+Dec. at 376 (quoting Matter ofE-M-, 20 I&N Dec. 77, 79-80 (Comm'r 1989)). 
+Other material the Petitioner claims the Director did not consider consists of media articles, but a 
+review of that material reveals it is insufficient. The New York Post and New York Daily News articles 
+mentioned the university where the Petitioner received her PhD, but they do not mention her. Nor 
+does the Business Insider article make any mention of the Petitioner. While we agree with the 
+Petitioner that the Director did not analyze these articles, the Petitioner has not shown they are relevant 
+to her claims that she has made contributions ofmajor significance in her field, and we do not consider 
+this to be a proper basis for the Petitioner's appeal. 
+And finally, the Petitioner claims the Director "did not engage with the letters of recommendation" 
+from four authors. She asserts the authors of these four letters discussed the influence of the 
+Petitioner's findings on the authors' own research work. She further mentions that two other letters 
+discussed the impact of her research on the field at large. The appeal brief does not discuss each letter 
+and convey how the individual author expressed her achievements in a manner that would help her in 
+fulfilling this criterion's requirements. Based on this shortcoming and because the burden rests with 
+the Petitioner to demonstrate how the Director erred, we will discuss a sampling of the letters. 
+The Petitioner's advisor at the university where she earned her PhD discussed both her and his 
+qualifications and indicated that she discovered that a medication the Food and Drug Administration 
+(FDA) approved to treat a form of arthritis (auranofin) was highly beneficial in limiting the severe 
+acute respiratory syndrome coronavirus 2 (SARS-COV-2) infection. He further noted that her 
+research contributed foundational knowledge needed to develop therapeutic treatments for COVID-19 
+and similar viruses. 
+However, this merely expresses the originality of her research but is absent of information relating to 
+how that original research impacted the field. This is inadequate to show that the Petitioner's 
+contributions rose to a level of major significance. 
+Next, we discuss a sample of the letters in which the authors discussed the influence ofthe Petitioner's 
+work on their own and on other researchers' work. We will review the letter from _____ 
+an assistant professor of microbiology and cell biology in India. Within his letter he described how 
+the Petitioner's same research relating to the FDA-approved arthritis drug auranofin was incorporated 
+into work ublished in The Lancet Res irato Medicine. But a review ofthat work titled, 
+____ does not reveal that the authors found her work to be an overall benefit to prospective 
+patients. Instead, the authors found that auranofin resulted in life-threatening conditions such as low 
+5 
+blood platelet counts and intra-abdominal sepsis leading to the death oftest subjects. 1 The Petitioner's 
+research contribution appears to be the type others in her field might want to avoid in treating 
+COVID-19 patients, rather than the effective type of contribution to the field that the Petitioner 
+presents it as in the appeal brief. Even though-as we have here-methods and treatment the field 
+should avoid can be considered to be a contribution to the field, we conclude the Petitioner has not 
+established that the evidence in the form of opinion letters adequately supports her claims under this 
+criterion. 
+And to close out this section, we note that the lack of a direct discussion of evidence does not mean 
+that the Director ignored it; it instead may mean that they considered it and concluded it was 
+unpersuasive. See United States v. Teixeira, 62 F.4th 10, 25 (1st Cir. 2023) (concluding a trier of fact 
+"need not articulate its conclusions as to every jot and tittle of evidence in making a determination"). 
+"Nothing is to be gained by a laundry-list recital of all evidence on the record supporting each view 
+on every issue." Puerto Rico Mar. Shipping Auth. v. Fed. Mar. Comm 'n, 678 F.2d 327,351 (D.C. Cir. 
+1982). 
+2. Preponderance of the Evidence Standard of Proof 
+The appeal brief couches the Petitioner's claims of the originality of her contributions, as well as that 
+those contributions are of major significance, within the broader rubric that the Director did not apply 
+the appropriate standard ofproof: the preponderance ofthe evidence standard. Because the originality 
+of her work was never in question, we will move to whether her contributions to the field rose to the 
+level of major significance. 
+Before we address the remainder ofthe Petitioner's claims, we provide the foundation for the standard 
+of proof. As with most administrative proceedings, the standard of proof for this petition is the 
+preponderance of the evidence. The preponderance standard of proof is the degree, or level, of proof 
+demanded in a specific case. We are ultimately deciding whether a petitioner's claims are sufficiently 
+supported by relevant, probative, and credible evidence. Chawathe, 25 I&N Dec. at 369 reiterated the 
+longstanding principle for the preponderance standard of proof. Ultimately, the truth is to be 
+determined not by the quantity of evidence alone but by its quality. Id. at 376 ( citing E-M-, 20 I&N 
+Dec. at 79-80). 
+Now to the Petitioner's claims relating to her citation record and other opinion letters. For her citation 
+record, the Petitioner identifies her published scholarly works and a book chapter she co-authored, her 
+Google Scholar profile, and both the initially provided and the RFE response evidence from Clarivate 
+Analytics InCites Essential Science Indicators. As we noted above, any material the Petitioner 
+provided with the initially filed petition should factor into ours and the Director's decision but 
+documentation submitted after that date that reflects her subsequent achievements will not play a role 
+in this petition. 8 C.F.R. § 103.2(b)(l), (12); Katigbak, 14 I&N Dec. at 49. 
+The Petitioner's Google Scholar profile reflected she had published nine works as of the date she filed 
+the petition. Only two of those papers received more than 28 citations. In this portion of the Petitioner's 
+Robert S Wallis, et al., I 
+(2021). 
+6 1 
+appeal brief, she does not explain how her Google Scholar profile individually, or combined with other 
+evidence, demonstrates she has made contributions to her field that are ofmajor significance. And within 
+the appeal brief' s other portions she does not adequately explain it either other than to state that the 
+Director: 
+[E]essentially dismissed the evidence of [the Petitioner's] 455 citations" and "USCIS reasoned 
+that "[e ]ven highly cited publications alone" [] were not sufficient to meet the requirements of 
+8 C.F.R. § 204.5(h)(3)(v) "absent evidence that they were of 'major significance' as a citation 
+number or ranking does not provide sufficient context to determine the impact or importance 
+of a given researcher's work in the field" 
+She then reengages the argument that the Director misapplied the Katigbak decision, which we 
+disposed of as incorrect above. 
+Although the Petitioner claims that citations to her work demonstrate a contribution of major 
+significance, she has not demonstrated that the number of citations is significant. Nor has she shown 
+that a notable number of the citing authors placed unusual reliance on her work, resulting in a 
+significant impact within the field. Researchers throughout a given field may cite other published 
+works without the cited work being notably influential or serving as a foundational basis for their own 
+work. Even though others within the Petitioner's field have relied on her research findings within 
+their own work, this is not sufficient to demonstrate that she has made contributions of major 
+significance within the field. We agree that such references to her work are a contribution in the field, 
+the evidence the Petitioner submitted reflects such reliance is only an incremental contribution. 
+This portion of the appeal also identifies two additional opinion letters she claims plainly describe her 
+research and explain why it is ofmajor significance. The first letter is the same document we evaluated 
+above from the Petitioner's advisor at the university where she attained her PhD, and he discusses the 
+same original findings in which she discovered the effectiveness of an FDA-approved arthritis drug to 
+treat SARS-COV-2. We reiterate that this treatment was later found to have possibly deadly or 
+life-threatening effects in COVID-19 patients. Nevertheless, the Petitioner's advisor explained how 
+these were original findings, stated it was significant, but stopped short of describing how those 
+findings had any discernible effect in her field of endeavor. 
+The second letter the Petitioner identifies is from Dr . _____ in which he discussed the need 
+for a vaccine that simultaneously protects against COVID-19 and influenza viruses, and which this 
+foreign national addressed through her research. He explained that she created a streamlined approach 
+to vaccinations by simplifying the process, the vaccine's success in testing on mice, and indicated it 
+provided insights into the development of multivalent vaccines. But he too falls short of delineating 
+any impact of the Petitioner's approach within her field. 
+And finally, the Petitioner contends that USCIS "fail[ed] to engage with all of the relevant evidence 
+submitted in this case." Although we agree with the Petitioner that the Director did not directly discuss 
+every piece of evidence that she considers as salient to qualifying under this program, she has not 
+established how those omitted elements demonstrated her eligibility. In other words, the Petitioner 
+did not explain how the Director's failure to discuss every document in detail changed the outcome of 
+the case. And such a showing is the Petitioner's burden, which she fell short of meeting. 
+7 
+When USCIS provides a reasoned consideration to the petition, and has made adequate findings, it 
+will not be required to specifically address each claim the Petitioner makes, nor is it necessary for it 
+to address every piece of evidence the foreign national presents. Amin, 24 F.4th at 394; Martinez v. 
+INS, 970 F.2d 973, 976 (1st Cir. 1992); ajf'd Morales v. INS, 208 F.3d 323, 328 (1st Cir. 2000); see 
+also Pakasi v. Holder, 577 F.3d 44, 48 (1st Cir. 2009); Kazemzadeh v. US. Atty. Gen., 577 F.3d 1341, 
+1351 ( I Ith Cir. 2009). It is not enough to demonstrate errors in an agency's decision; the Petitioner 
+must also establish that she was prejudiced by the mistakes. Shinseki v. Sanders, 556 U.S. 396, 409 
+(2009); Molina-Martinez v. United States, 578 U.S. 189,203 (2016); Amin, 24 F.4th at 394. 
+As the Petitioner has not demonstrated she was prejudiced by the lack of discussion of any evidence, 
+even if we agreed that this was an error, such a lapse appears harmless and is insufficient grounds 
+upon which to base this appeal. Errors can be overlooked when they had no bearing on the substance 
+of an agency's decision. Aguilar v. Garland, 60 F.4th 401, 407 (8th Cir. 2023) (citing Prohibition 
+Juice Co. v. United States Food & Drug Admin., 45 F.4th 8, 24 (D.C. Cir. 2022)). The party that 
+"seeks to have a judgment set aside because of an erroneous ruling carries the burden of showing that 
+prejudice resulted." Shinseki, 556 U.S. at409 (quotingPalmerv. Hoffinan, 318 U.S. 109,116 (1943)); 
+Molina-Martinez, 578 U.S. at 203. 
+In summary, the Petitioner has not submitted evidence that meets the plain language requirements of 
+this criterion. 
+B. Evidence that the alien has performed in a leading or critical role for organizations or establishments 
+that have a distinguished reputation. 8 C.F.R. § 204.5(h)(3)(viii). 
+The Petitioner claimed her eligibility under this criterion in the RFE response, but the Director did not 
+offer any analysis relating to her claims or evidence in the denial decision. 
+A leading role should be apparent by its position 
+in the overall organizational hierarchy and the role's 
+matching duties. A critical role should be apparent from the Petitioner's impact on the entity's 
+activities. The Petitioner's performance in any role should establish whether it was leading or critical 
+for organizations, establishments, divisions, or departments as a whole. Ultimately, the leading or the 
+critical role must be performed on behalf of the organization, establishment, division, or department 
+that enjoys a distinguished reputation, rather than for a unit subordinate to these listed entities. See 
+generally 6 USCIS Policy Manual F.2(B)(l), https://www.uscis.gov/policymanual. 
+USCIS policy reflects that organizations, establishments, divisions, or departments that enjoy a 
+distinguished reputation are "marked by eminence, distinction, or excellence." Id. ( citing to the 
+definition of distinguished, Merriam-Webster, 
+https://www.merriam-webster.com/dictionary/distinguished). The Petitioner must submit evidence 
+satisfying all of these elements to meet the plain language requirements of this criterion. 
+The evidence reflects the named organization has a positive reputation and has experienced some 
+notable successes. But the Petitioner did not offer probative evidence that, within its industry, this 
+entity has a distinguished reputation meaning: 
+8 
+• It is in "a position of prominence or superiority"2; 
+• It has "the quality or state of being excellent or superior"3; or 
+• It has "the quality ofbeing excellent"4 or "very good ofits kind : eminently good : first-class" 5. 
+The evidence in the record does not adequately reflect this entity enjoys a distinguished reputation and 
+we will not presume as much based on its work "closely tied" to a COVID-19 vaccine and therapeutic 
+development initiative with the U.S. government. The Petitioner did not explain why government 
+grants, contracts, or other forms of financial support illustrate this organization's distinguished 
+reputation. Government grants or funding do not necessarily establish that the receiving organization 
+or establishment "is 'marked by eminence, distinction, or excellence ....'" Chursov v. Miller, No. 
+18-CV-2886 (PKC), 2019 WL 2085199, at *8 (S.D.N.Y. May 13, 2019). Additionally, the majority 
+of the supporting evidence was either news releases from the company itself, only portions of a 
+document, or material that postdated the petition filing date. 
+Regarding the news releases from the company itself, this does not amount to independent, objective 
+evidence establishing that it has a distinguished reputation pursuant to the regulation at 8 C.F.R. 
+§ 204.5(h)(3)(viii). Much like with self-promotion relating to published material under a different 
+criterion, USCIS is not required to rely on the self-promotional material of a company and "we may 
+require more than the publication's own say-so that it" has a distinguished reputation. Cf Krasniqi v. 
+Dibbins, 558 F. Supp. 3d 168, 185 (D.N.J. 2021) (citing Braga v. Poulos, No. CV 06-5105 SJO 
+FMOX, 2007 WL 9229758, at *7 (C.D. Cal. July 6, 2007) aff'd, 317 F. App'x 680 (9th Cir. 2009) 
+( concluding that we did not have to rely on a company's self-serving assertions on the cover of a 
+magazine as to the magazine's status as major media)); Cuckic v. Jaddou, No. 21-CV-8395 (JPO), 
+2023 WL 2586031, at *5 (S.D.N.Y. Mar. 21, 2023). 
+And pertaining to the evidence that postdated the petition filing date, a petitioner must establish 
+eligibility at the time they file the visa petition. 8 C.F.R. § 103.2(b)(l), (12). USCIS may not approve 
+a visa petition if the petitioner was not qualified at the priority date but expects to become eligible at 
+a subsequent time. See Izummi, 22 I&N Dec. at 175-76; Katigbak, 14 I&N Dec. at 49. 
+Because the Petitioner has not submitted sufficient evidence to demonstrate the organization enjoys a 
+distinguished reputation and that is dispositive of this claim, it is unnecessary for us to evaluate 
+whether she performed in a leading or critical role for the entity. In sum, the Petitioner has not 
+submitted evidence that meets the plain language requirements of this criterion. 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three of the ten criteria. As a result, we do not need to provide the type 
+of final merits determination referenced in Kazarian, 596 F.3d at 1119-20. Nevertheless, we advise 
+2 Eminence, Merriam-Webster.com Dictionary (Sept. 27, 2024), https://www.merriam-webster.com/dictionary/eminence. 
+3 Distinction (sense 4), Merriam-Webster.com Dictionary (Sept. 30, 2024), https://www.merriam­
+webster.com/dictionary/distinction. 
+4 Excellence, Merriam-Webster.com Dictionary (Oct. 3, 2024), https://www.merriam-webster.com/dictionary/excellence. 
+5 Excellent, Merriam-Webster.com Dictionary (Sept. 17, 2024), https://www.merriam-webster.com/dictionary/excellent. 
+9 
+that we have reviewed the record in the aggregate, concluding it does not support a finding that the 
+Petitioner has established the acclaim and recognition required for the classification sought. 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than for individuals progressing toward that goal. USCIS has long 
+held that even athletes performing at the major league level do not automatically meet the 
+"extraordinary ability" standard. Matter of Price, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994). 
+Here, the Petitioner has not shown the significance of their work is indicative of the required sustained 
+national or international acclaim or that it is consistent with a "career of acclaimed work in the field" 
+as contemplated by Congress. H.R. Rep. No. l 0 1-723, 59 (Sept. 19, 1990); see also section 
+203(b)(1 )(A). Moreover, the record does not otherwise demonstrate that the Petitioner has garnered 
+national or international acclaim in the field, and they are one of the small percentage who has risen 
+to the very top of the field of endeavor. See section 203(b)(l)(A) and 8 C.F.R. § 204.5(h)(2). 
+For the reasons discussed above, the Petitioner has not demonstrated her eligibility as an individual of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 

@@ -1,0 +1,255 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 5190719 
+Appeal of Nebraska Service Center Decision Non-Precedent Decision of the 
+Administrative Appeals Office 
+Date: NOV. 29, 2019 
+Form I-140, Immigrant Petition for Alien Worker (Extraordinary Ability) 
+The Petitioner seeks classification as an alien of extraordinary ability. See Immigration and 
+Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). This first preference 
+classification makes immigrant visas available to those who can demonstrate their extraordinary 
+ability through sustained national or international acclaim and whose achievements have been 
+recognized in their field through extensive documentation. 
+The Director of the Nebraska Service Center denied the petition, concluding that although the record 
+established that the Petitioner satisfied the initial evidentiary requirements, it did not establish, as 
+required, that the Petitioner has sustained national or international acclaim and is one of that small 
+percentage at the very top of the field. The matter is now before us on appeal. 
+In these proceedings, it is the Petitioner's burden to establish eligibility for the requested benefit. 
+Section 291 of the Act, 8 U.S.C. § 1361. Upon de nova review, we will dismiss the appeal. 
+I. LAW 
+Section 203(b )(1 )(A) of the Act makes immigrant visas available to aliens with extraordinary ability 
+if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively the 
+United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth two options for satisfying this classification's initial evidence 
+requirements. A petitioner can either demonstrate a one-time achievement (that is, a major, 
+internationally recognized award), or provide documentation that meets at least three of the ten 
+categories listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as qualifying awards, published 
+material in certain media, and scholarly articles). The regulation at 8 C.F.R. § 204.5(h)(4) allows a 
+petitioner to submit comparable material if they are able to demonstrate that the standards at 8 C.F.R. 
+§ 204.5(h)(3)(i)-(x) do not readily apply to the individual's occupation. 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). This two-step analysis is consistent with our holding that the "truth is to be 
+determined not by the quantity of evidence alone but by its quality," as well as the principle that we 
+examine "each piece of evidence for relevance, probative value, and credibility, both individually and 
+within the context of the totality of the evidence, to determine whether the fact to be proven is probably 
+true." Matter ofChawathe, 25 I&N Dec. 369,376 (AAO 2010). 
+II. ANALYSIS 
+A. Initial Evidence 
+The Petitioner is a computer scientist who identified his "Field of Expertise" as "5G ( and beyond) mobile 
+network architecture, mobile big data analytics, mobile network verification, cutting edge mobile 
+applications, and network/system security." At the time he filed the petition in January 2018, the 
+Petitioner identified himself as a "[p ]ostdoc scholar" at the University of I I I I Subsequent submissions indicate that, shortly before the time offilinJ' he had begun seeking 
+to commercialize his work through a new company called I 1 
+Because the Petitioner has not indicated or established that he has received a major, internationally 
+recognized award, he must satisfy at least three of the alternate regulatory criteria at 8 C.F.R. 
+§ 204.5(h)(3)(i)-(x). In denying the petition, the Director determined that the Petitioner had met three 
+of the initial evidentiary criteria, pertaining to judging the work of others under 8 C.F.R. 
+§ 204.5(h)(3)(iv); original contributions of major significance under 8 C.F.R. § 204.5(h)(3)(v); and 
+authorship of scholarly articles under 8 C.F.R. § 204.5(h)(3)(vi). We will not disturb these findings. 
+As the Petitioner has demonstrated that he satisfies three criteria, we will evaluate the totality of the 
+evidence in the context of the final merits determination below. 
+1 More recently,_] ____ __,I filed a nonimmigrant petition on his behalf in March 2019; that petition was approved shortly 
+afterward. 
+2 
+B. Final Merits Determination 
+As the Petitioner submitted the reqms1te initial evidence, we will evaluate whether he has 
+demonstrated, by a preponderance of the evidence, sustained national or international acclaim; that he 
+is one of the small percentage at the very top of the field of endeavor; and that his achievements have 
+been recognized in the field through extensive documentation. In a final merits determination, we 
+analyze a petitioner's accomplishments and weigh the totality of the evidence to determine if his 
+successes are sufficient to demonstrate that he has extraordinary ability in the field of endeavor. See 
+section 203(b)(l)(A)(i) of the Act; 8 C.F.R. § 204.5(h)(2), (3); see also Kazarian, 596 F.3d at 
+1119-20. 2 In this matter, we determine that the Petitioner has not shown his eligibility. 
+The Petitioner listed his accomplishments in computer science, including the following examples: 
+I create~ lthe world's first tool for~-----------~ 
+mobile data analytics. 
+I proposed and developed a new platform that enables._! ____ ___.I of mobile big 
+data among smartphones. 
+I proposed and developed the first Jaradigm in the mobile network that parallelizes the I !data access. 
+Because the Director did not dispute the major significance of the Petitioner's contributions, we need 
+not discuss those contributions in technical detail. At issue here is not the nature or usefulness of the 
+Petitioner's contributions, but rather the extent of the acclaim he has earned in his field. 
+The Petitioner's mentor atl I stated that the Petitioner "is arguably among the top-two fresh PhD 
+graduates in the networking and mobile systems field this year, and one of the top five during the past 
+five years." Eligibility requires the Petitioner to be at the top of his field, rather than the subset of 
+"fresh PhD graduates." More relevant is the professor's contention that the Petitioner "is among the 
+top 1 % computer scientist[s] worldwide." This is either a subjective assessment or an objectively 
+verifiable statement. If it is the latter, then it should derive from some empirical basis that exists 
+independently ofletters that the Petitioner submitted in support of his petition. 
+Various colleagues indicated that the Petitioner's activities reflect his recognition in the field. For 
+instance, a professor at.__ ___________ ____.State University stated: 
+[The Petitioner] has won J I Best Community Paper A ward in 2016 and 
+201 7. His dissertation has won the I I Dissertation Year Fellowship in 2016. This 
+evidence strongly suggests that [the Petitioner's] current work has been highly 
+recognized by his peers in the scientific community. 
+2 See also USCTS Policy Memorandum PM 602-0005.1, Evaluation of Evidence Submitted with Certain Form 1-140 
+Petitions; Revisions to the Adjudicator's Field Manual (AFM) Chapter 22.2, AFM Update ADI 1-14 4 (Dec.22.2010), 
+https://www.uscis.gov/policymanual/HTML/PolicyManual.html (stating that USCIS officers should then evaluate the 
+evidence together when considering the petition in its entirety to determine if the petitioner has established, by a 
+preponderance of the evidence, the required high level of expertise for the immigrant classification). 
+3 
+... In recognition of his outstanding research contributions, [the Petitioner] has been 
+invited to present his research work at ... significant and highly regarded conferences 
+in this field. 
+The recognition described above does not indicate national or international acclaim. The I I 
+c=]Fellowship is a form of merit-based financial aid for students who, by definition, are still learning 
+their trade. The record does not show that conference presentation is a privilege reserved for those at 
+the top of the field. Awards at major conferences carry more weight, but they still represent the 
+response of a limited audience to one particular paper. A consistent pattern of such awards from 
+different conferences would provide greater support for a finding that the Petitioner has earned 
+sustained acclaim (rather than certain contributions receiving attention in the short term). 
+A research mana er at si ned a letter indicating that the Petitioner "started to commercialize his 
+inventions via.__ _______ ___,--__,.~ in 201 7. . . . In December of 201 7, we have started a 
+dialogue with his team to discuss the.__ _ __. s features that are of interest and very complimentary to 
+the analytics and performance monitoring systems." This collaboration was at an embryonic stage 
+when the Petitioner filed the petition in January 2018, and the individual discussed the project in terms 
+of its "potential" and its "anticipated" results. 
+The same letter included this passage: 
+I have a keen interest in the upcoming product by [the Petitioner's] startup, because of 
+its anticipated unique ability to perform the '------------------' analytics inside the smartphones and mobile devices .... 
+I firmly believe that [the Petitioner] is an extraordinary technological inventor with an 
+industry-oriented mindset. I can, without hesitation, state that he is one of the very few 
+top research scientists in the cellular analytics field who has deep insight on the trends 
+of the technology, need for advancement and also the commercial utilization of it. 
+A letter signed by a principal researcher at .... I ---~I contains similar, at times identical, language: 
+My team is very interested in thel I product because of its unique ability to 
+perform the.__ _____ __. analytics for the operational mobile networks inside the 
+smartphones .... 
+I firmly believe that [the Petitioner] is an extraordinary technololical invrtor with an 
+industry-oriented mindset. Based on his research track record at he is one of 
+the very few top research scientists in the cellular analytics field who has deep insight 
+on the technology trend, market needs and commercial utilization. 
+An assistant professor atl !university signed a letter stating that the Petitioner "is one of the very 
+few top research scientists in the field who has deep insight on the trend of the technology trend and 
+4 
+need for advancement and also the commercial utilization of it," while the chief executive officer of 
+~-------------~ signed a letter calling the Petitioner "one of the top research 
+scientists in the field who has deep insight on the trend of the technology, need for advancement and 
+also the commercial utilization of it." These similarities strongly indicate common authorship of the 
+letters or key portions thereof 
+Likewise, two different letters contain the same passage with the same grammatical error: "As an 
+inventor myself: I understand this means [the Petitioner's] contribution is going into many research 
+labs and industry, and it gains him acclaims [sic] by researchers worldwide." A third letter contains a 
+shortened variant: "As an inventor myself, I understand this means [the Petitioner's] contributions 
+have received acclaims [sic] by researchers worldwide." (In another apparent indicator of outside 
+authorship, an official atl I signed a letter stating that the Petitioner's "contributions 
+... could not have been made by an average Ph.D. level chemist." The Petitioner is not a chemist.) 
+The systemic use of identical or strongly similar language suggests the language in the letters is not 
+the authors' own. Cf Surinder Singh v. Board of Immigration Appeals, 438 F.3d 145, 148 (2d Cir. 
+2006) (upholding an immigration judge's adverse credibility determination in asylum proceedings 
+based in part on the similarity of some of the affidavits); Mei Chai Ye v. US. Dept. of Justice, 489 
+F.3d 517, 519 (2d Cir. 2007) ( concluding that an immigration judge may reasonably infer that when 
+an asylum applicant submits strikingly similar affidavits, the applicant is the common source). 
+Even if the letters had been of independent origin, we must also consider the extent to which the record 
+objectively supports the claims in the letters. The Petitioner indicated that his "original award-winning 
+research contribution has been used by 24 7 universities ... , big companies ... , and 
+startups.".__ ____ __. s use by other institutions may speak to its significance, but the Petitioner 
+has not provided sufficient context to show that this breadth of application is unusual in the field. 
+Also, the significance of a contribution is not synonymous with acclaim for the people behind that 
+contribution. Otherwise, the regulations would not require evidence of acclaim beyond those 
+contributions. We must examine all the evidence, to determine whether it converges toward an overall 
+finding of acclaim. 
+The Petitioner stated that his "pioneering research publications ... have been cited over 220 times by 
+researchers from 2 7 countries." By way of comparison, the Petitioner's mentor a~ I stated: "My 
+work has been cited more than 23,000 times according to Google Scholar." 
+The Petitioner submitted statistical analyses from Dimensions, indicating that five of his articles are 
+"extremely highly cited," earning between 7.27 and "19 times more citations than average." These 
+figures can be misleading, because the range of citations is broad; the most-cited articles can receive 
+hundreds or thousands of citations, while others are cited once or not at all. Above average is not 
+necessarily synonymous with the top of the field. A submitted printout from Altmetric indicated that 
+the Petitioner's most-cited article has a "Good Attention Score compared to outputs of the same age 
+(76th percentile)." The Petitioner did not show that "Good" is the highest ranking of attention score, 
+and he did not submit attention score information for any of his other articles. From the information 
+submitted, one article with a citation record near the bottom of the top quartile is not indicative of 
+sustained acclaim, or standing as one in the small percentage at the very top of the field. 
+5 
+The Petitioner also documented the number of downloads for some of his articles. The Petitioner 
+stated that one of his articles "received 1,618 downloads, which is ... objective evidence to prove that 
+[he] as sustained national or international acclaim." The download count only shows how many people 
+have had the opportunity to read the article; it does not tell us the article's subsequent effect on those 
+who downloaded it. The same document that showed the download count of 1618 also showed 
+"Citation Count: 4." If downloads rarely result in citations, then the download count does not appear 
+to correlate directly to the article's influence. 
+The Petitioner compared his recent productivity and citation rates to those of"highly reputable leading 
+scientists," whom the Petitioner also referred to as "highly esteemed scientists." Biographical 
+information relating to these individuals indicates that their overall accomplishments and reputations 
+substantially exceed those of the Petitioner. The Petitioner does not place himself among their ranks 
+simply by showing that his output was, by some measures, comparable to theirs from 2016 to 2018. 
+The Director stated that the Petitioner had published scholarly articles "in prestigious journals," and 
+that "some of [his] papers are frequently cited," but concluded that the Petitioner had not provided a 
+sufficient basis for comparison to show that he is at the top of his field. 
+The Petitioner stated: "Due to my outstanding contributions ... , I have been invited and have served 
+as an expert reviewer for the ... world's top conferences and journals." The Petitioner documented 
+his peer review work, which the Director recognized under 8 C.F.R. § 204.5(h)(3)(iv), but he did not 
+submit evidence from the conference organizers and journal publishers to establish how they select 
+peer reviewers. Several conference-related peer review invitations came from the same source, who 
+is one of the Petitioner's frequent collaborators. Therefore, the Petitioner has not supported his 
+assertion that the peer review invitations were "[ d]ue to [his] outstanding contributions" rather than 
+more mundane factors such as, for example, his involvement in the field or submitting his name to 
+volunteer as a peer reviewer. 
+Several review invitations in the record included this request: "If you are unable to complete the 
+review at this time, we would be grateful if you could recommend a qualified student, postdoc, or 
+colleague to review this paper." This demonstrates that a student in the Petitioner's field can qualify 
+as a peer reviewer even while their training is incomplete. One peer review invitation from September 
+2018 appeared to indicate that the Petitioner was chosen as a reviewer because the paper under 
+consideration included a citation to the Petitioner's work. Some review invitations referred to the 
+Petitioner's expertise in his field, but expertise is not the same as national or international acclaim. 
+The Petitioner did not show that his participation in peer review demonstrated acclaim. 
+The Petitioner notes on appeal that he "is a winner and recipient of the National Science Foundation's 
+(NSF) Small Business Innovation Research (SBIR) Award based on his excellent research results and 
+future development proposal submitted in 2018." What the Petitioner describes as an award is a grant 
+to fond continued research and development. At the time of filing, the Petitioner indicated that he was 
+"currently applying" for the grant; the approval occurred in January 2019, a year after the filing date. 
+Documentation about applying for the grant does not show that eligibility rests on "excellent research 
+results." Rather, NSF's website, quoted in the record, indicated that "[t]he NSF SBIR program seeks 
+innovative proposals that show promise of commercial and societal impact." A purpose of "Phase I 
+6 
+proposals," like the one involving the Petitioner, is to "establish[] technical feasibility or proof of 
+concept of unproven, risky technologies." 
+The Petitioner has shown that he is a capable and productive researcher, whose work has been of value 
+in his field. Nevertheless, the materials cited as evidence of his claimed stature at the top of his field 
+rely on limited comparisons (such as comparing the citation rate of an article to the citations of other 
+articles in the same issue of the same journal). This method highlights the Petitioner's most successful 
+publications, without showing a consistent pattern of such success. Focusing only on the Petitioner's 
+most highly-cited articles conflates isolated "contributions of major significance" with an overall 
+pattern of "sustained acclaim." 
+In terms of the Petitioner's demonstrable impact, commercialization of his work was still at a very 
+early stage at the time of filing, and the record provides little information aboutl I other than to 
+establish that it exists ( or existed as of 2018). 
+The objective evidence in the record indicates that some of the Petitioner's most recent efforts have 
+attracted attention in the field, and authorities such as the Small Business Administration view his 
+work as promising. The record is less persuasive with respect to the realization of that promise, and 
+solicited descriptions of the Petitioner's claimed standing in the field show unmistakable evidence of 
+shared authorship, which undermines the claimed independence of those descriptions and thus their 
+value as evidence of sustained acclaim. 
+The record, as a whole, does not establish the Petitioner's eligibility for the benefit sought. The Petitioner 
+seeks a highly restrictive visa classification, intended for individuals already at the top of their 
+respective fields, rather than those progressing toward the top. USCIS has long held that even athletes 
+performing at the major league level do not automatically meet the statutory standards for 
+classification as an individual of "extraordinary ability." Matter of Price, 20 I&N Dec. 953, 954 
+(Assoc. Comm'r 1994). While the record shows that the Petitioner's accomplishments have been well 
+received, the totality of the evidence does not indicate he has sustained national or international acclaim 
+and he is among the small percentage at the top of his field. See section 203(b )(1 )(A)(i) of the Act 
+and 8 C.F.R. § 204.5(h)(2). 
+III. CONCLUSION 
+The appeal will be dismissed for the above stated reasons. In visa petition proceedings, it is the 
+petitioner's burden to establish eligibility for the immigration benefit sought. Section 291 of the Act, 
+8 U.S.C. § 1361. The Petitioner has not met that burden. 
+ORDER: The appeal is dismissed. 
+7 

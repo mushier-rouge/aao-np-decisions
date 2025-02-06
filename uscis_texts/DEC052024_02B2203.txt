@@ -1,0 +1,139 @@
+U.S. Citizenship 
+and Immigration 
+Services Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: DEC. 5, 2024 In Re: 34820718 
+Appeal of Texas Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner is a real estate broker who seeks classification as an alien of extraordinary ability. See 
+Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § l 153(b)(l)(A). This first 
+preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation . 
+The Texas Service Center Director denied the Form 1-140, Immigrant Petition for Alien Workers 
+(petition), concluding that the record did not establish that she received a major, internationally 
+recognized award, nor did she demonstrate that she met at least three of the ten regulatory criteria. 
+The Petitioner filed a subsequent motion to reopen and reconsider that the Director dismissed for not 
+meeting the requirements of those motion types. The matter is now before us on appeal. 
+The Petitioner bears the burden ofproof to demonstrate eligibility to U.S. Citizenship and Immigration 
+Services (USCIS) by a preponderance of the evidence. Section 291 of the Act; Matter ofChawathe, 
+25 I&N Dec. 369, 375 (AAO 2010). We review the questions in this matter de novo. Matter of 
+Christo 's Inc., 26 l&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, we will dismiss the 
+appeal. 
+We begin any appeal ensuring the filing party identifies an erroneous conclusion of law or statement 
+of fact within the most recent decision in a previous proceeding. See 8 C.F.R. § 103.3(a)(l)(v), 
+103.3(a)(2)(i)-(iv). This applies to appeals of adverse conclusions on petitions and applications or 
+appeals of adverse decisions on motions. Under that framework , we look to whether the Director met 
+their responsibilities for that particular type of decision ( e.g., petition denials or revocations versus 
+motion dismissals) . When it comes to motions, we evaluate the following: 
+1. For a motion to reopen at 8 C.F.R. § 103.5(a)(2) we consider whether the Petitioner stated 
+new facts and supported those facts with documentary evidence; and 
+2. For a motion to reconsider at 8 C.F.R. § 103.5(a)(3) we consider whether the Petitioner 
+established the Director's prior decision was based on an incorrect application of law or 
+policy, and whether the decision was incorrect based on the evidence in the record of 
+proceedings at the time of the decision. 
+As a result, we consider whether the Petitioner has demonstrated that the Director improperly 
+dismissed the motion to reopen and reconsider. But here, the Petitioner's appeal brief contains the 
+identical arguments she presented to the Director when she filed her combined motions, and she only 
+amended the brief in some parts to reflect the case is procedurally now being appealed instead of 
+motioned. In other words, she argues on appeal why she believes the Director's petition denial was 
+incorrect instead of why the Director's motion dismissal was performed in error. So, her failure to 
+address why the Director's motion dismissal contained any erroneous conclusion of law or statement 
+of fact is a singularly sufficient basis to dismiss her appeal. 
+But, even considering a portion of the underlying petition denial, the Petitioner initially claimed she 
+commanded a high salary or other significantly high remuneration for services, in relation to others in 
+the field under the regulation at 8 C.F.R. § 204.5(h)(3)(ix). The Petitioner asserted she earned a high 
+salary or a significantly high remuneration based on the earnings of her real estate brokerage company 
+consisting of the company earnings and what she presents as its commissions from 2022. 
+Subsequently, the Petitioner claimed the company's earnings and commissions as comparable 
+evidence. 
+When the Director denied the petition, they noted among other shortcomings, that the Petitioner did 
+not provide evidence ofthe salary or remuneration that the Beneficiary actually received. In particular, 
+the Director discussed the letter from the Petitioner's accountant and two pages of a business tax 
+return. The Director noted a lack of evidence to corroborate the accountant's claims that all the 
+company's earnings were essentially the Petitioner's earnings. The Director also raised the issue that 
+even though the partial tax return reflected compensation for the organization's officers' and salaries 
+and wages, the material as a whole left it unclear what amount the company paid to the Petitioner or 
+what amount remained that she could claim under the salary or remuneration criterion. 
+And because the Petitioner had directly claimed the salary or remuneration criterion, the Director did 
+not offer analysis of her comparable evidence claims as foreign nationals may only properly claim 
+comparable evidence "if it is determined that the evidentiary criteria described in the regulations do 
+not readily apply to the person's occupation." See generally 6 USCJS Policy Manual F.2(B)(l), 
+https://www.uscis.gov/policymanual. Further, USCIS policy provides that "[a] general unsupported 
+assertion that the listed evidentiary criterion does not readily apply to the petitioner's occupation is 
+not probative." Id. Stated differently, the filing party must demonstrate that the criterion is not readily 
+applicable to their occupation and general statements or claims are not sufficient to allow them to 
+claim comparable evidence. 
+But simply claiming the company's earnings as the Beneficiary's own is problematic, as those are 
+earnings for the organization, and her appeal does not address the Director's conclusions. Although 
+the motion brief-and the nearly identical appeal brief-address the company's total income, the tax 
+returns reflect deductions from total income reducing the amount by 87 percent. We observe the 
+Petitioner's claims and some evidence in the record characterizes the company's total income as 
+comm1ss10ns. 
+Yet, the partial tax returns are not in agreement with that characterization. Instead, the partial tax 
+returns reflect that amount is the organization's gross receipts or sales rather than a form of income 
+2 
+earned from business transactions. The Petitioner must resolve this ambiguity in the record with 
+independent, objective evidence pointing to where the truth lies. Matter of Ho, 19 I&N Dec. 582, 
+591-92 (BIA 1988). The Petitioner has not presented a persuasive argument why the company's sales 
+without adjusting for the expenses of generating those sales (i.e., gross sales) should be the amount 
+we consider as her salary or remuneration. 
+On the partial tax returns, subtracting the deductions from the gross receipts or sales would result in 
+the remaining amount of $132,524 as the high salary or significantly high remuneration the Petitioner 
+could claim under the relative criterion. 1 As evidence in which to compare this amount under the 
+salary criterion, the Petitioner offered data from the Bureau of Labor Statistics and other resources 
+mostly demonstrating what the average or mean salary was for real estate brokers across the United 
+States or by state. She also offered more granular data for real estate brokers in different parts of 
+Florida, where she operates the business. 
+But some of the data in that evidence was in conflict. For example, an article from Zip Recruiter 
+reflected the average pay in Florida was $80,917 while those working in the I Iarea earn 
+approximately 11 percent more than that amount, but the evidence from Indeed only reflected the 
+average salary for a real estate broker inl lof $78,367. The Petitioner did not explain why she 
+offered evidence from one source reflecting an average salary for a higher paying area that was well 
+below the average salary for the entire state contained within other evidence. The Petitioner must 
+remedy this discordant information in the record. Such a correction must be demonstrated through the 
+submission of relevant, independent, and objective evidence that reveals which facts are accurate. See 
+Ho, 19 I&N Dec. at 591-92. 
+That brings us to our final point the Director raised in their request for evidence and in the petition denial. 
+The Director informed the Petitioner she did not provide evidence showing what other similarly 
+positioned real estate brokers who were business owners were commanding as a salary or remuneration 
+(versus those who work under another broker such as associate brokers), and specifically in the I I 
+Florida area where the Petitioner operates her company. In the Petitioner's motion filing, she offered 
+evidence relating to this aspect showing that managing real estate brokers in Florida earn an average 
+salary of $156,498. She also offered evidence from other sources presenting average or median 
+compensation in the United States in general. 
+We note the salary.com website contained a tool for the Petitioner to specify a city in Florida, which could 
+have increased the average salary data, but she did not make that selection when printing out the evidence. 
+We reiterate that the ambiguity the Petitioner introduced in the record of what amount her compensation 
+was, weighs against her here too. As it appears her after-expense compensation was $132,524 for the 
+provided tax year, that is well below the average for managing real estate brokers, even when 
+considering the entire state of Florida. 
+While salary surveys for the state where the Petitioner works are relevant, a more accurate comparison 
+would be in the specific area where she operates, especially when that area is known to have significantly 
+1 Because the Petitioner only offered a partial two-page tax return, the record does not inform us what fell under line 19 
+"Other deductions" because the foreign national did not provide the full tax return with the required attached statement. 
+This serves to further cloud whether any portion of those funds resulted in a salary or remuneration for the Petitioner. 
+3 
+elevated property values compared to other parts ofthe state. We note the USCIS Policy Manual informs 
+petitioners that specific geographic evidence, or material pertinent to the applicable work location, could 
+be considered to be more relevant than other types of evidence. See generally 6 USCIS Policy Manual, 
+supra, F.2(8)(1 ). 
+Also, surveys detailing salaries at the upper end ofan occupation are more valuable than those showing 
+only average, median, or mean wages. Proving a salary is "above average" typically doesn't suffice 
+to establish "a high salary or other significantly high remuneration." More comprehensive wage data 
+is needed to effectively demonstrate eligibility under this criterion. 
+Not only has the Petitioner failed to identify an error in the Director's decision on her motions, but she 
+also did not orient the appeal brief to address that decision. The failure to do so means her appeal does 
+not overcome the most recent decision from the Director. It also means this appeal warrants a 
+summary dismissal according to the regulation at 8 C.F.R. § 103.3(a)(l)(v), and it was unnecessary 
+that we provide the above analysis under the salary or remuneration criterion. 
+Further, because the most recent decision was related to the motions and not to the petition filing, 
+when the Petitioner did not contest any issue within the Director's motion decision, she abandoned 
+her claims relating to those issues. E.g., Matter Khan, 28 I&N Dec. 850, 852 n.4 (BIA 2024) (finding 
+a topic is waived that was an issue before the lower adjudicative body but the filing party does not 
+raise it on appeal); see also Silberman v. Miami Dade Transit, 927 F.3d 1123, 1134 n.6 (11th Cir. June 
+17, 2019). We make this notation to inform the Petitioner that an attempt to file a motion on this 
+appellate decision to address the Director's motion dismissal will not likely be considered, as those 
+topics are waived throughout any proceeding based on this particular petition. 
+ORDER: The appeal is dismissed. 
+4 

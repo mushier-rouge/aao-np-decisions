@@ -1,0 +1,240 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 16025413 
+Appeal of Texas Service Center Decision Non-Precedent Decision of the 
+Administrative Appeals Office 
+Date: MAY 17, 2021 
+Form I-140, Immigrant Petition for Alien Worker (Extraordinary Ability) 
+The Petitioner, a cybersecurity firm, seeks to classify the Beneficiary as an individual of extraordinary 
+ability. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). 
+This first preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. 
+The Director of the Texas Service Center denied the petition, concluding that although the record 
+established that the Petitioner satisfied the initial evidentiary requirements, it did not establish, as 
+required, that the Beneficiary has sustained national or international acclaim and is an individual in 
+the small percentage at the very top of the field. 
+The Petitioner then filed a combined motion to reopen and reconsider. The Director dismissed both 
+motions. The matter is now before us on appeal. 
+In these proceedings, it is the Petitioner's burden to establish eligibility for the requested benefit. 
+Section 291 of the Act, 8 U.S.C. § 1361. Upon review, we will dismiss the appeal. 
+I. LAW 
+Section 203(b )(1 )(A) of the Act makes immigrant visas available to individuals with extraordinary 
+ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work m the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively the 
+United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate 
+international recognition of the beneficiary's achievements in the field through a one-time 
+achievement (that is, a major, internationally recognized award). If that petitioner does not submit 
+this evidence, then it must provide sufficient qualifying documentation that meets at least three of the 
+ten criteria listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as awards, published material 
+in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the beneficiary is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+The Beneficiary worked as an applications engineer forl I in India before earning a master's degree 
+atl I university. The Petitioner hired him in 2014, first as a chief software architect and, since 
+2018, as a chief scientist. 
+The Director initially denied the petition in March 2020. The Petitioner filed its combined motion in May 
+2020, and the Director dismissed both motions in August 2020. The matter on appeal before us is the 
+August 2020 motion dismissal, not the March 2020 denial of the underlying petition. In the August 2020 
+decision, the Director did not affirm the prior denial. Rather, the Director concluded that the motion did 
+not meet the applicable requirements. Therefore, the question before us on appeal is whether the Director 
+erred in dismissing the motion. Although the March 2020 denial notice is not before us, we will refer to 
+portions of that decision for context. 
+A. Motion to Reopen 
+A motion to reopen must state the new facts to be proved in the reopened proceeding and be supported 
+by affidavits or other documentary evidence. 8 C.F.R. § 103.5(a)(2). A motion that does not meet 
+applicable requirements shall be dismissed. 8 C.F.R. § 103.5(a)(4). 
+The Petitioner initially claimed that the Beneficiary satisfied six of ten initial evidentiary criteria at 
+8 C.F.R. § 204.5(h)(3), summarized below: 
+• (ii), Membership in associations that require outstanding achievements; 
+• (iv), Participation as a judge of the work of others; 
+• (v), Original contributions of major significance; 
+• (vi), Authorship of scholarly articles; 
+2 
+• (viii), Leading or critical role for distinguished organizations or establishments; and 
+• (ix), High remuneration for services. 
+The Director concluded that the Petitioner submitted sufficient evidence to meet the criteria numbered 
+(iv), (v), and (vi), but not the other three claimed criteria. In a final merits determination, the Director 
+cited four grounds, discussed below, for concluding that the Petitioner had not established that the 
+Beneficiary has earned sustained national or international acclaim. The Petitioner addressed each of 
+these grounds in the motion to reopen. 
+1. Membership in Associations 
+The regulation at 8 C.F.R. § 204.5(h)(3)(ii) calls for documentation of a beneficiary's membership in 
+associations in the field, which require outstanding achievements of their members, as judged by 
+recognized national or international experts in their disciplines or fields. The Petitioner initially asserted 
+that the Beneficiary meets this requirement as a senior member of the Institute of Electrical and 
+Electronics Engineers (IEEE). The Director discussed this membership under the individual criteria at 
+8 C.F.R. § 204.5(h)(3), but also asserted that, given the regulation's wording, the regulations were also 
+relevant at the final merits determination. The Director concluded that the membership requirements do 
+not reflect sustained national or international acclaim. 
+On motion, the Petitioner asserted: "Senior membership is regarded as a significant achievement because 
+less than 2% of the overall IEEE members are elevated to the senior member status globally each year." 
+The record shows that senior member status in the IEEE requires "at least ten years" "in professional 
+practice," with "significant performance over ... at least five of those years." As the Director noted, there 
+is a higher level of membership, "Fellow." IEEE members can apply for senior member status, but fellow 
+status is "conferred by the Board of Directors upon a person with an outstanding record of 
+accomplishments" that "have contributed importantly to the advancement or application of engineering, 
+science and technology." The Director concluded that fellow status is more indicative of acclaim than 
+senior membership in the IEEE. 
+Also on motion, the Petitioner submitted new evidence of the Beneficiary's membership in Sigma Xi, 
+described as a "Scientific Research Honor Society." The membership certificate indicates that the 
+Beneficiary "was duly elected ... in the year 2020." Sigma Xi's bylaws require "noteworthy achievement 
+as an original investigator in a field of pure or applied science," but do not specify the nature of such 
+achievement beyond stating that the evidence can take the form of "publications, patents, written reports 
+or a thesis or dissertation." 
+In dismissing the motion, the Director concluded that the Petitioner had not shown that the Beneficiary's 
+membership in either IEEE or Sigma Xi meets the regulatory requirements. 
+On appeal, the Petitioner repeats the assertion that "[l]ess than 2% of the overall IEEE members are 
+elevated to the senior member status globally each year," and that a panel reviews applications for senior 
+membership, but this information does not establish that IEEE senior membership meets the requirements 
+of 8 C.F.R. § 204.5(h)(3)(ii), or -more relevant to a final merits determination -that senior member 
+status either results from, or results in, sustained national or international acclaim. The "2%" figure does 
+3 
+not establish that those promoted to senior member status are in the top 2% of the field; requirements 
+such as ten years of experience restrict eligibility in ways unrelated to achievement or recognition. 
+The Petitioner also repeats the assertion that Sigma Xi "induct[ ed the Beneficiary] as a full member 
+2020." Because this induction took place after the petition's December 2019 filing date, this new 
+evidence cannot establish eligibility as of the petition's filing date as required by 8 C.F.R. § 103.2(b)(l). 
+Also, the Petitioner does not establish that Sigma Xi's requirement of"noteworthy achievement" equates 
+to the "outstanding achievements" demanded by the regulation. 
+The Petitioner states that the IEEE "is the world's largest technical professional society" and "Sigma Xi 
+is the world's largest scientific honor society," but the large size of these associations implicitly argues 
+against restrictive membership requirements. 
+The Director concluded that the Beneficiary's memberships in Sigma Xi and the IEEE do not establish 
+sustained national or international acclaim in the field. For the reasons discussed above, we conclude that 
+the Petitioner has not overcome this conclusion on appeal. 
+2. Reviewing and Judging 
+In the March 2020 denial decision, the Director acknowledged that the Beneficiary's "participation in 
+Technical Program Committees, Panels and Presentations" technically satisfies the criterion at 8 C.F.R. 
+§ 204.5(h)(3)(iv), pertaining to judging the work of others, but the Director concluded that this activity 
+was "very limited," and that the Petitioner had not shown that the Beneficiary had received invitations to 
+judge "on the basis of his extraordinary ability." 
+On motion, the Petitioner submitted invitations to review manuscripts submitted for publication in various 
+journals. In dismissing the motion, the Director noted that these invitations took place after the petition's 
+December 2019 filing date. 
+On appeal, the Petitioner states that the Beneficiary was "invited to participate in research panels at 
+international conferences and workshops." The Petitioner lists four such panels that occurred between 
+201 7 and 2019. In the context of the final merits determination, the key question is whether the 
+conference organizers invited the Beneficiary to participate in the panels owing to his acclaim in the field, 
+rather than because he cleared a substantially lower threshold such as subject matter expertise. The 
+Petitioner cites no evidence on appeal that answers this question. 
+The Petitioner has not overcome, or directly addressed, the Director's conclusions from the August 2020 
+decision dismissing the motion. 
+3. Scholarly Articles 
+In the March 2020 denial notice, the Director concluded that the Beneficiary's scholarly writings meet 
+the technical requirements of 8 C.F.R. § 204.5(h)(3)(vi), but that the Petitioner did not establish that those 
+articles had contributed to sustained acclaim. The Director stated that the Beneficiary's published work 
+took the form of a small number of minimally cited conference proceedings and patents, rather than 
+articles "in reputed national or international scientific journals." 
+4 
+On motion, the Petitioner showed that some of the Beneficiary's articles appeared in journals prior to the 
+filing date. The Petitioner also submitted patent filings from 2020. The Petitioner stated that "the 
+beneficiary's patents have been cited 39 times as of May 2020," but did not establish that this citation rate 
+demonstrates sustained acclaim or otherwise indicates a commensurate degree of influence in the field. 
+The Petitioner also asserted that the Beneficiary "has been ... publishing detailed technical reports" from 
+his work "with some of the world's largest communication companies." We note that the cover pages of 
+these reports in the record are marked "CONFIDENTIAL -RESTRICTED ACCESS," with the 
+instruction that they "shall not be disclosed outside of' the clients that commissioned the reports. Because 
+publication entails dissemination, confidential reports do not qualify as published scholarly articles. 
+In the August 2020 decision dismissing the motion, the Director noted that some of the motion evidence 
+relates to a period after the filing of the petition. 
+On appeal, the Petitioner states that the Director "did not consider the Journal publications and wrongly 
+[asserted that] no articles were published in the international journals." The Petitioner discusses two 
+journal articles and a patent published prior to the filing date. 
+The Petitioner is correct that the Director's August 2020 decision did not address the Petitioner's pre­
+filing publications. Nevertheless, it remains that, in the March 2020 decision, the Director acknowledged 
+that"[ t ]he beneficiary did meet this criterion" for the purposes of the initial evidentiary requirements. For 
+the final merits determination, the issue is not whether the Beneficiary's articles exist, but whether the 
+industry's response to those articles amounts to sustained acclaim placing him at the top of the field. The 
+Petitioner has shown that the Beneficiary has produced published work, and unpublished confidential 
+reports for clients, but the existence of such material does not establish acclaim. On appeal, the Petitioner 
+does not establish that its motion to reopen established that acclaim. 
+The Petitioner has not overcome this issue on appeal. 
+4. Leading or critical roles 
+The regulation at 8 C.F.R. § 204.5(h)(3)(viii) calls for evidence that the individual has performed in a 
+leading or critical role for organizations or establishments with a distinguished reputation. In the March 
+2020 denial, the Director concluded that the Petitioner had not established the distinguished reputations 
+of the organizations for which the Beneficiary had performed in such roles. Apart from not satisfying the 
+requirements of the criterion, the Director stated: 'This is also a contributing factor to conclude that the 
+beneficiary did not meet the final merits determination." 
+On motion, the Petitioner submitted letters from various clients, and stated that these client letters 
+establish the Petitioner's distinguished reputation. In dismissing the motion, the Director acknowledged 
+these letters but did not state any conclusions regarding them. On appeal, the Petitioner asserts that the 
+Director did not give due consideration to the letters. Therefore, we will discuss them below. 
+In separate letters, officials atl t I ] and I I each stated that the Petitioner "is 
+an industry recognized cybersecurity research and analysis organization." Officials atl ., I ::i.nd 
+5 
+I I each stated that the Petitioner "is an industry recognized cybersecurity research and analysis 
+firm." An official o-A I ,-tated that the Petitioner "is a distinrished cybersecurity research and 
+analysis company with industry recognition," while an official of 1 • I 
+I I stated that the Petitioner "is a recognized cybersecurity and cyber risk services organization." 
+Other clients described the services that the Petitioner performed for them but did not directly address the 
+company's reputation. 
+Vague, general references to the Petitioner's reputation do not suffice to establish a distinguished 
+reputation. Merely repeating the language of the statute or regulations does not satisfy a petitioner's 
+burden of proof FedinBros. Co., Ltd. v. Sava, 724 F. Supp. 1103, 1108 (E.D.N.Y. 1989), aff'd, 905 F.2d 
+41 (2d Cir. 1990). 
+We emphasize that, in the initial March 2020 denial notice, the Director concluded that the Petitioner had 
+satisfied three of the initial evidentiary criteria; the denial resulted from the final merits determination. 
+The argument that the Petitioner satisfied a fourth initial criterion would not establish acclaim in the final 
+merits determination. 
+In the context of the Beneficiary's acclaim, it is significant that the letters submitted on motion focused 
+on the services that the Petitioner provided. Some letters did not mention the Beneficiary at all; others 
+did so only to identify him as a member or leader of the team providing those services. The following 
+examples illustrate the point: 
+• I I "Led by [the Beneficiary], the [Petitioner's] security team has been working 
+with our security and architecture teams to identify and mitigate platform security issues." • I l"Led by [the Beneficiary], the [Petitioner's] team has been working closely with our 
+security and architecture teams to secure our platform services." • I I "Led by [the Beneficiary], the [Petitioner's] team has worked closely with our product 
+engineering team in certifying data security and compliance ofl lcloud-based information 
+services." 
+These letters amount to testimonials from satisfied clients; they do not show that the Beneficiary has 
+earned sustained national or international acclaim in his field. 
+For the above reasons, the Petitioner has not established that the Director reached erroneous conclusions 
+with respect to the motion to reopen. 
+B. Motion to Reconsider 
+A motion to reconsider must state the reasons for reconsideration and establish that the decision was 
+incorrect based on the evidence ofrecord at the time of the initial decision. 8 C.F.R. § 103.5(a)(3). 
+In its motion to reconsider, the Petitioner stated: "When considering all the newly submitted evidence 
+along with what was previously submitted, we believe that [the Beneficiary] ... has a degree of expertise 
+significantly above that ordinarily encountered in the sciences." A motion to reconsider must establish 
+that the prior decision was incorrect based on the evidence of record at the time of that decision. See 
+6 
+8 C.F.R. § 103.5(a)(3). Therefore, "newly submitted evidence" cannot support a motion to reconsider, 
+and is properly considered, instead, in the context of a motion to reopen ( already addressed above). 
+In the motion to reconsider, the Petitioner alleged no specific error in the March 2020 denial notice except 
+to note that the Director referred to I I University" instead of I I University." The 
+Petitioner acknowledged: "we believe that [the Director] just made a typographical error," rather than a 
+substantive error that affected the outcome of the decision. 
+Apart from the misspelling of I , I' the Petitioner contended more generally that the Director did 
+not "explain the specific reasons" for the denial. The Director, however, devoted two full pages of the 
+March 2020 decision to the final merits determination (not counting the space devoted to the initial 
+evidentiary criteria). The Petitioner tailored its motion to reopen to several of the points the Director 
+raised in that discussion ( and which we discussed above). The record does not support the Petitioner's 
+claim on motion that the March 2020 decision lacked "specific reasons" for the denial. 
+On appeal, the Petitioner focuses on the evidence submitted in the motion to reopen. The Petitioner does 
+not establish that the Director should have granted the concurrent, but procedurally separate, motion to 
+reconsider. 
+III. CONCLUSION 
+As explained above, the Petitioner has not shown that the Director should have granted its motions to 
+reopen and reconsider. Because the Petitioner has not overcome the Director's August 2020 decision 
+dismissing those motions, we will not directly address the March 2020 denial or the merits of the 
+underlying petition. 
+ORDER: The appeal is dismissed. 
+7 

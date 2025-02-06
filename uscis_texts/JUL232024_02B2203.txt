@@ -1,0 +1,140 @@
+U.S. Citizenship 
+and Immigration 
+Services Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: JULY 23, 2024 In Re: 32526301 
+Appeal of Nebraska Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a video game and digital entertainment company, seeks to permanently employ the 
+Beneficiary as a senior staff graphics programmer. It requests his classification under the 
+employment-based, first-preference (EB-1) immigrant visa category as a noncitizen with 
+"extraordinary ability." See Immigration and Nationality Act (the Act) section 203(b )(1 )(A), 8 U.S.C. 
+§ 1 l 53(b )( 1 )(A). Successful petitioners in this category must demonstrate that noncitizen beneficiaries 
+have received "sustained national or international acclaim" and extensively-documented recognition 
+of their achievements in their fields. Section 203(b)(l)(A)(i) of the Act. 
+The Director of the Nebraska Service Center denied the petition. The Director concluded that the 
+Beneficiary met two of ten initial evidentiary requirements -one less than needed to obtain a final 
+merits determination. On appeal, the Petitioner contends that it also satisfied two additional criteria: 
+evidence of the Beneficiary's receipt of lesser nationally or internationally recognized awards; and 
+proofof his original contributions ofmajor significance in his field. The company alternatively argues 
+that it has submitted "comparable evidence" to meet these criteria. 
+The Petitioner bears the burden of demonstrating eligibility for the requested benefit by a 
+preponderance of the evidence. Matter of Chawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). 
+Exercising de novo appellate review, see Matter of Christo 's, Inc., 26 I&N Dec. 537, 53 7 n.2 (AAO 
+2015), we conclude that the company has met the requisite number of initial criteria by submitting 
+evidence of the Beneficiary's original contributions of major significance to the video game industry. 
+We will therefore withdraw the Director's contrary decision and remand the matter for a final merits 
+determination and entry of a new decision consistent with the following analysis. 
+I. LAW 
+To qualify a beneficiary as a noncitizen with extraordinary ability, a petitioner must demonstrate that 
+the beneficiary: 
+• Has "extraordinary ability in the sciences, arts, education, business, or athletics;" 
+• Seeks to continue work in their field of expertise in the United States; and 
+• Through their work, would substantially benefit the country. 
+Section 203(b)(l)(A)(i)-(iii) of the Act. 
+The term "extraordinary ability" means expertise commensurate with "one of that small percentage 
+who have risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). Evidence must 
+demonstrate a noncitizen's receipt of either "a major, international recognized award" or satisfaction 
+of at least three of ten lesser evidentiary standards. 8 C.F.R. § 204.5(h)(3)(i-x). 1 
+If a petitioner meets either of the evidentiary criteria above, USCIS must make a final merits 
+determination as to whether the record, as a whole, establishes sustained national or international 
+acclaim and recognized achievements placing a beneficiary among the small percentage at their field's 
+very top. Kazarian v. USCIS, 596 F.3d 1115, 1119-20 (9th Cir. 2010); see generally 6 USCIS Policy 
+Manual F.(2)(B), www.uscis.gov /policy-manual. 
+II. ANALYSIS 
+The record shows that the Beneficiary, a Canadian native and citizen, has been programming graphics 
+for video games for about the past 20 years. The Petitioner states that the Beneficiary's work involves 
+creating algorithms and software to transform digital information into visually compelling images. 
+His work -known as "graphics rendering programming " or "graphics rendering engineering" -
+includes application of intricate lighting and shading techniques and integration of three-dimensional 
+models underlying the visual aspects of video games. 
+The Petitioner states that graphics rendering programming plays a critical role in a video game's 
+overall success, bringing the game creator's vision to life by polishing the visual field that players see 
+on their screens. Graphics' degrees of technical and artistic quality determine the extent of players' 
+sensory and immersive experiences . 
+The Director found that the Petitioner met the following two initial evidentiary requirements: e vidence 
+that the Beneficiary performed in a leading or critical role for organizations with distinguished 
+reputations; and proof of his commandment of a high salary or other significantly high remuneration 
+for services compared to others in the field. See 8 C.F.R. § 204.5(h)(3)(viii), (ix). On appeal, the 
+Petitioner contends that it also satisfied two additional criteria: evidence of the Beneficiary's receipt 
+of lesser nationally or internationally recognized awards for excellence in his field; and proof of his 
+original contributions of major significance in the field. See 8 C.F.R. § 204.5(h)(3)(i), (v). 
+When adjudicating evidentiary criteria, USCIS determines whether "evidence submitted by the 
+petitioner objectively meets the parameters of the regulatory description that applies to that type of 
+evidence." 6 USCIS Policy Manual F.(2)(B)(l). USCIS may not "unilaterally impose novel 
+substantive or evidentiary requirements beyond those set forth at 8 C.F.R. § 204.5." Kazarian, 
+596 F.3d at 1121. 
+1 If an evidentiary standard does not "readily apply" to a beneficiary's occupation , a petitioner may submit "comparable 
+evidence" to establish eligibility. 8 C.F.R. § 204.5(h)(4). 
+2 
+A. Original Contributions of Major Significance 
+To meet this criterion, a petitioner must submit "[e]vidence of the [noncitizen]'s original scientific, 
+scholarly, artistic, athletic, or business-related contributions of major significance in the field." 
+8 C.F.R. § 204.5(h)(3)(v). 
+When adjudicating this requirement, USCIS first determines whether beneficiaries have made original 
+contributions in their fields. See generally 6 USCIS Policy Manual F.(2)(B)(l). If so, the Agency 
+then determines whether the original contributions are of major significance in the fields. Id. 
+The Petitioner submitted: letters from former supervisors and co-workers of the Beneficiary and a 
+U.S. professor of visual communication design; video game descriptions; and published articles about 
+video games. The Director acknowledged the Beneficiary's "many original contributions" to specific 
+video games. But the Director concluded that the Petitioner did not demonstrate that the Beneficiary's 
+original contributions had major significance in the video game industry. 
+The letters that the Petitioner provided, however, sufficiently show that the Beneficiary's 
+programming innovations in specific video games significantly influenced the industry as a whole. 
+The record shows that the Beneficiary has worked on more than 16 major video game projects. But 
+his innovations in a 2005 action role-playing game provide an example of his contributions and their 
+influence on the video game industry. In that game, the Beneficiary implemented a novel real-time 
+physics-based bone system for animated characters. The visual design professor stated that this 
+innovation occurred a year before introduction of the first dedicated processor for hardware­
+accelerated physics in video games and several years before the addition of dedicated physics 
+processors to video game consoles. The professor stated: 
+Thus, for [the Beneficiary] to not only conceive of but design and implement this 
+original system in [the game] was a contribution of major significance, as it 
+demonstrated a run-time physics modeling system that can run smoothly on existing 
+consoles without the need for dedicated hardware, necessarily influencing the trajectory 
+of other developers' own design decisions due to the prominence of [the Beneficiary's 
+then employer] in the industry. 
+The letters state that, in the same game, the Beneficiary developed a camera system called "continuous 
+collision detection" that allowed an in-game camera to "smoothly traverse and collide the virtual 
+space" without jarring or sudden jumps when obstacles appeared. The professor stated that the 
+Beneficiary "played a significant early role in demonstrating and popularizing this technology, which 
+has since become standard in the videogame industry and is now widely implemented as a default 
+functionality in ... popular videogame engines." 
+Further, in the same 2005 game, the Beneficiary helped create a streaming system that allowed the 
+game to load areas into memory based on a player's location or potential location and permitting the 
+game to unload all unneeded areas. The professor stated: 
+This process of "asset streaming," as it is now known, is widely utilized today in the 
+video game industry but was a rarity at the time [the Beneficiary] contributed to [the 
+3 
+game]'s development, having only emerged around the millennium with the advent of 
+home videogame consoles capable of 3D graphics .... [The Beneficiary] contributed 
+impactfully to the adoption of in-game data streaming in 3D graphics rendering, a 
+major trend which has facilitated the industry's focus on open-world (a.k.a. sandbox) 
+video games ... and driven considerable innovation in the production of photorealistic 
+graphics in the videogame industry. 
+Thus, the Petitioner has submitted independent, objective evidence that the Beneficiary's original 
+contributions have had major significance in the video game industry. We will therefore withdraw the 
+Director's contrary finding. 
+B. Remaining Arguments 
+The Petitioner has met the required number of initial evidentiary criteria. Thus, we need not consider 
+the company's remaining arguments regarding the Beneficiary's purported receipt of nationally or 
+internationally recognized awards for excellence in his field or other comparable evidence. See INS 
+v. Bagamasbad, 429 U.S. 24, 25 (1976) (stating that agencies need not make "purely advisory 
+findings" on issues unnecessary to their ultimate decisions); see also Matter ofL-A-C-, 26 I&N Dec. 
+516, 526 n. 7 (BIA 2015) ( declining to reach alternate issues on appeal ifan applicant did not otherwise 
+meet their burden of proof). 
+As the Petitioner has met at least three initial evidentiary criteria, USCIS must now conduct a final 
+merits determination. See Kazarian, 596 F.3d at 1119-20; 6 USCIS Policy Manual F.(2)(B). Rather 
+than make this determination in the first instance, we will remand the matter. 
+On remand, the Director must determine whether the Beneficiary has sustained national or 
+international acclaim and recognized achievements in his field identifying him as one of that small 
+percentage who have risen to the field's very top. See 6 USCIS Policy Manual F.(2)(B)(2). The 
+Director should consider any potentially relevant evidence, even if it does not fit a regulatory criterion 
+or was not presented as comparable evidence. Id. The petition's approval or denial should stem from 
+the evidence's type and quality. Id. 
+III. CONCLUSION 
+By submitting proof that the Beneficiary made original contributions ofmajor significance in the video 
+game industry, the Petitioner met the requisite third initial evidentiary criteria. 
+ORDER: The Director's decision is withdrawn. The matter is remanded for entry of a new 
+decision consistent with the foregoing analysis. 
+4 

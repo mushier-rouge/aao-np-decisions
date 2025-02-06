@@ -1,0 +1,215 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 15508867 
+Appeal of Nebraska Service Center Decision Non-Precedent Decision of the 
+Administrative Appeals Office 
+Date: JUN. 8, 2021 
+Form 1-140, Immigrant Petition for Alien Worker (Extraordinary Ability) 
+The Petitioner, an engineering services company, seeks to classify the Beneficiary, an engineer and data 
+scientist, as an individual of extraordinary ability. See Immigration and Nationality Act (the Act) section 
+203(b)(l)(A) , 8 U.S.C. § 1153(b)(l)(A) . This first preference classification makes immigrant visas 
+available to those who can demonstrate their extraordinary ability through sustained national or 
+international acclaim and whose achievements have been recognized in their field through extensive 
+documentation. 
+The Director of the Nebraska Service Center denied the petition, concluding that the record did not 
+establish that the Petitioner had satisfied at least three of ten initial evidentiary criteria, as required. 
+The matter is now before us on appeal. 
+In these proceedings , it is the Petitioner's burden to establish eligibility for the requested benefit. 
+Section 291 of the Act, 8 U.S.C. § 1361. Upon de nova review, we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l)(A) of the Act makes immigrant visas available to individuals with extraordinary 
+ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education , business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work m the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively the 
+United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate 
+international recognition of a beneficiary's achievements in the field through a one-time achievement 
+(that is, a major, internationally recognized award). If that petitioner does not submit this evidence, 
+then it must provide sufficient qualifying documentation that meets at least three of the ten criteria 
+listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as awards, published material in certain 
+media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the beneficiary is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+While he was a graduate student at the.__ ________________ _,, the Beneficiary 
+co-wrote 15 journal articles and conference presentations. After the Beneficia received his doctorate in 
+late 2016, the Petitioner hired him as a senior en ineer in its division, working 
+with technology related t_.__ _________________ ___.. The Petitioner states that 
+the Beneficiary's duties entail "developinr predictive analysis models to improve! I in 
+buildings," "designing regression models_ 0 00 l designing complex software and 
+hardware applications, and tracking and maintaining assets." 
+Because the Petitioner has not indicated or shown that the Beneficiary received a major, internationally 
+recognized award, the Petitioner must submit evidence to satisfy at least three of the alternate 
+regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). The Petitioner initially claimed to have satisfied 
+four of these criteria, summarized below: 
+• (iv), Participation as a judge of the work of others; 
+• (v), Original contributions of major significance; 
+• (vi), Authorship of scholarly articles; and 
+• (viii), Leading or critical role for distinguished organizations or establishments. 
+The Director concluded that the Petitioner met two of the criteria, numbered (iv) and (vi). On appeal, 
+the Petitioner asserts that it also meets the other two claimed criteria. 
+Upon review of the record, we agree with the Director that the Petitioner has satisfied only two claimed 
+criteria. We will discuss the other claimed criteria below. 
+2 
+Evidence of the alien's original scient#fic, scholarly, artistic, athletic, or business-related 
+contributions o_f major significance in the.field. 8 C.F.R. § 204.5(h)(3)(v) 
+On appeal, the Petitioner asserts that the Beneficiary "is internationally recognized for his round­
+breaking developments in the field of risk analysis and probabilistic modeling ~f_or~-~---~ I I rThe Beneficiary] is internationally acclaimed for developing simulatio models that 
+allow the designer to evaluate thd I impacts of~--------~" 
+The Petitioner quotes at length from three previously submitted letters, and contends that these letters, 
+and others in the record, are credible evidence of the Beneficiary's impact on the field, to which the 
+Director did not give enough consideration and weight. 
+To determine whether a petitioner has met their burden under the preponderance standard, 1 we 
+consider not only the quantity, but also the quality (including relevance, probative value, and 
+credibility) of the evidence. Matter of Chawathe, 25 I&N Dec. 369,376 (AAO 2010); Matter o_f E­
+M-, 20 I&N Dec. 77, 79-80 (Comm'r 1989). The very submission ofletters signed by third parties does 
+not satisfy any evidentiary burden or otherwise create a presumption of eligibility. Rather, we must 
+consider the content of the letters. 
+Each letter includes one or more paragraphs of highly technical language describing the nature of the 
+Beneficiary's work, either preceded or followed by general assessments that the contributions thus 
+described are of major significance in the field. Presenting the information in this way, however, does 
+not explain why or how the Beneficiary's contributions are of major significance. Explaining the 
+significance of the Beneficiary's work is not simply a matter of describing that work. 
+Also, in many instances the technical language in the letters is not simply the letter writer's summary of 
+the Beneficiary's work. Rather, the letters include lengthy passages copied from the Beneficiary's 
+articles, presented without attribution, and sli:htly modified in a manner that obscures their origin. For 
+example, a letter signed by the chair of1 _ Is School of I I includes this 
+passage: 
+The significance of this research is that [the Beneficiary] and his co-authors defined 
+and simulated the standard construction details and inferred the uncertainty range ofD 
+!effects with the limited in situ data that is 
+~av-ai-la_b_l_e ___ R_e_s_u_l-ts_o_f~1-_-----
+0-_~ls_i_m_u~lations ~.em ta srnwest caostrnctiao detail 
+design will have a relatively large impact on the[ I 
+properties of thd I 
+The above passage is mostly identical to wording on page 2232 of a 2014 conference paper by the 
+Beneficiary, which is in the record: 
+We defined and simulated the standard construction details and inferred the uncertainty 
+range o~ I effects with the limited in situ 
+data that is available. The I I simulations lead to the following 
+1 Under this standard. a petitioner must show that what it claims is "more likely than not" or "probably" true. 
+3 
+conclusions: (1) Construction detail design will have a relatively large impact on the 
+I I properties of th~ I ... 
+There are other shared passages as well, but the above example serves to demonstrate the point. 
+Another letter, signed by an associate professor at~I --~I University, includes this passage: 
+[The Beneficiary] modeled the mean profiles ;:::an:.:.:d::........:v-=a::..:ri=ab=-1::.·h::.·tyL....:o:..:f-==::,:;-~---~ 
+(presence and actions) se aratel . He used al I distribution to 
+generate mean profiles of while the variability will be represented 
+by ~---.----.....---~series model, within a framework I I that 
+synthesizes.___ __ _. ....,......_.........._..........,d from I I [The Beneficiary] also 
+presented the variants of models with res ect to various outcomes of interest 
+such a--,__ ________________ __.behavior via a sensitivity analysis. 
+Simulation results in the Beneficiary's] work suggest that the approach is able to 1enerate I 
+~--------' profiles, requiring minimum additional input from the 
+modeler other than standard diversity profiles . 
+. . . Another practical contribution of this work is the realization that accurate knowledge 
+of the mean profiles is sufficient -that is models do not la a 
+significant role in the prediction of L---------r---,_ _______ ____J I lwhere the interaction between the operation o systems and the spatial 
+and temporal variabili!YI I is weak. When it comes tol lbehavior, I I should be taken into account, as static profiles are not able to 
+produce adequate estimates o~~-----~probabilities close to theLJ peak. 
+The above language is taken almost word-for-word from the abstract of a 2016 article by the Beneficiary, 
+reproduced in the record: 
+In this paper, we model the mean profiles and variabili of (presence 
+and actions) separately. We will use a~-------~distribution to generate 
+- while the variability will be represented by al~-~ 
+series model, within a framework I J I that s nthesizes 
+1-----~d-at_a_g ..... athered frortj I We then discuss variants o 
+models with res ect to various outcomes of interest such a ~---------~ 
+L_ _____ ,.....'-"-"'-'.......,~L.......L.......,.......,.""'"""','·tivity analysis. Results show that our approach is 
+abll to geTrate~------~profiles, requiring minimum additional input from 
+the modeler other than standard diversity profiles. . . . Such a findin . . . roves 
+that accurate knowledge of the mean profiles is sufficientl-'-th....:.a;_;_t_is.:..e...i. _______ .....,.. 
+models do not play a significant role in the prediction of L_ ______ ---1----1 
+where the interaction between the operation o ~---' 
+~s_y_s-te_m_s-an-d-th-e-sp-a-t1-.a-l_a_n_d~temporal variabili7I lis weak. When it comes to ~----~I behaviorJ 1 ~ ...) should be taken into account, as static 
+profiles are not able to produce adequate estimates otj !probabilities close 
+to thd I peak. 
+4 
+Nearly verbatim passages from the Beneficiary's own work cannot serve as independent evaluations of 
+his work, and have little weight as corroborative evidence of major significance without explanations of 
+the significance of such work. 2 This is a significant issue because those letters are central to the 
+Petitioner's contentions about the significance of the Beneficiary's contributions. 
+The Petitioner also documents citation of the Beneficiary's published work, but the Petitioner has not 
+submitted independent data to show how heavily the Beneficiary's work is cited relative to other 
+published work in the same area. The record therefore lacks an objective basis for comparison to establish 
+the significance of the citation figures. 
+The Petitioner has shown that the Beneficiary has made original scientific contributions, but has not 
+established that those contributions are of major significance in the field. 
+Evidence that the alien has performed in a leading or critical role/or organizations or 
+establishments that have a distinguished reputation. 8 C.F.R. § 204.5(h)(3)(viii) 
+The Petitioner asserts that at the Beneficiary "held a critical role as a Research Assistant 
+in the~---------~ Lab." The director of that laboratory describes various projects in 
+which the Beneficiary participated and courses that the Beneficiary taught, but does not explain how these 
+roles were critical to the lab at the organizational level. Furthermore, the Petitioner submits background 
+evidence to establish the distinguished reputation of I I as a whole, and of its School of 
+[,--___ ,lbut this evidence is general in nature and does not establish that the I I 
+l~--~l'[ai,has a distinguished reputation in its own right. Because reputation is a function of outside 
+perception, statements by an official of the lab are not sufficiently independent evidence that the lab has 
+a distinguished reputation. 
+The Director determined that the Petitioner had not submitted objective evidence to show that the 
+Beneficiary performed in a critical role at the institutional level for I I On appeal, the 
+Petitioner does not directly address this conclusion. Instead, the Petitioner repeats earlier assertions that I ts l I Lab is an internationally recognized leader" in its field. The 
+Petitioner cites no evidence to support this claim except to state that the lab received government research 
+grants. The Petitioner does not establish that the awarding of such grants is a sign of distinction in the 
+field, rather than the expected result of meritorious grant applications. 
+The senior director of Engineering and Development at the Petitioner's I I describes the 
+Beneficiary's role there, stating: "As a data scientist ... , [the Beneficiary] performs automation detection 
+and diagnosis of1 ~ to drive common approaches tol Ito being more 
+predictive through physical models and machine learning." The official cites the Beneficiary's co­
+authorship of three patent applications, and states that the Beneficiary developed "a machine learning 
+based approach" for data capture that "will potentially save the company three (3) full time employees 
+... and will serve as a solid cornerstone to all future digitally delivered service projects." The Petitioner 
+2 Other letters use similarly technical language to describe other articles by the Beneficiary, but those articles are not reproduced 
+in the record for direct comparison with the letters describing them. As a result, the record does not show whether these letters, 
+too, rely heavily on unatttibuted quotations from the Beneficiary's work. 
+5 
+does not submit an organizational chart or other information to establish the Beneficiary's position within 
+the division or the company as a whole. 
+With respect to distinguished reputation, the Petitioner submits printouts from the website of thel I I O I division, but that website consists of promotional material intended to persuade prospective 
+clients, rather than objective evidence of the division's re utation. On appeal, as above, the Petitioner 
+repeats its prior assertion that its "division o is a leadin rovider of automation 
+technologies and services for.__ _______________________ ___. The 
+Petitioner also quotes extensively from the company official's previously submitted letter, which is not 
+independent evidence of the division's reputation. 
+The Petitioner has not established that the Beneficiary meets the requirements of this criterion. 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three of the ten lesser criteria. As a result, we need not provide the type 
+of final merits determination referenced in Kazarian, 596 F.3d at 1119-20. Nevertheless, we advise 
+that we have reviewed the record in the aggregate, concluding that it does not support a conclusion 
+that the Petitioner has established the acclaim and recognition required for the classification sought. 
+The Petitioner seeks a highly restrictive visa classification for the Beneficiary, intended for individuals 
+already at the top of their respective fields, rather than for individuals progressing toward the top. U.S. 
+Citizenship and Immigration Services has long held that even athletes performing at the major league 
+level do not automatically meet the "extraordinary ability" standard. Matter of Price, 20 I&N Dec. 
+953, 954 (Assoc. Comm'r 1994). Here, the Petitioner has not shown that the recognition of the 
+Beneficiary's work is indicative of the required sustained national or international acclaim or 
+demonstrates a "career of acclaimed work in the field" as contemplated by Congress. H.R. Rep. No. 
+101-723, 59 (Sept. 19, 1990); see also section 203(b)(l)(A) of the Act. Moreover, the record does not 
+otherwise demonstrate that the Petitioner is one of the small percentage who has risen to the very top 
+of the field of endeavor. See section 203(b)(l)(A) of the Act and 8 C.F.R. § 204.5(h)(2). The 
+Beneficiary's activities as a judge of the work of others do not appear to extend beyond routine peer 
+review, and the Petitioner has not shown that the Beneficiary's published work has had an impact 
+commensurate with sustained national or international acclaim. The Beneficiary has made valuable 
+contributions atl land then at the petitioning company, but the Petitioner has not shown 
+that these contributions have earned recognition that would place the Beneficiary in the small 
+percentage at the very top of that field. 
+The Petitioner has not demonstrated the Beneficiary's eligibility as an individual of extraordinary 
+ability. The appeal will be dismissed for the above stated reasons. 
+ORDER: The appeal is dismissed. 
+6 

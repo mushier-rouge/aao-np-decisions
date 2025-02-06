@@ -1,0 +1,385 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 8514498 
+Appeal of Nebraska Service Center Decision Non-Precedent Decision of the 
+Administrative Appeals Office 
+Date: WL Y 21, 2020 
+Form 1-140, Immigrant Petition for Alien Worker (Extraordinary Ability) 
+The Petitioner, a computer scientist, seeks classification as an alien of extraordinary ability. See 
+Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). This first 
+preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation . 
+The Director of the Nebraska Service Center denied the petition, concluding that the Petitioner had 
+satisfied only two of the initial evidentiary criteria, of which she must meet at least three. 
+In these proceedings , it is the Petitioner's burden to establish eligibility for the requested benefit. See 
+Section 291 of the Act, 8 U.S.C. § 1361. Upon de nova review, we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education , business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor ." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and the recognition of his or her achievements in the field through a one-time achievement 
+(that is, a major, internationally recognized award). If that petitioner does not submit this evidence, 
+then he or she must provide sufficient qualifying documentation that meets at least three of the ten 
+categories listed at 8 C.F.R. § 204.5(h)(3)(i) -(x) (including items such as awards, published material 
+in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010). 
+II. ANALYSIS 
+The Petitioner indicates employment as a data scientist at .__ ___________ _. inD 
+~--~' California. Because the Petitioner has not claimed or established that she has received a 
+major, internationally recognized award, she must satisfy at least three of the alternate regulatory 
+criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). 
+In denying the petition, the Director determined that the Petitioner fulfilled two of the initial 
+evidentiary criteria, judging at 8 C.F.R. § 204.5(h)(3)(iv) and scholarly articles at 8 C.F.R. 
+§ 204.5(h)(3)(vi). Although we agree with Director that the Petitioner demonstrated that she authored 
+scholarly articles in professional publications, for the reasons discussed later, we do not concur with 
+the Director's decision relating to the judging criterion. 
+On appeal, the Petitioner asserts that she meets three additional criteria, discussed below. After 
+reviewing all of the evidence in the record, we conclude that the record does not support a finding that 
+the Petitioner satisfies the requirements of at least three criteria. 
+A. Evidentiary Criteria 
+Documentation of the alien's membership in associations in the field for which 
+class[fication is sought, which require outstanding achievements of their members, as 
+judged by recognized national or international experts in their disciplines or fields. 8 
+C.F.R. § 204.5(h)(3)(ii). 
+The Petitioner claims eligibility for this criterion based on memberships with the scholarships 
+committee for the Association for Computing Machinery- Council on Women in Computing (ACM­
+CWC) and with the program committee for the Association for Computing Machinery -Conference 
+on Bioinformatics, Computational Biology, and Health Informatics (ACM-CBCBHI).1 In order to 
+satisfy this criterion, the Petitioner must show that membership in the association is based on being 
+1 See USCIS Policy Memorandum PM 602-0005.1, Evaluation of Evidence Submitted with Certain Form 1-140 Petitions; 
+Revisions to the Adjudicator's Field Manual (AFM) Chapter 22.2, AFM Update ADJ 1-14 7 (Dec. 22, 2010), 
+https://www.uscis.gov/policymanual/HTML/PolicyManual.html (indicating that associations may have multiple levels of 
+memberships, and the level of membership must show that the alien was judged by recognized national or international 
+experts as having attained outstanding achievements in the field for which classification is sought). 
+2 
+judged by recognized national or international experts as having outstanding achievements in the field 
+for which classification is sought. 2 
+Regarding ACM-CWC's scholarships committee, the Petitioner submitted bylaws reflecting that 
+successful candidates "must have achieved lasting impact on the field of computing, in terms of both 
+technical and leadership contributions." Moreover, "there must be clear and compelling evidence that 
+the individual has significantly influenced the directions of groups and organizations beyond those 
+where he/she was employed." In addition, the Petitioner provided a letter froml I 
+for ACM-CWC, who referenced the bylaws, indicated that nomination required by a senior 
+professional member and endorsement from five members, and stated that "[ n ]ominations and 
+endorsements should address specific accomplishments that demonstrate innovation, originality and 
+creativity; technical leadership resulting in new concepts, products or systems that advance the state 
+of computing; leadership roles providing evidence of outstanding service to ACM and/or the broader 
+computing community." However, the Petitioner did not demonstrate that the scholarships 
+committee's membership requirements are tantamount to "outstanding achievements" consistent with 
+this regulatory criterion. Specifically, the Petitioner did not show that theoretical or practical 
+accomplishments through innovation, originality, and creativity; technical leadership resulting in new 
+concepts, products, or systems advancing computing; or leadership roles to ACM or computing 
+community necessarily constitutes outstanding achievements of its members. Although the 
+scholarships committee requires candidates to attain a certain degree of accomplishments, the 
+Petitioner did not establish that those criteria rise to a level of outstanding achievements. 
+Moreover, the Petitioner did not demonstrate that national or international experts judge the 
+outstanding achievements for membership. 3 In I I' letter, she claimed that "[ m ]emberhipl 
+decisions are made by a grouR of 13 prominent names in the CS field" and listed four individuals I 11 ~ I l and I I with their positions. The 
+bylaws, however, do not indicate that "[m]embership decisions are made by a group of 13 prominent 
+names." Instead, the bylaws reference the general "Scholarships Committee," such as the 
+"Scholarships Committee evaluates each nomination in [sic] independently of other nominations," the 
+"Scholarships Committee relies on each candidate's nominator and endorsers to provide the 
+information necessary to make an informed evaluation," and "[e]ach nominator will be notified of the 
+committee's decision." Regardless, the Petitioner also submitted profiles for three of the individuals 
+mentioned by from ACM-CWC's website and a screenshot profile from ieee-vics.org for 
+~----~ While the profiles contain the individuals' education and employment history, honors 
+and awards, and roles with ACM-CWC, the Petitioner did not establish how the evidence reflects the 
+national or international recognition of the individuals as experts in the field. The Petitioner, for 
+example, did not show the field's acknowledgment of their standings or statuses as experts. 
+As it relates to ACM-CBCBHl's program committee, the Petitioner references a letter from!~ __ __. I I who described the 2018 ACM-CBCBHI Conference as "a premier dissemination forum 
+for interdisciplinary research linking computer science, mathematics, statistics, biology, 
+bioinformatics, biomedical informatics, and health informatics." Moreover, I I stated that 
+2 Id. at 6. (providing an example of admission to membership in the National Academy of Sciences as a Foreign Associate 
+that requires individuals to be nominated by an academy member, and membership is ultimately granted based upon 
+recognition of the individual's distinguished achievements in original research). 
+3 See USCIS Policy Memorandum PM 602-0005 .1, supra, at 8 
+3 
+"[c]ommittee members are responsible to: a) assist Conference Chairs in soliciting abstracts, b) 
+participate in the manuscript review processes, c) serve as a session chair as requested by conference 
+chairs, and d) guide and shape program content." Moreover,! I indicated that that the Petitioner 
+"was extended an invitation for Membership to the ACM-BCB Program Committee because she is an 
+outstanding scientist in this area and has made significant contributions to the area." Although she 
+described the responsibilities of committee members and justified why she chose the Petitioner, D 
+Ddid not explain whether program committee membership requires outstanding achievements of its 
+members. MoreoverJ ldid not show that recognized national or international experts judge the 
+outstanding achievements for membership. Furthermore, the Petitioner did not provide any bylaws or 
+other supporting evidence demonstrating the requirements for program committee membership. Here, 
+the Petitioner did not establish that outstanding achievements are an essential condition for 
+membership, as judged by recognized national or international experts in the field consistent with this 
+regulatory criterion. 
+The Petitioner also asserts eligibility for the first time on appeal based on senior membership with the 
+Institute of Electrical and Electronics Engineers (IEEE) and submits an email, dated October 2019, 
+congratulating her on "elevation to the grade ofIEEE Senior member." The record, however, reflects 
+that the Petitioner filed her petition in October 2018, a year prior to her senior IEEE membership. The 
+Petitioner must establish that all eligibility requirements for the immigration benefit have been 
+satisfied from the time of the filing and continuing through adjudication. See 8 C.F.R. § 103.2(b)(l); 
+Matter of Katigbak, 14 I&N Dec. 45, 49 (Reg'l Comm'r 1971). Accordingly, we need not address 
+this eligibility claim on appeal. 
+For the reasons discussed above, the Petitioner did not establish that she meets this criterion. 
+Evidence of the alien's participation, either individually or on a panel, as a judge of 
+the work of others in the same or an allied.field of specification for which classification 
+is sought. 8 C.F.R. § 204.5(h)(3)(iv). 
+As discussed earlier, the Director concluded that the Petitioner satisfied this criterion. This regulatory 
+criterion requires an alien to show that she has acted as a judge of the work of others in the same or an 
+allied field of specialization.4 For the reasons outlined below, the record does not reflect that the 
+Petitioner submitted sufficient documentary evidence demonstrating that she meets this criterion, and 
+the Director's determination on this issue will be withdrawn. 
+The Petitioner claimed that "she has been invited to review manuscripts for various scientific 
+conferences within her field to determine if the submissions should be accepted for 
+inclusion/publication." Moreover, she asserted that "[a]s a Committee Member for various 
+conferences, she was also responsible for reviewing submissions and successfully completed those 
+reviews." Although she submitted evidence listing her on committees or inviting her to review papers, 
+the Petitioner did not establish that she participated in the manuscript or paper review process. In 
+order to meet this criterion, an alien must show that she has not only been invited to judge the work of 
+4 See USCTS Policy Memorandum PM 602-0005.1, supra, at 6-7. 
+4 
+others, but also that she actually participated in the judging of the work of others in the same or allied 
+field of specialization. 5 
+Specifically, the Petitioner provided documentation listing her as part of the i I Program 
+Committee" of th~ I International Conference on Mobile Ubiquitous Computing, Systems, 
+Services, and Technologies, the committee of the I ~ 
+Celebration, and the 'I !Joint Summits on Translational Science Reviewers" at th~ .... --~ 
+Annual Joint Summits on Translational Science. The evidence, however, does not indicate whether 
+she actually reviewed manuscripts or otherwise participated as a judge of the work of others. 
+Similarly, the Petitioner provided emails inviting her to join committees or to revieT :apr- For 
+example, "[ w ]e would like to invite you to join the program committee of ACM-BCB ' "[y Jou 
+were invited to be a part of the review process because of your expertise and backgroun m achine 
+Leaming and AI, and it has been crucial in creating a meaningful, valuable program to be presented 
+a~ I' "[ t ]hank you for volunteering to be a reviewer for thq 12018 Informatics Summit 
+.... Please complete your reviews by Thursday, November 9th," "[w]e would like to invite you to 
+be a reviewer for the 20171 IJoint Summits on Translational Science," "[ c ]ould you please write 
+a review for me on the following paper submitted to ACM-BCB 0' and "[ t ]hank you [for] signing 
+up to be an ACM Poster Judge volunteer! ... We have selected you to judge the first round of the 
+competition." Although the emails requested her to judge or review, the Petitioner did not demonstrate 
+that she actually completed the judging or review requests. 
+Likewise, as mentioned under the membership criterion, the Petitioner submitted a letter from!._ __ ~ 
+who indicated that one of the responsibilities of a committee member is to "participate in the 
+manuscript review processes." Howeve~ did not demonstrate that the Petitioner actually 
+reviewed manuscripts. Moreover, whilc===fdescribed why the Petitioner was chosen for the 
+committee, including the claim that she "has ~d 20+ papers and abstracts and 200 + 
+internationally received scholarship applications,'l____J did not explain how she was aware of the 
+Petitioner's judging experience and did not include detailed, corroborating information such as paper 
+titles, dates, and conferences. 
+For the reasons discussed above, the Petitioner did not establish that she participated as a judge of the 
+work of others consistent with this regulatory criterion. Accordingly, we withdraw the decision of the 
+Director for this criterion. 
+Evidence of the alien's original scient[fic, scholarly, artistic, athletic, or business­
+related contributions of major sign[ficance in the field. 8 C.F.R. § 204.5(h)(3)(v). 
+In order to satisfy the regulation at 8 C.F.R. § 204.5(h)(3)(v), a petitioner must establish that not only 
+has she made original contributions but that they have been of major significance in the field. 6 For 
+example, a petitioner may show that the contributions have been widely implemented throughout the 
+field, have remarkably impacted or influenced the field, or have otherwise risen to a level of major 
+significance in the field. 
+5 See USCIS Policy Memorandum PM 602-0005.1, supra, at 8. 
+6 See USCIS Policy Memorandum PM 602-0005 .1, supra, at 8-9. 
+5 
+The Petitioner argues that membership on the scholarships committee of the ACM-CWC requires a 
+"lasting impact on the field of computing, in terms of both technical and leadership contributions," 
+and "there must be clear and compelling evidence that the individual has significantly influenced the 
+directions of groups and organizations beyond those where he/she was employed." According toO D the scholarships committee chose her for membershi because the Petitioner "designed an 
+innovative modelin and simulation tool to stud hat "can 
+help visualize the.__ _________________ __. and "can reduce the time and 
+resources used in the wet lab as well as helping predicting the composition of the optimal surface that 
+will yield minimal number I I on surface with maximal percentage o~ I' 
+( emphasis added). Here, I I speculates on the potential of the modeling and simulation tool 
+rather than showinl how the field already recognizes it as a contribution of major significance. 
+Moreover, although I claimed that "[t]he tool has been used by 5 research labs and has helped 
+reduce the time and resources," she did not demonstrate that the use of the tool in five research labs 
+rises to a level of major significance consistent with this regulatory criterion. 
+Further, the Petitioner contends that "her work presented at many academic conferences is further 
+evidence of the significance of her work and it's [sic] impact on the field of computer science," and 
+"[t]he originality of her work is confirmed by the fact that numerous the numerous [sic] prestigious 
+journals and conference proceedings that have published her articles will only accept original research 
+for publication." While publication or presentation may show originality of work, it does not 
+automatically establish the major significance of it. 7 Furthermore, the Petitioner does not further 
+explain how publication of her articles or presentation of her work at conferences demonstrates that 
+the field views her research to be an original contribution of major significance. 8 Moreover, 
+publications that bear a high ranking or impact factor reflects the publication's overall citation rate; it 
+does not show an author's influence or the impact ofresearch in the field or that every article published 
+in a highly ranked journal automatically indicates a contribution of major significance. Publications 
+and presentations are not sufficient under 8 C.F.R. § 204.5(h)(3)(v) absent evidence that they were of 
+"major significance." See Kazarian v. USCIS, 580 F.3d 1030, 1036 (9th Cir. 2009), ajf'd in part, 
+596 F.3d 1115. Here, the Petitioner did not establish that publication or presentation alone 
+demonstrates a contribution of major significance in the field. 
+7 See USCTS Policy Memorandum PM 602-0005.1, supra, at 8 (finding that although funded and published work may be 
+"original," this fact alone is not sufficient to establish that the work is of major significance). 
+8 Although not argued on appeal, the record reflects that the Petitioner submitted screenshots from Google Scholar showing 
+the citation of her written and presented work by others with her highest cited article receiving 14 and her highest cited 
+conference proceeding receiving 9. Generally, citations can serve as an indication that the field has taken interest in a 
+petitioner's research or work. However, the Petitioner did not show that the number of citations for any of her published 
+articles or conference proceedings are commensurate with contributions of major significance. Here, the Petitioner did 
+not articulate the significance or relevance of the citations to her work. For example, she did not demonstrate that these 
+citations are unusually high in her field or how they compare to other articles that the field views as having been majorly 
+significant. See USCIS Policy Memorandum PM 602-0005 .1, supra, at 8-9 (providing an example that peer-reviewed 
+articles in scholarly journals that have provoked widespread commentary or received notice from others working in the 
+field, or entries (particularly a goodly number) in a citation index which cite the individual's work as authoritative in the 
+field, may be probative of the significance of the person's contributions to the field of endeavor). 
+6 
+In addition, the Petitioner claims that "industry experts and academics have offered their professional 
+opinions regarding [her] contributions and all conclude that she has made numerous significant 
+contributions to the field that are original." The record contains reference letters that generally recount 
+the Petitioner's research and findings and indicate their publications in journals or presentations at 
+conferences. Although they reflect the novelty of her work, they do not sufficiently articulate how her 
+research and findings have been considered of such importance and how their impact on the field rises 
+to the level of major significance required by this criterion. For instance, I !discussed the Petitioner's "novel computational modeling appro._a_c_h_t_o_i_d-en-t-if_y_a_n_d-to_c_o_u_n_t_e__,r 
+the effects of.__ _________ __. supply chain."9 While,__ _____ ----.-_____.stated that 
+"it resulted in a peer-reviewed publication in [an] international conference," he did not explain the 
+influence in the overall field or even if ~.__ _____ ..... ~as ever utilized the computer model. 10 
+Again, publication or presentation alone is not sufficient under 8 C.F.R. § 204.5(h)(3)(v). See 
+Kazarian v. USCIS, 580 F.3d at 1036, ajf'd in part, 596 F.3d at 1115. 
+Moreover, the letters speculate on the possibility of having an impact at some point in the future, such 
+as: "[ w ]e believe that models like this have the potential to contribute to cancer research," [i]n fitture, 
+this study can also play an important role in building a genome-scale computational model of a cell in 
+the.future," "[the Petitioner's] computational model can be used to predict the behavior ... creating a 
+platform to assist in the development of drugs," and "such relationships will be valuable for 
+determining the right personalized based on patient's! lprofile"I l 
+"computational models ... have the~otential to contribute to biomedical research," and "[h ]er models 
+can also be used to predict behavior . I: "[h ]er model can help in predicting the 
+composition of an optimal surface with I properties," and "[t]his shows that in 
+silico experiments [it] can significantly reduce the time and cost for wet lab ex erimentation, and they 
+can accelerate research on biomaterials associated infections" ; and "[t]he model 
+can help visualize the ' and " t he com utational model 
+built can reduce the time and resources used in the wet lab"~ _________ __,· ( emphasis 
+added). While the Petitioner's models and work may show promise, the letters do not establish how 
+her work already qualifies as a contribution of major significance in the field, rather than prospective, 
+potential impacts. Here, the significant nature of her work has yet to be determined. 
+Similarly J I indicated that he selected the Petitioner's "paper as the most notable 
+paper in 'Year in Review' session at the 20181 ] 
+annual symposium," and he "concluded that many oncologists, clinical scientists and testing labs will 
+be interested in these results and use them to improve their own reports and standardized 
+documentation." ( emphasis added). Although he stated that thel I annual symposium is online 
+suggesting media coverage! !speculated on others being interested rather than explaining 
+how the field already views the paper as a contribution of major significance, as well as any widespread 
+attention it received from being online. 
+9 Although we discuss a sampling ofletters, we have reviewed and considered each one. 
+10 See USCTS Policy Memorandum PM 602-0005.1, supra, at 8-9; see also Visinscaia v. Beers, 4 F. Supp. 3d 126, 134-35 
+(D.D.C. 2013) (upholding a finding that a ballroom dancer had not met this criterion because she did not corroborate her 
+impact in the field as a whole). 
+7 
+Here, the Petitioner's letters do not contain specific, detailed information explaining the unusual 
+influence or high impact her research or work has had on the overall field. 11 Letters that specifically 
+articulate how a petitioner's contributions are of major significance to the field and its impact on 
+subsequent work add value. 12 On the other hand, letters that lack specifics and use hyperbolic 
+language do not add value, and are not considered to be probative evidence that may form the basis 
+for meeting this criterion.13 Moreover, USCIS need not accept primarily conclusory statements. 1756, 
+Inc. v. The US. Att'y Gen., 745 F. Supp. 9, 15 (D.C. Dist. 1990). 
+For the reasons discussed above, considered both individually and collectively, the Petitioner has not 
+shown that she has made original contributions of major significance in the field. 
+Evidence that the alien has performed in a leading or critical role for organizations or 
+establishments that have a distinguished reputation. 8 C.F.R. § 204.5(h)(3)(viii). 
+The Petitioner contends to meet this criterion based on her roles with thel !University 
+Medical Centerl land ACM-CWC's scholarships committee. As it relates to a leading role, 
+the evidence must establish that a petitioner is or was a leader. A title, with appropriate matching 
+duties, can help to establish if a role is or was, in fact, leading. 14 Regarding a critical role, the evidence 
+must demonstrate that a petitioner has contributed in a way that is of significant importance to the 
+outcome of the organization or establishment's activities. It is not the title of a petitioner's role, but 
+rather the performance in the role that determines whether the role is or was critical.15 
+Regarding! I the Petitioner references a letter froml l:who stated that the medical 
+center chose her for its competitive research program at the I I I I "because Of her motivation and expertise to solve health related problems tbrrghl I 
+multidisci linary research and her doctoral work in computational cancer research." In addition, 
+indicated that the Petitioner worked on a "NIH [National Institutes of Health] funded 
+.__ _________ ___. initiative which seeks to create improved tolls and training programs to 
+harvest the wealth of information contained in biomedical! I in order to advance our 
+understanding of human health and disease," and "helped design and conduct I btudies with 
+clinicians to identify top ranked items in molecular diagnostic reports that aid in clinician decision 
+making and treatment planning." 
+Likewise, the Petitioner references another letter froml I ofl I 
+University, who indicated that the "played a Co-Investigator role in obtaining thel I grant," 
+and "[t]he success and popularity of this system increased more collaborations among researchers and 
+clinicians across i0stit:11tes aud I I leading to additional $15 Million funding for cancer 
+research." Further,! ..... ____ _._ stated that the Petitioner "pioneered the design and conducted□ 
+11 Although we discussed a sampling of letters, we have reviewed and considered each one. 
+12 See USCTS Policy Memorandum PM 602-0005.1, supra, at 8-9. 
+13 Id. at 9. See also Kazarian, 580 F.3d at 1036, aff'd in part, 596 F.3d at 1115 (holding that letters that repeat the regulatory 
+language but do not explain how an individual's contributions have already influenced the field are insufficient to establish 
+original contributions of major significance in the field). 
+14 See USCIS Policy Memorandum PM-602-0005.1, supra, at 10. 
+is Id. 
+8 
+~--_.I studies with clinicians to identify top ranked items in molecular diagnostic reports that aid in 
+clinician decision making and treatment planning." 
+Although the letters point out that the Petitioner published her work in a journal and presented her 
+work at conferences, they did not explain how her role as a co-investigator for a project were leading 
+or critical t~ The letters, for instance, did not distinguish the Petitioner's position to the other 
+positions atL__JsiJnTliua that sb] performed in a leadership position. In fact, when compared to I of~--~University, andl I director ofc=] atl l the 
+Petitioner served in a far lesser role as a computational cancer researcher or co-investigator. Moreover, 
+the letters did not demonstrate how presenting work at conferences and publishing in a journal reflects 
+that the Petitioner performed in a critical or essential role for I I Whilel I indicated 
+that the Petitioner's work on thd linitiative eventually led to additional fonding, he did not 
+farther elaborate and explain how her contributions rose to a level of significant importance to the 
+outcome of1 ts overall activities.16 
+letter from who claimed that the Petitioner "plays a critical role in our association." RegardingbiM- 's scholarships committee, the Petitioner references the previously discussed 
+However, did not provide any farther explanation to justify her assertion. Instead,! I 
+listed the general responsibilities of committee members without showing how the Petitioner 
+specifically contributed in an essential or critical way to the committee. Further, I I did not 
+articulate how the Petitioner was important to the outcome of the scholarships committee's activities. 
+Moreover, the Petitioner does not claim, nor doesl I letter reflects, that she performed in a 
+leading role for the committee. 
+Furthermore, although we acknowledge the distinguished reputation oti I the Petitioner did not 
+establish that ACM-CWC's scholarships committee enjoys such a similar reputation.17 The Petitioner 
+submits screenshots from ACM's website relating to goals and background information relating to 
+ACM. Similarly, the screenshots contain mission information about ACM-CWC, including evidence 
+that it offers scholarships. Likewise, the Petitioner provides a brochure promoting ACM-CWC and 
+advertising the opportunity for scholarships. However, the Petitioner did not demonstrate how the 
+evidence shows the reputation of the scholarships committee. In fact, the evidence makes no mention 
+of the scholarships committee. Here, the Petitioner did not establish that the ACM-CWC enjoys an 
+eminent or excellent reputation. 
+Accordingly, the Petitioner did not show that she meets this criterion. 
+B. 0-1 Nonimmigrant Status 
+We note that the record reflects that the Petitioner received 0-1 status, a classification reserved for 
+nonimmigrants of extraordinary ability. Although USCIS has approved at least one 0-1 nonimmigrant 
+16 See USCTS Policy Memorandum PM 602-0005.1, supra, at 10 (stating that letters from individuals with personal 
+knowledge of the significance of a petitioner's leading or critical role can be particularly helpful in making this 
+determination as long as the letters contain detailed and probative information that specifically addresses how the role for 
+the organization or establishment was leading or critical). 
+17 Id. at 10-11 (defining Merriam-Webster's Dictiona1y definition of·'distinguished" as marked by eminence. distinction, 
+or excellence). 
+9 
+visa petition filed on behalf of the Petitioner, the prior approval does not preclude USCIS from denying 
+an immigrant visa petition which is adjudicated based on a different standard -statute, regulations, 
+and case law. Many Form I-140 immigrant petitions are denied after USCIS approves prior 
+nonimmigrant petitions. See, e.g., Q Data Consulting, Inc. v. INS, 293 F. Supp. 2d 25 (D.D.C. 2003); 
+IKEA US v. US Dept. of Justice, 48 F. Supp. 2d 22 (D.D.C. 1999); Fedin Bros. Co., Ltd. v. Sava, 724 
+F. Supp. 1103, 1108 (E.D.N.Y. 1989), affd, 905 F. 2d 41 (2d. Cir. 1990). Furthermore, our authority 
+over the USCIS service centers, the office adjudicating the nonimmigrant visa petition, is comparable 
+to the relationship between a court of appeals and a district court. Even if a service center director has 
+approved a nonimmigrant petition on behalf of an individual, we are not bound to follow that finding 
+in the adjudication of another immigration petition. See La. Philharmonic Orchestra v. INS, No. 98-
+2855, 2000 WL 282785, at *2 (E.D. La. 2000). 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three of the ten criteria. As a result, we need not provide the type of final 
+merits determination referenced in Kazarian, 596 F.3d at 1119-20. Nevertheless, we advise that we 
+have reviewed the record in the aggregate, concluding that it does not support a finding that the 
+Petitioner has established the acclaim and recognition required for the classification sought. 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than for individuals progressing toward the top. USCIS has long held 
+that even athletes performing at the major league level do not automatically meet the "extraordinary 
+ability" standard. Matter of Price, 20 I&N Dec. 953,954 (Assoc. Comm'r 1994). Here, the Petitioner 
+has not shown that the significance of her work is indicative of the required sustained national or 
+international acclaim or that it is consistent with a "career of acclaimed work in the field" as 
+contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 203(b )(l)(A) 
+of the Act. Moreover, the record does not otherwise demonstrate that the Petitioner has garnered 
+national or international acclaim in the field, and she is one of the small percentage who has risen to 
+the very top of the field of endeavor. See section 203(b)(l)(A) of the Act and 8 C.F.R. § 204.5(h)(2). 
+Although the Petitioner has conducted research and authored scholarly articles, the record does not 
+contain sufficient evidence establishing that she is among the upper echelon in her field. 
+For the reasons discussed above, the Petitioner has not demonstrated her eligibility as an individual of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+10 

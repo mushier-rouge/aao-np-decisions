@@ -1,0 +1,146 @@
+U.S. Citizenship 
+and Immigration 
+Services Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: AUG. 15, 2024 In Re: 31936541 
+Appeal of Nebraska Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner seeks classification as an individual of extraordinary ability, as the co-founder and head of 
+engineering of an information technology development firm. See Immigration and Nationality Act (the 
+Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A) . This first preference classification makes 
+immigrant visas available to those who can demonstrate their extraordinary ability through sustained 
+national or international acclaim and whose achievements have been recognized in their field through 
+extensive documentation. 
+The Director ofthe Nebraska Service Center denied the petition, concluding that although the Petitioner 
+satisfied at least three of the required initial evidentiary criteria, he did not demonstrate that he enjoys 
+sustained national or international acclaim and that he is among the small percentage at the very top 
+of the field of endeavor. The matter is now before us on appeal. 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). While we conduct de novo review on 
+appeal, Matter ofChristo 's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015), we conclude that a remand 
+is warranted in this case because the Director's decision is insufficient for review. Specifically, the 
+decision lacks analysis and discussion of the evidence in the record with respect to the Petitioner's 
+eligibility as an individual of extraordinary ability. Accordingly, we will withdraw the Director's 
+decision and remand the matter for entry of a new decision consistent with the following analysis. 
+I. LAW 
+An individual is eligible for the extraordinary ability classification if they have extraordinary ability 
+in the sciences, arts, education, business, or athletics as demonstrated by sustained national or 
+international acclaim and their achievements have been recognized in the field through extensive 
+documentation; they seek to enter the United States to continue work in the area of extraordinary 
+ability; and their entry into the United States will substantially benefit prospectively the United States. 
+Section 203(b)(l)(A) of the Act. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate a 
+beneficiary's sustained acclaim and the recognition of achievements in the field through a one-time 
+achievement (that is, a major, internationally recognized award) or qualifying documentation that 
+meets at least three of the ten categories listed at 8 C.F.R. § 204.5(h)(3)(i) -(x) (including items such 
+as awards, published material in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+The Petitioner is an entrepreneur engaged as the co-founder and head of engineering for a firm that 
+specializes in the strategic management and development of cloud networks, distributed computing 
+strategies, data analytics, and artificial intelligence (AI) business intelligence technologies (the 
+Petitioner's technological areas of interest). He intends to continue working for his current employer 
+or elsewhere in a similar capacity should this petition be approved. 
+Because the Petitioner has not indicated or shown that he received a major, internationally recognized 
+award, he must satisfy at least three of the alternate regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)­
+(x). The Petitioner filed this petition on September 11, 2023, and must established his eligibility for 
+this highly restrictive visa classification as of that date. 8 C.F.R. § 103.2(b)(l). The Petitioner claims 
+throughout this proceeding that he satisfies six of these criteria: 
+• (iii), published material about the individual in professional or major media (published 
+material) 
+• (iv), participation as a judge of the work of others in the same or allied field of 
+specification for which classification is sought (judging) 
+• (v), original contributions of major significance in the field (original major 
+contributions) 
+• (vi), Authorship of scholarly articles in the field, in professional or major trade 
+publications or other major media (scholarly articles) 
+• (viii), Performed in a leading or critical role for organizations or establishments with a 
+distinguished reputation (leading or critical role) 
+• (ix), Commanded a high salary or other significant high remuneration for services, in 
+relation to others in the field (high salary) 
+The Director denied the petition, concluding that while the Petitioner met the plain language 
+requirements of four of these criteria, (judging, scholarly articles, leading or critical role, and high 
+salary), he did not meet the other two criteria (published material, original major contributions). The 
+2 
+Director also concluded the record did not show the Petitioner warranted favorable consideration in a 
+final merits determination. 
+On appeal, the Petitioner asserts among other things, that the Director failed to evaluate all the relevant 
+evidence in determining that he did not warrant favorable consideration in the final merits 
+determination. He alleges that the Director ignored "key details" offered in the submitted evidence. 
+A decision denying a benefit must include the specific reasons for denial and sufficiently explain the 
+underlying deficiencies to allow a petitioner a fair opportunity to contest the decision and to allow us 
+an opportunity for meaningful appellate review. See, e.g., Matter ofM-P-, 20 I&N Dec. 786 (BIA 
+1994) (finding that the reasons for denying a motion must be clear to allow the affected party a 
+meaningful opportunity to challenge the determination on appeal). For the following reasons, we 
+agree with the Petitioner that the Director's decision is deficient. 
+In response to the Director's request for evidence (RFE), the Petitioner explained that he was "a 
+leading technologist/engineer and entrepreneur [who] has made original impactfol contributions to 
+[the Petitioner's technological areas of interest]," noting: 
+• [He] has been the co-founder & head of engineering at [N-], a company that has 
+attracted over $17.5 million in fonding while also revolutionizing the product 
+analytics field with its proprietary AI-enhanced business intelligence 
+platform/product that [the Petitioner] strategically managed the development of. 
+• Before co-founding [N-], [he] was already highly regarded for his contributions as the 
+founding engineer at the high-tech company [T-] where he helped build this 
+company's technological platform and is listed as an inventor on multiple patents. 
+• Prior to working for [T-], [he] worked as a software engineer for [G-] on [its] front 
+end (GFE) team where he contributed to the initial implementation of [G-'s] QUIC 
+protocol, technologies that laid the groundwork for http3. 
+The Petitioner provided detailed exhibit listings that referenced the evidence submitted to substantiate 
+the significance of his managerial accomplishments and technical innovations, initially, in response to 
+the RFE, ( and in the appeal brief). 
+The Director concluded, among other things, in the denial: 
+The Petitioner provided letters praising the work he has done for two employers. These 
+letters came from co-workers or clients of these companies. The Petitioner did not 
+provide any evidence suggesting that he is well known outside his existing corporate 
+relationships. He did not provide any evidence suggesting that he is well-known in his 
+field as a result of the work he had done with these employers. 
+The Petitioner has provided evidence showing a working engineer who has been lucky 
+enough to be associated with two startups that have garnered venture capital fonding. 
+The fundamental nature of this highly restrictive visa classification demands 
+comparison between the petitioner and others in the field. The regulatory criteria 
+3 
+describe types of evidence that one may submit, but it does not follow that every 
+engineer who has secured a patent or who has earned the respect of his colleagues is 
+among the small percentage at the very top of the field. 
+When users provides a reasoned consideration to the petition, and has made adequate findings, it 
+will not be required to specifically address each claim the Petitioner makes, nor is it necessary for it 
+to address every piece of evidence the Petitioner presents. Guaman-Loja v. Holder, 707 F.3d 119, 123 
+(1st Cir. 2013) (citing Martinez v. INS, 970 F.2d 973,976 (1st Cir.1992); see also Kazemzadeh v. US. 
+Atty. Gen., 577 F.3d 1341, 1351 (11th Cir. 2009); Casalena v. US. INS, 984 F.2d 105, 107 (4th Cir. 
+1993). Here, the conclusory statements offered by the Director as reasons for denying the final merits 
+aspect of the petition, such as the passages from the denial quoted above, do not provide a sufficient 
+reasoned consideration to the petition, or make adequate findings, based on the evidence submitted. 
+An officer must fully explain the reasons for denying a visa petition. See 8 C.F.R. § 103.3(a)(i). 
+Although the Director briefly mentioned and discussed some of the types of evidence submitted by 
+the Petitioner in their final merits determination, and concluded that they were insufficient, the 
+decision does not adequately explain why the Petitioner's evidence was deficient to support his claim 
+that he is an individual of extraordinary ability. 
+We withdraw the Director's decision and remand the matter for further review and entry of a new 
+decision. Because the Director determined the Petitioner has established his qualifications under at 
+least three criteria at 8 C.F.R. § 204.5(h)(3), on remand, the Director should conduct a final merits 
+review of the evidence of record. The Petitioner seeks a highly restrictive visa classification, intended 
+for the handful of individuals at the top of their respective fields. users has long held that even 
+athletes performing at the major league level do not automatically meet the "extraordinary ability" 
+standard. Matter of Price, 20 r&N Dec. 953, 954 (Assoc. Comm'r 1994). As contemplated by 
+Congress, the Petitioner must demonstrate the required sustained national or international acclaim, 
+consistent with a "career ofacclaimed work in the field." H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); 
+see also section 203(b)(l)(A) of the Act. 
+The new decision should include an analysis of the totality of the evidence evaluating whether the 
+Petitioner has demonstrated, by a preponderance ofthe evidence, his sustained national or international 
+acclaim, his status as one of the small percentage at the very top of his field of endeavor, and that his 
+achievements have been recognized in the field through extensive documentation. See section 
+203(b)(l)(A)(i) of the Act; 8 C.F.R. § 204.5(h)(2), (3); see also Kazarian, 596 F.3d at 1119-20. We 
+express no opinion regarding the ultimate resolution of this case on remand. 
+ORDER: The Director's decision is withdrawn. The matter is remanded for the entry of a new 
+decision consistent with the foregoing analysis. 
+4 

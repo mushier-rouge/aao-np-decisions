@@ -1,0 +1,233 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 10066114 
+Appeal of Nebraska Service Center Decision Non-Precedent Decision of the 
+Administrative Appeals Office 
+Date: AUG. 25, 2020 
+Form 1-140, Immigrant Petition for Alien Worker (Extraordinary Ability) 
+The Petitioner, a researcher in the field of civil engineering , seeks classification as an alien of 
+extraordinary ability. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 
+1153(b)(l)(A) . This first preference classification makes immigrant visas available to those who can 
+demonstrate their extraordinary ability through sustained national or international acclaim and whose 
+achievements have been recognized in their field through extensive documentation. 
+The Director of the Nebraska Service Center denied the petition, concluding that the record did not 
+establish that the Petitioner had received a major, internationally recognized award or met at least three 
+of the evidentiary requirements listed under 8 C.F.R. § 204.5(h)(3)(i)-(x). On appeal, the Petitioner 
+asserts that he meets the requisite three criteria. 
+In these proceedings , it is the Petitioner's burden to establish eligibility for the requested benefit. See 
+Section 291 of the Act, 8 U.S.C. § 1361. Upon de nova review, we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation , 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2) . The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and the recognition of his or her achievements in the field through a one-time achievement 
+(that is, a major, internationally recognized award). If that petitioner does not submit this evidence, 
+then he or she must provide sufficient qualifying documentation that meets at least three of the ten 
+categories listed at 8 C.F.R. § 204.5(h)(3)(i) -(x) (including items such as awards, published material 
+in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+(discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). This two-step analysis is consistent with our holding that the "truth is to be 
+determined not by the quantity of evidence alone but by its quality," as well as the principle that we 
+examine "each piece of evidence for relevance, probative value, and credibility, both individually and 
+within the context of the totality of the evidence, to determine whether the fact to be proven is probably 
+true." Matter of Chawathe, 25 l&N Dec. 369, 376 (AAO 2010). 
+II. ANALYSIS 
+The Petitioner is a research assistant atl O I University, focusing on the development of 
+software tools for the simulation and analysis of the effects of earthquakes and tsunamis on structures. 
+He received a Ph.D. in civil engineering from the same institution in 2014, and indicates that he intends 
+to continue this work in the United States. 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or established that he has received a major, internationally 
+recognized award, he must satisfy at least three of the alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). The Director found that the Petitioner met two of the evidentiary 
+criteria, relating to his authorship of scholarly articles and his service as a judge of the work of others 
+in his field. On appeal, the Petitioner asserts that he also meets the evidentiary criterion concerning 
+his scientific contributions of major significance. After reviewing all of the evidence in the record, 
+we find that while it establishes that the Petitioner meets the requisite three of the evidentiary criteria, 
+it does not establish that he has enjoyed sustained national or international acclaim or is one of the 
+very few at the top of his field. 
+Evidence of the alien's participation, either individually or on a panel, as a judge of 
+the work of others in the same or an allied field of specialization for which 
+classification is sought. 8 C.F.R. § 204.5(h)(3)(iv) 
+The Petitioner submitted two certificates from the journal Computer Methods in Applied Mechanics 
+and Engineering which confirm that he conducted a review in October 2016 and was recognized for 
+his "outstanding contribution in reviewing" in June 2017. In addition, several emails demonstrate that 
+2 
+he conducted reviews of articles submitted to other journals as well. The evidence also includes 
+evidence that he was recommended for appointment to a doctoral dissertation committee for a graduate 
+student au I University, but does not establish that he was approved for and served in this 
+capacity. The evidence of his peer review activity for scientific journals establishes that the Petitioner 
+meets this criterion. 
+Evidence of the alien's original scientific, scholarly, artistic, athletic, or business-
+related contributions of major significance in the field. 8 C.F.R. § 204.5(h)(3)(v) 
+"Contributions of major significance" connotes that the Petitioner's work has significantly impacted 
+the field. See Visinscaia, 4 F. Supp. 3d at 134. For example, a petitioner may show that the 
+contributions have been widely implemented throughout the field, have remarkably impacted or 
+influenced the field, or have otherwise risen to a level of major significance in the field. 
+The record includes evidence re ardin the Petitioner's contributions towards the I~----~ 
+r-----1------r---i-----__J framework and software, specifically the addition of 
+interaction modules which allow for simulation of tsunami effects on structures, 
+~a_s_w_e~-as----rTt ~e creation of an "interpreter" I I for this software for Python, a computer 
+programming language. In his decision, the Director noted that the Petitioner had submitted evidence 
+of "the number of site visits, posts, and emails directed towards the framework and software ... " but 
+found that this evidence had "no probative value" since it did not establish "who is accessing the 
+software and for what purpose." 
+On appeal, the Petitioner submits additional evidence including email in uiries about thel,___ ___ ~ 
+software, programs for conferences and courses focusing on use of,__ __ ~ and statistics showing 
+the use ofl lin published research papers. Where, as here, a Petitioner has been put on notice 
+of a deficiency in the evidence and has been given an opportunity to respond to that deficiency, the 
+AAO will not accept evidence offered for the first time on appeal. Matter of Soriano, 19 l&N Dec. 
+764 (BIA 1988); Matter of Obaigbena, 19 l&N Dec. 533 (BIA 1988). We will therefore not consider 
+these new materials, but will consider the similar materials submitted with the petition and the 
+Petitioner's response to the Director's request for evidence (RFE). 
+The Petitioner asserts that the emails, as well as several reference letters and copies of papers published 
+by others in the field, establishe that researchers around the world have im lemented his im rovements 
+to thel !platform. One of those reference letters was written b rincipal 
+research scientist at t '----~~-~~----~~--~---....,......... in IL.1 
+I !explains that,___ __ ~is a critical component of the center's core product, the,___ __ ~ 
+software, since it provides the capability to perform structural analysis of infrastructure, and that it 
+was the Petitioner's development ofl I which allowed I I to be integrated intoD I I A document that appears to be part of a program for the 2018 meeting of the Center for Risk-
+Based Community Resilience Planning confirms this integration, stating that I I "is 
+available for use by Center and NIST researchers." 
+1 All of the reference letters in the record have been reviewed, including those not specifically mentioned in this decision. 
+3 
+Another reference letter which focuses on the Petitioner's development otl I was submitted 
+by of the University I He explains that 
+the Petitioner's work in allowing~--~to be used with the Python programming language allows 
+it to be used with other computing tools developed in Python, "accelerating scientific advances." I I states that I f allowed him to conduct advanced analysis on roof 
+"ponding," and that this work has "helped to guide deliberations" within a subcommittee of the 
+American Society of Civil Engineers which is developing revised standards for snow and rain load on 
+buildings. 
+Additional reference letters indicate that others researchers have also used I I in their own 
+research.~-----------~ otl lwrites that 
+he has used the software to analyze the behavior of tall buildings in earthquakes, as well as developing 
+his own modules which have been incorporated intol I In addition, I I I I of the University! I states that he uses the software in teaching graduate 
+level courses, and that one of his graduate students usedl Ito conduct his thesis research. 
+He also indicates that he invited the Petitioner to make a presentation to his students at a weekly 
+seminar. 
+Other reference letters in the record speak to the Petitioner's addition of Dmodels to thel I 
+platform. of the Technical Universit I I who states that he 
+originally developed the~-----------~ approach for studying□ notes 
+that because of the Petitioner's work, "tsunami hazards are now combined with the earthquake hazards 
+in a single computational platform, which is a areat advance for civil engineers and researchers ... " In 
+addition.I lotl I university, who indicates that he has supervised 
+the Petitioner since he began his doctoral studies in 2008, writes that the0modules developed by 
+the Petitioner tori I are used in a federally sponsored project to develop design guidelines for 
+bridges in five states in the western United States. 
+The record also includes several emails from graduate students and other researchers from institutions 
+around the world seeking advice on the use otl land other emails and additional evidence 
+indicating that other research grou~s have incorporated the software into their existing platforms. 
+While we note that the I platform was developed and in use several years prior to the 
+Petitioner's contributions to it, the totality of the evidence described above demonstrates that his work 
+has led to broader implementation of the platform and software in the field of civil engineering, and 
+specifically to simulate earthquake and tsunami loads on structures. Accordingly, we disagree with 
+the Director and find that the Petitioner meets this criterion. 
+Evidence of the alien's authorship of scholarly articles in the field, in professional or 
+major trade publications or other major media. 8 C.F.R. § 204.5(h)(3)(vi) 
+The record includes evidence that the Petitioner authored seven articles which were published in 
+scientific journals, and an additional paper which was presented at a scientific conference. We agree 
+with the Director's determination that the Petitioner meets this criterion. 
+4 
+B. Final Merits Determination 
+As the Petitioner submitted the requIsIte initial evidence, we will evaluate whether he has 
+demonstrated, by a preponderance of the evidence, his sustained national or international acclaim and 
+that he is one of the small percentage at the very top of the field of endeavor, and that his achievements 
+have been recognized in the field through extensive documentation. In a final merits determination, 
+we analyze a petitioner's accomplishments and weigh the totality of the evidence to determine if their 
+successes are sufficient to demonstrate that they have extraordinary ability in the field of endeavor. 
+See section 203(b)(l)(A)(i) of the Act; 8 C.F.R. § 204.5(h)(2), (3); see also Kazarian, 596 F.3d at 
+1119-20. 2 In this matter, we determine that the Petitioner has not shown his eligibility. 
+On appeal, the Petitioner does not address his qualification under the final merits determination as 
+described in Kazarian, but instead refers to a previous district court decision, Buletini v. INS, 860 F. 
+Supp. 1222 (E.D. Mich. 1994). However, we note that in contrast to the broad precedential authority 
+of the case law of a United States circuit court, USCIS is generally not bound by the published 
+decisions of United States district courts. See Matter of K-S-, 20 l&N Dec. 715 (BIA 1993). The 
+reasoning underlying a district judge's decision will be given due consideration when it is properly 
+before the AAO; however, the analysis does not have to be followed as a matter of law. Id. at 719. 
+Regardless, we find that the Buletini decision does not conflict with but rather supports the Kazarian 
+court's characterization of the adjudication process as including a final merits determination.3 
+As discussed above regarding the Petitioner's contributions to the field of civil engineering, the 
+evidence shows that his work in adding a Python translator and0modules to thel I computer 
+software framework has been implemented by individual researchers and engineers as well as research 
+groups and institutions. In addressing the final merits determination in his response to the Director's 
+RFE, the Petitioner referred to the reference letters that were previously discussed, stating that through 
+them "my influence in the field on an international scale is apparent." However, it is not "influence" 
+that must be demonstrated in the final merits analysis, but acclaim. Although these letters, together 
+with evidence of interest in and adoption of his work, establish the significance of his contribution to 
+the field in implementing improvements to the I !software and framework, they were prepared 
+for the purposes of the instant petition and do not show that he has been praised for his work beyond 
+its scope, or for a sustained period as required. 
+2 See also USCIS Policy Memorandum PM 602-0005.1, Evaluation of Evidence Submitted with Certain Form 1-140 
+Petitions; Revisions to the Adjudicator's Field Manual (AFM) Chapter 22.2, AFM Update ADll-14 4 (Dec. 22, 2010), 
+https://www.uscis.gov/policymanual/HTML/PolicyManual.html (stating that USCIS officers should then evaluate the 
+evidence together when considering the petition in its entirety to determine if the petitioner has established, by a 
+preponderance of the evidence, the required high level of expertise for the immigrant classification). 
+3 The Buletini court, referencing the 1992 Weinig letter, said: "Once it is established that the alien's evidence is 
+sufficient to meet three of the criteria listed in [the regulation], the alien must be deemed to have extraordinary ability 
+unless the INS sets forth specific and substantiated reasons for its finding that the alien, despite having satisfied the 
+criteria, does not meet the extraordinary ability standard." Buletini, 860 F. Supp. at 1234. The Buletini court did not 
+reject the possibility of a final merits determination. To the contrary, the court implicitly assumed some sort of final 
+merits determination. It did not say that an officer was required to find extraordinary ability once he or she found the 
+three initial evidentiary criteria satisfied. Rather, it said that, in such a case, the officer must explain his or her reasons if 
+he or she ultimately finds extraordinary ability is lacking. Thus, Buletini and Kazarian are not in conflict. 
+5 
+On appeal, the Petitioner also refers to the total number of citations to his published work by other 
+researchers, and notes that in previous non-precedent decisions we found that dozens of independent 
+citations were found to be persuasive in establishing the significance of the contributions made by the 
+petitioners in those cases. These decisions were not published as precedents and therefore do not bind 
+USCIS officers in future adjudications. See 8 C.F.R. § 103.3(c). Non-precedent decisions apply 
+existing law and policy to the specific facts of the individual case, and may be distinguishable based 
+on the evidence in the record of proceedings, the issues considered, and applicable law and policy. 
+We note that both of these decisions precede Kazarian, and therefore did not apply the two step 
+analysis from that decision. In addition, the petitioners in those cases performed research in different 
+fields, and the Petitioner has not demonstrated that the number of citations deemed sufficient to show 
+the major significance of contributions made in those fields is sufficient to show sustained acclaim or 
+standing at the top of his field. Although we will consider the total number of citations to the 
+Petitioner's work as one factor when determining whether he has received sustained national or 
+international acclaim and is one of the very few at the top of his field, the record does not include 
+comparative evidence which demonstrates that the Petitioner's citations place him as one of the small 
+percentage at the top of his field. 
+The record also includes evidence of the Petitioner's participation as a peer reviewer for several 
+scientific journals, as well as information regarding the impact factor of three of these journals. The 
+emails include boilerplate language thanking the Petitioner for his time, but do not remark on the 
+quality of the review or otherwise praise his work. In addition, while a certificate from Computer 
+Methods in Applied Mechanics and Engineering was given to him for "Outstanding Contributions in 
+Reviewing," the record does not include any explanation of the criteria used in awarding this 
+certificate. Therefore, this evidence does not demonstrate that either the quality or quantity of the 
+Petitioner's peer review activity is indicative of sustained national or international acclaim. 
+For all of the reasons stated above, we find that the Petitioner has not established that he has sustained 
+acclaim in his field at the national or international level, or that he has standing in his field as one of 
+the very few at the top. 
+111. CONCLUSION 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than for individuals progressing toward the top. USCIS has long held 
+that even athletes performing at the major league level do not automatically meet the "extraordinary 
+ability" standard. Matter of Price, 20 l&N Dec. 953, 954 (Assoc. Comm'r 1994). Here, the Petitioner 
+has not shown that the significance of his work is indicative of the required sustained national or 
+international acclaim or that it is consistent with a "career of acclaimed work in the field" as 
+contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 203(b)(l)(A) 
+of the Act. Moreover, the record does not otherwise demonstrate that the Petitioner has garnered 
+national or international acclaim in the field, and that he is one of the small percentage who has risen 
+to the very top of the field of endeavor. See section 203(b)(l)(A) of the Act and 8 C.F.R. § 204.5(h)(2). 
+6 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an individual of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+7 

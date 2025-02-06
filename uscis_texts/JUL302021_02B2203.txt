@@ -1,0 +1,344 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 17586783 
+Appeal of Texas Service Center Decision Non-Precedent Decision of the 
+Administrative Appeals Office 
+Date: WL. 30, 2021 
+Form 1-140, Immigrant Petition for Alien Worker (Extraordinary Ability) 
+The Petitioner, a postdoctoral associate in the computational chemistry field, seeks classification as an 
+individual of extraordinary ability. See Immigration and Nationality Act (the Act) section 
+203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). This first preference classification makes immigrant visas 
+available to those who can demonstrate their extraordinary ability through sustained national or 
+international acclaim and whose achievements have been recognized in their field through extensive 
+documentation . 
+The Director of the Texas Service Center denied the petition, concluding that Petitioner did not 
+establish, as required, that he meets at least three of the ten initial evidentiary criteria for this 
+classification. On appeal, the Petitioner maintains that he satisfies the initial evidence requirements 
+and is otherwise eligible for classification as an individual of extraordinary ability. 
+In these proceedings, it is the Petitioner's burden to establish eligibility for the requested benefit by a 
+preponderance of the evidence. See Section 291 of the Act, 8 U.S.C. § 1361; Matter ofChawathe, 25 
+l&N Dec. 369, 375 (AAO 2010). Upon de nova review, we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and the recognition of his or her achievements in the field through a one-time achievement 
+(that is, a major, internationally recognized award). If the petitioner does not submit this evidence, 
+then he or she must provide sufficient qualifying documentation that meets at least three of the ten 
+categories listed at 8 C.F.R. § 204.5(h)(3)(i) -(x) (including items such as awards, published material 
+in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+The Petitioner is a researcher in the field of computational chemistry and was employed as a 
+postdoctoral associate in the Department of Chemistry atc=]University at the time this petition was 
+filed. 
+A. Evidentiary Criteria 
+Because the Petitioner has not claimed or established that he has received a major, internationally 
+recognized award, he must satisfy at least three of the alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). The Petitioner has consistently claimed that he can satisfy three of these 
+criteria. The Director determined that he met two, specifically the criteria related to judging the work 
+of others in his field and authorship of scholarly articles, at 8 C.F.R. § 204.5(h)(3)(iv) and (vi). 
+We agree with the Director's conclusion that the Petitioner satisfied these two criteria. The record 
+reflects that he has peer reviewed manuscripts for professional publications including Journal of 
+Molecular Modeling and Journal of Chemical Information and Modeling and therefore satisfied the 
+judging criterion. In addition, the record contains evidence that the Petitioner has authored scholarly 
+articles published in various journals, including Journal of Chemical Theory and Computation, 
+Chemical Reviews, Journal of Chemical Information and Modeling, and Journal of Physical 
+Chemistry B. 
+The Director concluded that the Petitioner did not satisfy the third claimed criterion, relating to original 
+contributions of major significance in his field at 8 C.F.R. § 204.5(h)(3)(v). On appeal, the Petitioner 
+maintains that the Director's decision contains "almost no discussion of the particular evidence 
+submitted" in support of this criterion, noting that much of the analysis was directly copied from the 
+request for evidence issued prior to the denial of the petition. 
+2 
+8 C.F.R. § 204.5(h)(3)(v) calls for evidence of the individual's original scientific, scholarly, artistic, 
+athletic, or business-related contributions of major significance in the field. The Petitioner asserts that 
+he has met this criterion through citation of his published research in molecular modeling and 
+contributions to a widely used software program in his field. We agree with the Petitioner's assertion 
+that the Director's decision did not adequately address certain evidence submitted in support of this 
+criterion. 
+For example, the Petitioner submitted a letter froml ] thel lin Organic 
+Chemistry at University ot1 11 I discusses the Petitioner's development 
+of al ~ software program, the results of which 
+he published in Journal of Chemical Information and Model1n: in 2) 16. I I discusses in detail 
+why the Petitioner's I I program, the first developed in is recognized as having superior 
+functionality and efficacy compared to previous programs of its type, noting that it "supports extensive 
+I I force fields as well as I I ions." He explains that the Petitioner's program has 
+been released as part of the ] I molecular dynamics software package since 2015, emphasizing 
+that "[g]iven that thel I software package is a widely used tool in molecular dynamics research, 
+it is clear that [ the Petitioner's] enhancements to this software serve to accelerate research in the field." 
+I I also emphasizes that the Petitioner's published article on thel f program has received 
+a significant number of citations and emphasizes the Petitioner has been invited to write a book chapter 
+on the program "for a project in which the editors 'aim to selectively review some of the most 
+influential advances' in the field." Finally, he explains how his own research team and others have 
+used the Petitioner'~'------'~ program in studies that have advanced! I engineering techniques. 
+The record also contains evidence that the Petitioner has been listed as an author of the I I 
+software package since 2015, additional background information abou~and how it is used to 
+advance research in several fields, and a letter fro~ lo niversity'~ 
+for Quantitative Biomedicine, who is a primary author of the software. explains thaL___J 
+is widely used in the field of computational chemistry and he echoe s statement that the 
+Petitioner, "[b ]y facilitating the simulation o~ lions, ... has vastly expanded the applications and 
+utility of this software package." 
+The Petitioner's Google Scholar citation history submitted at the time of filing reflects that 
+approximately two-thirds of his cumulative citations related to his publication on thel I 
+program and to thel I software package that incorporated that program. The evidence in the 
+record, including the evidence discussed above, is sufficient to demonstrate the nature and significance 
+of the Petitioner's contributions to a widely used molecular dynamics modeling software in his field. 
+Accordingly, we conclude that he established, by a preponderance of the evidence, that he satisfies the 
+criterion at 8 C.F.R. § 204.5(h)(v) and meets the initial evidentiary requirements for this classification. 
+B. Final Merits Determination 
+As the Petitioner has established that he satisfies three criteria and meets the initial evidence requirement, 
+we will evaluate below whether he has demonstrated, by a preponderance of the evidence, that he has 
+sustained national or international acclaim and is one of the small percentage at the very top of the field 
+of endeavor, and that his achievements have been recognized in the field through extensive 
+documentation. In a final merits determination, we analyze a petitioner's accomplishments and weigh 
+3 
+the totality of the evidence to determine if his successes are sufficient to demonstrate that he has 
+extraordinary ability in the field of endeavor. See section 203(b)(l)(A)(i) of the Act; 8 C.F.R. 
+§ 204.5(h)(2)-(3); see also Kazarian, 596 F.3d at 1119-20. 
+The record reflects that the Petitioner received a bachelor of science in chemistry from~I --~ 
+University in China in 2011 and earned his doctorate degree in chemistry atl !University 
+in 2016. According to his curriculum vitae, the Petitioner has worked as a graduate research assistant 
+at both! I and the University ofl I and as a visiting graduate scholar atl I 
+University. After completing his Ph.D., the Petitioner worked as a postdoctoral researcher at the 
+University o~ lbefore joiningD University's Department of Chemistry 
+as a postdoctoral associate in January 2018. He remained in that position, in F-1 nonimmigrant student 
+status, at the time he filed this petition in July 2019. 
+As mentioned above, the Petitioner has judged the work of others in his field through the peer review 
+process, has made contributions to his field, and has authored scholarly articles in professional 
+publications. However, the record does not demonstrate that his achievements to date are reflective of 
+a "career of acclaimed work in the field" as contemplated by Congress at H.R. Rep. No. 101-723, 59 
+(Sept. 19, 1990), or the sustained national or international acclaim that the statute requires. 
+As it relates to his experience judging the work of others in his field, the Petitioner provided evidence 
+that he has peer reviewed at least 50 manuscripts for 14 different journals in his field since 2015.1 
+Participation in the peer review process does not automatically demonstrate that an individual has 
+sustained national or international acclaim. An evaluation of the significance of the Petitioner's peer 
+review experience is appropriate to determine if such evidence is indicative of the extraordinary ability 
+required for this highly restrictive classification. See Kazarian, 596 F. 3d at 1121-22. 
+The Petitioner argues that the frequency with which he has peer reviewed articles, and the reputation 
+and rankings of the journals that invited him to serve as a peer reviewer, support a determination that 
+he is at the top of his field of endeavor. Specifically, he maintains that his "standing as a leading 
+expert is clear from his 50 reviews for many prestigious journals." In addition, he has asserted that 
+"only top-level experts in their field are invited to perform this important review work, so this frequent 
+review activity further demonstrates [his] important standing the field." The Petitioner provided 
+journal rankings from Google Scholar indicating that many of the journals for which he has served as 
+a peer reviewer are ranked in the top ten in their respective subject matter sub-categories in terms of 
+their "h-5 index," a measure related to the journals' respective impact factors. 
+However, the record does not contain sufficient support for his claim that only "top-level experts" are 
+typically invited to participate in the peer review process for scientific journals. The Petitioner did 
+not, for example, provide evidence that the specific journals that invited him to serve as a peer reviewer 
+reserve those invitations for researchers who are recognized as being at the very top of the field or 
+otherwise enjoy standing in the field consistent with sustained national or international acclaim.c=J 
+~---_..,,.who served as the Petitioner's Ph.D. advisor atl !University, provided a 
+1 The record reflects that the Petitioner had completed 16 reviews for Journal of Molecular Modeling. 13 reviews for 
+Journal of Chemical Information and Modeling, and one or two reviews for most of other 12 journals that have invited 
+him to review manuscripts. 
+4 
+letter in which he mentions that the Petitioner is an "active peer reviewer" for a number of leading 
+journals, noting that "peer review service is a critical component of the academic research process" 
+and that "only verified experts are entrusted with such a duty."I lasserts that the Petitioner's 
+"frequent peer review service confirms his overall expertise" and his standing as a "valuable 
+researcher" in their shared field. 
+We do not question! ~ s opinion that the Petitioner's activities as a peer reviewer demonstrate 
+his acknowledged expertise in chemistry, particularly in computational chemistry and molecular 
+modeling, and his stature as a valued and active researcher in this field. At issue here is the extent to 
+which the Petitioner's peer review activities have required, reflected, or resulted in his national or 
+international acclaim. As noted, the Petitioner did not establish the various journals' requirements for 
+selection of peer reviewers, and therefore we are unable to evaluate his peer review activities in light 
+of those requirements. For example, reviewing manuscripts for journals that select peer reviewers 
+based on subject matter expertise would not provide strong support for the petition, because possessing 
+expertise in a given field is a considerably lower threshold than enjoying sustained acclaim in the field. 
+Therefore, although the record shows that the Petitioner has reviewed numerous manuscripts for 
+reputable journals, it does not demonstrate how his peer review activity compares to or differentiates 
+him from his peers in the field. Similarly, the evidence in the record does not demonstrate that the 
+Petitioner has received any independent acclaim or recognition for his service as a peer reviewer. 
+Without this or other evidence differentiating him from others in his field, the Petitioner has not 
+established how his peer review experience contributes to establishing his sustained national or 
+international acclaim or how it places him among that small percentage at the very top of the field of 
+endeavor. See 8 C.F.R. § 204.5(h)(2). 
+With respect to his authorship of scholarly articles, the Petitioner emphasized that his work has resulted 
+in "15 peer-reviewed articles and 5 published software packages," and "has been published in some 
+of the most prestigious high impact journals in his field." He acknowledges that "publication is a 
+relatively common activity for researchers and thus is not necessarily indicative of one's extraordinary 
+ability." However, he asserts that he has consistently published in "top-ranked journals" and 
+highlights the ranking and impact factor of seven of the journals that have published his work, 
+including Chemical Reviews and Journal of the American Chemical Society. The Petitioner 
+emphasizes that this record of publication establishes that "his work has been recognized as some of 
+the best in the field," noting that publication in such journals is "a rare accomplishment achieved by 
+only the best researchers in the field." 
+A high ranking or impact factor reflects a publication's overall citation rate. It does not, however, 
+show the influence of any particular author or demonstrate how an individual's research has had an 
+impact within the field. Further, the evidence in the record does not establish that publication in a 
+journal with a high impact factor alone demonstrates that an individual researcher has achieved wide 
+recognition consistent with national or international acclaim. The Petitioner did not provide sufficient 
+support for his claim that publication in highly ranked journals is an accomplishment only achieved 
+by those at the very top of the field, or one which automatically elevates a researcher to the top of the 
+field. 
+5 
+As authoring scholarly articles is often inherent to the work of scientists and researchers, the citation 
+history or other evidence of the influence of his articles can be an indicator to determine the impact 
+and recognition that his work has had on the field and whether such influence has been sustained. 
+Such an analysis at the final merits determination stage is appropriate pursuant to Kazarian, 596 F. 3d 
+at 1122. Here, the Petitioner has consistently emphasized that his research productivity and the 
+individual and collective citations to his work, according to several metrics and statistics, 
+"quantitatively place [him] at the very top of his field of endeavor." 
+At the time of filing, the Petitioner submitted his Google Scholar profile indicating that his most-cited 
+research article, published in 2013, had 230 citations. This was followed by articles published in 2017, 
+2016 and 2015 that had received 104, 74 and 69 citations, respectively.2 The Petitioner maintains that 
+a number of his individual publications have been cited "at a much higher rate than those of other 
+researchers in the field." The Petitioner submitted an "InCites Essential Science Indicators" chart 
+published by Clarivate Analytics in 2019. This evidence shows "baseline" citation rates in a small 
+number of broad fields for the years 2008 through 2018, as well citation figures by percentile for the 
+same fields and years. The Petitioner emphasizes that based on this data, he has four published papers 
+with citations that fall within the top 10 percent, two in the top 1 percent, and one in the top 0 .1 percent. 
+He states that his article citation rates for these seven papers are "between 3 and 29 times higher than 
+the average number of citations in the [chemistry] field for their respective publication years, clearly 
+distinguishing him from other researchers in the field." 
+This evidence demonstrates that several of the Petitioner's individual articles have been cited at a rate 
+that is above average in his field, and in some cases, well above the average rate. The comparative 
+ranking of his individual papers to baseline or average citation rates, however, does not automatically 
+establish that he is widely recognized as being among the small percentage of researchers at the top of 
+his field. 3 The Petitioner has not demonstrated how citation to his publications, individually or 
+collectively, compares to scientists who enjoy sustained national or international acclaim in the field. 
+The Petitioner also presented a document regarding his citation count percentiles and paper count 
+percentiles which appears to have been self-compiled using "Microsoft Academic" as the data source. 
+The Petitioner states that this data compares his research impact to that of other researchers in the 
+broad fields of biology, chemistry, and computer science, and maintains that this evidence 
+demonstrates that he is "in the top 1.42% in terms of research productivity" compared to other 
+researchers in these fields, and "in the top 0.14% in terms of overall citation impact."4 While the 
+2 The Petitioner's most cited work according to Google Scholar was the software package I t which 
+accounted for 1049 ( over 58 percent) of his 1797 citations at the time of filing. Overall, 62 percent of the Petitioner's 
+cumulative citations were to different releases of th~I I software package, for which he was credited as one of 
+dozens of contributors. 
+3 For instance, according to the data from Clarivate Analytics, chemistry papers published in 2017 that received only 11 
+citations were in the top 10%, and only 3 citations were needed to reach this threshold for papers published in 2018. A 
+supporting explanation regarding the reported citation rates indicates that "[t]he citation rate in any single year can serve 
+as a baseline to assess the impact of a paper in the same research field published in that year." The publisher does not 
+claim that such percentile figures are intended to provide information regarding a given author's standing in a particular 
+field. 
+4 The document he provided indicated that the model used to obtain these figures included over 29 million authors and 
+over 20 million publications published between 2011 and 2019, but there is no further explanation for how these percentiles 
+were derived. 
+6 
+Petitioner provides documentation corroborating the values, he does not submit evidence 
+demonstrating how these metrics were calculated or how these percentiles reflect his sustained national 
+or international acclaim in the field of computational chemistry. 
+In addition to the various metrics discussed above, the Petitioner provided the Google Scholar profiles 
+of "12 other extraordinary researchers" in his field. He emphasized that he has accrued more total 
+citations than each of these scientists "all of whom conduct research at top-tier institutions in his field." 
+The submitted profiles were those of assistant and associate professors in chemistry (mainly at public 
+and private U.S. universities) who had accrued total citations to their published work that ranged from 
+243 to 2095 citations. 5 The evidence objectively shows that the Petitioner had accumulated more 
+cumulative citations than each of the 12 researchers that he specifically selected as a basis for 
+comparison. However, while the Petitioner submitted copies of these individuals' resumes or 
+biographical pages from their universities' websites, he did not explain how this evidence supports a 
+determination that any of them enjoy recognition as "extraordinary researchers" or leading scientists 
+at the top of his field. 
+The Petitioner's citation evidence indicates that he has been a productive researcher during his career 
+thus far, and that other researchers in the field have noticed his work by citing to his publications and 
+using thel lsoftware package that incorporates hid !program. However, he did not 
+show that the citations to his research and software represent attention at a level consistent with being 
+among small percentage at the very top of his field. See 8 C.F.R. § 204.5(h)(2). The statute demands 
+"extensive documentation" of recognition. Despite his reliance on various metrics and data relating 
+to citation rates, the Petitioner did not, for instance, compare his citations to others in his field of 
+endeavor that are recognized as already being at the top in his field. We have taken the Petitioner's 
+publication and citation record into consideration, but he cannot rely primarily on that record to 
+mathematically place himself at the top of the field without other persuasive evidence of his sustained 
+acclaim. 
+The Petitioner also provided examples of eight "notable independent citations" to his work and 
+asserted that such citations distinguish him "as one of the top contributors" to his field of study. A 
+study published by Khavana et al. in Journal of Molecular Liquids states that "[t]he parameters of the 
+metal cations were obtained from the report of Li et al.," citing to the Petitioner's 2013 Journal of 
+Chemical Theory and Computation article. An article published by Turner et al. in the Journal of 
+Biomolecular Structure and Dynamics states that "metal parameters were obtained using the MCPB.py 
+program," citing to the Petitioner's 2016 Journal of Chemical Information and Modeling article. Other 
+articles submitted as examples of "notable citations" reference this 2016 article in a similar fashion. 
+The Petitioner maintains that such citations show that his work has been singled out for special 
+attention, but he has not established how mentions of this kind translate into sustained national or 
+international acclaim. With the exception of a Biochemistry article in which the authors state that they 
+based their molecular dynamics simulation models on "pioneering work" by the Petitioner, the articles 
+generally discuss the dozens of cited source articles in similar terms; there is no special emphasis on 
+his work. The submitted articles acknowledge the Petitioner's research contributions to the 
+5 At the time the Petitioner submitted this evidence in November 2019, he had received 2124 cumulative citations to his 
+articles and software packages. 
+7 
+advancement of what appears to be an active field of research but are not indications that he has been 
+recognized by the field as one of the small percentage ofresearchers at the very top. 
+As discussed above, we have acknowlrged thl significance of the Petitioner's contribution of the I !program to the widely used software package. The submitted evidence reflects 
+that he was one of 3 9 contributors to the codes for the 2015 release and establishes that hid I 
+program represented an important advance to the software package's capabilities and utility. 
+However, it does not establish the level or scope of individual recognition or acclaim he has received 
+as a result of this contribution, and the record does not support a determination that credited 
+contributions to this software package are sufficient to elevate a researcher to the top of the field. The 
+Petitioner indicates in the "professional services" section of his curriculum vitae that he "serves the 
+I I mailing list and is consulted about issues related to metal ion modeling," and the record 
+contains email correspondence confirming that he is consulted by other scientists in this capacity. The 
+Petitioner's curriculum vitae also shows that he has delivered updates and other oral presentations at 
+several annuall I developer meetings, but he does not claim to have received widespread 
+sustained individual recognition within the broader field based on his participation at these 
+conferences. 
+We have also reviewed four recommendation letters that summarize the Petitioner's research and other 
+achievements. Letters of this kind can help to explain the nature and impact of the Petitioner's 
+contributions and, as noted, we have weighed this evidence in determining that the Petitioner has made 
+significant contributions to the computational chemistry field. However, such letters should be supported 
+with sufficient corroborating documentary evidence to establish that the Petitioner is recognized as being 
+among that small percentage at the very top of the field of endeavor and that he has garnered the 
+required sustained national and international acclaim for his achievements. 
+In his letter.._] __ ___.I describes the Petitioner's research contributions and the benefits those contributions 
+provide to the field. As noted, he also asserts that the Petitioner's "peer review service confirms his 
+overall expertise," and that the combination of his credentials, research, and peer review service "confirm 
+him to be a uniquely valuable researcher."! I states that his own reliance on the Petitioner's 
+research "affirms that he is a respected and valued member of the field" and he further concludes that the 
+Petitioner is "a renowned scholar whose work is vital to continued progress in chemistry." While both of 
+these letters offer praise for the Petitioner's research achievements to date, they do not offer sufficient 
+support for a conclusion that he has garnered sustained acclaim and that he is currently recognized as 
+being among the small percentage ofresearchers at the top of his field . 
+.__ _______ __, an associate professor of chemistry at the University ofl I attests to the 
+"quality and importance of [the Petitioner's] ongoing research in chemical modeling techniques." She 
+emphasizes that the Petitioner's works "have accrued over 1500 citations, a remarkable quantity affirming 
+that he is at the very top of his field,'~does not elaborate on her basis for drawing this conclusion. 
+I ., I a professor atl___J University in Sweden, discusses the Petitioner's citation 
+history in somewhat different terms, noting only that his record "exceeds the usual standards for a 
+chemist" and indicates that he is "a highly influential researcher overall." For the reasons already 
+discussed, the Petitioner's citation history alone is insufficient to establish his eligibility for this 
+classification. Whil~ I and I I also discuss the importance and influence of the 
+Petitioner's work in their shared field, and the benefits that may be derived from such work, they do not 
+8 
+offer additional explanation for how the Petitioner's achievements as a postdoctoral researcher to date 
+have earned him recognition that places him at the top of that field. 
+The record as a whole, including the evidence discussed above, does not establish the Petitioner's 
+eligibility for the benefit sought. He seeks a highly restrictive visa classification, intended for 
+individuals already at the top of their respective fields, rather than those progressing toward the top. 
+USCIS has long held that even athletes performing at the major league level do not automatically meet 
+the statutory standards for classification as an individual of "extraordinary ability." Matter of Price, 
+20 I&N Dec. 953, 954 (Assoc. Comm'r 1994). The record reflects that the Petitioner, although still 
+quite early in his postdoctoral career, has made significant research findings and contributions that 
+advance his field. The evidence related to his scholarly articles, citation rates and peer review service 
+reflects that he has been recognized for his contributions and expertise in his field, but falls short of 
+establishing that he satisfied all requirements for this classification at the time of filing. While the 
+Petitioner need not establish that there is no one more accomplished to qualify for the classification 
+sought, we find the record insufficient to demonstrate that he has sustained national or international 
+acclaim and is among the small percentage at the top of his field. See section 203(b )(1 )(A)(i) of the 
+Act; 8 C.F.R. § 204.5(h)(2). 
+III. CONCLUSION 
+For the reasons discussed above, the Petitioner has not established his eligibility as an individual of 
+extraordinary ability. 
+ORDER: The appeal is dismissed. 
+9 

@@ -1,0 +1,282 @@
+U.S. Citizenship 
+and Immigration 
+Services Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: MAR. 4, 2024 In Re: 30218079 
+Appeal of Texas Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner , a purported expert in artificial intelligence (Al) and mobile application ( app) 
+development, seeks classification under the employment-based , fust-preference (EB-1) immigrant 
+visa category as a noncitizen with "extraordinary ability." Immigration and Nationality Act (the Act) 
+section 203(b)(l)(A) , 8 U.S.C. § 1153(b)(l)(A). This EB-I category provides immigrant visas to 
+noncitizens who demonstrate "sustained national or international acclaim" and submit "extensive 
+documentation " of recognition of their achievements in their fields. Section 203(b)(1 )(A)(i) of the 
+Act. 
+The Director of the Texas Service Center denied the petition. The Director concluded that the 
+Petitioner satisfied one initial evidentiary requirement -two less than needed to qualify for a final 
+merits determination. On appeal, the Petitioner asserts that he meets eight other evidentiary criteria 
+and has demonstrated his possession of extraordinary ability in the AI and app development field. 
+The Petitioner bears the burden of demonstrating eligibility for the requested benefit by a 
+preponderance of the evidence. Matter of Chawathe , 25 I&N Dec. 369, 375-76 (AAO 2010). 
+Exercising de novo appellate review, see Matter of Christo 's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 
+2015), we agree with the Director that the Petitioner has not met the requisite number of evidentiary 
+criteria. We will therefore dismiss the appeal. 
+I. LAW 
+To qualify as a noncitizen with extraordinary ability, a petitioner must demonstrate that: 
+• They have "extraordinary ability in the sciences, arts, education , business, or athletics;" 
+• They seek to continue work in their field of expertise in the United States; and 
+• Their work would substantially benefit the country. 
+Section 203(b)(l)(A)(i)-(iii) of the Act. 
+The term "extraordinary ability" means a level of expertise commensurate with "one of that small 
+percentage who have risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). Evidence 
+of extraordinary ability must demonstrate a noncitizen's receipt of either "a major, international 
+recognized award" or satisfaction of at least three of ten lesser evidentiary standards. 8 C.F.R. 
+§ 204.5(h)(3)(i-x). 1 
+If a petitioner meets either of the evidentiary requirements above, U.S. Citizenship and Immigration 
+Services (USCIS) must make a final merits determination as to whether the record, as a whole, 
+establishes their sustained national or international acclaim and recognized achievements placing the 
+noncitizen among the small percentage at their field's very top. See Kazarian v. USCIS, 596 F.3d 
+1115, 1119-20 (9th Cir. 2010) (requiring a two-part analysis of extraordinary ability). 
+II. ANALYSIS 
+A. The Petitioner 
+The record shows that a university in the Petitioner's home country of Russia awarded him a dip/om 
+magistra in engineering. His major fields of study consisted of aviation instruments, and computing 
+and measurement complexes. He then worked in the information technology (IT) field for about six 
+years, developing industrial and financial software for his employers. In 2011, he began working for 
+himself: creating apps for social networks and organizing various business, industrial, and educational 
+forums. In 2015, he also began developing algorithms for trading strategies on the Moscow Stock 
+Exchange. 
+Since 2020, the Petitioner has completed online coursework in AI and data science and participated in 
+various international AI and machine learning competitions. He seeks to permanently work in the 
+United States, developing AI products and services. 
+The record supports the Director's finding that the Petitioner demonstrated his "authorship ofscholarly 
+articles in the field, in professional or major trade publications or major media." See 8 C.F.R. 
+§ 204.5(h)(3)(vi). On appeal, the Petitioner asserts that he also meets the following evidentiary 
+criteria: 
+B. Receipt of Lesser Prizes or Awards 
+This criterion requires documentation of a petitioner's receipt of "nationally or internationally 
+recognized prizes or awards for excellence in the field of endeavor." 8 C.F.R. § 204.5(h)(3)(i). When 
+adjudicating this requirement, USCIS should first determine if a noncitizen -as opposed, for example, 
+to their employer -received a prize or award. See generally 6 USCIS Policy Manual F.(2)(B)(l), 
+www.uscis.gov/policy-manual. If so, the Agency should then determine whether the prize or award 
+is nationally or internationally recognized and issued for excellence in the endeavor's field. Id. 
+The Petitioner submitted evidence that he received the following awards: 
+1 If the standards do not readily apply to a petitioner's occupation, the noncitizen may submit comparable evidence to 
+establish eligibility. 8 C.F.R. § 204.5(h)(4). 
+2 
+• First place in a regional "Informatics Olympiad" among students in 59 schools when he was 
+in high school; 
+• A bronze medal in a 2021 international competition to use machine learning to detect and 
+position catheters and lines on chest x-rays; 
+• A gold medal in a 2021 international competition to develop an online product-matching 
+system; 
+• A silver medal in a 2022 international competition to automate the identification ofwhales and 
+dolphins; and 
+• The title of "expert" in 2022 on an online competition platform for AI programmers and data 
+scientists. 
+The Petitioner established that these honors recognize excellence in the AI and app development field. 
+But, as the Director found, the record lacks sufficient evidence of the awards' purported national or 
+international recognition, such as media coverage about them or their presentations at national or 
+international conferences in the field. See Visinscaia v. Beers, 4 F.Supp.2d 126, 136 (D.D.C. 2013) 
+( finding insufficient evidence of awards' national or international recognition where the record lacked 
+proof ofrecognition beyond the presenting organizations). Thus, contrary to 8 C.F.R. § 204.5(h)(3)(i), 
+the Petitioner has not documented that his awards for excellence in the field are nationally or 
+internationally recognized. 
+C. Membership in Associations Requiring Outstanding Achievement 
+To meet this requirement, a petitioner must submit documentation of their "membership in 
+associations in the field for which classification is sought, which require outstanding achievements of 
+their members, as judged by recognized national or international experts in their disciplines or fields." 
+8 C.F.R. § 204.5(h)(3)(ii). 
+The Petitioner provided evidence of his purported memberships in the following four groups: 
+• An online community of AI programmers and data scientists with more than 3 million 
+members; 
+• An international community of data science, AI, and machine learning practitioners with more 
+than 40,000 members; 
+• An organization for people and businesses performing engineering-related activities; and 
+• An online Russian club for game developers. 
+The Petitioner has documented his membership in the engineering-related organization and provided 
+a copy of an invitation he received to join the data science, AI, and machine learning community. But 
+the record does not establish his membership in the other two groups or their issuance ofmemberships. 
+See Goncharov v. Allen, No. 3:21-CV-1372-B, 2022 WL 17327304, *5 (N.D. Tex. Nov. 29, 2022) 
+(stating that "[n]o reasonable analysis" could find 8 C.F.R. § 204.5(h)(3)(ii) satisfied without evidence 
+of "associations which grant memberships"). Moreover, the record lacks evidence that any ofthe four 
+organizations require outstanding achievements of their members or that national or international 
+experts judge the achievements of aspiring members. See, e.g., Braga v. Poulos, No. CV 06-5105, 
+2007 WL 9229758, *5 (S.D. Cal. July 6, 2007), aff'd, 317 Fed. Appx 680 (9th Cir. 2009) (holding 
+that, without evidence that any of the organizations required outstanding achievements of their 
+3 
+members, a petitioner's membership in multiple Jiu Jitsu organizations did not satisfy 8 C.F.R. 
+§ 204.5(h)(3)(ii)). Thus, the Petitioner has not met this evidentiary requirement. 
+D. Published Material About the Petitioner 
+This criterion requires "[p ]ublished material about the alien in professional or major trade publications 
+or other major media, relating to the alien's work in the field for which classification is sought." 
+8 C.F.R. § 204.5(h)(3)(iii). The evidence must include the material's title, date, and author, and 
+any 
+necessary translation. Id. 
+The Petitioner submitted evidence that, in 2022, two business technology websites in Russia published 
+separate articles about him and his work. He also provided evidence from a reputable web analytics 
+company. The company ranked the first website 130th in online traffic among technology-related 
+websites in Russia, while the second website ranked 172nd in the same category. Based on these 
+rankings, the record does not establish the websites as "major trade publications" or "major media" in 
+Russia. See 6 USCIS Policy Manual F.(2)(B)(l) (listing readership, circulation, or viewership as 
+relevant factors in determining "major trade publications" or "major media" under 8 C.F.R. 
+§ 204.5(h)(3)(iii)). 
+The Petitioner stated that a third Russian website -ranked first in the country in online traffic in the 
+"community and society" category -also published the article that originally appeared on the second 
+technology website. Based on the third website's ranking in Russia, the site appears to constitute a 
+major medium. But the Petitioner did not submit documentary proof to corroborate the site's 
+publication of the article. Thus, the third website does not demonstrate the Petitioner's satisfaction of 
+this evidentiary criterion. 
+Also, the record does not establish the business technology websites as "professional" publications. 
+The Petitioner has not demonstrated that the websites' intended audiences are professionals in the 
+technology field. See 6 USCIS Policy Manual F.(2)(B)(l) ("In evaluating whether a submitted 
+publication is a professional publication, major trade publication, or major media, relevant factors 
+include the intended audience.") For the foregoing reasons, we agree with the Director that, contrary 
+to 8 C.F.R. § 204.5(h)(3)(iii), the Petitioner has not demonstrated that he provided published materials 
+about himself in "professional or major trade publications or other major media." 
+E. Participation as a Judge of Others' Work 
+To meet this requirement, a petitioner must submit evidence of their "participation, either individually 
+or on a panel, as a judge of the work of others in the same or an allied field of specification for which 
+classification is sought." 8 C.F.R. § 204.5(h)(3)(iv). A petitioner must not only show that they were 
+invited to judge the work ofothers, but also that they actually judged the work. See generally 6 USCIS 
+Policy Manual F.(2)(B)(l). 
+The Petitioner submitted evidence that, in 2012 and 2013, he served on expert commissions that 
+evaluated the attractiveness of projects presented by universities and small enterprises. A letter from 
+the organizer ofthe 2012 forum states that the projects that year resulted in recommendations to amend 
+Russia's tax code, optimize a tariff for innovative businesses, and create investment infrastructure. 
+These results indicate that the projects were business- or tax-related. Thus, contrary to 8 C.F.R. 
+4 
+§ 204.5(h)(3)(iv), the Petitioner has not demonstrated that his participation on the comm1ss10ns 
+involved judging work in AI, app development, or an allied field. 
+The Petitioner also provided evidence that, on multiple occasions since 2014, he evaluated software 
+products for businesses and educational organizations. Software packages, however, can reflect 
+contributions from people in a variety of fields, including: executives; accountants; and marketing 
+representatives. The Petitioner has not demonstrated that he judged the work of other people in his 
+field, such as software developers. Further, he has not established that he judged or critiqued the 
+software, as opposed to determining which application best suited an individual organization. For the 
+foregoing reasons, the Petitioner has not demonstrated his submission of evidence of his participation 
+as a judge of the work of others in the same or allied field. 
+F. Original Contributions of Major Significance 
+To meet this requirement, a petitioner must submit "[e]vidence of the alien's original scientific, 
+scholarly, artistic, athletic, or business-related contributions of major significance in the field." 
+8 C.F.R. § 204.5(h)(3)(v). USCIS should first determine whether a noncitizen has made original 
+contributions in their field. 6 USCIS Policy Manual F.(2)(B)(l). If so, the Agency should then 
+determine whether any of them are of "major significance." Id. 
+As proof of the Petitioner's purported original contributions to his field, he submitted nine support 
+letters. Two educational directors described IT projects that the Petitioner completed for their 
+institutions. One director stated that the Petitioner improved students' average academic performance 
+by developing a website allowing teachers to upload lectures for student access and detailing student 
+information. The other director stated that the Petitioner increased the number of students seeking his 
+institution's services by optimizing its websites' rankings on search engines, almost tripling the sites' 
+traffic. Also, a manager ofa bank that previously employed the Petitioner described how the Petitioner 
+attracted additional customers by developing software to receive and send deposits in Russian post 
+offices, thereby extending banking services to sparsely populated areas. Others in the Petitioner's 
+field cited his development of a social media app that garnered more than 1 7 million downloads and 
+his scholarly articles in the field. 
+As the Director found, however, the Petitioner has not established that these contributions to his field 
+have "major significance." The IT projects for the educational institutions might have major 
+significance for the organizations, their communities, or the educational field. But the Petitioner has 
+not demonstrated the projects' importance to his field of AI and app development. Also, two data 
+scientists stated that other software developers copied technical and visual components of the 
+Petitioner's social media app. But the record lacks sufficient corroborating evidence to demonstrate 
+that his app design had "major significance" in the field. Further, the Petitioner submitted copies of 
+his published scholarly articles in the field. But the record does not show that others in the field 
+regularly cited his articles or otherwise explain their significance. See 6 USCIS Policy Manual 
+F.(2)(B)(l) ("[P]ublished research that has provoked widespread commentary on its importance from 
+others working in the field, and documentation that it has been highly cited relative to others' work in 
+that field, may be probative of the significance of the person's contributions to the field of endeavor"). 
+5 
+The authors of two of the support letters stated that they had never met the Petitioner but were aware 
+of his work and considered him to be one of the top AI and app developers in Russia. But the record 
+shows that the authors of the other seven letters comprise clients, business associates, and a former 
+employer of the Petitioner. See Goncharov, 2022 WL 17327304 at *5 (holding that 8 C.F.R. 
+§ 204.5(h)(3)(v) "requires substantial influence beyond one's employers, clients, or customers") 
+( citations omitted). 
+Also, the support letters do not specify the significance of the Petitioner's contributions to his field. 
+For example, evidence does not identify specific software developers who purportedly copied 
+components of his social media app. To establish "major significance," evidence must show that a 
+petitioner's work has been "widely" adopted or replicated by people in the field who are unaffiliated 
+with the petitioner. Amin v. Mayorkas, 24 F.4th 383,394 (5th Cir. 2022). The evidence must include 
+"specific information relating to the impact of a petitioner's work in the field as a whole." Visinscaia, 
+4 F.Supp.3d at 134. 
+As the Petitioner has not sufficiently demonstrated the significance of his contributions to his field, 
+we will affirm the Director's finding that he did not meet the evidentiary requirement at 8 C.F.R. 
+§ 204.5(h)(3)(v). 
+G. Display of Work in the Field 
+This criterion requires "[ e ]vidence of the display of the alien's work in the field at artistic exhibitions 
+or showcases." 8 C.F.R. § 204.5(h)(3)(vii). USCIS first determines whether the displayed work 
+constitutes a petitioner's work product. See 6 USCIS Policy Manual F.(2)(B)(l). The Agency then 
+determines whether the venues that displayed the work constitute artistic exhibitions or showcases. 
+Id. The term "exhibition" means a public showing, as of works of art, objects of manufacture, or 
+athletic skill. See Merriam-Webster Online Dictionary, www.merriam-webster.com/dictionary/ 
+exhibition. 
+The Petitioner submitted evidence of social media apps that he developed and his presentation of 
+scholarly articles at scientific conferences in 2022 and 2023. The record demonstrates that he 
+produced all these materials. But, as the Director found, the Petitioner has not established that the 
+venues that displayed his work constitute "artistic exhibitions or showcases." See 8 C.F.R. 
+§ 204.5(h)(3)(vii) (emphasis added); see also Kazarian, 596 F.3d at 1122 (affirming our finding that 
+a physicist did not demonstrate display of his work at artistic exhibitions or showcases where he had 
+self-published a textbook, lectured at a community college, and presented at scientific conferences). 
+The record therefore does not demonstrate the Petitioner's satisfaction of this evidentiary criterion. 
+H. Performance in a Leading or Critical Role 
+This criterion requires evidence that a petitioner "has performed in a leading or critical role for 
+organizations 
+or establishments that have a distinguished reputation." 8 C.F.R. § 204.5(h)(3)(viii). 
+USCIS should first determine whether a petitioner has performed in a leading or critical role for an 
+organization, establishment, division, or department. See generally 6 USCIS Policy Manual 
+F.(2)(B)(l). A leading role means that a petitioner is (or was) a leader within the organization, 
+6 
+establishment, division, or department. Id. A critical role means that a petitioner has contributed in a 
+way that is of significant importance to the organization's results or activities. Id. 
+USCIS should next determine whether the organization, establishment, division, or department has a 
+distinguished reputation. Id. The word "distinguished" means "marked by eminence, distinction, or 
+excellence." Merriam-Webster, Online Dictionary, www.merriam-webster.com/dictionary/ 
+distinguished. Relevant factors may include: an organization's relative size or longevity; the scale of 
+its customer base, or relevant media coverage of it. Id. 
+The Petitioner asserts that he led his business and provided critical IT services to customer 
+organizations. The record demonstrates that he led his business. But he has not established that it had 
+a distinguished reputation. The Petitioner argues that it developed several successful social media 
+apps, including the one that garnered more than 17 million downloads. But the business itself was 
+small, as the Petitioner constituted its sole employee. Also, it operated only about nine years, as the 
+Petitioner stated that he sold it in 2020. He has not submitted any evidence that the business received 
+media coverage or awards. Thus, contrary to 8 C.F.R. § 204.5(h)(3)(viii), the record does not establish 
+that his business had a distinguished reputation. 
+The Petitioner has not demonstrated that three of the other four organizations have distinguished 
+reputations. Evidence regarding a regional government ministry, an educational organization, and a 
+marketing company that does business with the Petitioner does not establish the entities' eminence, 
+distinction, or excellence. But the record shows that the company whose platform offered the 
+Petitioner's apps is Russia's most popular and largest social medium and network. At the end of2022, 
+the company had the sixth most popular website in the country and the 16th most popular in the world. 
+Thus, based on size and customer base, we agree that the social media company has a distinguished 
+reputation. 
+The evidence, however, does not demonstrate the Petitioner's performance in a critical role for the 
+social media company. The company allowed him to download his apps onto its game platform, but 
+it did not employ him. We recognize that he developed one of the three most popular apps on the 
+company's platform. But the record lacks details regarding the importance of the Petitioner or his 
+apps to the company. In brief and virtually identical letters, the company's general director and game 
+platform administrator verified the downloading of the Petitioner's app onto the company's platform 
+and the popularity of one of his apps. The letters state that he "made a considerable contribution to 
+our Company development." But the letters do not explain how the Petitioner contributed to the 
+company's results or activities, or the importance of his contributions. See Goncharov, 2022 WL 
+17327304 at *6 ( affirming USCIS' finding that evidence of a petitioner's purported performance in a 
+critical role must explain the work's importance to the organization). The Petitioner therefore has not 
+met this evidentiary requirement. 
+I. High Salary in the Field 
+This criterion requires evidence that a petitioner "has commanded a high salary or other significantly 
+high remuneration for services, in relation to others in the field." 8 C.F.R. § 204.5(h)(3)(ix). 
+7 
+The Petitioner submitted evidence that he has received income from three sources: his business; stock 
+trading algorithms he developed for a brokerage; and stock trading algorithms he developed for a bank. 
+He documented that, from 2015 to 2021, his total income exceeded the average wages of software 
+developers in his region. 
+The Petitioner's region, however, lies about 250 miles from Moscow, Russia's largest city. Thus, 
+evidence of wages in his region may not accurately state the average wage of software developers in 
+Russia as a whole. See Buletini v. INS, 860 F. Supp. 1222, 1232 n.12 (E.D. Mich. 1994) (stating that 
+the Act "clearly contemplates judging an alien's extraordinary ability, or lack thereof: by national 
+standards"). He has therefore not sufficiently demonstrated his commandment of a high salary in 
+relation to others in the field. 
+III. CONCLUSION 
+The Petitioner's evidence does not meet at least three ofthe initial evidentiary criteria for the requested 
+immigrant visa category. We will therefore affirm the motion to reopen's dismissal. 
+ORDER: The appeal is dismissed. 
+8 

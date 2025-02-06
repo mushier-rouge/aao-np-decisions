@@ -1,0 +1,239 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 6618699 
+Appeal of Nebraska Service Center Decision Non-Precedent Decision of the 
+Administrative Appeals Office 
+Date: APR. 29, 2020 
+Form 1-140, Immigrant Petition for Alien Worker (Extraordinary Ability) 
+The Petitioner, a data scientist, seeks classification as an alien of extraordinary ability. See Immigration 
+and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). This frrst preference 
+classification makes immigrant visas available to those who can demonstrate their extraordinary ability 
+through sustained national or international acclaim and whose achievements have been recognized in 
+their field through extensive documentation. 
+The Director of the Nebraska Service Center denied the petition, concluding that the Petitioner had 
+satisfied only two of the initial evidentiary criteria, of which he must meet at least three. 
+In these proceedings, it is the Petitioner's burden to establish eligibility for the requested benefit. See 
+Section 291 of the Act, 8 U.S.C. § 1361. Upon de nova review, we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education , business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor ." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and the recognition of his or her achievements in the field through a one-time achievement 
+(that is, a major, internationally recognized award). If that petitioner does not submit this evidence, 
+then he or she must provide sufficient qualifying documentation that meets at least three of the ten 
+categories listed at 8 C.F.R. § 204.5(h)(3)(i) -(x) (including items such as awards, published material 
+in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010). 
+II. ANALYSIS 
+The Petitioner indicates employment as a senior data scientist at Din I I California. Because the Petitioner has not i~n-d-ic--a-t-ed_o_r_e_s-ta_b_l-is_h_e_d_t_h_a_t _h_e_h_a~s 
+received a major, internationally recognized award, he must satisfy at least three of the alternate 
+regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). 
+In denying the petition, the Director determined that the Petitioner fulfilled two of the initial 
+evidentiary criteria, judging at 8 C.F.R. § 204.5(h)(3)(iv) and scholarly articles at 8 C.F.R. 
+§ 204.5(h)(3)(vi). The record reflects that the Petitioner reviewed papers for journals. In addition, he 
+authored scholarly articles in professional publications. Accordingly, we agree with the Director that 
+the Petitioner fulfilled the judging and scholarly articles criteria. 
+On appeal, the Petitioner asserts that he meets an additional criterion, discussed below. After 
+reviewing all of the evidence in the record, we conclude that the record does not support a finding that 
+the Petitioner satisfies the requirements of at least three criteria. 
+A. Evidentiary Criteria 
+Evidence of the alien's original scient[fic, scholarly, artistic, athletic, or business­
+related contributions of major sign[ficance in the field. 8 C.F.R. § 204.5(h)(3)(v). 
+The Petitioner argues that he meets this criterion based on his journal reviews, publication in top 
+journals, citation of his work by others, and recommendation letters. In order to satisfy the regulation 
+at 8 C.F.R. § 204.5(h)(3)(v), a petitioner must establish that not only has he made original contributions 
+but that they have been of major significance in the field. 1 For example, a petitioner may show that 
+the contributions have been widely implemented throughout the field, have remarkably impacted or 
+influenced the field, or have otherwise risen to a level of major significance in the field. 
+At the outset, the Petitioner asserts that "[t]he journal review records strongly support that [he] has a 
+significant impact in the field of Data Science." As previously discussed, we have already considered 
+the Petitioner's manuscript reviews under the judging criterion at 8 C.F.R. § 204.5(h)(3)(iv). 
+1 See USCTS Policy Memorandum PM 602-0005.1, Evaluation of Evidence Submitted with Certain Form I-140 Petitions; 
+Revisions to the Adjudicator's Field Manual (AFM) Chapter 22.2, AFM Update ADJ 1-14 8-9 (Dec. 22, 2010), 
+https://www.uscis.gov/policymanual/HTML/PolicyManual.html (finding that although funded and published work may 
+be "original," this fact alone is not sufficient to establish that the work is of major significance). 
+2 
+Moreover, although he provided several emails requesting him to review papers for journals, he 
+demonstrated that he conducted only two of the reviews prior to the filing of his petition. The 
+Petitioner must establish that eligibility requirements for the immigration benefit have been satisfied 
+from the time of the filing and continuing through adjudication. See 8 C.F.R. § 103.2(b )(1 ). Moreover, 
+although he submitted an email welcoming him to the editorial board of Computers in Biology and 
+Medicine, he did show what activities or duties he performed for the journal. Regardless, the Petitioner 
+did not demonstrate how reviewing the work and contributions of others constitutes his original work. 
+In addition, the Petitioner did not support his assertion that his manuscript or editorial review 
+experience resulted in a "significant impact" in the field. 
+Moreover, the Petitioner claims that he has "published 18 research articles in top-tier professional 
+journals and conference proceedings" and "many of the journals are top 1 % journals worldwide." 
+Again, we considered the Petitioner's publication history under the scholarly articles criterion at 8 
+C.F.R. § 204.5(h)(3)(vi). Moreover, the Petitioner did not support the record regarding his journal 
+ranking claims. Regardless, the Petitioner has not demonstrated that publication of his articles in 
+highly ranked journals or presentation of his work at conferences establish that the field considers his 
+research to be an original contribution of major significance. Moreover, a publication that bears a 
+high ranking or impact factor reflects the publication's overall citation rate. It does not show an 
+author's influence or the impact of research in the field or that every article published in a highly 
+ranked journal automatically indicates a contribution of major significance. Publications and 
+presentations are not sufficient under 8 C.F.R. § 204.5(h)(3)(v) absent evidence that they were of 
+"major significance." See Kazarian v. USCIS, 580 F.3d 1030, 1036 (9th Cir. 2009), ajf'd in part, 
+596 F.3d 1115. Here, the Petitioner did not establish that publication in a popular or highly ranked 
+journal or presentation at a distinguished conference alone demonstrates a contribution of major 
+significance in the field. 
+Furthermore, as it relates to the citation of his work, the record reflects that the Petitioner initially 
+submitted evidence from Google Scholar showing that his five highest cited articles received 1,132 
+(The Astrophysical Journal Supplement Series), 56 (Astronomy and Computing), 36 (The 
+Astronomical Journal), 29 (The Astronomical Journal), 16 (The Astrophysical Journal), and 15 
+citations (Monthly Notices of the Royal Astronomical Society), respectively. In addition, the Petitioner 
+indicated that these citations included self-citations; in other words, the figures included his citations 
+in his articles to his own work. Moreover, the Petitioner provided his citation overview from Scopus 
+that excluded his self-citations revising the figures: 408 (The Astrophysical Journal Supplement 
+Series), 22 (Astronomy and Computing), 5 (The Astronomical Journal), 4 (The Astrophysical Journal), 
+and 6 (Monthly Notices of the Royal Astronomical Society), respectively. Here, when factoring only 
+his independent citations, the number of citations to his articles are drastically reduced. Further, in 
+response to the Director's request for evidence, the Petitioner provided revised figures from Google 
+Scholar. However, the Petitioner did not differentiate the new citations between independent and self­
+citations, nor did he show whether the increased citations occurred after the filing of his petition. See 
+8 C.F.R. § 103.2(b)(l). 
+Again, this criterion requires the Petitioner to establish that he has made original contributions of major 
+significance in the field. Generally, citations can serve as an indication that the field has taken interest 
+in a petitioner's research or written work. However, the Petitioner has not sufficiently shown that the 
+number of citations for any of his published articles are commensurate with contributions of major 
+3 
+significance. Here, the Petitioner did not articulate the significance or relevance of the citations to his 
+articles. For example, he did not demonstrate that these citations are unusually high in his field or 
+how they compare to other articles that the field views as having been majorly significant. Although 
+his citations indicate the some in the field have referenced his work, the Petitioner did not establish 
+that his citation numbers to his individual articles rise to the level of major significance consistent with 
+this regulatory criterion. 2 
+In addition, the Petitioner argues that "[m]any of [his] publications ... are among the top 0.01 % to 
+1 % highly cited papers." The record reflects that the Petitioner provided data from Clarivate Analytics 
+regarding baseline citation rates and percentiles by year of publication for all fields, including 
+chemistry, microbiology, and psychology. The comparative ranking to baseline or average citation 
+rates to all fields, however, does not automatically establish majorly significant contributions in his 
+field. 3 Once again, the issue for this criterion is whether the Petitioner has made original contributions 
+of major significance in the field rather than where his citation rates rank among the averages of others 
+in any field. Here, a more appropriate analysis, for example, would be to compare the Petitioner's 
+citations to other similarly, highly cited articles that his field views as having been of major 
+significance, as well as factoring in other corroborating evidence. The Petitioner has not demonstrated 
+that his written work, using Clarivate Analytics methodology through citation numbers and 
+percentiles, resulted in original contributions of major significance in the field. 
+Regarding the highest, independently cited article, '~--------~Data Releases of the 
+Sloan Digital Sky Survey: Final Data from SDSS-III," published in The Astrophysical Journal 
+Supplement Series, the record reflects that he was one of over 300 authors listed in the paper. However, 
+the Petitioner did not establish which contributions he made to the article. Moreover, the Petitioner 
+did not demonstrate which portions of the article that pertained to his work have been specifically 
+cited by others. Further, whilel I indicated that she collaborated with the Petitioner 
+during the Sloan Digital Sky Survey (SDSS), she did not explain what he contributed to the article and 
+how it is of major significance in the field. InsteadJ I stated that during his graduate study 
+atl !University, the Petitioner "used SDSS data to perform research projects on many 
+different topics, including galaxy clustering, I I cosmology, as well as the Galactic 
+structures." Here,I I did not elaborate and describe what, if any, of his research projects or 
+findings were included in the article. Moreover,! !provided that "[u]sing this dataset, [the 
+Petitioner] built the biggesu I in the world, which contain more than ten thousand I I" However,! I did not show whether thel I were included as part 
+of the paper or the Petitioner created the I O I afterwards as the result of the SDDS. 
+Likewise, the Petitioner presented other reference letters indicating that he worked on SDDS without 
+showing his contributions to the project and whether they have been majorly significant in the field. 
+2 See USCTS Policy Memorandum PM 602-0005.1, supra, at 8-9 (providing an example that peer-reviewed articles in 
+scholarly journals that have provoked widespread commentary or received notice from others working in the field, or 
+entries (particularly a goodly number) in a citation index which cite the individual's work as authoritative in the field, may 
+be probative of the significance of the person's contributions to the field of endeavor). 
+3 For instance, according to the data from Clarivate Analytics, papers published in 2018 receiving only 17, 7, and 3 citations 
+are claimed to be in the top 0.01 %, 0.10%, and 1.00%, respectively The Petitioner has not demonstrated that papers with 
+such citation counts have necessarily had a major, significant impact or influence in the field as evidenced by being among 
+the top percentile of most highly cited articles according to year of publication. 
+4 
+Instead, they reference the For instance,! I opined that "[f]inding 
+and analyzing I I is a very challenging task, but [ the Petitioner] successfully built the largest 
+ever~------~ from the SDSS data," and "[t]he results have been published in top ranked 
+scientific journals and have been presented at multiple international conferences." HereJ kl.id 
+not explain how building thel I have significantly impacted or influenced the field 
+in a major way. Again, publication in a journal or presentation at a conference is not in-and-of itself 
+sufficient to demonstrate an original contribution of major significance in the field. See Kazarian, 580 
+F.3d at 1036, aff'd in part, 596 F.3d at 1115. 
+Similarly,~-------- who was the Petitioner's advisor atl I University and co­
+authored the SDSS paper, discussed the Petitioner's research and findings but did not explain how 
+they have been of major significance in the field. Rather) I made conclusory statements 
+without showing how the Petitioner's work has impacted the field. For example) !claimed 
+that "[t]hesel lare very valuable for investigating galaxy evolution, structure formation, and 
+cosmology, thus they are also a uni ue contributions to the SDSS collaboration," and "[the Petitioner] 
+constructed a lar e set of mock using hundreds of N-body numerical simulations and 
+thousands of.__ _ _,,..,-___,,.--__,,..,..... ... His contribution was not just original but essential." Here, I I did not provide any farther explanation demonstrating why he thought the Petitioner's 
+contribution was "essential." In addition,! !described other projects by the Petitioner, such 
+as studying galactic structure with the.__ _________ __. and constrainingl, I I lwith higher order moments, but he did not indicate or show their major significance in the 
+field. 
+Moreover, the record contains letters froml I andl I who described the 
+Petitioner's work at his employed I For example, they stated that the Petitioner works "on 
+areas like advanced time series analysis, information extraction, quantitative information analysis, and 
+autonomous text summarization," and he "has played a key role in the algorithm development, and his 
+work has been successfully implemented into I ts core products." Although the letters 
+generally indicate the Petitioner's work at his employer, they do not include sufficient information 
+explaining how his work atl lhas significantly impacted, influenced, or affected the overall 
+field beyond his employer. 4 
+Here, the Petitioner's letters do not contain specific, detailed information explaining the unusual 
+influence or high impact his research or work has had on the overall field. 5 Letters that specifically 
+articulate how a petitioner's contributions are of major significance to the field and its impact on 
+subsequent work add value. 6 On the other hand, letters that lack specifics and use hyperbolic language 
+do not add value, and are not considered to be probative evidence that may form the basis for meeting 
+this criterion. 7 Moreover, USCIS need not accept primarily conclusory statements. 17 5 6, Inc. v. The 
+US. Atty Gen., 745 F. Supp. 9, 15 (D.C. Dist. 1990). 
+4 See USCIS Policy Memorandum PM 602-0005.1, supra, at 8-9; see also Visinscaia, 4 F. Supp. 3d at 134-35 (upholding 
+a finding that a ballroom dancer had not met this criterion because she did not conoborate her impact in the field as a 
+whole). 
+5 Although we discussed a sampling of letters, we have reviewed and considered each one. 
+6 See USCTS Policy Memorandum PM 602-0005.1, supra, at 8-9. 
+7 Id. at 9. See also Kazarian, 580 F.3d at 1036, aff"d in part, 596 F.3d at 1115 (holding that letters that repeat the regulatory 
+5 
+For the reasons discussed above, considered both individually and collectively, the Petitioner has not 
+shown that he has made original contributions of major significance in the field. 
+B. 0-1 Nonimmigrant Status 
+We note that the record reflects that the Petitioner received 0-1 status, a classification reserved for 
+nonimmigrants of extraordinary ability. Although USCIS has approved at least one 0-1 nonimmigrant 
+visa petition filed on behalf of the Petitioner, the prior approval does not preclude USCIS from denying 
+an immigrant visa petition which is adjudicated based on a different standard -statute, regulations, 
+and case law. Many Form I-140 immigrant petitions are denied after USCIS approves prior 
+nonimmigrant petitions. See, e.g., Q Data Consulting, Inc. v. INS, 293 F. Supp. 2d 25 (D.D.C. 2003); 
+IKEA US v. US Dept. of Justice, 48 F. Supp. 2d 22 (D.D.C. 1999); Fedin Bros. Co., Ltd. v. Sava, 724 
+F. Supp. 1103, 1108 (E.D.N.Y. 1989), affd, 905 F. 2d 41 (2d. Cir. 1990). Furthermore, our authority 
+over the USCIS service centers, the office adjudicating the nonimmigrant visa petition, is comparable 
+to the relationship between a court of appeals and a district court. Even if a service center director has 
+approved a nonimmigrant petition on behalf of an individual, we are not bound to follow that finding 
+in the adjudication of another immigration petition. See La. Philharmonic Orchestra v. INS, No. 98-
+2855, 2000 WL 282785, at *2 (E.D. La. 2000). 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three of the ten criteria. As a result, we need not provide the type of final 
+merits determination referenced in Kazarian, 596 F.3d at 1119-20. Nevertheless, we advise that we 
+have reviewed the record in the aggregate, concluding that it does not support a finding that the 
+Petitioner has established the acclaim and recognition required for the classification sought. 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than for individuals progressing toward the top. USCIS has long held 
+that even athletes performing at the major league level do not automatically meet the "extraordinary 
+ability" standard. Matter of Price, 20 I&N Dec. 953,954 (Assoc. Comm'r 1994). Here, the Petitioner 
+has not shown that the significance of his work is indicative of the required sustained national or 
+international acclaim or that it is consistent with a "career of acclaimed work in the field" as 
+contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section203(b)(l)(A) 
+of the Act. Moreover, the record does not otherwise demonstrate that the Petitioner has garnered 
+national or international acclaim in the field, and he is one of the small percentage who has risen to 
+the very top of the field of endeavor. See section 203(b )(1 )(A) of the Act and 8 C.F .R. § 204.5(h)(2). 
+Although the Petitioner has reviewed manuscripts, conducted research, and authored scholarly articles, 
+the record does not contain sufficient evidence establishing that he is among the upper echelon in his 
+field. 
+language but do not explain how an individual's contributions have already influenced the field are insufficient to establish 
+original contributions of major significance in the field). 
+6 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an individual of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+7 

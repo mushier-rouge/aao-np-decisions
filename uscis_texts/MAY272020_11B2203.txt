@@ -1,0 +1,277 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 8325115 
+Appeal of Nebraska Service Center Decision Non-Precedent Decision of the 
+Administrative Appeals Office 
+Date: MAY 27, 2020 
+Form 1-140, Immigrant Petition for Alien Worker (Extraordinary Ability) 
+The Petitioner, an assistant professor of computer science and information systems, seeks classification 
+as an individual of extraordinary ability. See Immigration and Nationality Act (the Act) section 
+203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). This first preference classification makes immigrant visas 
+available to those who can demonstrate their extraordinary ability through sustained national or 
+international acclaim and whose achievements have been recognized in their field through extensive 
+documentation. 
+The Director of the Nebraska Service Center denied the petition, concluding that the Petitioner had 
+satisfied only two of the ten initial evidentiary criteria for this classification, of which she must meet 
+at least three. The matter is now before us on appeal. 
+The petitioner bears the burden of proof to demonstrate eligibility by a preponderance of the evidence . 
+Section 291 of the Act; Matter of Chawathe, 25 l&N Dec. 369,375 (AAO 2010). The Administrative 
+Appeals Office (AAO) reviews the questions in this matter de nova. See Matter of Christo 's Inc., 26 
+l&N Dec. 537, 537 n.2 (AAO 2015). Upon de nova review, we will dismiss the appeal. 
+I. LAW 
+Section 203(b )(1) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and the recognition of his or her achievements in the field through a one-time achievement 
+(that is, a major, internationally recognized award). If that petitioner does not submit this evidence, 
+then he or she must provide sufficient qualifying documentation that meets at least three of the ten 
+categories listed at 8 C.F.R. § 204.5(h)(3)(i) -(x) (including items such as awards, published material 
+in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010). 
+II. ANALYSIS 
+The Petitioner is an assistant professor of computer science and information systems at.__,---------,, D University! ~ She earned her master's degree in computer engineering at.__-.--------'I 
+University in 2010 and her doctor of philosophy in computer engineering at University of r----i n 2015. Previously, she worked as a research assistant and adjunct faculty at University o 
+and as fixed-term faculty atl !university from 2015 to 2016. .__ __ ____. 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or established that she has received a major, internationally 
+recognized award, she must satisfy at least three of the alternate regulatory criteria at 8 
+C.F.R. § 204.5(h)(3)(i)-(x). The Petitioner claims to meet four of these ten criteria, summarized 
+below: 
+• (ii), Membership in associations which require outstanding achievements; 
+• (iv), Participation as a judge of the work of others; 
+• (v), Original contributions of major significance; and 
+• (vi), Authorship of scholarly articles. 
+The Director concluded that the Petitioner met the criteria pertaining to judging and scholarly articles. 
+The record supports this determination. Specifically, the Petitioner has provided evidence confirming 
+that she reviewed manuscripts submitted by her peers for publication to the International Journal of 
+Distributed Sensor Networks and the 2017 International Conference on Computing, Networking and 
+Communications (ICNC). In addition, evidence confirms that she has authored scholarly articles that 
+were published in conference proceedings including the International Conference on Computer 
+Communications and Networks (ICCCN), IEEE Co11ference on Local Computer Networks (LCN), and 
+Network Operations and Management Symposium (NOMS). 
+On appeal, the Petitioner maintains that she also meets the two other claimed criteria, which we will 
+discuss below. We have reviewed all the evidence in the record and conclude that it does not show 
+that the Petitioner satisfies the requirements of at least three criteria. 
+2 
+Documentation of the individual's membership in associations in the field for which 
+class[fication is sought, which require outstanding achievements of their members, as 
+judged by recognized national or international experts in their disciplines or .fields. 
+8 C.F.R. § 204.5(h)(3)(ii) 
+The Petitioner claims that she satisfies this criterion based on her membership in the Institute of 
+Electrical and Electronics Engineers (IEEE). In order to satisfy this criterion, the Petitioner must show 
+that membership in the association is based on being judged by recognized national or international 
+experts as having outstanding achievements in the field for which classification is sought. 1 
+The Petitioner provided a copy of her IEEE membership card and a printout of a page from IEEE' s 
+website ("How do I become an IEEE Member?") identifying two membership types -"professional" 
+and "student/graduate student." According to this document, "professional membership" is "[f]or 
+individuals who are contributing or working in a technology or engineering field." The Petitioner 
+argued that this requirement demonstrates that applicants for membership are judged before being 
+granted admission. The Director determined that the submitted information did not discuss the IEEE's 
+membership requirements or the requirements for those who judge applications and therefore 
+determined that the evidence did not establish that the Petitioner met this criterion. 
+On appeal, the Petitioner submits a second printout from IEEE's website and asserts that it "clearly 
+demonstrates that to become a member of IEEE you need to have continued education, years of 
+experience, demonstrated contributions to the field, and have been published." The attached printout, 
+which is titled "Qualifications for IEEE Membership," does not support this statement. It states that 
+applicants must have "satisfied IEEE-specified educational requirements" and/or "have demonstrated 
+professional competence in IEEE-designated fields of interest" in order to be admitted as members. 
+Specifically, individuals may qualify by: (1) receiving a three-to five-year university level or higher 
+degree in an IEEE-designated field; (2) receiving any three-to five-year university level or higher 
+degree and at least three years of professional work experienced in an IEEE-designated field; or (3) 
+by having six years of professional work experience in which they demonstrated competence in an 
+IEEE-designated field. Based on this evidence, standard membership in the IEEE is based on an 
+individual attaining a certain level of education and/or years of experience in designated fields and is 
+not based on outstanding achievements in the field. 2 
+The additional IEEE membership requirements mentioned in the appellate brief: such as those related 
+to demonstrated contributions, appear to be those that apply to IEEE's "senior member grade." As the 
+Petitioner has not established that she is a senior member of the IEEE, we will not evaluate whether 
+that membership grade would qualify under this criterion. The Petitioner has not established that she 
+satisfies this criterion based on her membership in the IEEE. 
+1 See USCTS Policy Memorandum PM 602-0005.1, Evaluation of Evidence Submitted with Certain Form I-140 Petitions; 
+Revisions to the Adjudicator's Field Manual (AFM) Chapter 22.2, AFM Update ADJ 1-14 6 (Dec. 22, 2010), 
+https://www.uscis.gov/policymanual/HTML/PolicyManual.html. (providing an example of admission to membership in 
+the National Academy of Sciences as a Foreign Associate, which requires individuals to be nominated by an academy 
+member, and membership is ultimately granted based upon recognition of the individual's distinguished achievements in 
+original research). 
+2 Id. at 7. 
+3 
+Evidence of the individual's original scientific, scholarly, artistic, athletic, or business­
+related contributions of major sign[ficance in the field. 8 C.F.R. § 204.5(h)(3)(v) 
+In order to satisfy this criterion, petitioners must establish that not only have they made original 
+contributions, but also that those contributions have been of major significance in the field. For 
+example, a petitioner may show that the contributions have been widely implemented throughout the 
+field, have remarkably impacted or influenced the field, or have otherwise risen to a level of major 
+significance. The phrase "major significance" is not superfluous and, thus, it has some meaning. See 
+Silverman v. Eastrich Multiple Investor Fund, L.P., 51 F. 3d 28, 31 (3rd Cir. 1995) quoted inAPWU 
+v. Potter, 343 F.3d 619,626 (2nd Cir. Sep 15, 2003) . 
+.__ _______________ __. .. " The Petitioner submitted several reference letters from 
+mentors, colleagues, and others in support of her claim that she has made original contributions of major 
+significance based on her research. The Director determined that the submitted letters supported the 
+Petitioner's claims regarding her original research but did not demonstrate that her contributions had 
+already substantially impacted the field of endeavor. 
+On appeal, the Petitioner objects and argues that the Director did not give sufficient weight to a detailed 
+expert letter froml I who explained how her research has "already begun to contribute to the 
+field" and "furthered the science involving networks and big data transfers." We agree that the opinions 
+of experts in the field are relevant to this criterion and we have considered them below. However, the 
+letters submitted, including! Is, do not offer sufficiently detailed information, nor does the 
+record include adequate corroborating documentation, to demonstrate that the Petitioner has made 
+specific original contributions that are recognized in the field as majorly significant. 
+The record reflects that the Petitioner provided two letters froml I an associate orofessor at the I I Institute of Technology who was her Ph.D. advisor at the University of[ I We 
+have reviewed and considered both letters but will focus on the more detailed statement submitted in 
+response to the Director's request for evidence. I !devotes a substantial portion of his letter to 
+explaining the area in which the Petitioner conducts her research. Specifically, he provides 
+background information regarding "Big Data" and the associated demand for bandwidth, risks and 
+threats facing enterprise networks, the appeal of Bandwidth on Demand (BoD) as a cost-effective 
+solution for temporary large bandwidth needs, and the possibilities offered by I a I ~ which he describes as "still in the experimental phase." He explains that 
+has received considerable attention from the networking industry, and, if successful, could 
+revolutionize networking and make networks "more secure, affordable and flexible." I lnoted 
+that companies including Google and Microsoft "are all working on designing models to makec=J 
+a reality." 
+Turning to the Petitioner's work,I I explains that her research "focuses on designing._! ___ _, I I techniques to support faster transfer of big-data with the main objective of efficient 
+utilization of network resources" and "utilizes c::=]nfrastructure that enables network administrators 
+to make better routing decisions which is a critical requirement for efficient working of BoD 
+applications." I I explains that the Petitioner has "proposed and published various efficient 
+4 
+.__ ______ __, considering many real-time constraints such as delay, deadline, bandwidth, etc." 
+and has published her work at "top-tier networking conferences." While he describes the Petitioner's 
+research and the issues addressed through that research in technical detail, and indicates that the work 
+is considered original and has generated some interest from others in the field as evidenced by 
+invitations to present it at conferences, we agree with the Director's determination that his letter does 
+not demonstrate how the Petitioner's work has already impacted the field. Rather,I lrefers in 
+general terms to the promise and potential of the research and how it might be of future benefit. 
+For example, he states that "Big-data transfer and multimedia applications such as Netflix can hugely 
+benefit from [ the Petitioner's] proposed solrtions that ensme j:pmved I I' indicates that 
+her work "has a great potential to achieve lin real-time networks" and 
+maintains that "it will also play a major role in understanding the challenges involved in implementing c=J" He further states that"[ w ]ith companies like Google, Amazon, Facebook and Microsoft proposing 
+models to introducec=J [ the Petitioner' sl worf will heT to explre various challenges involved which 
+is very much critical at this initial phase of ' While s letter explains that the Petitioner is a 
+productive researcher in an active field of research, and has made contributions to that field's growing 
+body of knowledge, the record does not objectively establish that the Petitioner's efforts to date have been 
+recognized for their major significance, or establish how other researchers, or the major companies 
+referenced above, have already benefited from her contributions. 
+I lalso states that the Petitioner "has made significant contributions in designing~-----~ I l which are extremely important to Department of Energy, National science 
+laboratories, organizations targeted by network-based attacks, and United States as a whole." He does 
+not further elaborate or state whether her algorithms are already by used by the Department of Energy, 
+national science laboratories, or other organizations. Without additional detail, we cannot conclude that 
+these algorithms have been widely adopted by or have remarkably impacted the field, or whether I I 
+believes that they will ultimately benefit the named entities and "the United States as a whole" in the 
+future. 
+Although the Petitioner and Director both focus onl I's letter, we have reviewed and considered the 
+other submitted expert opinion letters and find them similarly lacking in detail regarding the current 
+impact or influence of the Petitioner's research in her field. 3 I I ofl O I 
+University describes the Petitioner's primary research focus and states that she "has made outstanding 
+original contributions to the field of computer science" without further elaborating on what those 
+contributions are or how they have been reco nized as majorly significant in the field. I I I I chief technical officer a and rofessor at University, discusses 
+the Petitioner's work on using SDN for implementing.__ ______ __,,~ noting that "her innovative 
+research using a technique, has a great potential in real networks to route 
+users m " ~--------~ 
+3 In addition to the letters discussed, the Petitioner provided a letter from I ~ of c=J in support of this 
+criterion.I I indicates that he reviewed the evidentiary criteria for this classification, and, in his opinion, the 
+Petitioner meets the criteria related to awards, memberships in professional associations, judging, and authorship of 
+scholarly aiiicles. However, he does not address the original contributions criterion at 8 C.F.R. § 204.5(h)(3)(v), or 
+otherwise comment on the significance of her research contiibutions and their impact in the field. 
+5 
+Finally, I I, a professor at the University oti I states that the Petitioner's research 
+"has a potential in handling massive network-based attacks ... caused by lack of bandwidth," that it "has 
+a significant role in designing and implementing the next generation networks that the entire networking 
+industry is trying to standardize," and "will play a major role in Internet, especially for users who have 
+huge files to transfer or want to watch high-quality videos and pay only for the period of usage." Like the 
+other expert letters,! ts focuses on the potential significance of the Petitioner's original research, 
+which is not sufficient to meet the requirements of this criterion. 
+Based on our review of the letters, we agree with the Director that, while they are not without weight, 
+they are insufficient to establish that the Petitioner meets every element of this criterion. The letters 
+considered above primarily contain attestations of the novelty and utility of the Petitioner's research 
+studies without providing specific examples of contributions that rise to a level consistent with major 
+significance. Letters that specifically articulate how a petitioner's contributions are of major 
+significance to the field and its impact on subsequent work add value. Letters that lack specifics do 
+not add value are not considered to be probative evidence that may form the basis for meeting this 
+criterion.4 USCIS need not accept primarily conclusory statements. 1756, Inc. v. The US. Att)· Gen., 
+745 F. Supp. 9, 15 (D.C. Dist. 1990). The authors' assertions in the above-referenced letters do not 
+explain how the Petitioner's research findings have been widely implemented or relied upon by others 
+in the field or establish that the Petitioner's work has had a demonstrable impact in the field 
+commensurate with a contribution of major significance. Letters of this kind can help to explain the 
+nature of the Petitioner's contributions but should be supported with corroborating documentary evidence 
+to establish the major significance of those contributions. 
+The Petitioner also submits her publication and citation record from Google Scholar and provides 
+evidence that she has been invited to present her papers at international conferences. But this evidence 
+not show that the impact of her work in the computer science and networking field rises to the level 
+of an original contribution of major significance. Generally, citations can serve as an indication that 
+the field has taken interest in a petitioner's work; however, the fact that the Beneficiary has published 
+articles that other researchers have referenced, is not, by itself, indicative of a contribution of major 
+significance. Journal and conference publications are not sufficient under 8 C.F.R. § 204.5(h)(3)(v) 
+absent evidence that they were of "major significance." We acknowledge, however, that a petitioner 
+may present evidence that his articles "have provoked widespread commentary or received notice from 
+others working in the field, or entries (particularly a goodly number) in a citation index which cite 
+[her] work as authoritative in the field, may be probative of the significance of [her] contributions to 
+the field of endeavor."5 
+Here, the Petitioner states that her record of five publications and 23 citations provides "direct evidence 
+that her original scientific/scholarly work is a contribution in her field," and there is "no doubt that her 
+research has furthered the science involving networks and big data transfers." The Petitioner does not 
+provide comparative evidence to show that any of her published articles is highly cited by others in the 
+field, which may be one indicator of its impact. Nor has the Petitioner demonstrated that her work has 
+been cited as authoritative in the field or has otherwise received notice from others in the field at a 
+level consistent with "contributions of major significance in the field." While it is likely that the 
+4 See USCIS Policy Memorandum PM 602-0005 .1, supra, at 8-9. 
+5 Id. at 8. 
+6 
+Petitioner's published research has incrementally advanced the science in her field, which is 
+reasonably expected of research deemed worthy of publication, her publication record does not 
+establish how she has generated widespread commentary or acceptance and application of her 
+findings, nor does the evidence establish that her published studies have advanced the field in a 
+significant way. While the Petitioner submitted corroborating evidence in the form of expert opinion 
+letters, that evidence, for the reasons already discussed, is not sufficient to establish that any of the 
+Petitioner's research findings, individually or collectively, have remarkably impacted or influenced 
+her field. 
+Finally, the Director's decision reflects that he considered the evidence of the Petitioner's research 
+awards and grants, travel awards, teaching awards, and other documentation that she initially 
+submitted as "comparable evidence" under 8 C.F.R. § 204.5(h)(4) to determine whether such evidence 
+is relevant to this criterion. 6 The Director determined that this evidence did not demonstrate that she 
+was recognized by the field for her original contributions of major significance and the Petitioner does 
+not contest this conclusion on appeal. We agree with the Director's conclusion. While such evidence 
+indicates that she has received positive recognition in her field, as both a teacher and researcher, it 
+does not support a finding that she meets this criterion. Regardless, receiving fonding to conduct 
+research, without more, is not indicative of a contribution of major significance in the field. Rather, 
+the Petitioner must establish that receiving grants or other similar fonding or awards reflects her past 
+works' major significance, or that her research conducted with the fonding resulted in contributions 
+of major significance in the field. She has not made such a showing. 
+Accordingly, based on the evidence in the record, the Petitioner has not shown, by a preponderance of 
+the evidence, that she has made original contributions of major significance in the field. 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three of the ten criteria. As a result, we need not provide the type of final 
+merits determination referenced in Kazarian, 596 F.3d at 1119-20. Nevertheless, we advise that we 
+have reviewed the record in the aggregate, concluding that it does not support a finding that the 
+Petitioner has established the acclaim and recognition required for the classification sought. 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than for individuals progressing toward the top. USCIS has long held 
+that even athletes performing at the major league level do not automatically meet the "extraordinary 
+ability" standard. Matter of Price, 20 I&N Dec. 953,954 (Assoc. Comm'r 1994). Here, the Petitioner 
+has not shown that the significance of her work is indicative of the required sustained national or 
+international acclaim or that it is consistent with a "career of acclaimed work in the field" as 
+contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section203(b)(l)(A) 
+of the Act. Moreover, the record does not otherwise demonstrate that the Petitioner has garnered 
+6 The regulation at 8 C.F.R. § 204.5(h)(4) allows a petitioner to submit comparable material if he or she is able to 
+demonstrate that the standards at 8 C.F.R. § 204.5(h)(3)(i)-(x) do not readily apply to the individual's occupation. The 
+Petitioner here submitted "comparable evidence" but did not claim that the criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x) do not 
+readily apply to her occupation. As noted, she claims that she meets four of those criteria. 
+7 
+national or international acclaim in the field, and she is one of the small percentage who has risen to 
+the very top of the field of endeavor. See section 203(b )(1 )(A) of the Act and 8 C.F .R. § 204.5(h)(2). 
+For the reasons discussed above, the Petitioner has not demonstrated her eligibility as an individual of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+8 

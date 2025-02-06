@@ -1,0 +1,205 @@
+U.S. Citizenship 
+and Immigration 
+Services Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: NOV. 17, 2023 In Re: 23740321 
+Appeal of Nebraska Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a cybersecurity interaction designer, seeks classification as an individual of 
+extraordinary ability. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. 
+§ 1153(b)(l)(A). This first preference classification makes immigrant visas available to those who 
+can demonstrate their extraordinary ability through sustained national or international acclaim and 
+whose achievements have been recognized in their field through extensive documentation . 
+The Director of the Nebraska Service Center denied the petition, concluding the Petitioner did not 
+establish that he satisfied the initial evidentiary requirements through evidence of a one-time 
+achievement or meeting at least three of the evidentiary criteria at 8 C.F.R. § 204.5(h)(3). The matter 
+is now before us on appeal. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance ofthe evidence. 
+Matter ofChawathe, 25 l&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(1 )(A) of the Act makes immigrant visas available to individuals with extraordinary 
+ability in the sciences, arts, education, business, or athletics which has been demonstrated by sustained 
+national or international acclaim and whose achievements have been recognized in the field through 
+extensive documentation , provided that the individual seeks to enter the United States to continue 
+work in the area of extraordinary ability, and the individual's entry into the United States will 
+substantially benefit prospectively the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate 
+international recognition of their achievements in the field through a one-time achievement (that is, a 
+major, internationally recognized award). If that petitioner does not submit this evidence, then they 
+must provide sufficient qualifying documentation that meets at least three of the ten criteria listed at 
+8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as awards, published material in certain media, 
+and authorship of scholarly articles). 1 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. 2 See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+Because the Petitioner has not indicated or established that he has received a major, internationally 
+recognized award, he must satisfy at least three of the alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). In denying the petition, the Director acknowledged that the Petitioner 
+met the criteria relating to leading or critical role and high salary, but determined that he did not satisfy 
+the awards, membership, judging, original contributions, and scholarly articles criteria. On appeal, 
+the Petitioner maintains that he meets the original contributions criterion.3 After reviewing the 
+evidence, we conclude the Petitioner has not shown that he satisfies the requirements of at least three 
+criteria. 
+Evidence of the alien's original scient[fic, scholarly, artistic, athletic, or business­
+related contributions ofmajor sign[ficance in the field. 8 C.F.R. § 204.5(h)(3)(v) 
+In order to satisfy the regulation at 8 C.F.R. § 204.5(h)(3)(v), a petitioner must establish that not only 
+has he made original contributions, but that they have been of major significance in the field. 4 As 
+evidence under this criterion, the Petitioner submitted documentation relatin to his desi n ro • ects 
+(Nimble Storage, VMware, Sysdig, and Google), founding of the .__~~-----~-----' 
+collaborative agreement with the World Bank, and involvement with the'-------~ Political 
+Studies.5 In addition, the Petitioner provided letters of support from colleagues in the field discussing 
+1 See generally 6 USC1S Policy Manual F.2(B), https://www.uscis.gov/policymanual (indicating that USCIS officers 
+should first "[a]ssess whether evidence meets regulatory criteria: Determine, by a preponderance of the evidence, which 
+evidence submitted by a petitioner objectively meets the parameters of the regulatory description that applies to that type 
+of evidence"). 
+2 See generally 6 USC1S Policy Manual, supra, at F.2(B) (stating that in the final merits determination, USCIS officers 
+should evaluate all the evidence together when considering the petition in its entirety to determine if a petitioner has 
+established the required high level of expertise for this immigrant classification). 
+3 The Petitioner does not contest the Director's determinations for the awards, membership, judging, and scholarly articles 
+criteria. Accordingly, we deem these issues abandoned. See Hristov v. Roark, No. 09-CV-2731, 2011 WL 4711885 at *1, 
+*9 (E.D.N.Y. Sept. 30, 2011) (the court found the plaintiffs claims to be abandoned as he failed to raise them on appeal 
+to the AAO). 
+4 See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+5 In response to the Director's re uest for evidence the Petitioner stated that he was abandoning his claims regarding the 
+World Bank, the~------------------~Political Studies "because we acknowledged 
+that they were not strong enough for this criteri[on]." 
+2 
+his work, as well as online articles about products offered by his employers. 6 The Director considered 
+this documentation, but found that it was not sufficient to demonstrate that the Petitioner's work 
+constituted original contributions of major significance in the field. For the reasons discussed below, 
+we agree with that determination. 
+In his appeal brief: the Petitioner asserts that he provided endorsement letters from authoritative 
+witnesses discussing his contributions to his employers' products. These references discussed his 
+design projects at ~------------------~ but their statements do not 
+demonstrate the originality of his work and its major significance in the field. As discussed below, 
+the reference letters do not offer sufficiently detailed information, nor does the record include adequate 
+corroborating documentation, to show the nature of specific "original contributions" that the Petitioner 
+has made to the field that have been considered to be of major significance. 
+Regarding the Petitioner's work for I I Dr. G-I-, Professor of Computer Science atl 
+University in Italy, asserted that the Petitioner developed the user experience for the I....____ ____, 
+Platform security called 'l I He stated that the Petitioner's 
+"contributions consisted of a set of 'dashboard templates' which allow security administrators and 
+security analysts to gain visibility into sensitive data risk across their entire organization." While Dr. 
+G-I-farther explained that these "data visualizations ... gave users an easier access to an advanced 
+risk summary and a much more graphical data privacy investigation tool," the Petitioner has not 
+demonstrated that this work has affected the field in a substantial way or otherwise constitutes an 
+original contribution of major significance in the field. 
+With respect to the Petitioner's projects for I I D-K-, the company's former Vice 
+President of Product Operations, indicated that the Petitioner "delivered the ....I--------~ 
+(NCV) creation user experience," "the multi-cloud NCV platform user experience," and an "artificial 
+intelli ence AI -driven redictive anal tics visualization directly integrated with the acclaimed 
+._________________ __.tool." D-K-also stated that the Petitioner provided user 
+experience and graphical user interface (GUI) mockups of innovative features for public product 
+releases, designed critical graphic guidelines and interactive visualizations in collaboration with 
+product and engineering senior executives, and presented to C-level executives user experience 
+prototypes and user experience product roadmaps for the company's product direction, but the 
+Petitioner has not shown that his original work for I I has influenced the field of 
+cybersecurity to the extent that it is of major significance in his field. 
+In discussing the Petitioner's work forl IG-S-, the company's former Director of Product 
+Management for Edge Computing and Internet of Things, asserted that the Petitioner lead the 
+interaction design vision for Project Dimension (a joint effort with c=]Technologies), the 
+development of the "interaction design between I I software configuration GUI and ~ 
+hardware ordering GUI," and "the development of the interaction designs that would allow users to 
+improve the cybersecurity posture of their regionalized Software Defined Data Center (SDDC)." 
+While G-S-noted that the Petitioner's work was "significant for the company as a whole," the 
+Petitioner has not demonstrated that his work for I lhas been considered important at a level 
+consistent with original contributions of major significance in the field. 
+6 These articles do not identify the Petitioner or discuss in detail the significance of his particular contributions. 
+3 
+With regard to the Petitioner's work forl IP-C-, the company's former Vice President ofProaduct 
+stated that the Petitioner developed the user experience and user interface (UI) for its ._I------,.~-­
+product "to ship all the 2019 and 2020 features, including the user experience and UI for the 
+monitoring platform integration." P-C-also asserted that the Petitioner lead the design development 
+of the Runtime Vulnerability Scanning UI, the regulatory compliance UI, and the cybersecurity 
+activity audit UI, but the Petitioner has not shown that the aforementioned work has risen to the level 
+of a contribution of major significance in the field of cybersecurity. 
+As farther evidence under this criterion, the Petitioner contends on appeal that he has "offered 
+numerous articles that mentioned my contributions developed during my employment withl II I' The record includes online articles, blogs, and press releases 
+about his employers and their products. For example, the Petitioner submitted material from 
+Searchstorage.techtarget.com, I lblog, Forbes.com/sites/moorinsights, Zdnet.com, 
+Google.com, IvoBeerens.NL, SiliconAngle.com, Be-virtual.net, Thevirtuallyconnected.net, 
+Diginomica.com, Businesstelegraph.co.uk, Insightaas.com, Ambidextrouspm.com, ArchitectingIT, 
+Hpe.com, Mikeleahy.blog, Infrazxp.com, Globenewswire.com, Thenewstack.io, Venturebeat.com, 
+Enterprisenetworkingplanet.com, Theregister.com, Techradar.com, Packetpushers.nr, Int1rma, 
+Virtualizationreview.com, Containerjoumal.com, Managedmethods.com, Innovate.ie, com, 
+Pmewswire.com, Commvault.com, Kasten.io, I lcom, Bloomberg.com/press-releases, 
+Equinix.com/press-releases, Businesswire.com, Lenovo.com, Cloudmarketplace.oracle.com, 
+IBM.com, Techzine.eu, Azuremarketplace.microsoft.com, Aws.amazon.com, Finance.yahoo.com, 
+Techcrunch.com, Businessinsider.com, Cm.com, and Marketplace.redhat.com. 7 None of these 
+articles mentions the Petitioner or explains how his specific original contributions to the products are 
+majorly significant in the field. 8 Nor has the Petitioner demonstrated that the level of attention 
+received by his employers' products signifies that he has made original contributions of major 
+significance in the field of cybersecurity. 
+The Petitioner farther argues that his "contributions have been widely adopted and integrated" into his 
+employers' products as well as those from Oracle, IBM, HPE, and Microsoft Azure. The Petitioner, 
+however, has not demonstrated that his particular user experience and interface designs, which were a 
+component of the aforementioned companies' product offerings, rise to the level of original 
+contributions of major significance in the field. Courts have routinely affirmed our decisions 
+concluding that 8 C.F.R. § 204.5(h)(3)(v) "requires substantial influence beyond one's employers, 
+clients, or customers." Strategati, LLC v. Sessions, 2019 WL 2330181, at *6 (S.D. Cal. May 31, 2019) 
+7 The Petitioner also provided articles from Reuters.com, McKinsey.com, and Gaiiner.com, but these articles discuss 
+general industry trends and not the Petitioner or the products with which he,....V1""'·a=s""'in"'"v"--'·o""-lv-'--·e'-'d"'". ------------, 
+8 For instance, the blog entry from Forbes.com/sites/moorinsights, entitled .________________ _. 
+.______ ____. does not identify the Petitioner or discuss in detail his particular user interface designs. The article 
+concludes by stating: "We're anxious to see Hewlett Packard Enterprise evolve this product. It really does have amazing 
+potential -potential that would give HPE the opportunity to stand alone among its peers." While the author describes the 
+product as needing to "evolve," "an Intriguing Storage Service Offering," and having "potential," these characterizations 
+are not necessarily indicative of a contribution of major significance in the field. Nor does the record show if this online 
+blog entry was published in Forbes magazine. Further, the evidence does not indicate whether the blog was produced by 
+Forbes staff, as opposed to being an open-source site through which anyone can post an entry. For all of these reasons, 
+the Petitioner has not demonstrated that this blog constitutes an influential platform demonstrating the major significance 
+of his contributions. 
+4 
+(upholding an agency decision that held "[a] patent is not necessarily evidence of a track record of 
+success with some degree of influence over the field as a whole."); see also Amin v. Mayorkas, 24 
+F.4th 383, 394 (5th Cir. 2022) (upholding agency decision that held evidence insufficient "because it 
+did not show widespread replication of [the petitioner's invention]"). Here, the Petitioner has not 
+shown that his original work has affected the cybersecurity industry at a level commensurate with 
+contributions of major significance in the field. 
+For the reasons discussed above, the Petitioner has not established that he has made original 
+contributions of major significance in the field. 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three of the ten criteria. As a result, we need not provide the type of final 
+merits determination referenced in Kazarian, 596 F.3d at 1119-20. Accordingly, we reserve the final 
+merits determination. 9 Nevertheless, we advise that we have reviewed the record in the aggregate, 
+concluding that it does not support a finding that the Petitioner has established the acclaim and 
+recognition required for the classification sought. 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than for individuals progressing toward the top. See Matter ofPrice, 
+20 I&N Dec. at 954 ( concluding that even major league level athletes do not automatically meet the 
+statutory standards for classification as an individual of "extraordinary ability,"); Visinscaia, 4 F. 
+Supp. 3d at 131 (internal quotation marks omitted) (finding that the extraordinary ability designation 
+is "extremely restrictive by design,"); Hamal v. Dep 't ofHomeland Sec. (Hamal II), No. 19-cv-2534, 
+2021 WL 2338316, at *5 (D.D.C. June 8, 2021) (determining that EB-1 visas are "reserved for a very 
+small percentage of prospective immigrants"); see also Hamal v. Dep 't ofHomeland Sec. (Hamal I), 
+No. 19-cv-2534, 2020 WL 2934954, at * 1 (D.D.C. June 3, 2020) (citing Kazarian, 596 at 1122 
+(upholding denial of petition of a published theoretical physicist specializing in non-Einsteinian 
+theories of gravitation) (stating that "[c]ourts have found that even highly accomplished individuals 
+fail to win this designation")). 
+Here, the Petitioner has not shown that the significance of his work is indicative of the required 
+sustained national or international acclaim or that it is consistent with a "career of acclaimed work in 
+the field" as contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 
+203(b)(l)(A) of the Act. Moreover, the record does not otherwise demonstrate that the Petitioner has 
+garnered sustained national or international acclaim in the field, and that he is one of the small 
+percentage who has risen to the very top of the field of endeavor. See section 203(b )(1 )(A) of the Act 
+and 8 C.F.R. § 204.5(h)(2). 
+9 See INS v. Bagamasbad, 429 U.S. 24, 25 (1976) ("courts and agencies are not required to make findings on issues the 
+decision ofwhich is unnecessary to the results they reach"); see also Matter ofL-A-C-, 26 I&N Dec. 516,526 n.7 (declining 
+to reach alternative issues on appeal where an applicant is otherwise ineligible). 
+5 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an individual of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+6 

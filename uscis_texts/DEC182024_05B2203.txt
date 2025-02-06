@@ -1,0 +1,157 @@
+U.S. Citizenship 
+and Immigration 
+Services Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: DEC. 18, 2024 In Re: 34812774 
+Appeal of Texas Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, an entrepreneur in the artificial intelligence (Al)/machine learning field, seeks 
+classification under the employment-based, first-preference (EB-1) immigrant visa category as a 
+noncitizen with "extraordinary ability." See Immigration and Nationality Act (the Act) section 
+203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). Successful petitioners for U.S. permanent residence in this 
+category must demonstrate "sustained national and international acclaim" and extensively document 
+recognition of their achievements in their fields. Section 203(b)(l)(A)(i) of the Act. 
+The Director of the Texas Service Center denied the petition and dismissed the Petitioner's following 
+motion to reconsider. The Director concluded that the Petitioner met two of the requested category's 
+ten evidentiary requirements -one less than needed for a final merits determination. On appeal, the 
+Petitioner contends that she satisfied four additional evidentiary criteria. 
+The Petitioner bears the burden of demonstrating eligibility for the requested benefit by a 
+preponderance of the evidence. Matter of Chawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). 
+Exercising de novo appellate review, see Matter of Christo 's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 
+2015), we conclude that she met at least one additional evidentiary requirement -contributions of 
+major significance in her field -but did not demonstrate her required intent to continue working in the 
+field in the United States. We will therefore withdraw the Director's decision and remand the matter 
+for entry of a new decision consistent with the following analysis. 
+I. LAW 
+To qualify as a noncitizen with extraordinary ability, a petitioner must demonstrate that they: 
+• Have "extraordinary ability in the sciences, arts, education, business, or athletics;" 
+• Seek to continue work in their field of expertise in the United States; and 
+• Through their work, would substantially benefit the country. 
+Section 203(b )(1 )(A)(i)-(iii) of the Act. 
+The term "extraordinary ability" means expertise commensurate with "one of that small percentage 
+who have risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). Evidence of 
+extraordinary ability must demonstrate a noncitizen's receipt of either "a major, international 
+recognized award" or satisfaction of at least three of ten lesser evidentiary criteria. 8 C.F.R. 
+§ 204.5(h)(3)(i-x). 1 
+If a petitioner meets either evidentiary standard and the requirements at section 203(b )( 1 )( A )(ii), (iii) 
+of the Act, U.S. Citizenship and Immigration Services (USCIS) must then make a final merits 
+determination. To merit approval, the record -as a whole -must establish a petitioner's sustained 
+national or international acclaim and recognized achievements placing them among the small 
+percentage at their field's very top. See Amin v. Mayorkas, 24 F.4th 383, 391 (5th Cir. 2022) (finding 
+USCIS' two-step analysis of extraordinary ability "consistent with the governing statute and 
+regulation"); see generally 6 USCIS Policy Manual F.(2)(B), www.uscis.gov/policy-manual. 
+II. ANALYSIS 
+A. The Petitioner and Her Field 
+The record shows that the Petitioner, a Chilean national and citizen, received bachelor's and master's 
+degrees in architecture and architecture technologies, respectively, from a university in her home 
+country. A U.S. university later awarded her master's and doctorate degrees in the design and 
+computation field. Her doctoral research focused on AT applications for learned simulations in the 
+architecture, engineering, and construction industries. She then served as a post-doctoral fellow at the 
+U.S. university, researching polymer modeling with physics learned simulations. 
+The Petitioner also served as a fellow in a U.S. climate and sustainability consortium. Further, she co­
+founded a U.S. company that seeks to develop compostable and biodegradable alternatives to 
+traditional plastic packaging and serves as the firm's chief executive officer (CEO). 
+The Petitioner does not claim -nor does the record indicate -her receipt of a major internationally 
+recognized award. She must therefore meet at least three of the ten evidentiary requirements at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). 
+The record supports the Director's determinations that she submitted evidence of her participation as 
+a judge of others' work in her field and her authorship of scholarly articles in the field. See 8 C.F.R. 
+§ 204.5(h)(3)(iv), (vi). On appeal, the Petitioner contends that she also provided proof of: 
+• Her receipt of nationally or internationally recognized awards for excellence in her field; 
+• Published material about her and her work in the field; 
+• Her original contributions of major significance in the field; and 
+• Her commandment of significantly high remuneration for her services. 
+See 8 C.F.R. § 204.5(h)(3)(i), (iii), (v), (ix). 
+1 If an evidentiary criterion does not "readily apply" to a petitioner's occupation, they may submit "comparable evidence" 
+to establish eligibility. 8 C.F.R. § 204.5(h)(4). 
+2 
+To satisfy an additional evidentiary criterion, the Petitioner's documentation must objectively meet 
+the parameters of an applicable regulatory description. See generally 6 USCIS Policy Manual F.2(B). 
+B. The Petitioner Submitted Evidence of Original Contributions of Major Significance in Her Field 
+This criterion requires "[ e ]vidence of the [ noncitizen] 's original scientific, scholarly, artistic, athletic, 
+or business-related contributions of major significance in the field." 8 C.F.R. § 204.5(h)(3)(v). When 
+adjudicating this requirement, USCIS first determines whether a petitioner has made original 
+contributions in their field. See generally 6 USCIS Policy Manua!F.2(B)(l), Criterion 5. The Agency 
+then considers whether the original contributions are of major significance to the field. Id. 
+The Petitioner claims two original contributions ofmajor significance in the AI/machine learning field: 
+her development of software that predicts the properties of polymers, which are used to make plastics; 
+and her creation of software models regarding pedestrian flow characteristics. Several support letters 
+from university professors demonstrate the originality and major significance of her contributions. 
+See Rubin v. Miller, 478 F.Supp.3d 499, 505-06 (S.D.N.Y. 2020) (finding that detailed opinion letters 
+established the major significance of a petitioner's original contributions in the neuroscience field). 
+The Petitioner created the edestrian flow models while workin on her doctoral dissertation: a digital 
+representation of _________ Using sensors, she 
+collected data from 8,000 pedestrians and calculated their speeds and time. She found that pedestrians 
+behave similarly in different locations and that architectural layouts greatly affect people's 
+movements. 
+The Director concluded that the Petitioner did not demonstrate the major significance of her 
+contribution. But the Director overlooked support letters that she submitted. An assistant professor 
+of architecture and environmental design cited the Petitioner's work on pedestrian flow and describes 
+it as "at the forefront of machine learning and its applications to environmental problems." The 
+professor stated: "The resulting model provides a framework for understanding human-space 
+interaction and enhancing future designs. It offers valuable insights into how people navigate complex 
+spaces and provides real-time feedback for evaluating building designs in a simulated environment." 
+An assistant professor of architecture technology explained that prior modeling software had limited 
+ability to simulate critical aspects of pedestrian movement, such as exploration. He said that the 
+Petitioner's "method offers a new approach for architects to design spaces that are more user-friendly 
+and optimized for human movement." He also said that the Petitioner's "work provides valuable 
+insights into machine learning and its practical applications, making it an essential contribution to the 
+field." 
+Using AI/machine learning principles she learned in her doctoral work, the Petitioner developed the 
+polymer-predicting software while a post-doctoral fellow. She used "generative reinforcement 
+learning" to predict polymer properties. Because traditional molecular dynamics tools are expensive 
+and time-consuming, she developed a software that combines three-dimensional representations, 
+polymer physics, machine learning, and chemical information to decrease computational costs of 
+molecular simulation and extend its capabilities to more complex systems. 
+3 
+A U.S. professor of materials science and engineering described the Petitioner's polymer software as 
+"a groundbreaking achievement in computational materials science." He said that she "has created a 
+tool that promises to revolutionize our ability to predict, optimize, and comprehend the behavior of 
+complex molecular systems. The potential applications ... are far-reaching, spanning fields such as 
+drug discovery, materials science, environmental engineering, and more." The managing partner of a 
+venture capital fund said that his firm engaged in nine months of research before investing in the 
+Petitioner's company. He stated: "She has created a unique AI platform that will be extremely 
+difficult to replicate and will bring about an entirely new way of thinking about bio-based plastic 
+alternatives. . . . We believe in her vision and capabilities as a CEO to remove the need for 
+petrochemical-based plastics in all packaging." 
+The letters on the Petitioner's behalf are consistent, credible, uncontroverted, and supported by other 
+evidence of record. She has therefore submitted evidence of original contributions of major 
+significance in her field. See generally 6 USCIS Policy Manual F.2(B)(l), Criterion 5 ("Detailed 
+letters from experts in the field explaining the nature and significance ofthe person's contribution may 
+... provide valuable context for evaluating the claimed original contributions of major significance.") 
+As the Petitioner has met at least three of the category's evidentiary requirements, we will withdraw 
+the Director's contrary decision. We need not reach and hereby reserve her appellate arguments 
+regarding the other evidentiary criteria she claims to have met. See INS v. Bagamasbad, 429 U.S. 24, 
+25 (1976) (per curiam) (holding that agencies need not make "purely advisory findings" on issues 
+unnecessary to their ultimate decisions). 
+C. The Petitioner Did Not Establish Her Intent to Continue Working in Her Field in the United States 
+The Petitioner has satisfied the requested category's evidentiary requirements. Although unaddressed 
+by the Director, however, she has not met all the category's statutory criteria. 
+Noncitizens with extraordinary ability must 
+"seek[] to enter the United States to continue work in the 
+area of extraordinary ability." Section 203(b )(1 )(A)(ii) of the Act. The classification requires no job 
+offer or certification from the U.S. Department of Labor. But a petition must include "clear evidence 
+that the [ noncitizen] is coming to the United States to continue work in the area ofexpertise." 8 C.F .R. 
+§ 204.5(h)(4). Such evidence may include: 
+• A letter from a prospective employer; 
+• Evidence of a prearranged commitment, such as a contract; or 
+• A petitioner's statement detailing plans on how they intend to continue their work in the United 
+States. 
+The Petitioner submitted a copy of her most recent U.S. fellowship agreement. But the two-year pact 
+indicates its expiration in September 2023. Contrary to section 203(b )(1 )(A)(ii) of the Act, the record 
+lacks evidence ofthe Petitioner's intent to continue working in the machine learning field in the United 
+States after her proposed attainment of U.S. permanent residence. 
+The Director did not notify the Petitioner of this evidentiary defect. We will therefore remand the 
+matter. On remand, the Director should inform the Petitioner of the required evidence and provide 
+4 
+her with a reasonable opportunity to submit it. If supported by the record, the Director may notify her 
+of any additional potential denial grounds. 
+If the Petitioner does not establish her intent to continue working in her field in the United States, the 
+Director should issue a new decision denying the petition. If, however, she demonstrates the requisite 
+intent, the Director must make a final merits determination before approving or denying the filing. 
+III. CONCLUSION 
+The Petitioner satisfied the requisite three evidentiary criteria. She did not, however, demonstrate her 
+intent to continue working in her field in the United States. 
+ORDER: The Director's decision is withdrawn. The matter is remanded for entry of a new 
+decision consistent with the foregoing analysis. 
+5 

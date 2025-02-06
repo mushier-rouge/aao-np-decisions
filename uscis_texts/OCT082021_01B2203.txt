@@ -1,0 +1,265 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 18109021 
+Appeal of Nebraska Service Center Decision Non-Precedent Decision of the 
+Administrative Appeals Office 
+Date: OCT. 8, 2021 
+Form 1-140, Immigrant Petition for Alien Worker (Extraordinary Ability) 
+The Petitioner, a research scientist in the field of robotics, seeks classification as an individual of 
+extraordinary ability. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. 
+§ 1153(b)(l)(A). This first preference classification makes immigrant visas available to those who 
+can demonstrate their extraordinary ability through sustained national or international acclaim and 
+whose achievements have been recognized in their field through extensive documentation. 
+The Director of the Nebraska Service Center denied the petition concluding that the record did not 
+establish that the Petitioner satisfied at least three of the ten initial evidentiary criteria for this 
+classification, as required. The matter is now before us on appeal. 
+In these proceedings, it is the Petitioner's burden to establish eligibility for the requested benefit by a 
+preponderance of the evidence. See Section 291 of the Act, 8 U.S.C. § 1361, Matter of Chawathe, 25 
+l&N Dec. 369, 375 (AAO 2010). Upon de nova review, we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l)(A) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a pet1t10ner can demonstrate 
+international recognition of his or her achievements in the field through a one-time achievement (that 
+is, a major, internationally recognized award). If the petitioner does not submit this evidence, then he 
+or she must provide sufficient qualifying documentation that meets at least three of the ten categories 
+listed at 8 C.F.R. § 204.5(h)(3)(i) -(x) (including items such as awards, published material in certain 
+media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+At the time of filing, the Petitioner was a doctoral student in computer science and engineering at the 
+University o~ I where she was also employed as a research associate. 1 The Petitioner has 
+a master of science in robotics from University, a master of engineering in computer 
+science from.__ _____ ---r-----.----------=...---- ....... and a bachelor's degree in computer 
+science and mathematics fro .___ _ _,The record reflects that she is the founder and CEO ofl I 
+.__ _ _.la U.S. company which intends to develop and market an .__ ________ __.reliant on 
+robotics and artificial intelligence technologies. 
+Because the Petitioner has not claimed or established that she has received a major, internationally 
+recognized award, she must satisfy at least three of the alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). The Director determined that the Petitioner met two of these criteria by 
+providing evidence that she has participated as a judge of the work of others in her field and by 
+authoring scholarly articles in professional publications. See 8 C.F.R. § 204.5(h)(3)(iv) and (vi). The 
+record supports this determination, as the Petitioner has documented her service as a judge based on 
+her peer review of manuscripts for scientific journals and conferences in her field. She has also 
+published her scholarly work in a journal (IEEE Robotics and Automation Letters) and in international 
+conferences in her field. 
+On appeal, the Petitioner asserts that she submitted sufficient evidence to establish that she has made 
+original scientific contributions of major significance in her field and therefore meets the criterion at 
+8 C.F.R. § 204.5(h)(3)(v).2 After reviewing all the evidence submitted, we conclude that the record 
+does not support a finding that the Petitioner satisfies the requirements of at least three criteria. 
+1 The record reflects that the Petitioner received her Ph.D. from the University ofl I in August 2020. 
+2 Although the Petitioner previously claimed to meet three additional evidentiary criteria, she does not contest the 
+Director's determination that she did not satisfy the criteria related to lesser nationally and internationally recognized 
+awards at 8 C.F.R. § 204.5(h)(3)(i), display of her work a1i artistic exhibitions and showcases at 8 C.F.R. § 204.5(h)(3)(vii), 
+and performance in a leading or critical role for an organization or establishment that has a distinguished reputation at 8 
+2 
+Evidence of the individual's original scientific, scholarly, artistic, athletic, or business­
+related contributions of major sign[ficance in the field. 8 C.F.R. § 204.5(h)(3)(v). 
+This criterion calls for evidence of a petitioner's original scientific, scholarly, artistic, athletic, or 
+business-related contributions of major significance in the field. For example, a petitioner may show 
+that their contributions have been widely implemented throughout the field, have remarkably impacted 
+or influenced the field, or have otherwise risen to a level of major significance in the field. 
+The Petitioner asserts that she meets this criterion bas,..,.._"""""'.......,, ......... """'-'.........,"""""'"'-'-'-'U....,,.:.LL- ___ .......,.·ncorporated 
+into an autonomous stem called , which was 
+developed at the University of Robotics Lab. Specifically, the Petitioner 
+explains that she contributed to tion and mani ulation com onents 
+which allow the 
+L--------------------...r----i,. _______ _J The Petitioner 
+maintains that the significance of her contribution to th,__ _ _.project has been widely recognized in 
+the field, as evidenced by her publication of two articles and two datasets related to the project, 
+citations to and downloads of these publications and data, media attention received by the project, and 
+letters from experts in her field. She asserts that this evidence, considered in its totality, is sufficient 
+to establish the major significance of her scientific contribution. 
+The Petitioner asserts that the Director failed to consider evidence of "massive downloads" of two 
+datasets related to theO project that are available on th website. 
+S ecificall , she states that her team at Universit of ublished two datasets: (1) "A 
+which has been ~------------- ........ ------------------downloaded 13,644 times; and (2) ~---------------~which has been 
+downloaded 37,730 times. The Petitioner explains that the datasets can be used by other researchers 
+to understand ho~ lso that they can recreate those actions with 
+robots. She states that the only "logical reason" for her datasets to have over 50,000 downloads is 
+because her "peers in this field have widely recognized her original findings and the importance of her 
+original findings, which can ... help them to do their own [research]." 
+The Petitioner states that the two datasets have achieved a "massive" number of downloads but the 
+record does not contain comparative information regarding downloads for other datasets in the same 
+field. Rather, she asserts that 50,000 is a large number without placing that number in context. Without 
+supporting evidence to provide such context, she has not supported her claim that the total number of 
+downloads establishes the major significance of the data she collected through her research on the 
+,___ _ _.I project. 
+Further, the total number of downloads for a given dataset does not provide insight into how many 
+individual researchers have downloaded the Petitioner's data. For exam le, the l I 
+.__--.-----~--------,,-------,__ ___ __,.-,----' has been downloaded 
+over 13,000 times since being published o ~------~ in 2019. However, this dataset includes 
+C.F.R. § 204.5(h)(3)(viii). We consider these issues to be waived and will not further discuss these criteria. See Matter 
+of R-A-M-, 25 I&N Dec. 657, 658 n.2 (BIA 2012) (stating that when a filing party fails to appeal an issue addressed in an 
+adverse decision, that issue is waived). 
+3 
+nearly 2500 files and the total number of downloads represents the sum of downloads for each file; it 
+does not indicate that 13,000 researchers have downloaded the complete dataset. The Petitioner 
+provided download numbers for ten individual files within the dataset showing that they were each 
+downloaded between 7 and 15 times. Given the total number of files (2493) and total number of 
+downloads (13,644), the average number of downloads per file would fall between 5 and 6 downloads. 
+The Petitioner's other dataset, published o~ I in 2018, includes 479 files that have 
+been downloaded a total of 37,730 times, or an average of approximately 79 downloads per file. 
+In addition, a download count does not tell us whether or how the Petitioner's datasets have been used 
+in subsequent research studies. If such downloads rarely result in citations, then the download count 
+does not appear to correlate direct! to the impact or influence of the Petitioner's research in the field. 
+Onl one of the two datasets (the 2018 dataset titled .__ ______ ___. 
+.__ ________ ___. is included on the Petitioner's Google Scholar profile. Although the 
+Petitioner emphasizes that it has over 37,000 downloads, the record reflects that this dataset had been 
+cited only three times, a number which appears to include self-citations by the Petitioner. 
+On appeal, the Petitioner focuses on the number of downloads and suggests that it would be unusual 
+for a researcher to cite to a dataset such as those she published o~ l She maintains 
+that "[p ]eople who downloaded them are scientific researchers in this specific field and they 
+downloaded them not casually for fun, but seriously with the purpose for their research[]." At the 
+same time, she states that the data contained in the datasets "is not in ordinary English words which is 
+not practically cited as the normal citation." Her statements imply that researchers have downloaded 
+and relied on her data for their own research without citing it. However, the information provided 
+from! I indicates that the website automatically generates a full citation for every 
+uploaded dataset for use by researchers, to ensure that those who publish the datasets are credited for 
+their work when others rely on it. The record does not adequately support the Petitioner's claims that 
+the downloads of her dataset should be given greater evidentiary weight than citations to those datasets. 
+The Petitioner also em 
+research related to th hasizes that she used the datasets discussed above to publish and present her 
+ro · ect. She rovided evidence that her paper 
+was published in 
+IEEE Robotics and Automation Letters in 2019 and that she resented!~ --------~I 
+~---~-------~---------------~ at the 2019 International 
+Symposium on Robotics Research (ISRR). This evidence verifies that the Petitioner has shared her 
+research associated with thel lsystem. Although funded and published work 
+may be "original," this fact alone is not sufficient to establish that the work is of major significance. 
+To satisfy this criterion, the Petitioner must demonstrate that the reaction from the field upon the 
+dissemination of her work confirms that her research rises to the level of a "contribution of major 
+significance" in the field. See 8 C.F.R. § 204.5(h)(3)(v). 3 Here, the Petitioner provided her Google 
+Scholar profile indicating that the two articles referenced above had been cited 21 times and 5 times, 
+respectively. 
+3 See 6 USCIS Policy Manual F.2 appendix, https://www.uscis.gov/policy-manual) (stating that "[p]eer-reviewed 
+presentations at academic symposia or peer-reviewed articles in scholarly journals that have provoked widespread 
+commentary or received notice from others working in the field, or entries (particularly a goodly number) in a citation 
+index which cite the alien's work as authoritative in the field, may be probative of the significance of the alien's 
+contributions to the field of endeavor). 
+4 
+Generally, citations can serve as an indication that the field has taken interest in a petitioner's 
+published or presented work. However, the Petitioner has not demonstrated that the number of 
+citations received by her published work associated with th~ !project is commensurate with a 
+contribution of major significance. In fact, referring to the citations received by her article in IEEE 
+Robotics and Automation Letters, she states on appeal that the number of citations it received, if 
+considered alone, "is not impressive." She asserts that these citations should be considered along with 
+evidence that the corresponding dataset published on] I was downloaded over 13,000 
+times, emphasizing that the combination of the citations and downloads is "very convincing" evidence 
+of the significance of her research contribution. However, as discussed above, the Petitioner has not 
+established that her datasets related to th~ project have been widely cited or that the downloads 
+signify widespread notice or attention in her field commensurate with major significance. Although 
+evidence related to the Petitioner's citations indicates that her research has received some attention 
+from the field, she did not establish that the citations demonstrate that her work has been widely 
+discussed or relied on by other researchers, that the work has been particularly influential or impactful, 
+or that it is otherwise regarded as a contribution of major significance in her field. 
+The Petitioner also provided evidence that several media outlets reported on the University of 
+I Is first demonstration of the~-------~ robot when the IEEE Robotics and 
+Automation article was published in 2019. The Petitioner provided copies of online articles from BBC, 
+Reuters, Science Daily, GeekWire, Digital Trends, New Atlas, Fast Company, and Interesting 
+En ineerin . An article about the ro·ect was also featured on the website of the NIH'sl I 
+.__ ______________________ __, which provided project funding. The 
+articles convey that ... ""'th""e::.er..:::e_,a::.er..:::e_,a=.tc===~ one million Americans with injuries or disabilities that 
+revent them from and note that the team at Universit of has 
+,__ _ ___,as a first step in developing an.__ __________ ~ robot. 
+The articles describe the engineering challenges presented by~ project, describe how the 
+research team approached those challenges, and explain how th~t works. While the articles 
+comment on the potential of the technology, the evidence does not indicate that the algorithms 
+developed by the Petitioner and incorporated into the I J or thel bbot itself: have 
+already had a major impact in the robotics field or have resulted in a technology that is already being 
+used by the population it intends to serve. 
+For exam le the BBC article re orts that the ro · ect' s researchers 
+The 
+article published by Fast Company discusses several limitations of the robot and possible future 
+improvements, noting that "the [University of I I team has no immediate plans for 
+commercialization." The Geek Wire article refers tcC:J as "an earl -sta e ro · ect" and reports that 
+Overall, the 
+submitted media articles recognize the originality and potential of the research and two of them 
+mention thatD is more advanced than an existing! I robot already on the market. 
+However, they do not present! I as a development that has already been shown to have a 
+demonstrable impact in the field commensurate with a contribution of major significance. 
+5 
+The Petitioner has also submitted several expert opinion letters that discuss her contributions to the I !project at University o~ f Although the authors comment on the originality of this 
+research and the publication and presentation of this work, they do not sufficiently articulate how the 
+Petitioner's research and findings havl already Impacted on influenced the field in a si nificant way. 
+'----------~ who runs the Robotics Lab at Universit of and served 
+as the Petitioner's Ph.D. advisor, acknowledges her contributions to the.__ _________ ~ 
+s stem notin her critical role in the team's develo ment of "a software stack for a mobile 
+'He '----------------------------------------' states that the project "has received much attention ... in the research community," but does not 
+further elaborate on the influence or impact of the Petitioner's contributions. 
+Other letters comment on the potential future applications of the Petitioner's work without detai
+1lingl 
+how it has already impacted further research in the field or been widely implemented in the field. 
+'------.----.-~a professor of computer science who previously served as the Petitioner's 
+advisor at L----,--....1...::u.u.Ju..u.JCI.LU""""'"---'J.>.i.L---'-'...,_,,_.......,.u.........._......_.i.lJJ........,,___..,.....,. ........... ......,. __ ....u.....,_._.,1.1.L...--'-'.....,_....LLl...>..LJw.>.L..-,practi cal 
+applications i and will 
+help "millions of Americans in need o .__ _____ ....,_ ________ __,services." I ~' a mechanical engineering professor at mentions the two datasets and two p~u_b_l_i-ca-t-io_n_s__, 
+associated with the Petitioner's research, and states that her work one=) and her expertise inl I 
+robotic systems has "unlimited potential applications in improving the lives of many disabled 
+Americans, which certainly has substantial merit and national importance." I I an 
+electrical and computer engineering professor at I I University, similarly discusses the 
+Petitioner's published work related to thel I project and notes its "importance to thel I 
+robotics field iven its numerous a lications which can be designed to improve the quality of life for 
+millions of individuals." Finally,! I a professor 
+a .__ _____ __,University, states that the Petitioner has made "invaluable breakthroughs" that will 
+"help millions of Americans who require! I services." 
+While several of the letters emphasize the "substantial merit and national importance" of the field of I !robotics, they do not explain with specificity how the Petitioner's individual contributions to 
+this field rise to the level of major significance. The submitted letters emphasize the potential of the 
+Petitioner's research, the impact it may have in the future, and the merits of developing artificial 
+intelligence and robotics technology for the purpose of assisting persons with disabilities with daily 
+tasks. They do not contain specific, detailed information explaining the unusual influence or high 
+impact her research has had on the overall field. Letters that specifically articulate how a petitioner's 
+contributions are of major significance in the field and its impact on subsequent work add value. On 
+the other hand, letters that lack specifics are not considered to be probative evidence that may form 
+the basis for meeting this criterion. 5 
+The reference letters and other evidence in the record show that the Petitioner's work has added to the 
+general pool of knowledge and has resulted in incremental advancements in the field, as would be 
+expected of any original research. However, the burden is on the Petitioner to not only identify her 
+4 We have addressed the expert letters that discuss the Petitioner's work on the0 project at University ofl 0 
+because this research forms the basis of her claim that she meets the criterion at 8 C.F.R. § 204.5(h)(3)(v). However, we 
+have reviewed and considered all expert opinion letters provided in support of the petition. 
+5 See 6 USC1S Policy Manual, supra, at F.2 appendix. 
+6 
+original contribution but to also demonstrate why it is considered to be of major significance in the 
+field. Here, after reviewing the evidence submitted in support of this criterion, both individually and 
+collectively, we conclude that she has not established that she has made original contributions of major 
+significance in the field. 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents demonstrating that she satisfies at least three of the ten criteria. As a result, we need not 
+provide the type of final merits determination referenced in Kazarian, 596 F.3d at 1119-20. 
+Nevertheless, upon a review of the record in its entirety, we conclude that it does not support a finding 
+that she has established the acclaim and recognition required for this classification. 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals who are already 
+at the top of their respective fields, rather than for individuals progressing toward the top. USCIS has 
+long held that even athletes performing at the major league level do not automatically meet the 
+"extraordinary ability" standard. Matter of Price, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994). 
+Here, the Petitioner has not shown that the significance of her academic, scholarly, research, and 
+professional accomplishments to date is indicative of the required sustained national or international 
+acclaim or that it is consistent with a "career of acclaimed work in the field" as contemplated by 
+Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 203(b)(l)(A) of the Act. 
+Moreover, the record does not otherwise demonstrate that the Petitioner has garnered national or 
+international acclaim in the field, and that she is one of the small percentage who has risen to the very 
+top of the field of endeavor. See section 203(b)(l)(A) of the Act; 8 C.F.R. § 204.5(h)(2). 
+The record does not establish that the Petitioner qualifies for classification as an individual of 
+extraordinary ability. The appeal will therefore be dismissed for the above stated reasons, with each 
+considered as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+7 

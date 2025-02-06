@@ -1,0 +1,336 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 15821268 
+Appeal of Texas Service Center Decision Non-Precedent Decision of the 
+Administrative Appeals Office 
+Date: MAR. 26, 2021 
+Form 1-140, Immigrant Petition for Alien Worker (Extraordinary Ability) 
+The Petitioner, an associate professor of computer science, seeks classification as an individual of 
+extraordinary ability. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 
+1153(b)(l)(A) . This first preference classification makes immigrant visas available to those who can 
+demonstrate their extraordinary ability through sustained national or international acclaim and whose 
+achievements have been recognized in their field through extensive documentation. 
+The Director of the Texas Service Center denied the petition, concluding that the record did not 
+establish, as required, that the Petitioner satisfies at least three of the ten initial evidentiary criteria for 
+this classification . The matter is now before us on appeal. 
+In these proceedings, it is the Petitioner's burden to establish eligibility for the requested benefit. See 
+Section 291 of the Act, 8 U.S.C. § 1361. Upon de nova review, we conclude that the Petitioner has 
+not met that burden. Accordingly, we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2) . The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate 
+international recognition of his or her achievements in the field through a one-time achievement (that 
+is, a major, internationally recognized award). If that petitioner does not submit this evidence, then 
+he or she must provide sufficient qualifying documentation that meets at least three of the ten criteria 
+listed at 8 C.F.R. § 204.5(h)(3)(i) -(x) (including items such as awards, published material in certain 
+media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+(discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+At the time of filing, the Petitioner was employed as an associate professor at the Institute of 
+Computing Technology, The Petitioner's resume reflects that he 
+worked for~----------~ as a research scientist from 2007 until 2010, and later 
+as a senior research scientist and director assistant from 2010 through 2014. In 2007, he received his 
+doctorate degree in computer science from the Institute of Computing Technology,,.___ _____ _. I I where he also worked as a research assistant during his graduate studies. The Petitioner 
+states that his research interests include! I andl I, including I I I I models.I ~I I. and information theory. 
+Because the Petitioner has not indicated or established that he has received a major, internationally 
+recognized award, he must satisfy at least three of the alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). 
+In denying the petition, the Director determined that the Petitioner fulfilled two of the initial 
+evidentiary criteria, judging at 8 C.F.R. § 204.5(h)(3)(iv) and authorship of scholarly articles at 8 
+C.F.R. § 204.5(h)(3)(vi). The record reflects that the Petitioner has peer reviewed manuscripts for 
+several conferences in his field. In addition, he authored scholarly articles in professional publications 
+including scientific journals and conference proceedings. Accordingly, we agree with the Director 
+that the Petitioner fulfilled the judging and scholarly articles criteria. 
+On appeal, the Petitioner asserts that the Director erroneously determined that he does not meet a third 
+criterion, related to his original contributions in the field, which we will discuss below. After 
+reviewing all the evidence in the record, we conclude that the record does not support a determination 
+that the Petitioner satisfies the requirements of at least three criteria. 
+2 
+Evidence of the individual's original scientific, scholarly, artistic, athletic, or business­
+related contributions of major significance in the field. 8 C.F.R. § 204.5(h)(3)(v). 
+In order to satisfy the regulatory criterion at 8 C.F.R. § 204.5(h)(3)(v), a petitioner must establish that 
+not only has he made original contributions but that they have been of major significance in the field.1 
+For example, a petitioner may show that the contributions have been widely implemented throughout 
+the field, have remarkably impacted or influenced the field, or have otherwise risen to a level of major 
+significance in the field. 
+The Petitioner has submitted evidence relating to the publication of his research in professional 
+journals and conference proceedings (including evidence of citations of his work), evidence related to 
+his patents, letters from experts in his field (including colleagues and independent experts) who discuss 
+his work and his reputation, and evidence related to the practical application of his work by private 
+sector companies. 
+The Petitioner places considerable emphasis on his overall publication and citation record in support 
+of his assertion that he meets this criterion. While we will discuss this evidence below, we emphasize 
+that this criterion requires the Petitioner to establish that he has made original contributions of major 
+significance in the field and not simply to his establish that his total number of citations compares 
+favorably to others in his field. It is the Petitioner's burden to identify his specific original 
+contributions, explain why they are of major significance in the field, and to submit sufficient evidence 
+to corroborate that significance. 
+The Petitioner has consistently stated that his original contributions of major significance in the=] I land I I field fall within three areas: (1) development of "novel approaches for I I from I I data"; (2) development of "novel frameworks for ~----~ understanding and I h and (3) development of "new models that 
+significantly increase the accuracy ofl I' in the field of I I 
+The Petitioner provided five independent expert opinion letters in support of the petition, each of which 
+discusses two of his published papers. As discussed below, the authors of the letters describe the 
+Petitioner's work in significant technical detail, state where his research was published, and then 
+declare with minimal elaboration that the Petitioner's work is of major significance in the I I 
+field. Further, with one exception, the letters do not focus on the work that the Petitioner himself 
+identified as highly cited in his field. 
+For example.I I a vice president withl I states that the Petitioner "conducted 
+pioneering research on defining! I" explains the research, and notes 
+that the Petitioner was able to present "the convenient and unified checking conditions for ,□"I J I !generalizing and illuminating the common nature of alll ~,, ~---~Is 
+reference to the research as "pioneering" is not sufficient to establish that it had a remarkable impact 
+or influence or that is otherwise deemed a contribution of major significance in the field. He also 
+1 See USCIS Policy Memorandum PM 602-0005.1, Evaluation of Evidence Submitted with Certain Form 1-140 Petitions; 
+Revisions to the Adjudicator's Field Manual (AFM) Chapter 22.2, AFM Update AD11-14 8-9 (Dec. 22, 2010), 
+https://www.uscis.gov/policymanual/HTML/PolicyManual.html (finding that although funded and published work may 
+be "original," this fact alone is not sufficient to establish that the work is of major significance). 
+3 
+discusses the Petitioner's "studies on inl !systems, explains these 
+studies in detai I, and states that "the identified by [the Petitioner] are conducive 
+to better organizing,.___ ____ _.so as to attract more user dwell time in these systems." He notes 
+the publication of the two referenced studies in IEEE Transactions on Information Theory and in the 
+Proceedings of The 25th International Joint Conference on Artificial Intelligence (IJCAI), 
+respectively. 2 I I does not further describe how either of the papers mentioned is of major 
+significance or otherwise discuss the impact or influence of the Petitioner's findings in their shared 
+field. He concludes that the Petitioner's work "has helped shape the modern data science field" but 
+does not elaborate on this critical point. 
+I I Vice President of Engineering and.___ ______ _. at I I likewise 
+provides highly technical descri tions of two of the Petitioner's research studies.3 He explains that the 
+Petitioner developed a.___ ___________ ---;::===::;--------' and published 
+his work in the AAAI Conference on Artificial Intelligence. I I also discusses the Petitioner's 
+proposal of ".:==::::;-~--:------:-----:----:-------:-~~-:-------:---:-:-------:---..------'" and notes that 
+both of thesel I machine methods "perform better than baseline methods." However, he does not 
+describe how these methods have impacted or influenced further research or state that the methods have 
+achieved widespread application in the field. He offers a general conclusion that the Petitioner's 
+"significant discoveries" have "significant impact on the development of new methods tori I I !generation, and the benefits of [his] research are national in scale," but he does not 
+explain the impact or the resulting benefits. 
+A letter froml I Chair Professor at thd I University of Science and Technology 
+follows a similar pattern. He provides a technical description of a study in which the Petitioner 
+"successfully realizeq ltrom multiple source domains visal t and 
+another study in which the Petitioner "developed [a] novel method for I J and 
+I I across multiple domains using I I model for I I" I Is 
+summaries of the Petitioner's published studies are highly detailed but he does not explain the influence 
+or impact of the Petitioner's research in the field or otherwise offer an assessment or analysis of how 
+either of these individual research contributions is considered a contribution of major significa~ 
+Rather, he generally credits the Petitioner with presenting "a host of developing novel methods forLJ 
+I I' and states that "the huge influence of his research" is reflected in his cumulative citation numbers. 
+The Petitioner also provided a letter from I Ian associate professor atl I University at 
+I I I I states that the Petitioner "made significant contributions to I I 
+.___ ______ __.I," which she describes as "an importan~ lproblem with many broad 
+applications." She provides technical details regarding two of his published articles in this area of 
+2 The Petitioner's Goo:le Scholar profile submitted at the time of filing in August 2018 did not include either article 
+referenced byl J An updated profile the Petitioner submitted in response to the Director's request for evidence 
+(RFE) indicated that the articles had been cited 10 times and 1 time, respectively, as of February 2019. 
+3 Neither of the studies referenced b~ I appeared on the initial Google Scholar profile submitted at the time of 
+filing; the updated profile showed 14 citations to the Petitioner's 2017 AAAI paper I I 
+I I and 0 citations to his 2018 AAAI paper I I 
+~-------~1· 
+4 
+research, noting his development otl lthat he has namedl I andl 141 I 
+describes the Petitioner's approach as "innovative and creative" and states that he was "a pioneer m 
+------..~-~~-~~-~-~~-------'□ 
+concludes her letter b statin that the Petitioner "has made many crucial contributions of both 
+research" but she does not explain how his work in the '---~-------------...._____, area o_.__ _____________ ____.~as been remarkablv iofll,eotial Df impactful in the 
+field or provide further explanation as to why his i~----------~j are considered a 
+contribution of major significance within the meaning of 8 C.F.R. § 204.5(h)(3)(v). 
+Finally, the record contains a letter froml I chair Professor of Finance a,-Jtl ______ _ 
+Graduate School of Business, who discusses the Petitioner's 2012 publication titled ·~I----~ 
+He ex lains that that the Petitioner 
+developed ' which he describes as "a method to ~-___.!.,._.__ ___ L..-_~ ~--___,J ............ ------------~ ~---------~ and explains what~---~ is and why it is a challenging problem 
+in data science.~tes that while several methods had been proposed to tackle the challenge, 
+the Petitioner'sl___Jtramework was a novel framework that proved to "achieve significantly 
+higher accuracy over state-of-the-art methods." He indicates that the Petitioner's work "has been 
+extensively followed by his peers and the paper has been cited 188 times so far." But he does not 
+indicate the significance of the number of citations or, more importantly, detail how the Petitioner's 
+framework has been particularly impactful or influential in the field or explain how it has been applied 
+by others. While the record reflects that this paper is the Petitioner's most-cited work, neither the 
+citation history norl Is letter offers sufficient support for a conclusion that it is regarded in the 
+field as a contribution of major significance. 
+The letters considered above uniformly praise the Petitioner for his work, but primarily contain 
+technical descriptions of the Petitioner's research and attestations of its novelty without providing 
+specific examples or probative analysis of how his contributions rise to a level consistent with major 
+significance. Letters that specifically articulate how a petitioner's contributions are of major 
+significance to the field and its impact on subsequent work add value. 5 Letters that lack specifics do 
+not add value, and are not considered to be probative evidence that may form the basis for meeting 
+this criterion. 6 The authors' assertions in the above-referenced letters do not explain how the 
+Petitioner's research findings have been widely implemented in the field or establish that the 
+Petitioner's work has had an impact in the field commensurate with a contribution of major 
+significance. 
+As noted, the Petitioner places considerable emphasis on the publication of his work in high-impact 
+journals in his field, on his cumulative citation numbers, and on the citation rates for some of his 
+4 The two publications mentioned inl Is letter were not listed on the initial Google Scholar profile submitted with 
+the petition. The updated document submitted in response to the RFE showed that the Petitioner's 2012 paper 
+'-------..---------------------------' had been cited 15 times, 
+and his 2015 paper "~----------~· had been cited 6 times. 
+5 See USCIS Policy Memorandum PM 602-0005.1, supra, at 8-9. 
+6 Id. at 9. 
+5 
+individual publications. We have considered this evidence in conjunction with the Petitioner's own 
+explanations of his contributions in the field and the opinions of experts discussed above. 
+While he contends that he authored "high-quality scientific publications in top-ranked journals and 
+conferences," the Petitioner did not demonstrate that publication of his articles in highly ranked or 
+prestigious journals or conference proceedings is sufficient to demonstrate that he has made original 
+contributions of major significance. A given publication's high ranking or impact factor only reflects 
+the publication's overall citation rate; it does not demonstrate an individual author's influence or the 
+impact of their research in the field. Nor is there evidence to support a conclusion that any article 
+published in a highly ranked journal automatically reflects a contribution of major significance. 
+The Petitioner also emphasizes his cumulative citation numbers, as reflected in his Google Scholar 
+profile.7 He notes that according to information published by lnCites: Essential Science Indicators, 
+"researchers in the computer science field whose research has received 150 citations are ranked in Top 
+1 % in the field," and states that his cumulative citations exceed this threshold by 10 times. In general, 
+the comparison of the Petitioner's cumulative citations to others in the field is more appropriate in 
+determining whether the record shows sustained national or international acclaim and demonstrates 
+that he is among the small percentage at the very top of the field of endeavor in a final merits 
+determination, in those cases where a petitioner has satisfied at least three of the ten initial evidentiary 
+criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). See Kazarian 596 F.3d at 1115. 
+Another set of data presented by the Petitioner is intended to compare the rate and frequency of 
+citations to his individual articles to those of other scientists in his field. The Petitioner provides a 
+chart in which he lists nine publications (published between 2011 and 2015) that fall among the "most 
+cited papers in Computer Science field" according to the percentile rankings provided by lnCites: 
+Essential Science Indicators. Specifically, he indicates that citations to the listed publications places 
+each of them within the top 0.1 to 1 % of all papers published in the field in the same year. Based on 
+the evidence the Petitioner provided from Google Scholar, the nine articles he identifies as highly­
+cited had been cited between 26 and 196 times at the time he filed this petition. Of these, four papers 
+had fewer than 50 citations, three had citations in the 68 to 80 range, one had 104 citations, and one 
+had 196 citations and is his most-cited paper overall. 
+As noted, the burden is on the Petitioner to not only identify his original contributions but also to 
+explain why they are of major significance in the field. Generally, citations can serve as an indication 
+that the field has taken interest in a petitioner's research or written work. However, comparative 
+rankings to baseline or average citation rates do not automatically establish that a given petitioner has 
+made a contribution of major significance in the field. A more appropriate analysis, for example, 
+7 The Director determined that there were inconsistencies in the record with respect to the Petitioner's Google Scholar 
+profile. We note that the profile submitted at the time of filing lists 20 publications and a cumulative citation count of 
+1677, while the updated profile submitted in response to the RFE lists significantly more than 20 publications and 1867 
+cumulative citations. The first list appears to represent the Petitioner's top 20 publications, while the second listing appears 
+to be complete. Given the passage of approximately six months between the date of filing and the date of the RFE response, 
+we do not find the number of cumulative citations to be inconsistent. We emphasize, however, that the Petitioner must 
+establish that all eligibility requirements for the immigration benefit have been satisfied from the time of the filing and 
+continuing through adjudication. 8 C.F.R. § 103.2(b)(1). For this reason, our focus is on the initial citation record 
+submitted at the time of filing. 
+6 
+would be to compare the Petitioner's citations for individual articles to other similarly, highly cited 
+articles that the field views as having been of major significance, as well as factoring in other 
+corroborating evidence. Highly cited publications alone are not sufficient under 8 C.F.R. 
+§ 204.5(h)(3)(v) absent evidence that they were of "major significance" as a citation ranking does not 
+provide sufficient context to determine the impact or importance of a given researcher's work in the 
+field. That context must be provided by other evidence in the record. 
+The Petitioner has not demonstrated, as he asserts, that any of the nine articles he characterizes as 
+highly cited resulted in an original contribution of major significance in the field. While the Petitioner 
+submitted corroborating evidence in the form of expert opinion letters, that evidence, for the reasons 
+already discussed, is not sufficient to establish that the Petitioner's research findings, individually or 
+collectively, have remarkably impacted or influenced his field. In fact, of these nine publications, only 
+one of them is mentioned in one of the expert opinion letters submitted in support of this criterion. 
+Although the Petitioner's citations indicate that others in the field have referenced his work, he did not 
+establish that the submitted citation statistics alone reach the threshold of "major significance" as 
+required by the regulation at 8 C.F.R. § 204.5(h)(3)(v). 
+Further, the record indicates that the Petitioner submitted samples of several research articles that cited 
+to his work. A review of those articles, though, does not show the significance of the Petitioner's 
+research to the overall field beyond the authors who cited to his work. For instance, the Petitioner 
+provided a copy of a 2016 article titled ,___ __________ ___.'8 that references the 
+Petitioner's 2015 article in the Proceedings of the 24th ACM International Conference in Information 
+and Knowledge Management. 9 The Petitioner's paper is mentioned among several previous studies 
+ofl I and the authors observed that all previous methods, including the Petitioner's, I ~: However, the article does not distinguish or highlight the 
+Petitioner's written work from the other cited papers. The submitted research articles reference the 
+Petitioner's work as evidence of recent research, and, while the articles indicate that the authors' own 
+research bui It upon the Petitioner's work, as well as the work of the other cited scientists, the Petitioner 
+did not demonstrate that the overall field views his published findings as original contributions of 
+major significance. Many of the submitted articles cite to papers authored by the Petitioner that are 
+not otherwise claimed to involve contributions of major significance. For example, they are not 
+citations to the publications he characterizes as highly cited or to publications that are mentioned in 
+the submitted expert opinion letters. The mere citation of work by others does not automatically show 
+the "major significance" of this work. 
+The Petitioner also emphasizes that his publications have been cited in several book chapters and more 
+than 15 review articles. The Petitioner asserts that "review articles only include those meaningful 
+progresses in [a] certain field," and therefore "being highlighted in a large number of reviews and 
+books serves as solid proof for the great interest on [his] research." The Petitioner's evidence in this 
+regard consists of a chart which lists the titles of book chapters and review articles, and the names of 
+the books or professional publications in which they were published. He did not provide copies of 
+8 Although we discuss a sample article, we have reviewed and considered each one. 
+9 The Petitioner also highlighted a second publication cited in this article. That 1ubli~led 
+I I was authored byl II 11 andL_______..,,J This article does not 
+appear on the Petitioner's Google Scholar profile. A search for the article's title on Google Scholar reflects that it was co-
+authored by a computer scientist at the University ofl I who has the same name as the Petitioner. 
+7 
+review articles that cite his work or identify which of his articles have been referenced in review 
+articles. While the evidence indicates that the Petitioner has made original contributions to what 
+appears to be an active field of research, we cannot determine that every publication cited in a review 
+article is one the field recognizes as majorly significant. 
+The Petitioner has also provided evidence that he has been listed as a co-inventor on five U.S. patent 
+applications that were filed during his employment with,___ ________ _. A patent 
+recognizes the originality of the idea, but it does not by itself demonstrate that the inventor made a 
+contribution of major significance in the field. Rather, the significance of the innovation must be 
+determined on a case-by-case basis. Here, the evidence related to these patents is limited to copies of 
+the first page of the patent application publications themselves. The patent applications are not 
+discussed in the Petitioner's statements or the expert opinion letters, and the record is otherwise lacking 
+an explanation as to how the patented technologies have had an impact of major significance in the 
+field. 
+Finally, the Petitioner asserts that he has made contributions to products and technologies that are 
+widely used by major I I companies. He provided evidence that he is a co-founder ofl I I l and asserted that the company's products, which he states are based 
+on his research, "have been used by famous companies and organizations." This evidence included a 
+letter from CEO, who certifies that the Petitioner is the co-founder and chief scientist of 
+,___ _________ ~ and asserts that he is responsible for the company's,___ _____ ~ 
+research team. also certifies that "the corel I for all the products (general products 
+such as,___ __ _.~-~ I I and those organization-customized products) of our company are 
+developed by [the Petitioner] and his team." 
+The Petitioner emphasized that the company's products have been used by I l.thel lstock Exchange, an~ !Stock Excha'-n-ge ___ H_e_p_r-ov-id_e_d_c_op_i__.es 
+of contracts signed in 2018, but did not provide any add1t1onal documentation or explanation regarding 
+,.__ ________ ___, its products, or how those products represent original contributions of 
+major significance that have already had a remarkable influence or impact in the field. 
+The Petitioner also states that, during his tenure at Institute of Computing Technology.I I 
+he has been involved in collaborative research projects with th~~--~Stock 
+~E_x_c-ha_n_g_e-an_d_w-ith~leading I I companies I land I I In support of his claim, 
+he submitted a "Certificate of Achievement for Joint Project" from each of these entities, all dated in 
+September 2016. The certificates attest to the Petitioner's collaborative research work with these 
+entities, describe that research, and indicate the benefit or potential benefit to the respective companies. 
+However, they do not provide sufficient explanation of the major significance of his contributions in 
+the field. 
+For example, the "Certificate of Achievement" frorrj I states that 
+"the~----~center ofl !Department fo~~-~fsl lhusiness 
+group," worked with the Petitioner "to tackle key problems with respect to 'the establishment of the I l"' The certificate explains the research, notes that it resulted in two conference 
+papers that were under review and indicates that the company "applied for four patents sharing the 
+intellectual property rights with Institute of Computing Technology." It further states that the 
+8 
+technologies that form the subject of the patents and conference papers would "become the core ones 
+of thel I platform." At the time the submitted certificate was written, the research was 
+still in a developmental phase and the platform had not been launched. The record does not include 
+evidence that the Petitioner co-authored the referenced patents or conference papers or evidence of the 
+significant impact or influence of this work in the field. 
+For the reasons discussed above, considered both individually and collectively, the Petitioner has not 
+demonstrated that he has made original contributions of major significance in the field. 
+111. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three of the ten criteria. As a result, we need not provide the type of final 
+merits determination referenced in Kazarian, 596 F.3d at 1119-20. Nevertheless, we advise that we 
+have reviewed the record in the aggregate, concluding that it does not support a finding that the 
+Petitioner has established the acclaim and recognition required for the classification sought. 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than for individuals progressing toward the top. USCIS has long held 
+that even athletes performing at the major league level do not automatically meet the "extraordinary 
+ability" standard. Matter of Price, 20 l&N Dec. 953, 954 (Assoc. Comm'r 1994). Here, the Petitioner 
+has not shown that the significance of his work is indicative of the required sustained national or 
+international acclaim or that it is consistent with a "career of acclaimed work in the field" as 
+contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 203(b)(1)(A) 
+of the Act. Moreover, the record does not otherwise demonstrate that the Petitioner has garnered 
+national or international acclaim in the field, and he is one of the small percentage who has risen to 
+the very top of the field of endeavor. See section 203(b)(1)(A) of the Act and 8 C.F.R. § 204.5(h)(2). 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an individual of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+9 

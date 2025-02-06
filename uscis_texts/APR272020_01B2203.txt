@@ -1,0 +1,176 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 7406398 
+Appeal of Nebraska Service Center Decision Non-Precedent Decision of the 
+Administrative Appeals Office 
+Date: APR. 27, 2020 
+Form 1-140, Immigrant Petition for Alien Worker (Extraordinary Ability) 
+The Petitioner, an attorney, seeks to classify the Beneficiary, a systems analyst, as an alien of 
+extraordinary ability.1 See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. 
+§ 1153(b)(l)(A). This first preference classification makes immigrant visas available to those who 
+can demonstrate their extraordinary ability through sustained national or international acclaim and 
+whose achievements have been recognized in their field through extensive documentation. 
+The Director of the Nebraska Service Center denied the petition, concluding that the record did not 
+establish that the Petitioner had satisfied at least three of ten initial evidentiary criteria, as required. 
+The matter is now before us on appeal. 
+In these proceedings, it is the Petitioner's burden to establish eligibility for the requested benefit. 
+Section 291 of the Act, 8 U.S.C. § 1361. Upon de nova review, we will dismiss the appeal. 
+I. LAW 
+Section 203(b )(1 )(A) of the Act makes immigrant visas available to aliens with extraordinary ability 
+if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work m the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively the 
+United States. 
+1 The record does not formally designate the Beneficiary as the Petitioner's client, but, as the Petitioner notes, "any person" 
+may file a petition to classify a given beneficiary as an alien of extraordinary ability. See 8 C.F.R. § 204.S(h)( 1 ). 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate a 
+beneficiary's sustained acclaim and the recognition of their achievements in the field through a one­
+time achievement (that is, a major, internationally recognized award). If that petitioner does not 
+submit this evidence, then they must provide sufficient qualifying documentation that meets at least 
+three of the ten categories listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as awards, 
+published material in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the beneficiary is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010). 
+II. ANALYSIS 
+The Petitioner states that the Beneficiary is "an ERP [Enterprise Resource Planning] Systems Analyst, 
+specializing in Product Life Management (PLM) and Business Intellirnce (BI)." At the time the present 
+petition was filed in April 2019, the Beneficiary was employed by l which filed 
+approved nonimmigrant petitions on his behalf in July 2013 and July 2016. Subsequently, in May 2019 
+and again in January 2020,I !filed nonimmigrant petitions on his behalf The 2019 
+petition was approved; the 2020 petition is still pending. 2 
+Because the Petitioner has not indicated or established that the Beneficiary has received a major, 
+internationally recognized award, the Petitioner must show that the Beneficiary satisfies at least three 
+of the alternate regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). The Petitioner claims that the 
+Beneficiary meets four criteria, summarized below: 
+• (iv), Participation as a judge of the work of others; 
+• (vi), Authorship of scholarly articles; 
+• (viii), Leading or critical role for distinguished organizations or establishments; and 
+• (ix), High remuneration for services. 
+The Director found that the Beneficiary met the criteria numbered (iv) and (vi), but not (viii) and (ix). 
+On appeal, the Petitioner asserts that the Beneficiary meets all four claimed evidentiary criteria. After 
+reviewing all of the evidence in the record, we agree with the Director that the Beneficiary meets the 
+criteria relating to judging and authorship of scholarly articles. However, for the reasons explained 
+below, we conclude that the Beneficiary does not meet the criteria pertaining to a leading or critical 
+role and high remuneration. 
+2 Part 4, line 8 of the petition form asked whether any other immigrant petitions had been filed by the Beneficiary or on 
+his behalf. The Petitioner answered "no." The Beneficiary, however, filed a petition on his own behalf in August 201 L 
+seeking a lower-p1iority employment-based immigrant classification. The petition was approved shortly afterward. 
+2 
+Evidence that the alien has performed in a leading or critical role/or organizations or 
+establishments that have a distinguished reputation. 8 C.F.R. § 204.5(h)(3)(viii) 
+The Petitioner initially stated: 
+[The Beneficiary] performs in a leading role as a Consultant in SAP PLM and a Business 
+Intelligence Analyst for I I His duties include the design and 
+configuration of ECM, as well as managing changes in ECO and ECR. He leads critical 
+initiative projects and implements and innovates concepts like Big Data and Machine 
+Leaming, after conducting research. 
+the The Petitioner submitted background information aboutc=J and a client, 
+manufacturer o~ I equipment. The materials establish the distingui .... sh_e_d-re_p_u-ta-t-io_n_o_f~..__~ 
+butnoto±O 
+A letter attributed to the vice president ofc=Jcalls the Beneficiary "a crucial contributor for our success" 
+and lists "[a] few highlights of [the Beneficiary's] accomplishments at 0': 
+• [The Beneficiary] redesigned and implemented a new solution for the client's Supplier 
+collaboration process after identifying the gaps, which saved them $800K in the 
+process. 
+• He improved sales order processing efficiency by 60% through the effective design 
+and received great accolades from customer service representatives. 
+• [The Beneficiary] designed and implemented the client's new reporting system which 
+improved the performance and operation efficiencies immensely. This project won 
+the best innovation award. 
+• [The Beneficiary] has received best resource, team player awards and commendations 
+fromc=Js clients regarding his work and solution designs. 
+The letter describes the Beneficiary's technical proficiencies but does not fully explain their impact on 
+the organization. The Petitioner also submits letters attributed to a former support lead atl land the 
+chief executive officer of a contracting firm that worked with the Beneficiary a~ I 
+There are several reasons to infer common origin, at least in part, of the three letters. All three of these 
+letters are unsigned, and printed in the same font on plain paper with no letterhead. There are similarities 
+of style and wording as well, such as needless capitalization of some words and references to the 
+Beneficiary as "the expert" rather than "an expert." 
+Each letter ends with three indented words: 
+Address 
+Email 
+Phone 
+3 
+No letter includes an actual email address after "Email," or a telephone number after "Phone." Only one 
+letter (attributed to the~ official) shows an address on the line marked "Address." The other two 
+letters have no contact information at all, making them difficult to verify. Letters attesting to a 
+beneficiary's employment experience must include the address of the writer. 8 C.F.R. § 204.5(g)(l). 
+The above evidence of common origin diminishes the credibility of the unsigned letters. See Surinder 
+Singh v. BIA, 438 F.3d 145, 148 (2d Cir. 2006) (upholding an adverse credibility determination in 
+asylum proceedings based in part on the similarity of the affidavits); see also Mei Chai Ye v. US. 
+Dep 't. of Justice, 489 F .3d 517, 519 (2d Cir. 2007) ( concluding that an immigration judge may 
+reasonably infer that when an asylum applicant submits strikingly similar affidavits, the applicant is 
+the common source). In evaluating the evidence, the truth is to be determined not by the quantity of 
+evidence alone but by its quality. See Matter of Chawathe, 25 I&N Dec. 369, 376 (AAO 2010) 
+(quoting Matter of E-M-, 20 I&N Dec. 77, 80 (Comm'r 1989). 
+The Petitioner submits a 2013 article from a trade publication, indicating that j.__ ___ _.l would be one 
+of the first SAP customers taking a brave step forward" by using SAP's "celebrated HANA platform" for 
+database management. The Petitioner asserts that the Beneficiary played a key role in this transition, 
+despite not being an employee of SAP orl I The article does not mention the Beneficiary, and the 
+only evidence of the Beneficiary's involvement is in the form of the unsigned letters discussed above, 
+only one of which mentions the HANA platform. (Another letter indicates that 'I I is a I I partner with SAP.") 
+On appeal, the Petitioner states that the Director "fails to consider other evidence that clearly establishes 
+that the beneficiary distinguished himself quite clearly and that his distinguished achievements were 
+lauded by others in the field." The issue, however, is not whether "the beneficiary distinguished himself" 
+The regulation requires evidence that the Beneficiary performed in a leading or critical role for 
+organizations or establishments with a distinguished reputation. 
+Moreover, the "other evid,nce" in oues~ion is a letter that the Petitioner identifies as Exhibit G(l ), 
+attributed to an official of~---~ attesting to the Beneficiary's role "in several new project 
+initiatives id~--~t The record, however, contains no Exhibit G(l ). Exhibit G is a copy of the 
+Beneficiary's IRS Form W-2, Wage and Tax Statement, for 2017, issued byD The record contains 
+no other indication that the Beneficiary worked atl I either directly or as a contractor. Because the 
+letter itself is not in the record, and the assertions quoted from that letter are not otherwise consistent with 
+the record, we cannot grant any evidentiary weight to quotations purporting to arise from that letter. 3 
+At best, the submitted materials indicate that the Beneficiary was involved in a high-profile project for a 
+prominent client. The evidence is not sufficiently com~ reliable to support the conclusion that the 
+Beneficiary performed in a leading or critical role forl__J or Dor tha0 has a distinguished 
+reputation. 
+3 The Petitioner submitted lengthy statements with the initial filing of the petition and in response to a request for evidence. 
+Neither of those statements include any mention of the letter identified as Exhibit G(l). It appears that the Petitioner may have 
+inadvertently refened to conespondence relating to an umelated petition. We note that the Beneficiary has co-authored 
+scholarly articles with another individual who shares the Beneficiary's surname, and who is identified as a manager atl I 
+4 
+The Petitioner has not shown that the Beneficiary satisfies this criterion. 
+Evidence that the alien has commanded a high sala,y or other significantly high 
+remuneration for services, in relation to others in the.field. 8 C.F.R. § 204.5(h)(3)(ix) 
+D paid the Beneficiary $104,690.96 in 2017. A printout from the online version of the Occupational 
+Outlook Handbook, published by the Bureau of Labor Statistics (BLS), shows that the median annual 
+wage for computer systems analysts was $88,740 in 2018. But the same printout shows that "the highest 
+[paid] 10 percent earned more than $142,220." A printout from US. News & World Report indicates 
+that, in 2017, 25% of computer systems analysts earned salaries higher than $112,540. This information 
+indicates that the Beneficiary's salary was above average, but not significantly high in relation to others 
+in the field. 
+The Petitioner also submitted an analysis by Glassdoor for "Computer Systems Analyst Salaries in 
+Illinois," where the Beneficiary was employed at the time. The analysis showed "Average Base Pay" of 
+$70,198 per year, in a salary range from $59,000 on the low end to $92,000 on the high end. The same 
+analysis, however, stated: "The national average salary for a Computer Systems Analyst is $70,197 in 
+the United States." Thus, Glassdoor cited the same average figure for Illinois and the United States as a 
+whole, and this figure is substantially lower than the national figure from the more authoritative BLS site, 
+as well as the US. News site. The Petitioner does not explain why the figures from Glassdoor should 
+carry more weight than two other sources that are broadly consistent with one another, but not with 
+Glassdoor. 
+The Petitioner has not established that the Beneficiary has commanded significantly high remuneration 
+in relation to others in the field. 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three of the ten criteria. As a result, we need not provide the type of final 
+merits determination referenced in Kazarian, 596 F.3d at 1119-20. Nevertheless, we advise that we 
+have reviewed the record in the aggregate, concluding that it does not support a finding that the 
+Petitioner has established the acclaim and recognition required for the classification sought. The 
+project cited as the Beneficiary's signature accomplishment took place in 2013, six years before the 
+filing of the petition, and this one event would not suffice to establish the sustained acclaim that the 
+statute demands. 
+For the reasons discussed above, the Petitioner has not demonstrated the Beneficiary's eligibility as 
+an individual of extraordinary ability. The appeal will be dismissed for the above stated reasons. 
+ORDER: The appeal is dismissed. 
+5 

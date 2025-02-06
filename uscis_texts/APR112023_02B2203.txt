@@ -1,0 +1,329 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 24844951 
+Appeal of Nebraska Service Center Decision Non-Precedent Decision of the 
+Administrative Appeals Office 
+Date: APR. 11, 2023 
+Form 1-140, Immigrant Petition for Alien Worker (Extraordinary Ability) 
+The Petitioner, a business data engineer, seeks classification as an individual of extraordinary ability 
+in business. Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. 
+§ 1153(b)(l)(A). This first preference classification makes immigrant visas available to those who 
+can demonstrate their extraordinary ability through sustained national or international acclaim and 
+whose achievements have been recognized in their field through extensive documentation . Id. 
+The Director of the Nebraska Service Center denied the petition, concluding that the record did not 
+establish that the beneficiary met any of the ten evidentiary criteria required to show eligibility for this 
+visa classification. The matter is now before us on appeal. 8 C.F.R. § 103.3. 
+The Petitioner bears the burden of proof to demonstrate eligibility by a preponderance of the evidence . 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc., 26 l&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+An individual is eligible for the extraordinary ability classification if they have extraordinary ability 
+in the sciences, arts, education, business, or athletics which has been demonstrated by sustained 
+national or international acclaim and their achievements have been recognized in the field through 
+extensive documentation; they seek to enter the United States to continue work in the area of 
+extraordinary ability; and their entry into the United States will substantially benefit prospectively the 
+United States. Section 203(b)(l)(A) of the Act. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate a one­
+time achievement (that is, a major, internationally recognized award). If that petitioner does not 
+submit this evidence, then they must provide documentation that meets at least three of the ten 
+categories listed at 8 C.F.R. § 204.5(h)(3)(i) -(x) (including items such as awards, published material 
+in certain media, and scholarly articles). The regulation at 8 C.F.R. § 204.5(h)(4) allows a petitioner 
+to submit comparable material if they are able to demonstrate that the standards at 8 C.F.R. 
+§ 204.5(h)(3)(i)-(x) do not readily apply to the individual's occupation. 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+The Petitioner is a business data engineer who intends to continue working in this field in the United 
+States. Because he has not indicated or established that he has won a major, internationally recognized 
+award, the Petitioner must satisfy at least three of the alternate regulatory criteria at 8 C.F.R. 
+§ 204.5(h)(3)(i)-(x). The Director denied the petition, finding that the Petitioner did not meet any of 
+the following criteria: 
+• (iv), Participation as a judge of the work of others; 
+• (v), Original contributions of major significance in the field; 
+• (viii), Leading or critical role for organizations with a distinguished reputation; and 
+• (ix), Commanded a high salary or other significantly high remuneration. 
+On appeal, the Petitioner continues to assert that he qualifies under all of these criteria, as well as 
+8 C.F.R. § 204.5(h)(3)(ii), membership in associations that require outstanding achievements, and 
+8 C.F.R. § 204.5(h)(3)(vi), authorship of scholarly articles in the field, which he had also claimed in 
+the underlying petition. Upon a review of all the evidence, the Petitioner has not established that he 
+meets at least three of the regulatory criteria, for the reasons below. 
+Documentation of the alien's membership in associations in the field for which 
+class[fication is sought, which require outstanding achievements of their members, as 
+judged by recognized national or international experts in their disciplines or .fields. 
+8 C.F.R. § 204.5(h)(3)(ii). 
+The Petitioner states that he qualifies for this criterion due to his membership in the following: 
+• Amazon Web Services (A WS) Certified Global Community; 
+• Association for Computing Machinery (ACM); 
+• Institute of Electrical and Electronics Engineers (IEEE); and 
+• Data Quality and Data Governance Forum on Linkedln. 
+The record does not establish that the Petitioner's membership in these organizations is based on 
+outstanding achievements in his field, as judged by recognized national or international experts in that 
+field. The Petitioner submitted a certificate stating that he successfully completed the requirements to 
+2 
+be an "AWS Certified Solutions Architect -Associate," as well as documentation indicating that this 
+certification requires the completion of certain coursework. 1 It is not apparent that being "AWS 
+certified" constitutes membership in an association. Instead, a message from an administrator of the 
+A WS Certified Global Community website indicates that they don't offer membership documentation 
+because "this community is a benefit of being certified." Another screen capture of the A WS 
+certification website indicates that the A WS Certified Global Community is a forum for certified 
+professionals to communicate with each other. This does not establish that the A WS Certified Global 
+Community is an association, or that being A WS certified constitutes membership in an organization. 
+Instead, it indicates that A WS certification is a professional credential. Furthermore, the record does 
+not indicate that completing the required coursework for A WS certification constitutes an outstanding 
+achievement in the field of data engineering or that this is judged by recognized national or 
+international experts in the field. 
+The certificate from ACM stating that the Petitioner has been admitted for "Professional Membership" 
+does not state the requirements for that membership, and the membership card for IEEE only states 
+that the Petitioner is a "Member" in the "Germany section" without stating membership requirements. 
+Finally, it is not apparent that a Linkedin forum such as the Data Quality and Data Governance forum 
+constitutes an association, and the record does not include documentation of any membership 
+requirements for that forum. Apart from the Petitioner's statements in his cover letters, there is no 
+indication that any of these memberships require outstanding achievements in the field. It is the 
+Petitioner's burden to submit sufficient relevant, probative, and credible evidence to demonstrate that 
+his claims are more likely than not to be true. Matter of Chawathe, 25 I&N Dec. at 375-376. The 
+Petitioner has not done so here. 
+The documentation in the record does not establish that any of the Petitioner's memberships are based 
+on outstanding achievements, as judged by nationally or internationally recognized experts in the 
+Petitioner's field. The Petitioner does not meet the requirements of this criterion. 
+Evidence of the alien's participation, either individually or on a panel, as a judge of 
+the work of others in the same or an allied.field of specification for which classification 
+is sought. 8 C.F.R. § 204.5(h)(3)(iv). 
+The Petitioner states that he qualifies for this criterion based on instances in which he judged the work 
+of his colleagues. The Director concluded that this was insufficient to establish that the Petitioner had 
+participated in a judge of the work of others. We will withdraw this finding. 
+The letter from A-G-, who worked with the Petitioner atl I a Russian grocery and retail chain, 
+states that the Petitioner interviewed, selected, and supervised a team of subordinate data engineers 
+and was part of a performance review panel in May 2019. The letter states that the panel was part of 
+the company's twice-yearly performance review process, and that its purpose was to evaluate the 
+workers' KPis, or key performance indicators. This letter provides sufficient information to establish 
+1 While the Petitioner's letter in response to the Director's request for evidence (RFE) states that A WS certification also 
+requires "significant experience" in certain professional fields, this is not supp01ied by the documentation provided. 
+Furthermore, professional experience in a field is not an outstanding achievement as judged by recognized national or 
+international experts in that field, and so does not establish eligibility for this criterion. 
+3 
+that the Petitioner participated as a judge of the work of others in his field on this occasion. 2 The 
+Petitioner meets the requirements of this criterion. 
+Evidence of the alien's original scient[fic, scholarly, artistic, athletic, or business­
+related contributions of major sign[ficance in the field. 8 C.F.R. § 204.5(h)(3)(v). 
+The Petitioner states that he qualifies for this criterion based on his work forl I and forl I a 
+division of the rail carrier _ I as well as his publications and a conference speaking 
+engagement. To satisfy this criterion, the Petitioner must establish that he made original contributions 
+to his field and that those contributions have been of major significance to the field. 
+At I I the Petitioner co-developed a corporate data warehousing project (DWH) which helped 
+the company implement digital analytics and business intelligence in its operations. While the letters 
+provided from the Petitioner's coworkers atl I indicate that DWH was helpful to the company, 
+they do not show that his contribution was original or had major significance to his field beyond I I See Amin v. Mayorkas, 24 F.4th 383, 393-394 (5th Cir. 2022) (finding that contributions 
+which were not adopted beyond a petitioner's employer do not meet this criterion). For example, the 
+initial letter from the Petitioner's supervisor atl I A-E-, states that the DWH, which was 
+developed in 2010, "madel lone of the first data-driven companies in the corporate market." 
+However, the petition does not contain documentation to support this assertion or to otherwise 
+demonstrate that the DWH was an original and significant contribution to the field of data engineering. 
+The Petitioner submits a screen capture of a 2018 article stating that I !developed a logistics 
+portal for its suppliers which would increase the efficiency of its supply chain, 3 as well as a Cnews 
+article about I I implementation of I I and documentation of a conference talk the 
+Petitioner's manager gave about DWH. None of this documentation mentions the Petitioner by name 
+or establishes what influence the Petitioner's work had on his field. The fact that some of the results 
+of the Petitioner's work were publicized does not indicate that they were of major significance to his 
+field beyond! I There is insufficient relevant, probative, and credible evidence in the record to 
+establish the originality or impact ofDWH. Matter ofChawathe, 25 I&N Dec. at 375-376. 
+Similarly, the record does not establish that the the 
+Petitioner developed at had an influence on the Petitioner's field. A support letter from a 
+coworker states that was used as the basis for various analytics projects at I I 
+including the which tracks and analyzes freight car unit 
+failures and has been highly successful for the organization. The Petitioner also submits a 2020 article 
+from Cnews which discusses howl lwas developed withl from 2017 to 
+2019. However, the article does not indicate what impact I I had beyond I I See Amin 
+v. Mayorkas, 24 F.4th at 393-394. 
+2 The Petitioner also submitted several other documents in support of this criterion, but because the letter from A-G-is 
+dispositive of this criterion, we need not analyze them here. See INSv. Bagamasbad, 429 U.S. 24, 25 (1976) ("courts and 
+agencies are not required to make findings on issues the decision of which is unnecessary to the results they reach"). 
+3 The screen capture is not a website printout and does not include the article's URL, which makes it difficult to verify and 
+diminishes its evidentiary value. 
+4 
+A second article stating that I I was under consideration for inclusion in the Russian Software 
+Registry does not establish the significance of this consideration. One expert quoted in the article 
+states that I I customers and partners could theoretically employ its business 
+intelligence platform when using its services, and that the organization could use its expertise to enter 
+into the domestic business intelligence market. However, another quoted expert states that companies 
+in different industries require individualized business intelligence solutions and a specialized platform 
+like lwould be of limited use to other organizations. A third expert expresses doubt that I I I would develop business intelligence solutions outside its own enterprises. While this article 
+speculates about the potential impact ofl I it does not establish what impact the Petitioner's work 
+has actually had on his field. Furthermore, the Petitioner is not mentioned in any of the articles 
+provided. This does not suffice to establish his eligibility for this criterion. 
+The Petitioner has not shown that his work forl I had significant impact on the field of 
+data engineering. All of the Petitioner's letters of support are from his coworkers, and while these 
+letters are probative, "[i]t is generally expected that one whose accomplishments have garnered 
+sustained national or international acclaim would have received recognition for his or her 
+accomplishments well beyond the circle of his or her personal and professional acquaintances." See 
+generally 2 USCIS Policy Manual F.2(8)(1), https://www.uscis.gov/policy-manual. The evidence 
+doesn't show that the Petitioner's contributions have been recognized beyond his immediate 
+professional circle. While his colleagues recognize the Petitioner as a highly capable worker, this does 
+not establish that his work has impacted his field in a major way. Id. at F.2, Appendix: Extraordinary 
+Ability Petitioners -First Step of Reviewing Evidence (stating that major significance to a field can 
+be shown through means such as widespread commentary, impact, or adoption of a petitioner's 
+contribution in that field). Finally, the various provided articles about the general importance of data 
+analytics to corporations do not mention the Petitioner or his work. The record does not document 
+how, specifically, DWH or I I influenced others in the field of data engineering. 
+The Petitioner also states he qualifies for this criterion based on articles he posted on the website 
+Medium. First, it is noted that the articles were not submitted with the evidence. Instead, the Petitioner 
+provided the URL of each article. The Petitioner bears the burden of proof in this proceeding. Matter 
+ofChawathe, 25 I&N Dec. at 375-76. Referencing a website where evidence can be found does not 
+meet this burden. While we have the discretion to verify the Petitioner's claims, we are under no 
+obligation to obtain supporting evidence on the Petitioner's behalf or on his request. The URLs 
+provided to not establish that the Petitioner's articles were original. 
+Secondly, the record includes readership statistics indicating that the Petitioner's articles have been 
+read between 66 and 526 times each. While the Petitioner states in his RFE response that "more than 
+2500 professionals" have read his articles, he arrives at this number by adding up the total number of 
+times all of his articles were viewed. Medium indicates that "Views are the number of visitors who 
+clicked on a story's page, while Reads tells you how many viewers have read the entire story (an 
+estimate)." Publication Stats Medium Help Center, https://help.medium.com/hc/en­
+us/articles/215793317-Publication-stats. The number of views of the Petitioner's articles therefore 
+does not reflect how many times the articles were read. It is also not apparent that each view came 
+from a different individual. The Petitioner does not provide evidence showing that any of these 
+readers cited his articles or were otherwise influenced by them, or that these readership figures 
+distinguish him from other writers in his field. This does not establish eligibility for this criterion. 
+5 
+We acknowledge that the Petitioner submitted examples of his postings on professional forums, as 
+well as a few instances in which others in his field asked for his advice and assistance. However, the 
+evidence does not demonstrate that the Petitioner's work in any of these instances was original or had 
+an impact beyond the individuals whose questions the Petitioner was answering. Finally, the copy of 
+the Petitioner's presentation at the 20221 !conference, his speaking invitation, and the general 
+information about that conference do not establish his eligibility. The fact that the Petitioner spoke at 
+a conference does not establish that his presentation was original or that it had an impact on his field. 
+The record does not demonstrate that the Petitioner's contributions to his field have been original or 
+majorly significant to that field. As such, he does not meet the requirements of this criterion. 
+Evidence of the alien's authorship of scholarly articles in the field, in professional or 
+major trade publications or other major media. 8 C.F.R. § 204.5(h)(3)(vi). 
+The Petitioner states that he qualifies for this criterion based on articles he published on the website 
+Medium and provides the URLs where the articles are located, as well as general information about 
+Medium's level of readership. However, since these articles are not included in the record, it is not 
+apparent that they are scholarly in nature. A scholarly article should be written for learned persons in 
+that field. See generally 2 USCIS Policy Manual at F.2, Appendix: Extraordinary Ability Petitioners 
+-First Step of Reviewing Evidence ( defining "learned persons" as persons with profound knowledge 
+or scholarship in a field). Furthermore, as noted above, the burden of proof in this proceeding is on 
+the Petitioner. Matter of Chawathe, 25 I&N Dec. at 375-376. The URLs provided do not establish 
+the substance or nature of the Petitioner's articles. While the Petitioner provided documentation 
+indicating that Medium is a widely-read website, the evidence does not demonstrate that his articles 
+were written for learned persons in his field. The record does not indicate that the Petitioner's articles 
+are scholarly in nature. 
+Additionally, while the Petitioner characterizes Medium as a professional or major trade publication, 
+he does not provide sufficient documentation of Medium's subject matter or intended audience to 
+support this claim. The fact that Medium is widely-read does not establish that it is a professional or 
+trade publication in the Petitioner's field. Id. The Petitioner does not meet the requirements of this 
+criterion. 
+Evidence that the alien has commanded a high salary or other significantly high 
+remuneration for services, in relation to others in the field. 8 C.F.R. § 204.5(h)(3)(ix). 
+The Petitioner states that he qualifies for this criterion based on the pay he received in Russia and 
+Germany from 2020 to 2021. The Director found that much of the evidence provided in support of 
+this criterion did not match the Petitioner's stated occupation or consisted of incomplete website 
+printouts that were insufficient to establish eligibility. On appeal, the Petitioner provides a letter with 
+explanations of his evidence. Upon review, the Petitioner does not qualify for this criterion. 
+In order to evaluate whether a petitioner has received significantly high remuneration for services, we 
+compare their pay to that of similar workers in that petitioner's field. See, e.g., Skokos v. DHS, 420 
+Fed.Appx. 712, 713-714 (9th Cir. 2011) (stating that a security consultant's salary should be compared 
+6 
+to that of other security consultants performing similar work). In this instance, much of the Petitioner's 
+wage evidence is too general to establish that he has received significantly high remuneration in 
+comparison to similar workers. 
+The record indicates that the Petitioner earned the following remuneration in 2020 and 2021: 
+• 2020 Russian earnings: 2,943,441 rubles; 
+• 2021 Russian earnings (January to March): 680,252 rubles; and 
+• 2021 German earnings (April to December): 84,286 euros. 
+In order to establish that his 2020 and 2021 Russian earnings were significantly high, the Petitioner 
+submits pay documentation, a cover letter, and screen captures from various websites. 4 One graph, 
+which the Petitioner states is from habr.com, documents the average salaries for all information 
+technology (IT) workers in various Russian cities in the second quarter of 2020. This graph indicates 
+that the average such salary inl I where the Petitioner worked, averaged 80,000 rubles for the 
+second quarter of 2020, or 320,000 rubles a year. However, this appears inclusive of all IT workers, 
+not solely business data engineers, and so does not establish his eligibility. Id. 
+Another graph the Petitioner states is from the same website indicates that the average 2020 wage for 
+backend developers inl I was 110,478 rubles a month, or 1,325,616 rubles a year. It also 
+states that the 75th percentile wage for these workers was 150,000 rubles a month, or 1.8 million rubles 
+a year, and the 90th percentile wage was 200,000 rubles a month, or 2.4 million rubles a year. This 
+document indicates that it is based on only 38 profiles, which limits its value in showing that the 
+Petitioner's wages are significantly high in relation to similar workers. Additionally, while we 
+acknowledge the Petitioner's statement that "backend developer" is the closest position he could find 
+to his own specialty of data engineering, he did not provide information such as this website's 
+definition of the duties of a backend developer or a list of relevant occupations that were surveyed. 
+This is insufficient to establish that the wages for backend developers, as stated on this website, reflect 
+wages of workers who are comparable to the Petitioner. 
+A third screen capture, which the Petitioner describes as government statistics provided by Rosstat, 
+surveys wages for different types of workers in the region ofl land states that the average 
+monthly wage for "high-level qualification specialists" in October 2021 was 45,559 rubles a month, 
+or 546,708 rubles a year. Since this wage survey includes workers in various industries unrelated to 
+the Petitioner's specialty, it does not establish that the Petitioner receives significantly high 
+remuneration compared to others in his field. 
+4 As noted by the Director, the Petitioner did not submit website printouts for this evidence. Instead, he submitted various 
+cropped screen captures of the websites he was citing, many of which were incorporated into his RFE response letter, and 
+separately listed the URLs where he states the information came from. On appeal, the Petitioner states that he submitted 
+the evidence in this fashion in order to print fewer pages and simplify his petition and that we should visit the URLs 
+provided in order to view the original information. However, we determine eligibility based on the evidence submitted 
+with the benefit request, which is contained in the record of proceeding. 8 C.F.R. §§ 103.2(b)(8); 103.2(b)(l6)(ii). It is 
+the Petitioner's burden to submit sufficient relevant, probative, and credible documentation to establish eligibility by a 
+preponderance of the evidence. Matter of Chawathe, 25 l&N Dec. at 375-76. Submitting separate URLs and cropped 
+screen captures diminishes the evidentiary value of the Petitioner's documentation here, because it is not apparent from 
+the record of proceeding that the information provided comes from the same place as the URLs. 
+7 
+Finally, we note that the Petitioner's pay evidence for his work in Russia consists of invoices for 
+services provided as a contractor. It is therefore not apparent that his remuneration is comparable to 
+the information in the websites he provided, which consisted of the wages of salaried workers. The 
+totality of the evidence does not establish that the Petitioner's pay in Russia qualified as significantly 
+high remuneration. 
+Regarding his wages in Germany, the Petitioner submits a screen capture of a wage survey of German 
+software engineers from the website of Robert Half, and highlights the fact that the average annual 
+wage for such workers is 64,250 euros. However, the survey is for the wages of all software engineers, 
+rather than data engineering specialists like the Petitioner. Further, the screen capture does not state 
+how many wages Robert Half surveyed to make its findings, which limits the data's evidentiary value. 
+The Petitioner also submits a table from the website iamexpat.com which states that the average IT 
+wage in Germany is 60,563 euros a year. This similarly does not include information about how many 
+workers were surveyed and applies to the Petitioner's industry as a whole rather than his position in 
+particular, and so does not establish eligibility. 
+The screen capture from Stepstone.de consists of a graph stating that the average wage for workers in 
+business intelligence, which the Petitioner states is closest to his specialty, is 62,178 euros a year. This 
+screen capture contains no information about how many workers were surveyed to arrive at this 
+number, the geographical location where these workers were employed, or their specific duties. 
+Notably, the graph also includes wages for workers in "databases," "IT architecture," and general "IT 
+consulting." It is not apparent from this documentation that the "business intelligence" wage reflects 
+that of workers who are comparable to the Petitioner. 
+The Petitioner has not established that he commanded a high salary or other significant remuneration 
+for his services in relation to others in his field. He does not meet the requirements of this criterion. 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three of the ten criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). Although the 
+Petitioner claims the Beneficiary's eligibility for an additional criterion on appeal, regarding leading 
+or critical roles for organizations with distinguished reputations at 8 C.F.R. § 204.5(h)(3)(viii), we 
+need not address this ground because the Beneficiary cannot fulfill the initial evidentiary requirement 
+of at least three criteria under 8 C.F.R. § 204.5(h)(3). We also need not provide the type of final merits 
+determination described in Kazarian, 596 F.3d at 1119-20. Accordingly, we will reserve those issues. 
+See INS v. Bagamasbad, 429 U.S. at 25 (1976); see also Matter of L-A-C-, 26 I&N Dec. 516, 526 n.7 
+(BIA 2015) (declining to reach alternative issues on appeal where an applicant is otherwise ineligible). 
+Nevertheless, we advise that we have reviewed the record in the aggregate, determining that it does 
+not support a conclusion that the Petitioner has established the acclaim and recognition required for 
+the classification sought. 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than for individuals progressing toward the top. U.S. Citizenship and 
+8 
+Immigration Services has long held that even athletes performing at the major league level do not 
+automatically meet the "extraordinary ability" standard. Matter of Price, 20 I&N Dec. 953, 954 
+(Assoc. Comm'r 1994). Here, the Petitioner has submitted documentation of his successful career 
+building data warehousing and business intelligence systems for various organizations, but has not 
+demonstrated that these achievements have translated into a level of recognition that constitutes 
+sustained national or international acclaim or demonstrates a "career of acclaimed work in the field" 
+as contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 
+203(b )(1 )(A) of the Act. Furthermore, the record does not otherwise demonstrate that the Petitioner 
+is one of the small percentage who has risen to the very top of the field of endeavor. Section 
+203(b)(l)(A) of the Act and 8 C.F.R. § 204.5(h)(2). 
+The Petitioner has not demonstrated his eligibility as an individual of extraordinary ability. The appeal 
+will be dismissed for the above stated reasons. 
+ORDER: The appeal is dismissed. 
+9 

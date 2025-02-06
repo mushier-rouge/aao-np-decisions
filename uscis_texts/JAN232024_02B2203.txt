@@ -1,0 +1,193 @@
+U.S. Citizenship 
+and Immigration 
+Services Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: JAN. 23, 2024 In Re: 29405673 
+Appeal of Nebraska Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a data scientist in the artificial intelligence /machine learning (Al/ML) field, seeks 
+classification under the employment-based, first-preference (EB-1) immigrant visa category as a 
+noncitizen with "extraordinary ability." See Immigration and Nationality Act (the Act) section 
+203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). Petitioners may obtain U.S. permanent residence in this 
+category if they demonstrate "sustained national or international acclaim" and recognition of their 
+achievements in their fields. Id. 
+The Director of the Nebraska Service Center denied the petition. The Director concluded that the 
+Petitioner satisfied two of ten initial evidentiary criteria -one less than needed to warrant a final merits 
+determination. On appeal, the Petitioner contends that, contrary to the Director's decision, he met two 
+other evidentiary requirements : original, scholarly contributions in his field; and published material 
+about him relating to his work in the field. 
+The Petitioner must demonstrate eligibility for the requested benefit by a preponderance of the 
+evidence. See Matter of Chawathe , 25 I&N Dec. 369, 375-76 (AAO 2010). Exercising de novo 
+appellate review, see Matter ofChristo 's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015), we agree with 
+the Director that the Petitioner submitted insufficient evidence of published materials about him 
+relating to his work in his field and original, scholarly contributions in the field. Nevertheless, we will 
+withdraw part of the Director's decision and remand the matter for entry of a new decision consistent 
+with the following analysis. 
+LAW 
+To qualify as a noncitizen with extraordinary ability, a petitioner must demonstrate that: 
+• They have "extraordinary ability in the sciences, arts, education , business, or athletics;" 
+• They seek to continue work in their field of expertise in the United States; and 
+• Their work would substantially benefit the country. 
+Section 203(b)(l)(A)(i)-(iii) of the Act. 
+The term "extraordinary ability" means a level of expertise commensurate with "one of that small 
+percentage who have risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). Evidence 
+of extraordinary ability must demonstrate a noncitizen's receipt of either "a major, international 
+recognized award" or satisfaction of at least three of ten lesser evidentiary standards. See 8 C.F.R. 
+§ 204.5(h)(3)(i-x). 1 
+If a petitioner meets either of the evidentiary requirements discussed above, USCIS must then make a 
+final merits determination, considering whether the record, as a whole, establishes sustained national 
+or international acclaim and recognized achievements placing the noncitizen among the small 
+percentage at the very top of their field. See Kazarian v. USCIS, 596 F.3d 1115, 1119-20 (9th Cir. 
+2010) (requiring a two-part analysis of extraordinary ability). 
+II. ANALYSIS 
+The record shows that the Petitioner, an Indian native and citizen, earned a doctorate in physics from 
+a U.S. university and then worked for the school as a post-doctoral researcher in the AI/ML field. In 
+that _____________role, he designed an algorithm to automate computations, collaborating with the I I 
+.__ __, and another U.S. university. He also worked as a data science 
+consultant with two U.S. start-up companies. At one firm, he built a health spending recommendation 
+system. At the other, he built data analytic tools to forecast customer volumes at car wash businesses 
+in different parts of the country. 
+The record also shows that, between 2017 and 2020, scientific and academic journals published five 
+research papers co-authored by the Petitioner. The papers primarily involve building theoretical 
+models to study "singlet fission," a photochemical process, in organic solar cells. 
+In January 2021, the Petitioner began working at a financial company as an applied AI/ML associate. 
+He builds ML models based on natural language processing theory to increase efficiency and reduce 
+risks in the operations of his employer's legal department. He also works on data governance and 
+quality issues. He stated that he intends to continue working in the United States in the AI/ML field, 
+specifically for financial organizations. 
+The Petitioner has neither claimed nor demonstrated his receipt of a major, international recognized 
+award. See 8 C.F.R. § 204.5(h)(3). He must therefore meet at least three of the ten preliminary 
+evidentiary requirements. See 8 C.F.R. § 204.5(h)(3)(i-x). 
+The Director found that the Petitioner submitted evidence of his authorship of scholarly articles in his 
+field and his performance in a leading or critical role for organizations with distinguished reputations. 
+See 8 C.F.R. § 204.5(h)(3)(vi), (viii). The Director, however, found that he did not meet the 
+evidentiary criteria at 8 C.F.R. § 204.5(h)(3)(iii), (v), or (ix). These criteria respectively require: 
+published materials about him relating to his work in his field; evidence of his original scholarly 
+1 If the regulatory standards do not readily apply to a petitioner's occupation, the noncitizen may submit comparable 
+evidence to establish their eligibility. 8 C.F.R. § 204.S(h)( 4). 
+2 
+contributions of major significance in the field; and proof of his commandment of a high salary in 
+relation to others in the field. 
+On appeal, the Petitioner does not challenge the Director's finding regarding his salary. He has 
+therefore effectively "waived" that issue. See, e.g., Matter ofO-R-E-, 28 I&N Dec. 330,336 n.5 (BIA 
+2021) (citing Matter ofR-A-M-, 25 I&N Dec. 657, 658 n.2 (BIA 2012)). We will therefore consider 
+only his contentions regarding original scholarly contributions of major significance and published 
+materials about him. 
+A. Published Materials 
+This criterion requires "[p ]ublished materials about the alien in professional or major trade 
+publications or other major media, relating to the alien's work in the field for which classification is 
+sought." 8 C.F.R. § 204.5(h)(3)(iii). USCIS should first determine whether published materials relate 
+to the noncitizen and their specific work in their field. 6 USCIS Policy Manual F.(2)(B)(l ), 
+www.uscis.gov/policy-manual. The Agency should then determine whether publications qualify as 
+professional, major trade, or major media publications. Id. 
+The Petitioner submitted copies of 12 research articles published in scientific journals from 2018 to 
+2021, citing his work on singlet fission. The Director concluded that the articles do not meet the 
+published materials criterion. The Director found that they do not mention the Petitioner by name and 
+"only cite to the petitioner's work in furtherance of the individual authors' own publications, research, 
+and conclusions." 
+As the Petitioner contends on appeal, however, six of the research articles go beyond citing his work 
+in footnotes. Rather, the bodies of these articles also refer to him by his last name and discuss his 
+work. For example, one article states: "This assignment needs to be revised in view of the 
+experimental work of [scientist #1] and the theoretical work of [the Petitioner] and [scientist #2]." The 
+same article states: "The experimental work of [scientist #1] on the signature of the (TT) state has 
+been verified independently by [the Petitioner] and [scientist #2]." 
+Under USCIS policy, 
+the person and the person's work need not be the only subject ofthe material; published 
+material that covers a broader topic but includes a substantial discussion ofthe person's 
+work in the field and mentions the person in connection to the work may be considered 
+material about the person relating to the person's work. 
+6 USCIS Policy Manual F.(2)(B)(l) (emphasis added). 
+Under USCIS policy, research articles citing, naming, and discussing a petitioner and their work could 
+meet the published articles criterion. But we agree with the Director that, in this case, the research 
+articles submitted by the Petitioner do not discuss him and his work substantially enough to meet this 
+criterion. The multi-page articles focus on the broader topic of singlet fission, containing -at most -
+one or two paragraphs about the Petitioner and his work. Thus, we affirm the Director's decision that 
+the Petitioner did not submit published materials meeting the criterion at 8 C.F.R. § 204.5(h)(3)(iii). 
+3 
+B. Original Contributions of Major Significance 
+To meet this requirement, a petitioner must submit "[e]vidence of the alien's original scientific, 
+scholarly, artistic, athletic, or business-related contributions of major significance in the field." 
+8 C.F.R. § 204.5(h)(3)(v). USCIS should first determine whether a noncitizen has made original 
+contributions in their field. 6 USCIS Policy Manual F.(2)(B)(l). If so, the Agency should then 
+determine whether any of them are of "major significance." Id. 
+Evidence of significance may include proof that a noncitizen's published research has provoked 
+widespread commentary from others in the field, or documentation that the research received a high 
+number of citations compared to others' work in the field. Id. Detailed letters from experts in a field 
+explaining the nature and significance of a noncitizen's contributions may also aid in evaluating 
+contributions' importance, "particularly when the record includes documentation corroborating the 
+claimed significance." Id. 
+As proof of original contributions of major significance, the Petitioner submitted letters from 11 other 
+scientists and copies of the 12 published articles citing his work on singlet fission. The Director found 
+that the letters do not demonstrate that the Petitioner's contributions have "major significance." The 
+Director stated that none of the letters specify the significance of the Petitioner's contributions or 
+analyze the impact they had on later work. The Director found that, while some letters discuss the 
+"potential" of the Petitioner's research, they do not describe his work as having major significance. 
+The Director stated: "It is clear from reading these letters, ... that the petitioner is a well-respected 
+member of the field but none of the authors point to specific original contributions that have major 
+significance in the field." 
+As the Petitioner contends, however, many of the letters describe his work on singlet fission as 
+important and discuss its implications. For example, a letter from a U.S. professor of electrical and 
+computer engineering states that the Petitioner's "path-breaking work made it possible to accurately 
+identify organic molecules that can be used in the fabrication of lower cost and highly efficient solar 
+cell technology." Also, a U.S. physics professor stated: 
+Due to his remarkable original contribution to this field, [the Petitioner] has gained 
+widespread popularity and international acclaim in the scientific community, with 
+~ublications such as [thell I 
+L___J featuring him and his works. In addition, as an expert in the field, he has 
+presented his findings in numerous conferences, both in the U.S. and outside. 
+As the Petitioner farther argues, the Director overlooked the published articles citing the Petitioner 
+and his research. Six of the 12 articles name the Petitioner in their bodies and explain how he used 
+cutting-edge, numeric computations to disprove a long-held belief regarding singlet fission. Letters 
+from other scientists state that this discovery could lead to cheaper and more efficient solar energy 
+technology. Thus, contrary to the Director's decision and consistent with 8 C.F.R. § 204.5(h)(3)(iii), 
+we find that a preponderance of the evidence demonstrates the Petitioner's original, scientific 
+contributions of major significance. 
+Nevertheless, the Petitioner's contributions do not appear to meet the criterion because they are not 
+"in the field [of extraordinary ability]." See 8 C.F.R. § 204.5(h)(3)(v). To qualify for the EB-1 
+4 
+category, a noncitizen must "seek[] to enter the United States to continue work in the area of 
+extraordinary ability." Section 203(b)(l)(A)(ii) of the Act. In his most recent jobs, the Petitioner has 
+worked in the AI/ML field. He also stated his intent to continue working in the United States in that 
+field, and he himself identifies his area of extraordinary ability as AI/ML. Thus, for purposes of 
+adjudicating this petition, his applicable field of extraordinary ability is AI/ML. 
+The Petitioner's original, scientific contributions, however, do not mention AI/ML. Rather, the 
+research articles involve singlet fission in solar cells. Thus, the Petitioner's research appears to relate 
+to photovoltaic cells or computational physics. He has not explained whether or how his research 
+relates to AI/ML, his field of extraordinary ability. Further, although most ofthe letters from the other 
+scientists mention the Petitioner's more recent work in AI/ML, the letters focus on his work in singlet 
+fission and only briefly mention his activities in his field of extraordinary ability. 
+Several federal courts have ruled that EB-1 petitioners must demonstrate extraordinary ability in the 
+fields in which they would work, distinguishing playing a sport from coaching that sport. See, e.g., 
+Mussarova v. Garland, 562 F. Supp. 3d 837, 844-45 (C.D. Cal. 2022); Integrity Gymnastics & Pure 
+Power Cheerleading, LLC v. USCIS, 131 F. Supp. 3d 721, 731 (S.D. Ohio 2015); Lee v. Ziglar, 237 F. 
+Supp. 2d 914, 918 (N.D. Ill. 2002). Similarly, the Petitioner's work in photovoltaic cells or 
+computational physics is not in AI/ML and does not even appear connected to his field ofextraordinary 
+ability. 
+Because our proposed denial ground under this criterion differs from the Director's, we will withdraw 
+the Director's findings. 
+C. Authorship of Scholarly Articles 
+Similar to the two evidentiary criteria we have just reviewed, "evidence of the alien's authorship of 
+scholarly articles" must also be "in the field [of extraordinary ability]." 8 C.F.R. § 204.5(h)(3)(vi). 
+The Director found that the Petitioner's five published research articles meet this criterion. But, as 
+previously discussed, the Petitioner has not demonstrated that his articles relate to AI/ML, his field of 
+extraordinary ability. Thus, we will also withdraw the Director's findings under this criterion. 
+The Petitioner did not receive prior notice ofour proposed denial grounds under the evidentiary criteria 
+at 8 C.F.R. § 204.5(v) or (vi). Nor did he receive an opportunity to rebut our reasoning . We will 
+therefore remand the matter. 
+On remand, the Director should notify the Petitioner of our proposed denial grounds under the two 
+evidentiary criteria. The notice should explain that he does not appear to have submitted published 
+materials or evidence of original, scientific contributions in AI/ML, his field of extraordinary ability. 
+If supported by the record, the Director may also inform the Petitioner of any other potential denial 
+grounds. The Director, however, must afford him a reasonable opportunity to respond to all issues 
+raised on remand. Upon receipt of a timely response, the Director should review the entire record and 
+enter a new decision. 
+5 
+III. CONCLUSION 
+As the Director found, the Petitioner has not submitted 
+published materials that substantially discuss 
+him and his work. Also, because his evidence appears to fall outside his field of extraordinary ability, 
+he has not provided proof of original contributions of major significance or authorship of scholarly 
+articles. 
+ORDER: The Director's decision is withdrawn in part. The matter is remanded for the entry of 
+a new decision consistent with the foregoing analysis. 
+6 

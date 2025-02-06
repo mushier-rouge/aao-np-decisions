@@ -1,0 +1,261 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 10750822 
+Appeal of Nebraska Service Center Decision Non-Precedent Decision of the 
+Administrative Appeals Office 
+Date: SEPT. 24, 2020 
+Form 1-140, Immigrant Petition for Alien Worker (Extraordinary Ability) 
+The Petitioner seeks classification as an alien of extraordinary ability in computer science. See 
+Immigration and Nationality Act (the Act) section 203(b)(l)(A) , 8 U.S.C. § 1153(b)(l)(A). This first 
+preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. 
+The Director of the Nebraska Service Center denied the petition, concluding that the Petitioner had 
+satisfied only two of the initial evidentiary criteria, of which he must meet at least three. 
+In these proceedings , it is the Petitioner's burden to establish eligibility for the requested benefit. See 
+Section 291 of the Act, 8 U.S.C. § 1361. Upon de nova review, we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l)(A) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation , 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstra te recognition 
+of his or her achievements in the field through a one-time achievement (that is, a major, internationally 
+recognized award). If that petitioner does not submit this evidence, then he or she must provide 
+sufficient qualifying documentation that meets at least three of the ten criteria listed at 8 C.F .R. 
+§ 204.5(h)(3)(i) -(x) (including items such as awards, published material in certain media, and 
+scholarly articles). 
+Where a petitioner meets these initial evidence requirements , we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010). 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+The Petitioner indicated employment as a principal platform engineer with I O , , I 
+~ IN ew York. 1 Because the Petitioner has not claimed or established that he has received a 
+major, internationally recognized award, he must satisfy at least three of the alternate regulatory 
+criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). 
+In denying the petition, the Director determirled that the Petitioner fulfilled two of the initial 
+evidentiary criteria, judging at 8 C.F.R. § 204.5(h)(3)(iv) and scholarly articles at 8 C.F.R. 
+§ 204.5(h)(3)(vi). The record reflects that the Petitioner reviewed papers for journals and at 
+conferences. In addition, he authored scholarly articles in professional publications. Accordingly, we 
+agree with the Director that the Petitioner fulfilled the judging and scholarly articles criteria. 
+On appeal, the Petitioner asserts that he meets three additional criteria, discussed below. After 
+reviewing all of the evidence in the record, we conclude that the record does not support a 
+determirlation that the Petitioner satisfies the requirements of at least three criteria. 
+Evidence of the alien's original scientific, scholarly, artistic, athletic, or business­
+related contributions of major significance in the field. 8 C.F.R. § 204.5(h)(3)(v). 
+In order to satisfy the regulation at 8 C.F.R. § 204.5(h)(3)(v), a petitioner must establish that not only 
+has he made original contributions but that they have been of major significance in the field.2 For 
+example, a petitioner may show that the contributions have been widely implemented throughout the 
+field, have remarkably impacted or influenced the field, or have otherwise risen to a level of major 
+significance in the field. 
+1 On appeal, the Petitioner does not indicate his current employer. 
+2 See USCIS Policy Memorandum PM 602-0005.1, Evaluation of Evidence Submitted with Certain Form I-140 Petitions; 
+Revisions to the Adjudicator 's Field Manual (AFM) Chapter 22.2, AFM Update ADI 1-14 8-9 (Dec. 22, 2010), 
+https://www.uscis.gov/policymanual/HTML/PolicyManual.html (finding that although funded and published work may 
+be "original," this fact alone is not sufficient to establish that the work is of major significance). 
+2 
+The Petitioner ar,ues that his academic-related awards from I l 
+scholarships from I University, and employment awards froml land I I show eligibility for this criterion. Although he provided photographs of the academic 
+awards from 0, the Petitioner did not support the record regarding his scholarships and employment 
+awards. Further, the Petitioner did not demonstrate how receiving academic awards from a higher 
+education institution reflects the significant nature of his work in the field. While he received the 
+academic awards for his papers and researc1, the(etitioner did not establish the impact or influence 
+of his papers or research in the field beyond 3 
+In addition, the Petitioner contends that he "served as a manuscript reviewer for a variety of 
+professional journals and conference organizers where he evaluates the merits to papers prior to 
+publication." As previously discussed, we have already considered the Petitioner's manuscript 
+reviews under the judging criterion at 8 C.F.R. § 204.5(h)(3)(iv). Moreover, the Petitioner did not 
+establish how performing paper reviews for journals or at conferences rises to a level of major 
+significance in the field. Here, the Petitioner did not show, for example, how he significantly impacted 
+or influenced the field in a major way through his paper reviews beyond the individual journals and 
+conferences. 
+The Petitioner also argues that "[h ]is majorf original contributions have lead [sic] to prestiwous journal 
+publications in Intelligent Data Analysis, I 2017 Conference,! Science and 
+Technology and many others." Again, we considered the Petitioner's publication history under the 
+scholarly articles criterion at 8 C.F.R. § 204.5(h)(3)(vi). Moreover, the Petitioner did not demonstrate 
+that publication of articles in highly ranked journals or presentation of work at distinguished 
+conferences automatically establishes original contributions of major significance. In addition, a 
+publication that bears a high ranking or impact factor reflects the publication's overall citation rate; it 
+does not show an author's influence or the impact ofresearch in the field or that every article published 
+in a highly ranked journal or presented at a distinguished conference automatically indicates a 
+contribution of major significance. Publications and presentations are not sufficient under 8 C.F.R. 
+§ 204.5(h)(3)(v) absent evidence that they were of "major significance." See Kazarian v. USCIS, 580 
+F.3d 1030, 1036 (9th Cir. 2009), ajf'd in part, 596 F.3d 1115. 
+Further, the Petitioner claims that "his papers are highly cited." The record reflects that the Petitioner 
+submitted citatory evidence from Google Scholar showing that four of his papers received three, two, 
+two, and one citation(s), respectively, with his remaining six papers garnering no citations. 
+Generally, citations can serve as an indication that the field has taken interest in a petitioner's research 
+or written work. However, the Petitioner has not sufficiently shown that the few citations to his work 
+are commensurate with contributions of major significance. Here, the Petitioner did not articulate the 
+significance or relevance of the citations to his articles or conference papers. For example, he did not 
+demonstrate that these citations are unusually high in his field or how they compare to other articles 
+that the field views as having been majorly significant. Although his citations indicate that some in 
+3 See USCIS Policy Memorandum PM 602-0005.1, supra, at 8-9; see also Visinscaia v. Beers, 4 F. Supp. 3d 126, 134-35 
+(D.D.C. 2013) (upholding a finding that a ballroom dancer had not met this criterion because she did not corroborate her 
+impact in the field as a whole). 
+3 
+the field have referenced his work, the Petitioner did not establish that his citation numbers to his work 
+meet the threshold of major significance. 4 
+Moreover, the Petitioner submitted seven recommendation letters that generally recount his research 
+and findings and indicate their publications in journals or presentation at conferences. Although they 
+reflect the novelty of his work, they do not sufficiently articulate how his research and findings have 
+been considered of such importance and how their impact on the field rises to the level of major 
+significance required by this criterion. For instance,! I professor ate=] indicated 
+that he collaborated for three years with the Petitioner on a project funded by the National Science 
+Foundation that "led to four publications, including one paper being nominated for a major conference 
+award."5 Here,I ldid not elaborate and explain the significance of the funding research in 
+the field beyond publication and presentation. Again, publication or presentation alone is not 
+sufficient under 8 C.F.R. § 204.5(h)(3)(v). See Kazarian v. USCIS, 580 F.3d at 1036, aff'd in part, 
+596 F.3d at 1115. 
+Furthermore, the letters indicate the Petitioner's professional accomplishments while interning or 
+working at various entities without showing the impact or influence in the field beyond his employers 
+or institutions. For example, I O l senior program manager ofl I claimed that 
+during the Petitioner's internship, he "greatly helped to build [a] protxpe for two patents" but did not 
+discuss the effect, if any, the patents had in the field.I J CEO ofl I, stated 
+that "as part of his Curricular Practical Training (CPT), he worked on graph databases, and built near­
+real time monitorin s stem ... , which has been pushed to production." Here, the letter does not detail 
+how his work at has been recognized in the overall field as a contribution of major 
+significance. Similarly, , assistant professor atl I ~---------------~ indicated that "[i]n our lab and classes, we study [the 
+Petitioner's] approach on finf T impo~71 news articles . . . and have played an imporullt guiding 
+role in my research in lab at ' Although the letter reflects application of the Petitioner's 
+approach in a lab and classes at it does not demonstrate, for example, that the approach is 
+widely studied or utilized throughout the field consistent with a contribution of major significance. 
+Here, the Petitioner's letters do not contain specific, detailed information explaining the unusual 
+influence or high impact his research or work has had in the overall field. Letters that specifically 
+articulate how a petitioner's contributions are of major significance to the field and its impact on 
+subsequent work add value. 6 On the other hand, letters that lack specifics and use hyperbolic language 
+do not add value, and are not considered to be probative evidence that may form the basis for meeting 
+this criterion. 7 Moreover, USCIS need not accept primarily conclusory statements. 1756, Inc. v. The 
+US. Att'y Gen., 745 F. Supp. 9, 15 (D.C. Dist. 1990). 
+4 See USCIS Policy Memorandum PM 602-0005.1, supra, at 8-9 (providing an example that peer-reviewed articles in 
+scholarly journals that have provoked widespread commentary or received notice from others working in the field, or 
+entries (particularly a goodly number) in a citation index which cite the individual's work as authmitative in the field, may 
+be probative of the significance of the person's contributions to the field of endeavor). 
+5 Although we discuss a sampling ofletters, we have reviewed and considered each one. 
+6 See USCIS Policy Memorandum PM 602-0005.1, supra, at 8-9. 
+7 Id. at 9. See also Kazarian, 580 F.3d at 1036, ajf'd in part, 596 F.3d at 1115 (holding that letters that repeat the regulatory 
+language but do not explain how an individual's contributions have already influenced the field are insufficient to establish 
+original contributions of major significance in the field). 
+4 
+For the reasons discussed above, considered both individually and collectively, the Petitioner has not 
+shown that he has made original contributions of major significance in the field. 
+Evidence that the alien has performed in a leading or critical role.for organizations or 
+establishments that have a distinguished reputation. 8 C.F.R. § 204.5(h)(3)(viii). 
+As it relates to a leading role, the evidence must establish that the alien is or was a leader. A title, with 
+appropriate matching duties, can help to establish if a role is or was, in fact, leading. 8 Regarding a 
+critical role, the evidence must demonstrate that an alien contributed in a way that is of significant 
+importance to the outcome of the organization or establishment's activities. It is not the title of a 
+petitioner's role, but rather the performance in the role that determines whether the role is or was 
+critical. 9 
+The Petitioner indicates eligibility f~ criterion based on his role atD and submits a letter from 
+I I former co-worker al__J 10 Specifically, the Petitioner asserts that he "built a variety 
+of advanced computing platforms that reduced costs and increased revenues to such a high degree that 
+the company was purchased byl I in 2018 for I I" However,! ldid not 
+make the claim that the Petitioner's role and contributions toLJresulted inl Is purchase 
+ofc=J 
+Further,! I stated that the Petitioner "played a critical role" and indicated that he worked with 
+the Petitioner for the "incubation team" as his delivery lead. I Is letter does not show that 
+the Petitioner held a leadership position, nor did the Petitioner demonstrate where he placed in the 
+hierarchy otc=J as a member of the "incubation team." The Petitioner, for example, did not compare 
+his role to the other f ositiors within D As such, the Petitioner did not establish that he performed 
+in a leading role for 
+In addition, although! I described the Petitioner's varus Jrojects and indicated their resulfa, 
+he did not elaborate and eXJ)lain how they were essential to s outcomes or activities. 11 For 
+instance, whilel !stated that " t his a roach has cut down the operational cost by around 
+90%," and "[t]his approach on usin reduced the deployment time from on1 day t 
+I Ito only 30 minutes in~ __ __,," he did not articulate how they crucially impacted s 
+functioning or were vital to its operation. 
+Moreover.I !indicated various projects that were either put aside or never fully came to 
+fruition. For example, "[a]lthough this project did not go [into] production, [the Petitioner] has built 
+g Sec USCIS Policy Memorandum PM-602-0005. I, supra, at I 0. 
+9 Id. 
+'0 The Petitioner argues that "[ a ]t page four of the Director's decision, it is stated that 'a letter from I I and an 
+article published by I I.' could not be located. However, these documents were submitted to the [Director] in 
+response to the ... notice of intent to deny." The record does not reflect that the Petitioner provided this document to the 
+Director. 
+11 See USCIS Policy Memorandum PM 602-0005.1, supra, at 10 (stating that letters from individuals with personal 
+knowledge of the significance of a petitioner's leading or critical role can be particularly helpful in making this 
+determination as long as the letters contain detailed and probative information that specifically addresses how the role for 
+the organization or establishment was leading or critical). 
+5 
+a beta version quickly with a single-agent to showcase the idea to senior management and get their 
+approval for the project," and "[t]his architecture would save some cost further, however, due to the 
+amount of effort that would take to go serverless, it has been set aside for later in the road map." Here, 
+the Petitioner did not show how projects that were never implemented influence~ Is business 
+activities in a critical way. I I also claimed that the Petitioner "saved 156,000 USD, which 
+corresponds to 90% of annual saving (2018) by our team." However,! I did not explain the 
+importance or significance of the team's savings to C=1 s operation. 
+Accordingly, the Petitioner did not demonstrate that he performed in a leading or critical role fore=) 
+Evidence that the alien has commanded a high salary or other sign[ficantly high 
+remuneration for services, in relation to others in the.field. 8 C.F.R. § 204.5(h)(3)(ix). 
+In order to meet this criterion, a petitioner must demonstrate that his salary or remuneration is high 
+relative to the compensation paid to others working in the field. 12 The Petitioner claims eligibility for 
+this criterion based on his salary withD as a principal platform engineer. On appeal, the Petitioner 
+submits a screenshot from flcdatacenter.com regarding level 1 to 4 wages for computer programmers 
+in the .__ ___ ~ ________ __.Region ofCalifornia."13 According to the Petition
+1er's jolb 
+offer letter, paystubs, and tax documentation previously submitted, both his address and s 
+address were located in the New York area.14 Here, the Petitioner does not explain how wage data 
+from California relates to New York.15 
+Moreover, the Petitioner compares the salaries of computer programmers to his salary as a principal 
+platform engineer. He did not establish that he commands a high salary in relation to other principal 
+platform engineers. Both precedent and case law support this application of 8 C.F.R. § 204.5(h)(3)(ix). 
+See Matter of Price, 20 I&N Dec. 953,954 (Assoc. Comm'r 1994) (considering a professional golfer's 
+earnings versus other PGA Tour golfers); see also Skokos v. US. Dept. of Homeland Sec., 420 F. 
+App'x 712, 713-14 (9th Cir. 2011) (finding salaiy information for those performing lesser duties is 
+not a comparison to others in the field); Crimson v. INS, 934 F. Supp. 965, 968 (N.D. Ill. 1996) 
+( considering NHL enforcer's salary versus other NHL enforcers); Muni v. INS, 891 F. Supp. 440, 444-
+45 (N. D. Ill. 1995) (comparing salary of NHL defensive player to salary of other NHL defensemen). 
+In addition, Level 1 wage relates to entry level employees, while Level 4 wages relate to fully 
+competent employees.16 The Petitioner did not show that he commands a high salary in relation to 
+other principal platf mm engineers rather than to the average salaries of fully competent computer 
+programmers. 
+12 See USCIS Policy Memorandum PM-602-0005.1, supra, at 11. 
+13 The Petitioner contends that "[a]t page four of the Director's decision, it is stated that 'the record lacks evidence 
+comparing your earnings to others in the field. However, these documents were submitted to the [Director's] ... notice 
+of intent to deny." The record does not reflect that the Petitioner provided this document to the Director. 
+14 According to screenshots from I lsubmittedJ !entered an agreement to purchasec=] after the filing 
+of the petition. 
+15 Id. (instructing that the burden is on the petitioner to provide appropriate evidence and examples may include, but are 
+not limited to, geographical or position-appropriate compensation surveys and organizational justifications to pay above 
+the compensation data). 
+16 See https://www.flcdatacenter.com/download/NPWHC_Guidance_Revised_11_2009.pdf~ accessed on September 21, 
+2020. 
+6 
+For these reasons, the Petitioner did not establish that he fulfills this criterion. 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three of the ten criteria. As a result, we need not provide the type of final 
+merits determination referenced in Kazarian, 596 F.3d at 1119-20. Nevertheless, we advise that we 
+have reviewed the record in the aggregate, concluding that it does not support a conclusion that the 
+Petitioner has established the acclaim and recognition required for the classification sought. 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than for individuals progressing toward the top. USCIS has long held 
+that even athletes performing at the major league level do not automatically meet the "extraordinary 
+ability" standard. Matter of Price, 20 I&N Dec. 953,954 (Assoc. Comm'r 1994). Here, the Petitioner 
+has not shown that the significance of his work is indicative of the required sustained national or 
+international acclaim or that it is consistent with a "career of acclaimed work in the field" as 
+contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 203(b )(l)(A) 
+of the Act. Moreover, the record does not otherwise demonstrate that the Petitioner has garnered 
+national or international acclaim in the field, and he is one of the small percentage who has risen to 
+the very top of the field of endeavor. See section 203(b)(l)(A) of the Act and 8 C.F.R. § 204.5(h)(2). 
+Although the Petitioner has reviewed manuscripts and authored scholarly articles, the record does not 
+contain sufficient evidence establishing that he is among the upper echelon in his field. 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an individual of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+7 

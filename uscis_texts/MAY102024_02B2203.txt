@@ -1,0 +1,144 @@
+U.S. Citizenship 
+and Immigration 
+Services Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: MAY 10, 2024 In Re: 31125065 
+Appeal of Texas Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a data center/network engineer in the pharmaceutical industry, requests classification 
+under the employment-based, first-preference (EB-1) immigrant visa category as a noncitizen with 
+"extraordinary ability." See Immigration and Nationality Act (the Act) section 203(b)(l)(A) , 8 U.S.C. 
+§ ll 53(b)(1)(A). Petitioners in this category must demonstrate "sustained national or international 
+acclaim" and extensively document recognition of their achievements in their fields. Id. 
+The Director of the Texas Service Center denied the petition. The Director concluded that the 
+Petitioner met two of ten initial evidentiary criteria -one less than required for a final merits 
+determination . On appeal, the Petitioner contends that, in finding insufficient evidence of his 
+commandment of a high salary and original contributions in his field, the Director misapplied law to 
+facts. 
+The Petitioner bears the burden of demonstrating eligibility for the requested benefit by a 
+preponderance of the evidence. Matter of Chawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). 
+Exercising de novo appellate review, see Matter of Christo 's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 
+2015), we conclude that the Petitioner met a third requisite evidentiary requirement by submitting 
+evidence of his commandment of a high salary in his field. We will therefore withdraw the Director's 
+contrary decision and remand the matter for a final merits determination and entry of a new decision 
+consistent with the following analysis. 1 
+I. LAW 
+To qualify as a noncitizen with extraordinary ability, a petitioner must demonstrate that: 
+• They have "extraordinary ability in the sciences, arts, education, business, or athletics;" 
+• They seek to continue work in their field of expertise in the United States; and 
+• Their work would substantially benefit the country. 
+1 After the appeal's filing, the Petitioner submitted additional materials regarding this matter. U.S. Citizenship and 
+Immigration Services (USCIS) assigned a separate receipt number to the second filing. We will 
+consider the second filing in a separate decision. 
+Section 203(b)(l)(A)(i)-(iii) of the Act. 
+The term "extraordinary ability" means a level of expertise commensurate with "one of that small 
+percentage who have risen to the very top ofthe field of endeavor." 8 C.F.R. § 204.5(h)(2). Evidence 
+of extraordinary ability must demonstrate a noncitizen's receipt of either "a major, international 
+recognized award" or satisfaction of at least three of ten lesser evidentiary standards. 8 C.F.R. 
+§ 204.5(h)(3)(i-x).2 
+If a petitioner meets either of the evidentiary requirements above, USCIS must make a final merits 
+determination as to whether the record, as a whole, establishes their sustained national or international 
+acclaim and recognized achievements placing them among the small percentage at their field's very 
+top. See Kazarian v. USCIS, 596 F.3d 1115, 1119-20 (9th Cir. 2010) (requiring a two-part analysis of 
+extraordinary ability); see generally 6 USCIS Policy Manual F.(2)(8), www.uscis.gov/policy-manual. 
+II. ANALYSIS 
+The record shows that the Petitioner, an Indian native and citizen, earned a bachelor of technology 
+degree in computer science and engineering in his home country. He came to the United States and 
+earned a master of science degree in computer science and an executive master of science degree in 
+information systems security. He has worked in the United States as a data center/network engineer 
+for more than six years, developing expertise in network security in the pharmaceutical industry. 
+The Petitioner states that he wants to continue working as a data center/network engineer in the United 
+States. Also, he states that, through research, he plans to integrate artificial intelligence (AI) into the 
+fields of cybersecurity and the Internet of Things. He served as lead author on a paper proposing to 
+use AI in combination with watermarking to enhance and monitor security of medical data passing 
+through networks. 
+The Petitioner does not claim, nor does the record indicate, his receipt of a major, international award. 
+He must therefore demonstrate his satisfaction of at least three of 10 initial evidentiary criteria. See 
+8 C.F.R. § 204.5(h)(3)(i-x) 
+The Director found that the Petitioner met two initial evidentiary criteria: authorship of scholarly 
+articles in his field; and performance in a critical role for an organization with a distinguished 
+reputation. See 8 C.F.R. § 204.5(h)(3)(vi), (vii). The Petitioner contends that he also submitted proof 
+of his original contributions of major significance and commandment of a high salary in his field. See 
+8 C.F.R. § 204.5(h)(3)(v), (ix). 
+2 If the standards do not readily apply to a petitioner's occupation, the noncitizen may submit comparable evidence to 
+establish eligibility. 8 C.F.R. § 204.5(h)(4). 
+2 
+A. Commandment of a High Salary 
+This criterion requires "[ e ]vidence that the [ noncitizen] has commanded a high salary or other 
+significantly high remuneration for services, in relation to others in the field." 8 C.F.R. 
+§ 204.5(h)(3)(ix). 
+The Petitioner submitted copies of payroll documents showing that, from January 2023 to September 
+2023, his annual salary rate rose from $91,140 to $126,880. He also submitted copies of two 2023 
+letters offering him jobs as a data center/network engineer with annual salaries of $148,500 and 
+$150,904. 
+A credible job offer showing prospective wages may establish a petitioner's ability to command a high 
+salary in their field. 6 USCIS Policy Manual F.(2)(B)(l). The record indicates no reason to doubt the 
+credibility of the Petitioner's job offers. He has therefore demonstrated an ability to command an 
+annual salary of $150,904 in his field. 
+Evidence as to whether a petitioner's salary is high relative to others in their field may include 
+compensation surveys, including materials from the U.S. Department of Labor (DOL). 6 USCIS 
+Policy Manual F.(2)(8)(1). The Petitioner's evidence included information from the DOL-sponsored 
+Occupational Information Network (O*NET), an online database. See O*NET Res. Ctr., "About 
+O*NET," www.onetcenter.org/ overview.html. The O*NET information indicates that, as of 2022, 
+the top 10% of "network and computer systems administrators" in the Petitioner's metropolitan work 
+area annually earned at least $139,230. The information also shows that the top 10% of these workers 
+in that state and the United States annually earned at least $136,850 and $140,430, respectively. Thus, 
+the O*NET evidence shows that the Petitioner commanded an annual salary within the top l 0% of 
+network and computer systems administrators in his metropolitan work area, state, and the United 
+States. 
+The Director, however, found the evidence insufficient to show the Petitioner's commandment of a 
+high salary relative to others in his field. The Director stated: 
+The regulation requires the [Petitioner] to offer evidence showing that he has 
+commanded a high salary or significantly high remuneration relative to others in the 
+field, rather than being in the "top 10% of earners," "90th percentile," or average salary 
+for his experience. As such, the beneficiary has not shown that his annual salary 
+constitute[ s] "a high salary" or "other significantly high remuneration for services" as 
+compared to other Data Center and Network Engineers. 
+The Director appears to fault the Petitioner for comparing his compensation to that of "network and 
+computer systems administrators," rather than more specifically to that of data center/network 
+engineers. USCIS guidance states that compensation surveys should be "geographical or position­
+appropriate." 6 USCIS Policy Manual 6(F)(2)(B)(l) (emphasis added). The Petitioner's O*NET 
+evidence satisfies the guidance. The O*NET information is geographically appropriate, as it 
+specifically covers the Petitioner's metropolitan work area. Also, the O*NET information indicates 
+that his duties as a data center/network engineer fall within those covered under "network and 
+computer systems administrators." Further, the Petitioner submitted articles indicating that network 
+and computer systems administrators in high-tech fields earn more than those, like the Petitioner, in 
+3 
+the pharmaceutical industry and that his metropolitan work area has attracted many high-tech 
+businesses. Thus, the O*NET compensation information for network and computer systems 
+administrators in his metropolitan work area likely exceeds the compensation of data center/network 
+engineers in the pharmaceutical industry in his area. The Petitioner has therefore sufficiently 
+demonstrated his commandment of a high salary relative to others in his field. 
+B. Original Contributions of Major Significance 
+The Petitioner contends that he satisfied another 
+criterion by submitting evidence of his original 
+contributions of major significance in his field. See 8 C.F.R. § 204.5(h)(3)(v) . But he has already 
+earned a final merits determination by meeting a requisite third evidentiary requirement. Thus, we 
+need not reach his appellate argument regarding evidence of his purported original contributions to his 
+field. See INS v. Bagamasbad, 429 U.S. 24, 25 (1976) (stating that agencies need not make "purely 
+advisory findings" on issues unnecessary to their decisions); see also Matter ofL-A-C-, 26 l&N Dec. 
+516, 526 n.7 (BIA 2015) ( declining to reach alternate issues on appeal where an applicant was 
+otherwise ineligible). 
+C. Final Merits Determination 
+Because the Director found that the Petitioner met less than three evidentiary criteria, the Director did 
+not conduct a final merits determination. Rather than make this determination in 
+the first instance, we 
+will remand the matter. 
+On remand, the Director should conduct a final merits determination. 
+To establish eligibility, the [P]etitioner must demonstrate that [he] has sustained 
+national or international acclaim and that his achievements have been recognized in 
+[his] field of expertise, indicating that [he] is one ofthat small percentage who has risen 
+to the very top of the field of endeavor. The [Director] should consider the petition in 
+its entirety to determine eligibility according to the standard. 
+6 USCIS Policy Manual F.(2)(B)(2). 
+The Director should consider any potentially relative evidence of record, even if it does not fit one of 
+the initial evidentiary requirements. Id. The petition's approval or denial depends on the evidence's 
+type and quality, rather than on assumptions about the inability to meet different criteria. Id. 
+III. CONCLUSION 
+Contrary to the Director's decision, the Petitioner submitted evidence of his commandment of a high 
+salary in his field. As he has met at least three of the ten initial evidentiary criteria, USCIS must 
+conduct a final merits determination on his petition. 
+4 
+ORDER: The Director's decision is withdrawn. The matter is remanded for entry of a new 
+decision consistent with the foregoing analysis. 
+5 

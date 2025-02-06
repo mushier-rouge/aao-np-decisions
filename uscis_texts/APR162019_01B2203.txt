@@ -1,0 +1,236 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+MATTER OF A-T-Non-Precedent Decision of the 
+Administrative Appeals Office 
+DATE: APR. 16, 2019 
+APPEAL OF NEBRASKA SERVICE CENTER DECISION 
+PETITION: FORM 1-140, IMMIGRANT PETITION FOR ALIEN WORKER 
+The Petitioner, a research scientist, seeks classification as an individual of extraordinary ability in the 
+field of natural language processing and speech communication. See Immigration and Nationality Act 
+(the Act) section 203(b)(l)(A), 8 U.S.C. § l 153(b)(l)(A). This first preference classification makes 
+immigrant visas available to those who can demonstrate their extraordinary ability through sustained 
+national or international acclaim and whose achievements have been recognized in their field through 
+extensive documentation. 
+The Director of the Nebraska Service Center denied the petition, concluding that the Petitioner had 
+satisfied two of the initial evidentiary criteria, of which he must meet at least three. 
+On appeal, the Petitioner contends that he meets an additional criterion, relating to making original 
+contributions of major significance in the field, 8 C.F.R. § 204.5(h)(3)(v). He maintains that he 
+qualifies for the classification. 
+Upon de nova review, we will dismiss the appeal. 
+I. LAW 
+Section 203(b )(1 )(A) of the Act makes visas available to certain immigrants if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work m the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively the 
+United States. 
+.
+Matter of A-T-
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The regulation at 8 C.F.R. 
+§ 204. 5(h)(3) sets forth two options for satisfying this classification's initial evidence 
+requirements. First, a petitioner can demonstrate a one-time achievement (that is, a major, 
+internationally recognized award). If the petitioner does not submit this evidence, then he or she must 
+provide documentation that meets at least three of the ten criteria listed under 8 C.F.R. 
+§ 204.5(h)(3)(i)-(x) (including items such as qualifying awards, published material in certain media, 
+and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+submitted material in a final merits determination and assess whether the record, as a whole, shows 
+sustained national or international acclaim and demonstrates that the individual is among the small 
+percentage at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115, 1119-20 
+(9th Cir. 2010) (discussing a two-part review where the documentation is first counted and then, if 
+fulfilling the required number of criteria, considered in the context of a final merits determination); 
+see also Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 
+2d 1339, 1343 (W.D. Wash. 2011). This two-step analysis is consistent with our holding that the 
+"truth is to be determined not by the quantity of evidence alone but by its quality," as well as the 
+principle that we examine "each piece of evidence for relevance, probative value, and credibility, both 
+individually and within the context of the totality of the evidence, to determine whether the fact to be 
+proven is probably true." Matter ofChawathe, 25 I&N Dec. 369, 376 (AAO 2010). 
+11. ANALYSIS 
+The Petitioner's resume and other documents indicate that he received his Doctor of Philosophy degree 
+in applied informatics in 2007, and has worked as a research associate and a research assistant 
+professor at the The Director concluded that he met the 
+participation as a judge criterion under 8 C.F.R. § 204.5(h)(3)(iv) and the authorship of scholarly 
+articles criterion under 8 C.F.R. § 204.5(h)(3)(vi). The record supports this conclusion. 
+Specifically, the Petitioner has offered letters from publications including IEEE/ACM Transactions on 
+Audio, Speech, and Language Processing, and the Journal of Speech, Language, and Hearing 
+Research, which are professional publications, confirming that he served as one of their manuscript 
+reviewers. In addition, evidence confirms that he has authored scholarly articles that were published 
+in professional journals, including 
+that appeared in the Journal of the 
+Acoustical Society of America, and 
+that appeared in Magnetic Resonance in Medicine . While he has satisfied two criteria 
+under 8 C.F.R. § 204.5(h)(3)(iv) and (vi), as we will discuss below, he has not met the initial evidence 
+requirements of satisfying at least three criteria. 1 
+1 The Petitioner has not alleged, and the record does not demonstrate, that he has received a major, internationally 
+recognized award. See 8 C.F.R. § 204.5(h)(3). As such, he must provide documentat ion that meets at least three of the 
+ten criteria listed under 8 C.F.R. § 204.5(h)(3)(i)-(x) to satisfy the initial evidence requirements. 
+2 
+.
+.Matter of A-T-
+Evidence of the alien 's original scientific, scholarly, artistic, athletic, or business-related 
+contributions of major significance in the field 8 C.F.R. § 204.5(h)(3)(v). 
+To satisfy this criterion, the Petitioner must establish that not only has he made original contributions 
+but that they have been of major significance in the field. Major significance in the field may be shown 
+through evidence that his research findings or original methods or processes have been widely 
+accepted and implemented throughout the field, have remarkably impacted or influenced the field, or 
+have otherwise risen to a level of major significance in the field. See USCIS Policy Memorandum 
+PM-602-0005.1, Evaluation of Evidence Submitted with Certain Form 1-140 Petitions; Revisions to 
+the Adjudicator's Field Manual (AFM) Chapter 22.2, AFM Update ADll-14 8-9 (Dec. 22, 2010), 
+https: //www. uscis. gov/sites/ defaul t/fil es/USCIS/Laws/Memoranda/i-140-evi dence-pm-6002-00 5-
+1. pdf. 
+The record is insufficient to demonstrate, by a preponderance of the evidence, 2 that the Petitioner has 
+satisfied the criterion under 8 C.F.R. § 204.5(h)(3)(v). On appeal, he claims that he meets this criterion 
+because he has authored scholarly articles, other scientists have cited to and relied on his work, he has 
+presented his findings in international conferences, and he has submitted letters from other scientists 
+praising his research. 
+The Petitioner's written work, citation frequency, and conference presentations are insufficient to 
+satisfy this criterion. The record includes reference letters and other documentation showing that he 
+has published articles and a book chapter in reputable publications, as well as shared his research in 
+international conferences. For example, a professor of electrical and computer 
+engineering at the indicates that the Petitioner's "discoveries 
+have been published in prestigious international journals" and that he has "been invited to present his 
+landmark work at many national and international symposiums." Such evidence verifies that the 
+Petitioner has shared his research. To satisfy this criterion, he must demonstrate that the reaction from 
+the field upon the dissemination of his work confirms that the value of his research rises to the level 
+of"contributions of major significance" in the field. See 8 C.F.R. § 204.5(h)(3)(v). "[P]eer-reviewed 
+presentations at academic symposia or peer-reviewed articles in scholarly journals that have provoked 
+widespread commentary or received notice from others working in the field, or entries (particularly a 
+goodly number) in a citation index which cite the alien's work as authoritative in the field, may be 
+probative of the significance of the alien's contributions to the field of endeavor." USCIS Policy 
+Memorandum PM 602-0005.1, supra, 8. 
+On appeal, the Petitioner submits a printout from Google Scholar, showing that his most cited article, 
+published in 2014, garnered 60 citations, and his second most cited article, published in 2017, received 
+26 citations. He claims that he has authored over 60 scholarly articles that have been cited 
+approximately 360 times by others. He has not demonstrated the accuracy of this citation frequenc y, 
+2 If a petitioner submits relevant, probative, and credible evidence that leads U.S. Citizenship and Immigrat ion Services 
+(USCIS) to believe that the claim is "more likely than not" or "probably true," the petitioner has satisfied the 
+"preponderance of the evidence" standard of proof. See USCIS Policy Memorandum PM 602-0005.1, supra, at 4. 
+3 
+.
+Matter of A-T-
+which originates from Google Scholar. For example, he has not explained how Google Scholar tallies 
+the citations or if its information is reliable. 
+Regardless, the Petitioner has not presented sufficient evidence establishing that the citation 
+frequency, assuming it is accurate, confirms that his work has provoked widespread commentary or 
+received notice from others working in the field at a level consistent with "contributions of major 
+significance in the field." Although he has submitted some examples of other scientists citing to and 
+relying on his research, he has not sufficiently shown that his work has been cited as authoritative in 
+the field or has otherwise influenced the field in a significant way. See USCIS Policy Memorandum 
+PM 602-0005.1, supra, 8. 
+While the record includes a number of reference letters, they do not sufficiently demonstrate that the 
+Petitioner has made original contributions of major significance in the field. See 8 C.F.R. 
+§ 204.5(h)(3)(v). According to a professor at the Speech-Language-Hearing 
+Sciences Laboratory at the 
+the Petitioner's "research has forged new ground in the field ... with cutting edge research in acoustic 
+modeling and audiovisual speech synthesis." a professor of phonetics at the 
+in France, states that the Petitioner's "expert background as a 
+researcher in natural language processing and speech communication has given him an enhanced 
+understanding of developing sophisticated and highly accurate acoustic models." a 
+professor oflinguistics at the provides that his studies "on dynamic 
+articulatory data ... to animate sophisticated articulatory models have gained considerable traction 
+among fellow researchers" and that he has "contributed to the development and improvement of 
+protocols for the dynamic magnetic resonance (MR) imaging of the vocal tract." 
+a professor at the School of Engineering of the notes that the 
+Petitioner's work "is of incredible interdisciplinary importance to researchers in the diverse fields 
+spanning computational modeling, machine learning, and speech-language pathology" and that he is 
+"an outstanding researcher" whose work has been published in "leading scientific journals." 
+The reference letters in the record, including those not specifically mentioned above, discuss the 
+Petitioner's research, publication, and conference activities, and conclude, based on these endeavors, 
+that he has satisfied the criterion. As explained, dissemination of one's scientific findings in 
+publications or conferences is insufficient to satisfy this criterion. Rather, the Petitioner must show 
+that his work has resulted in widespread commentary or acceptance in the field, or its impact has 
+otherwise risen to the level of major significance in the field. See USCIS Policy Memorandum PM 
+602-0005.1, supra, 8. 
+Some of the letters claim that the Petitioner has advanced the field. For example, 
+a professor in the Electrical and Computer Engineering Department of the 
+indicates that the Petitioner "has helped move the field of 
+acoustic modeling forward by incrementally refining the components of speech production systems 
+toward the generation of highly natural, intelligible , and personalized speech acoustics, which has 
+vastly contributed to the understanding of more nuanced and finer details of the speech production 
+process." This and other letters also state that scientists in the field have cited to and relied on the 
+Petitioner 's work. The letters, however, are insufficient to confirm that his impact or influence in the 
+4 
+.
+Matter of A-T-
+field has risen to the level of "major significance." See Kazarian, 596 F.3d at 1122 (finding that 
+"letters from physics professors attesting to [ a petitioner's] contributions in the field" were insufficient 
+to meet this criterion). The Petitioner has not demonstrated that his work -which may have resulted 
+in incremental advancements in the field, as such are expected in any original research -qualifies as 
+contributions of major significance in the field. See USCIS Policy Memorandum PM-602-0005.1, 
+supra, at 8-9 ("Letters that lack specifics and simply use hyperbolic language do not add value, and 
+are not considered to be probative evidence that may form the basis for meeting this criterion."). 
+The reference letters and other evidence in the record show that the Petitioner's work has added to the 
+general pool of knowledge in the field. They are, however, insufficient to confirm widespread 
+commentary or acceptance of his findings, that the field has regarded his work as authoritative, or that 
+his studies have advanced the field in a significant way. See Visinscaia, 4 F. Supp. 3d at 134-35 
+(upholding a finding that a ballroom dancer had not met this criterion because she did not demonstrate 
+her impact in the field as a whole). Letters that repeat the regulatory language but do not sufficiently 
+explain how an individual's contributions have already influenced the field significantly are 
+insufficient to satisfy this criterion. See Kazarian v. USCIS, 580 F. 3d 1030, 1036 (9th Cir. 2009), 
+aff'd in part, 596 F. 3d 1115, 1122 (9th Cir. 2010). 
+The record includes evidence that the Petitioner was involved in studies that were funded by well­
+known entities. For example, documentation shows that he was a scientist who worked on a research 
+on the dynamics of vocal tract shaping that was funded by the and that 
+he subsequently published an article based on his work. It does not appear that he has ever been 
+specifically listed as a grant recipient. Regardless, receiving funding to conduct research, without 
+more, is not a contribution of major significance in the field. Rather, the Petitioner must establish that 
+receiving grants or other similar funding are reflective of his past works' major significance, or that 
+his research conducted with the funding resulted in contributions of major significance in the field. 
+He has not made such a showing. Accordingly, based on the evidence in the record, he has not shown, 
+by a preponderance of the evidence, that he has made original contributions of major significance in 
+the field. 
+Evidence that the alien has performed in a leading or critical role for organizations or 
+establishments that have a distinguished reputation. 8 C.F.R. § 204.5(h)(3)(viii). 
+In his decision, the Director concluded that the Petitioner did not meet this criterion, because he did 
+not demonstrate that he, as a research scientist or research associate, has performed a leading or critical 
+role for his current and former employers. On appeal, the Petitioner does not specifically challenge 
+the Director's finding. Rather, he claims that his work has impacted the 
+at the , and that he "has 
+assumed a leading role in the critical research initiatives. " 
+To satisfy this criterion, the evidence must establish that the Petitioner is or was a leader. See USCIS 
+Policy Memorandum PM 602-0005 .1, supra, at 10. If the Petitioner claims to have performed a critical 
+role, then he must establish that the role is or was of significant importance to the outcome or standing 
+of the organization or its activities. A supporting role may be considered "critical" if the Petitioner 's 
+5 
+.
+Matter of A-T-
+performance in the role is or was important in that way. It is not the title of the Petitioner's role, but 
+rather his performance in the role that determines whether the role is or was critical. Id 
+The record does not include sufficient documentation, such as letters from individuals managing 
+explaining the Petitioner's role or how his role is or was leading or critical. The Petitioner has 
+not offered corroborating evidence confirming that he has held a leadership position within or 
+is responsible for duties that make him a leader, or that he has contributed in a way that is of significant 
+importance to the outcome or standing of While most individuals involved with an 
+organization can have some impact on the entity, to establish a critical role, a petitioner must document 
+that his or her work is crucial to the success of the entity. The Petitioner has not made such a showing 
+here. Based on these reasons, he has not established that he meets this criterion. 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three of the ten criteria. As a result, we need not provide the type of final 
+merits determination referenced in Kazarian, 596 F.3d at 1119-20. Nevertheless, upon a review of 
+the record in its entirety, we conclude that it does not support a finding that he has established the 
+acclaim and recognition required for this classification. 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals who are already 
+at the top of their respective fields, rather than for individuals progressing toward the top. USCIS has 
+long held that even athletes performing at the major league level do not automatically meet the 
+"extraordinary ability" standard. Matter of Price, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994). 
+Here, the Petitioner has not shown that the significance of his academic, scholarly, research, and 
+professional accomplishments is indicative of the required sustained national or international acclaim 
+or that it is consistent with a "career of acclaimed work in the field" as contemplated by Congress. 
+H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 203(b)(l)(A) of the Act. Moreover, the 
+record does not otherwise demonstrate that the Petitioner has garnered national or international 
+acclaim in the field, and he is one of the small percentage who has risen to the very top of the field of 
+endeavor. See section 203(b)(l)(A) of the Act; 8 C.F.R. § 204.5(h)(2). 
+The record does not establish that the Petitioner qualifies for classification as an individual of 
+extraordinary ability. The appeal will therefore be dismissed for the above stated reasons, with each 
+considered as an independent and alternate basis for the decision. In visa petition proceedings, it is 
+the petitioner's burden to establish eligibility for the immigration benefit sought. Section 291 of the 
+Act, 8 U.S.C. § l36l;MatterofSkirballCulturalCtr. , 25 I&NDec. 799,806 (AAO 2012). Here, that 
+burden has not been met. 
+ORDER: The appeal is dismissed. 
+Cite as Matter of A-T-, ID# 2759914 (AAO Apr. 16, 2019) 

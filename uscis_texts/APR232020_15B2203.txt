@@ -1,0 +1,230 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 6864538 
+Appeal of Nebraska Service Center Decision Non-Precedent Decision of the 
+Administrative Appeals Office 
+Date: APR. 23, 2020 
+Form 1-140, Immigrant Petition for Alien Worker (Extraordinary Ability) 
+The Petitioner, a research scientist, seeks classification as an individual of extraordinary ability. See 
+Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). This first 
+preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation . 
+The Director of the Nebraska Service Center denied the petition, concluding that the Petitioner did not 
+establish , as required, that he meets at least three of the ten initial evidentiary criteria for this 
+classification. The matter is now before us on appeal. 
+The petitioner bears the burden of proof to demonstrate eligibility by a preponderance of the evidence . 
+Section 291 of the Act; Matter of Chawathe, 25 I&N Dec. 369,375 (AAO 2010). The Administrative 
+Appeals Office (AAO) reviews the questions in this matter de novo. See Matter of Christo 's Inc., 26 
+I&NDec . 537,537 n.2 (AAO 2015). Upon de nova review, we agree with the Director's determination 
+that the Petitioner did not meet at least three of the initial evidentiary criteria and, accordingly, we will 
+dismiss the appeal. 
+I. LAW 
+Section 203(b)(l) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation , 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and the recognition of his or her achievements in the field through a one-time achievement 
+(that is, a major, internationally recognized award). If that petitioner does not submit this evidence, 
+then he or she must provide sufficient qualifying documentation that meets at least three of the ten 
+categories listed at 8 C.F.R. § 204.5(h)(3)(i) -(x) (including items such as awards, published material 
+in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010). 
+II. ANALYSIS 
+The Petitioner is a research scientist in the field of machine learning and artificial intelligence. He 
+received his bachelor of rgineering and master of engineering degrees in computer science and 
+technology froml _ University in 2006 and 2008, respectively. The Petitioner completed his 
+doctoral studies in electrical and computer engineering at University of I O I ~6. As of the date of filing, he had previous work experience as a research scientist for ~ as a research intern fo~~--------~~ and as a graduate research assistant at 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or established that he has received a major, internationally 
+recognized award, he must satisfy at least three of the alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). The Petitioner claims to meet three of the ten evidentiary criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x), summarized below:2 
+• (iv), Participation as a judge of the work of others; 
+• (v), Original contributions of major significance; and 
+• (vi), Authorship of scholarly articles. 
+The Director found that the Petitioner met two evidentiary criteria, related to judging and authorship 
+of scholarly articles. The record reflects that the Petitioner has participated as a judge of the work of 
+others in his field by peer reviewing manuscripts for conferences and professional journals in his field, 
+consistent with 8 C.F.R. § 204.5(h)(3)(iv). He has also written scholarly articles in the field, including 
+several journal articles and more than 20 papers published in conference proceedings, under 8 C.F.R. 
+§ 204.5(h)(3)(vi). 
+1 The record reflects that the Petitioner accepted a position as a senior research scientist withl I in August 
+2018, subsequent to the filing of the petition. 
+2 The Director determined that the Petitioner initially claimed to meet the criterion at 8 C.F.R. § 204.5(h)(3)(ii), relating to 
+membership in associations in the field which require outstanding achievement of their members, but did not submit 
+sufficient evidence to satisty the criterion. The Petitioner does not contest this determination on appeal and therefore we 
+deem this issue to be waived. See, e.g., Matter of M-A-S-, 24 T&N Dec. 762, 767 n.2 (BIA 2009). 
+2 
+However, the Director determined that the Petitioner did not submit sufficient evidence to establish that 
+he had made original contributions of major significance in his field. After reviewing all the evidence 
+in the record, we conclude that the Petitioner did not meet this third criterion. 
+Evidence of the individual's original scientific, scholarly, artistic, athletic, or business­
+related contributions of major sign[ficance in the field. 8 C.F.R. § 204.5(h)(3)(v) 
+In order to satisfy the regulation at 8 C.F.R. § 204.5(h)(3)(v), a petitioner must establish that not only 
+has he made original contributions, but that they have been of major significance in the field. 3 For 
+example, a Petitioner may show that the contributions have been widely implemented throughout the 
+field, have remarkably impacted or influenced the field, or have otherwise risen to a level of major 
+significance. 
+On appeal, the Petitioner asserts that he has made three significant contributions to the field of machine 
+learning, deep learning, and artificial intelligence. 4 Specifically, he asserts that he meets this criterion 
+because he has authored scholarly articles that other scientists have relied on or cited to, he has 
+presented his findings in international conferences, and he has submitted letters from other scientists 
+in his field who discuss and praise his research contributions. 
+As a preliminary matter, we note that two of the three original contributions identified by the Petitioner 
+on appeal are based on research that he published or presented subsequent to the filing of this petition 
+in March 2018. Specifically, he ,laims e)igihi)itv under this criterion based on bis· CD deve)ooment 
+of methods for compression of l I 
+'---------,,-------.===============l.1...; ....:a::.:;;n~d~{2=.)L.....:d::..::e:....:.v-=.el;:;.:;-opment of a novel 
+regularization method for I~-----~ .---------. I. 
+Letters froml 1,1 l and note that the Petitioner's article 
+discussing his development of I I was published by the I -I 2018, and they do not claim to have been f~am-i-li_a_r_w_i_th_t_b-is-re_s_e_a_rc_b_o_r_io_r_t_o_tb-a~t 
+time.) The Petitioner's curriculum vitae listed his co-authored paper ~ _ ] I las a publication that was "Under Preparation or Under Review" and 
+"submitted to I I 2018." The Petitioner's Google Scholar citation index provided at the time of 
+filing, which included publications from 2018 and therefore appeared to be recently printed, did not 
+include any publications with titles mentioning.___~---~------' Finally, we note that none 
+of the five expert opinion letters provided with the Petitioner's initial submission mentioned his 
+research in this area. 
+3 See USCIS Policy Memorandum PM 602-0005.1, Evaluation of Evidence Submitted with Certain Form 1-140 Petitions; 
+Revisions to the Adjudicator's Field Manual (AFM) Chapter 22.2, AFM Update ADJ 1-14 8-9 (Dec. 22, 2010), 
+http://www.uscis.gov/legal-resources/policy-memoranda (stating that although funded and published work may be 
+"original," this fact alone is not sufficient to establish that the work is of major significance). 
+4 At the time of filing, the Petitioner provided letters frottj l l land I who 
+discuss his research and contributions in additional areas within his field. The Petitioner does not reference these research 
+contributions or these letters on appeal or indicate that he meets the original contributions criterion based on this evidence. 
+Therefore, althouoh we have reviewed and considered these let~will not discuss them here. 
+5 The 201 sC::J' conference was held inD2018. See https:l___JConferences/2018 (last visited on Apr. 14. 2020). 
+3 
+The evidence also reflects that the Petitioner developed thep regularization method after j~ining 
+1 I I in August 2018. Director of O ,I states that 
+regularization "is an important update of 's artifi¢al..inttjligence framework since the 
+World Congress inl 12018," and,,__ __ ~ ofL___J University indicates that he and his 
+colleagues have been discussing thee=] regularization method "since this method was released in 
+1 12019." 
+The Petitioner must establish that all eligibility requirements for the immigration benefit have been 
+satisfied from the time of the filing and continuing through adjudication. 8 C.F.R. § 103.2(b)(l). A 
+petition cannot be approved at a future date after the petitioner becomes eligible under a new set of facts. 
+Matter oflzummi, 22 I&N Dec. 169, 175 (Comm'r 1998). Therefore, the Petitioner cannot establish that 
+he meets this criterion based on research that was published subsequent to the filing of the petition. 
+The last of the three original contributions highlighted by the Petitioner on appeal is his development of 
+..._ ______________ __. method, research that he ori inall ubli12,LL>,""--'.U....""'-'--'r'· He 
+specifically references two previously submitted letters fro and both 
+professors with the National University ot1 I ~-~emphasizes the import.,...... ................... 7-_ __J I J in artificial intelligence, and states that he considers the Petitioner's ,.__ _ ___, to be 
+"extraordinarily important" and a "major breakthrough" in thel I field. He notes that it 
+has "intrigued a lot of researchers and engineers in the field" and that it is "open sourced on GitHub" 
+where it "greatly facilitates the research progress of other methods." I further 
+states that he is aware of others who have employed the method for their projects, and that he 
+believes it "will generate greater impact in the future.".__ __ _. who co-authored the Petitioner's paper, 
+describes thd I method as "a significant contribution to the machine learning literature," noting 
+that it "significantly improves the potential o~ I methods," and has "gained considerable 
+impact on the machine learning community." He states that his students have used thel biethod 
+since 2016 and have been developing newl I methods inspired by the method. 
+In addition to these letters, the Petitioner submitted a letter froml I a scientist at 
+the Institute of '-----,--..------,-....,..,..,...-.-=---~ who describes the Petitioner's I I method as 
+"revolutionary'," noting that it "is the first work in thel I literature that demonstrates 
+the merit [of] I I in terms ofl I discovery." He states that I I has been highly 
+regarded as an important work in the I I literature" and indicates his belief that it "will 
+attract more attention and create more impact in the machine-learning community in the near future." b I ofD who also co-authored the Petitioner's aper," notes in his letter thatD 
+"has been widely regarded as an important L-...r-------'--...,,ethod by the lobal research 
+munities" stating that methods capable oflearning .__ ____ ___, structur,es_1_· ..___---.-___ _. 
+'have "tremendous value in both theory and applications in various areas.".__ ___ ~ notes that 
+method "im roves the usability ofl I' He states that "a lot of research 
+works in " including his own publications, "are either based on the idea of [the '--~--~---' Petitioner's] or directly adopted the methods." 
+Although these letters explain the Petitioner's research and note its novelty and value, they do not 
+explain with specificity why the I I has been considered of such importance, and, more 
+importantly, how its current impact on the field rises to the level major significance required by this 
+criterion. While the letters indicate that thel I method has been cited and used by others in the 
+4 
+field, they also emphasize its potential future impact, making it unclear to what extent it has already 
+influenced or impacted the field. The letters generally indicate that the research is considered 
+important, added value to the pool of knowledge in his field and opened avenues for farther 
+researching intol I methods. The evidence, however, is insufficient to confirm that 
+the level of attention the Petitioner has received reflects widespread commentary and acceptance of 
+his work, or that the field of machine learning or its subfields have regarded his research as 
+authoritative or otherwise deem it to be of major significance. Here, the Petitioner's letters do not 
+contain specific, detailed information explaining the unusual influence or high impact his research or 
+work has already had on the overall field. Letters that specifically articulate how a petitioner's 
+contributions are of major significance to the field and its impact on subsequent work add value. 6 On 
+the other hand, letters that lack specifics do not add value, and are not considered to be probative 
+evidence that may form the basis for meeting this criterion. 7 
+In addition to the expert opinion letters, the Petitioner also provides his publication and citation record 
+from Google Scholar, which includes his journal articles and conference presentations. 8 We note that 
+several of the submitted letters highlight that the Petitioner presented his paper describing the above-
+reference~ I method, titled ,j O I' at the I I I ,I in 2016, and emphasize that I lis a "premier international conference" 
+in this subfield. The record also indicates that the Petitioner's paper was selected as one of eleven 
+"BTt Papr' finalists at this conference, but it does not demonstrate how the Petitioner's invitation to 
+the or the finalist recognition he received for his paper are indicators that the research has been 
+recognized as an original contribution of major significance in his field. 
+As noted, publications and presentations typically present "original" work but are not sufficient under 
+8 C.F.R. § 204.5(h)(3)(v) absent evidence that they were of "major significance." Generally, citations 
+serve as an indication that the field has taken an interest in a Petitioner's work. We acknowledge, 
+however, that a petitioner may present evidence that his articles "have provoked widespread 
+commentary or received notice from others working in the field, or entries (particularly a goodly 
+number) in a citation index which cite [his] work as authoritative in the field, may be probative of the 
+significance of [his] contributions to the field of endeavor."9 
+According to Google Scholar, the Petitioner's co-authored conference paper on thel lmethod 
+had been cited 12 times at the time of filing, while his most cited article had 40 citations. Although 
+he provided information regarding the number of times each of his articles has been cited, he did not 
+provide additional supporting evidence to establish the significance of these numbers or to demonstrate 
+that any of his publications are highly cited or widely discussed when compared to articles published by 
+others. For example, an appropriate analysis, would be to compare the Petitioner's citations to those of 
+other similarly, highly cited articles that the field views as having been of major significance, as well as 
+factoring in other corroborating evidence. Absent such evidence, the Petitioner's citations reflect that 
+his research has received some attention from the field, but he did not demonstrate that the citation 
+6 See USCIS Policy Memorandum PM 602-0005 .1, supra, at 8-9. 
+7 Id. at 9. 
+8 The Petitioner submits an updated Google Scholar citation history on appeal indicating that the cumulative number of 
+citations mentioned in the Director's decision was incorrect. The record reflects that the Director accurately stated the 
+number of cumulative citations documented in the Petitioner's Google Scholar citation history submitted at the time of 
+filing. 
+9 Id. at 8-9. 
+5 
+numbers for his individual articles represent majorly significant contributions to the overall field. For 
+example, we cannot determine whether a record of 12 citations supports the testimonial evidence 
+indicating that the Petitioner's novel method was received by the field as "revolutionary" or as a "major 
+breakthrough." 
+Regardless, even highly cited publications alone are not sufficient under 8 C.F.R. § 204.5(h)(3)(v) 
+absent evidence that they were of "major significance" as a citation number or ranking does not 
+provide sufficient context to determine the impact or importance of a given researcher's work in the 
+field. That context must be provided by other evidence in the record. Here, while the Petitioner 
+submitted corroborating evidence in the form of expert opinion letters, that evidence, for the reasons 
+already discussed, is not sufficient to establish that any of the Petitioner's past research findings, as of 
+the date of filing, have remarkably impacted or influenced his field. 
+Considered together, the evidence consisting of the Petitioner's journal publications and conference 
+papers, his citation history, and the reference letters from his colleagues and other experts, establishes 
+that the Petitioner has been very productive, and that his published data and findings have been relied 
+upon by others in their own research. It does not demonstrate, however, that the Petitioner has made 
+an original contribution of major significance in his field. Therefore, he has not met this criterion. 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three of the ten criteria. As a result, we need not provide the type of final 
+merits determination referenced in Kazarian, 596 F.3d at 1119-20. Nevertheless, we advise that we 
+have reviewed the record in the aggregate, concluding that it does not support a finding that the 
+Petitioner has established the acclaim and recognition required for the classification sought. 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than for individuals progressing toward the top. USCIS has long held 
+that even athletes performing at the major league level do not automatically meet the "extraordinary 
+ability" standard. Matter of Price, 20 I&N Dec. 953,954 (Assoc. Comm'r 1994). Here, the Petitioner 
+has not shown that the significance of his work is indicative of the required sustained national or 
+international acclaim or that it is consistent with a "career of acclaimed work in the field" as 
+contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section203(b)(l)(A) 
+of the Act. Moreover, the record does not otherwise demonstrate that the Petitioner has garnered 
+national or international acclaim in the field, and he is one of the small percentage who has risen to 
+the very top of the field of endeavor. See section 203(b )(1 )(A) of the Act and 8 C.F .R. § 204.5(h)(2). 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an individual of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+6 

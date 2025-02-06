@@ -1,0 +1,241 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 10768211 
+Appeal of Nebraska Service Center Decision Non-Precedent Decision of the 
+Administrative Appeals Office 
+Date: OCT. 5, 2020 
+Form 1-140, Immigrant Petition for Alien Worker (Extraordinary Ability) 
+The Petitioner, a provider of financial and business data and news, seeks to classify the Beneficiary as 
+an alien of extraordinary ability in the field of artificial intelligence (AI). See Immigration and Nationality 
+Act (the Act) section 203(b)(l)(A) , 8 U.S.C. § 1153(b)(l)(A) . This first preference classification makes 
+immigrant visas available to those who can demonstrate their extraordinary ability through sustained 
+national or international acclaim and whose achievements have been recognized in their field through 
+extensive documentation. 
+The Director of the Nebraska Service Center denied the petition, concluding that while the Beneficiary 
+met the initial evidence requirements of the requested classification , the record did not establish that 
+he has sustained national or international acclaim and is among the small percentage at the top of his 
+field. On appeal, the Petitioner asserts that the Director imposed novel requirements in rendering his 
+decision, and that the Beneficiary qualifies as an alien of extraordinary ability. 
+In these proceedings , it is the Petitioner's burden to establish eligibility for the requested benefit. See 
+Section 291 of the Act, 8 U.S.C. § 1361. Upon de nova review, we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate 
+international recognition of his or her achievements in the field through a one-time achievement (that 
+is, a major, internationally recognized award). If that petitioner does not submit this evidence, then 
+he or she must provide sufficient qualifying documentation that meets at least three of the ten criteria 
+listed at 8 C.F.R. § 204.5(h)(3)(i) -(x) (including items such as awards, published material in certain 
+media, and scholarly articles). The regulation at 8 C.F.R. § 204.5(h)(4) allows a petitioner to submit 
+comparable material if they are able to demonstrate that the standards at 8 C.F.R. § 204.5(h)(3)(i)-(x) 
+do not readily apply to the individual's occupation. 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+The Beneficiary is currently employed by the Petitioner as a senior research scientist in its Artificial 
+Intelligence Group, where he conducts research on natural la~rocessing (NLP) and machine 
+learning (ML). He earned a Ph.D. in computer science froml___JUniversity in 2017, and states 
+that he intends to continue working in this area in the United States. 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or established that the Beneficiary has received a major, 
+internationally recognized award, he must satisfy at least three of the alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). The Director found that the Beneficiary met three of the evidentiary 
+criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x), relating to his participation as a judge of the work of others, 
+his authorship of scholarly articles, and his receipt of a salary that is high in comparison to others in 
+his field. On appeal, the Petitioner asserts that the Beneficiary also meets two additional evidentiary 
+criteria. 1 After reviewing all of the evidence in the record, we agree that the Beneficiary meets the 
+three criteria referred to above. As the Beneficiary has therefore met the initial evidence requirement, 
+we will not consider whether he also meets the additional claimed criteria, but will instead consider 
+all of the evidence in the record in performing a final merits determination. 
+1 The Petitioner also claims to have submitted comparable evidence under 8 C.F.R. § 204.5(h)(4), but does not explain 
+why the criteria listed under 8 C.F.R. § 204.5(h)(3) are not readily applicable to the Beneficiary's occupation. Further, as 
+we agree with the Director's finding that the Beneficiary meets the initial evidentiary requirements for the requested 
+classification, the Petitioner's claim of comparable evidence is moot and thus will not be considered. 
+2 
+B. Final Merits Determination 
+The record indicates that the Beneficiary's work in AI has been concentrated in the sub-fields ofNLP 
+and ML, and that he continues to focus his work in these areas with the Petitioner. On appeal, the 
+Petitioner asserts that the Beneficiary has made three main contributions to these areas during the 
+cour~e of his studies and in its employ. The first involves his participation in the development of an 
+NLPl ] which took place durin his em loyment as a research intern. In a reference letter 
+submitted with the initial filing, Chief Scientist atl I describes his 
+collaboration with the Beneficiary to develop '~----~ learning architectures that could be 
+applied to a wide range of complex NLP problems ... " and notes that this research resulted in.---a-=-===r I I that could be used for various different tasks in natural lan9u.::ca::=.::....i:..::...::....::.===..:..:........i.---___,, 
+adds that this research was resented at two conferences, the 2015 I I and the 2016 ,..::...._....:..........----==============;-' 
+. However, ~----' does not provide specific examples of the application of this 
+"F=====;lb_y_o~thers to solve NLP problems or perform tasks. 
+The Petitioner asserts on appeal that the paper presented atl I in 2016, I ~ I I" "remains among the publication's top 
+30 most cited articles." Although the evidence referenced by the Petitioner indicates that this paper 
+was cited on 597 occasions2 by other researchers as of the date the petition was filed, and that it 
+substantially exceeds! ~s "h5-median" score, it does not support the assertion that it is among I ts top 30 most cited articles.3 It is by far the most highly cited of the Beneficiary's published 
+papers, and this figure by itself indicates that many researchers in the field of AI have used this paper 
+in support of their own research in some way. But the record does not include evidence which 
+demonstrates whether or how other researchers have applied or built upon the Beneficiary's work, or 
+that the framework has been implemented by others in the field, and thus does not show the nature or 
+degree of impact this work has had on the field of AI, or the level of recognition the Beneficiary has 
+received because of it. 
+In addition, the Petitioner also refers to evidence of the importance of the I I conference in the 
+field of AI. This includes a list from the Google Scholar website showing that it ranks second in the 
+field of AI in terms of "h5-index" and "h5-median," terms which reflect that a certain number of 
+articles published by that medium have been cited the same number of times in the past five years. 4 
+In addition,! I states in his letter thatl lis "one of the primary conferences of high impact 
+in Machine Leaming and Artificial Intelligence research." However, the Petitioner does not explain 
+how this ranking affects the impact or recognition of the Beneficiary's work beyond the factors 
+discussed above. We will not assume that a paper published in a prestigious or highly-ranked journal 
+or conference proceeding is inherently more impactfol or gains greater recognition than a paper 
+published in a different medium. 
+2 This paper had 909 citations as of September 1, 2020 per the Beneficiary's Google Scholar profile, 
+https:/l I 
+3 We also note that since the h5-median reflects citations to papers published in the period from 2015-19, it is not an 
+accurate gauge of the impact of the Beneficiary's work compared to more recently published articles which have had a 
+shorter period in which to be cited, nor does it take into account citations to papers published in this journal before 2015. 
+4 The Petitioner also refers to evidence that this conference (and others at which the Beneficiary presented his work) has a 
+"CO RE rank" of A*, but the record does not include evidence that explains either the meaning or significance of this rank. 
+3 
+The second contribution highlighted by the Petitioner is based upon the Beneficiary's work published 
+at the I I conference in 2014, '.__ _____________________ ____. I I" As with the paper discussed above, the Petitioner focuses on the number of citations to 
+this paper, 193 as of the time of filing, and points out that this is above the conference proceeding's 
+h5-index (but below the h5-median figure.) While we acknowledge that this citation figure indicates 
+that many other researchers in the field of AI have relied on the Beneficiary's work in some way, we 
+note that this evidence does not provide sufficient qualitative or quantitative context to establish that 
+the he is one of the small percentage at the top of this field. Although the h5-index fo!LJ indicates 
+that the paper is one of the more highly-cited papers to be presented at the conference in the past five 
+years, it does not provide information regarding papers published in the field overall at other 
+conferences and in scientific journals, or papers which were previously published in the I I 
+proceedings. In addition, it does not provide insight into how or to what extent the researchers who 
+cited the Beneficiary's paper used this research in their own work. 
+Reference letters discussing this work provide some farther insight into its impact on the field of AI. ~-------~ ot1 I University, who collaborated with the Beneficiary on this work, 
+confirms that the Beneficiary conducted the bulk of the work towards this research under her guidance, 
+and concludes that it "has had a far-reaching impact on the worldwide natural language community ... " 
+But she does not provide details as to the nature of this impact, or provide specific examples of how it 
+has been recognized by others in the AI field. 
+Another letter was submitted by~-------~ofl !University, who indicates 
+that he does not know the Beneficiary but is familiar with his work. He describes the Beneficiary's 
+research "on I I interpretation for ~-----~ in natural language processing" as 
+"revolutionary," and states that he developed a new method which works in conjunction with previous 
+work but "overcame some of their drawbacks." I !indicates that this work "provides 
+insight about different! I components that helps the industry design better architectures for 
+new tasks," and is relevant to a company such as the Petitioner, but he does not provide details about 
+whether this model has been implemented in the industry or otherwise recognized. 
+The third contribution which the Petitioner notes on a eal relates to his work which was published at 
+,.......... ......... ..__ _________________ ,___---=----.,...J conference in 2014, I I 
+As with the previous examples, the Petitioner 
+compares the number of citations to this paper with the publication's h5-index, noting that its 236 
+citations triples that figure, and includes evidence showing that the conference proceedings are ranked 
+second among publications in the field ofl I Again, we acknowledge that 
+these figures indicate that the Beneficiary's work has had impact on the AI field, but note that they do 
+not provide a complete picture as to the extent and nature of that impact. 
+More information regarding this aspect of the Beneficiary's work is provided by~I -----~ 
+I I of the University! I who writes in his reference letter that he first met the 
+Beneficiary at this conference. He states that being selected to present at this conference "is a 
+tremendous honor that separates [the Beneficiary] from others in his field," but he does not provide 
+figures such as the rate of acceptance of submitted a ers or the total number of papers presented at 
+the conference, to support this assertion. oes on to state that the Beneficiary's 
+paper "is by far the best research on the task of........,. ___ ~--~extraction," and notes that "this 
+4 
+was the first application of~-------~to anyl I task." He farther indicates that 
+this research "is of practical importance" since it removes the 1 I engineering" step and thus 
+saves time and money. However, he does not explain the extent to which the Beneficiary's work has 
+affected that of other AI researchers, been implemented by them, or been acclaimed in the industry in 
+other ways. 
+As we have noted in the above analysis, while some of the reference letters submitted provide detail 
+regarding the technical aspects of the Beneficiary's work, none provide the same level of specificity 
+when explaining its impact upon the field of AI. Depending on the specificity, detail, and credibility 
+of a letter, USCIS may give the document more or less persuasive weight in a proceeding. The Board 
+of Immigration Appeals (the Board) has held that testimony should not be disregarded simply because 
+it is "self-serving." See, e.g., Matter of S-A-, 22 I&N Dec. 1328, 1332 (BIA 2000) (citing cases). The 
+Board also held, however: "We not only encourage, but require the introduction of corroborative 
+testimonial and documentary evidence, where available." Id. If testimonial evidence lacks specificity, 
+detail, or credibility, there is a greater need for the petitioner to submit corroborative evidence. Matter 
+of Y-B-, 21 I&N Dec. 1136 (BIA 1998). Here, several of the letter writers conclude that the 
+Beneficiary's work is "relevant" to the AI field and industry, but do not provide farther details about 
+how it has gone beyond relevance and gained sustained acclaim at the national or international level. 
+The conclusions that several of the writers make regarding his elevated standing in the field are 
+therefore not supported by their own statements, nor are they corroborated by documentary evidence. 
+The Petitioner also submitted evidence regarding the Beneficia['s work since joining its research 
+team in 2017, as well as the role he has played for the company. I Head of AI 
+Engineering for the Petitioner, writes that the Beneficiary has continued his research inl I 
+I I for text analysis, and that models he has developed have improved the performance of 
+software "by nearly 5% in precision and recall." He farther states that these models and software are 
+used by several of the Petitioner's teams and products. In addition,! lnotes that the 
+Beneficiary has co-instructed four courses in ML and NLP given to the Petitioner's engineers, which 
+has led to the development of four machine learning products within the company. Although the 
+Beneficiary has clearly contributed to the Petitioner's research efforts in the field of AI, and his work 
+has improved the efficiency of the work of others employed by the Petitioner, the evidence does not 
+establish that he has played a critical role for the company's overall organization. Although the 
+systems and products improved through the Beneficiary's efforts are important to the Petitioner's core 
+business, the evidence does not show that the incremental upgrades accomplished through the 
+application of his work have been critical to the company's overall success. 
+In addition, this reference letter does not establish that the Beneficiary's work during his employment 
+with the Petitioner has received acclaim in the broader AI field. I I writes that the results 
+,.=J.:;.u;:.....1.1..1.ll.ll.u...i.u:.ul....'1.L...llJJ;:;....<:.l..L..J....:z!:=-=-...,..=.,..,,,.....,.........,,..,...,...,...,.,.....,...,...,..,........,.,.....,,,,.,.....,...,~, part of the......., _______ .....,....... 
+~------------- conference, "the leading venue for researchers around the world to 
+publish,__ ________ related ideas." We acknowledge that the dissemination of this work 
+makes it available to researchers in the AI field beyond those employed by the Petitioner, but the 
+record does not include evidence which shows that it garnered national or international acclaim for the 
+Beneficiary. 
+5 
+Regarding the Beneficiary's participation as a peer reviewer, the Petitioner argues on appeal that the 
+Director employed novel legal standards in finding that this participation was routine and did not 
+exceed that of other researchers, and that he ignored the evidence of the acclaim of those journals and 
+conferences. As for the first point, we note that the Director did not make these findings when 
+determining whether the Beneficiary met the plain language requirements of the criterion at 
+8 C.F.R. § 204.5(h)(3)(iv), but when considering whether he has garnered sustained national or 
+international acclaim and is one of the small percentage at the top of his field. This analysis necessarily 
+involves a comparison of the Beneficiary's accomplishments against those of all other researchers in 
+his field, and we conclude that the Director's findings are pertinent and well within the framework of 
+the final merits determination per Kazarian. 
+Turning to the Petitioner's second point about the Beneficiary's work as a peer reviewer, it notes that 
+he conducted this work for some of the same highly-ranked conferences at which his work was 
+published, includin~ I, D and I I The Petitioner states that the Beneficiary "has not 
+simply participated in widespread peer review processes. He has conducted peer reviews for the 
+largest, well-known and prestigious conferences and publications in his field of endeavor." While we 
+acknowledge that scientific conferences and journals rely upon experts such as the Beneficiary to 
+review papers which are submitted for presentation or publication, the Petitioner has not explained 
+how the prestige of these conferences bestows acclaim on the many anonymous reviewers that are 
+needed to provide recommendations to session chairs making the ultimate decision on which papers 
+will be presented. 
+The record also includes evidence of the Beneficiary's salary, as well as comparative data showing 
+that it exceeds the national 90th percentile salary for the position of "Computer and Information 
+Research Scientists." We agree that this evidence shows that his salary is high when compared to 
+others in his field, and reflects the level of education and expertise he possesses. However, when 
+considered together with the totality of the evidence as analyzed above, this evidence does not 
+sufficiently demonstrate that the Beneficiary is one of the small percentage at the top if his field. 
+III. CONCLUSION 
+The evidence shows that the Beneficiary is an accomplished researcher who has already made some 
+degree of impact in the field of artificial intelligence. Although he has published several articles in 
+the proceedings of scientific conferences, some of which have been cited by other researchers 
+hundreds of times, the record does not contain evidence which establishes that this work has brought 
+him acclaim at the national or international level. In addition, his publication record, participation in 
+the peer review process, and salary, when considered together, do not show that he is among the small 
+percentage of AI researchers at the top of the field. 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than for individuals progressing toward the top. USCIS has long held 
+that even athletes performing at the major league level do not automatically meet the "extraordinary 
+ability" standard. Matter of Price, 20 I&N Dec. 953,954 (Assoc. Comm'r 1994). Here, the Petitioner 
+has not shown that the significance of the Beneficiary's work is indicative of the required sustained 
+national or international acclaim or that it is consistent with a "career of acclaimed work in the field" 
+6 
+as contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 
+203(b)(l)(A) of the Act. 
+For the reasons discussed above, the Petitioner has not demonstrated the Beneficiary's eligibility as 
+an individual of extraordinary ability. The appeal will be dismissed for the above stated reasons, with 
+each considered as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+7 

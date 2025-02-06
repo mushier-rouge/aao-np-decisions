@@ -1,0 +1,372 @@
+U.S. Citizenship 
+and Immigration 
+Services Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: OCT. 31, 2024 In Re: 34288172 
+Appeal of Nebraska Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a software application development company, seeks to classify the Beneficiary, a product 
+design director, as an individual of extraordinary ability. See Immigration and Nationality Act (the 
+Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A) . This first preference classification makes 
+immigrant visas available to those who can demonstrate their extraordinary ability through sustained 
+national or international acclaim and whose achievements have been recognized in their field through 
+extensive documentation . 
+The Director of the Nebraska Service Center denied the petition, concluding the Petitioner did not 
+establish that the Beneficiary satisfied at least three of the initial evidentiary criteria. The matter is now 
+before us on appeal. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance ofthe evidence. 
+Matter ofChawathe, 25 l&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(1 )(A) of the Act makes immigrant visas available to individuals with extraordinary 
+ability in the sciences, arts, education, business, or athletics which has been demonstrated by sustained 
+national or international acclaim and whose achievements have been recognized in the field through 
+extensive documentation , provided that the individual seeks to enter the United States to continue 
+work in the area of extraordinary ability, and the individual's entry into the United States will 
+substantially benefit prospectively the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate 
+international recognition of a beneficiary's achievements in the field through a one-time achievement 
+(that is, a major, internationally recognized award). If that petitioner does not submit this evidence, 
+then they must provide sufficient qualifying documentation that a beneficiary meets at least three of 
+the ten criteria listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as awards, published 
+material in certain media, and authorship of scholarly articles). 
+Where a beneficiary meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+Because the Petitioner has not indicated or established that the Beneficiary has received a major, 
+internationally recognized award, he must satisfy at least three of the alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). In denying the petition, the Director determined the Beneficiary did not 
+fulfill any of them. On appeal, the Petitioner maintains that the Beneficiary meets the awards, 
+published material, judging, original contributions, authorship of scholarly articles, and high salary 
+criteria. 
+Documentation ofthe alien 's receipt oflesser nationally or internationally recognized 
+prizes or awards for excellence in the.field ofendeavor. 8 C.F.R. § 204.5(h)(3)(i) 
+To meet this criterion, the Petitioner must demonstrate a beneficiary's prizes or awards are nationally 
+or internationally recognized for excellence in the field of endeavor. Relevant considerations 
+regarding whether the basis for granting the prizes or awards was excellence in the field including, but 
+are not limited to, the criteria used to grant the prizes or awards, the national or international 
+significance of the prizes or awards in the field, and the number of awardees or prize recipients as well 
+as any limitations on competitors. 1 
+The Petitioner contends that the Beneficiary's "Flight app was awarded for its UI/UX design and 
+featured as 'Example of Good Design' in the presentation made at Apple's I I I lin 2014." As evidence of this award, the Petitioner presented 
+a screenshot of the Flight app along with Apple logos stating: "Featured on App Store" and "Featured 
+onl lbut the record does not include evidence from Apple stating that the Beneficiary has 
+received a prize or an award for his work. The Petitioner has not demonstrated that having an app 
+"featured" by Apple in such a manner constitutes the Beneficiary's receipt of a nationally or 
+internationally recognized prize or award for excellence in his field of endeavor. 
+In response to the Director's request for evidence (RFE), the Petitioner presented a letter from P-E-, 
+Director ofl Istating: 
+1 See generally 6 USC1S Policy Manual F.2(B)(l ), https://www.uscis.gov/policy-manual. 
+2 
+One ofthe projects we collaborated on, the I I Online Services App, was 
+a tremendous success, receiving international acclaim and several prestigious awards. 
+Under my direction as the product director, and through [the Beneficiary's] dedicated 
+efforts, the app was awarded a Bronze at thel Ifor Best Mobile Apps and 
+a Gold at the for Mobile App Awards. 
+The Petitioner also submitted two pages from thel IBiog" listing 17 awards received by 
+I but this evidence does not identify the Beneficiary as the recipient of a 1 
+2 The record does not include sufficient corroborating evidence from the presenting 
+organizations to support P-E-'s assertions that the Beneficiary received a Bronze at the 
+for Best Mobile Apps and a Gold at the _________ for Mobile App Awards. 
+Unsupported assertions have no evidentiary value and are insufficient to establish a filing party has 
+satisfied their burden of proof See Matter ofMariscal-Hernandez, 28 I&N Dec. 666, 673 (BlA2022). 
+Nor has the Petitioner demonstrated the significance of either a Bronze I or Gold 1 _____ in the Beneficiary's field of endeavor. Without sufficient evidence showing that 
+the Beneficiary has received a nationally or internationally recognized prize or award for excellence 
+in the field, the Petitioner has not established the Beneficiary meets this regulatory criterion. 
+Published material about the alien in professional or major trade publications or other 
+major media, relating to the alien's work in the field for which classification is sought. 
+Such evidence shall include the title, date, and author of the material, and any 
+necessary translation. 8 C.F.R. § 204.5(h)(3)(iii). 
+users first determines whether the published material was related to the person and the person's 
+specific work in the field for which classification is sought. 3 The published material should be about 
+the person, relating to the person's work in the field. 4 users then determines whether the publication 
+qualifies as a professional publication, major trade publication, or other major media publication. 5 
+As evidence for this criterion, the Petitioner submitted articles, entitled "app for iPhone," 
+I 
+land I I 
+______________________ While the Petitioner provided these 
+articles discussing various apps he played a role in designing, this material is not about him. The 
+language of the criterion at 8 C.F.R. § 204.5(h)(3)(iii), however, requires "[p]ublished material about 
+the alien." See, e.g., Negro-Plumpe v. Okin, No. 2:07-eV-820-EeR-RJJ, 2008 WL 10697512, at *3 
+(D. Nev. Sept. 9, 2008) (upholding a finding that articles regarding a show are not about the actor). 
+With respect to this criterion, the Director stated: "The Petitioner provided screenshots of printouts 
+from the app for iPhone, AppAdvice, MacWorld, et. al.; however, the printouts do not appear to 
+indicate the URL address, nor does the evidence appear to indicate that the Beneficiary has material 
+2 See generally 6 USCIS Policy Manual, supra, at F.2(B)(l) (indicating that "[t]he description of this type of evidence in 
+the regulation indicates that the focus should be on the person's receipt of the awards or prizes, as opposed to the 
+employer's receipt of the awards or prizes"). 
+3 See generally 6 USC1S Policy Manual, supra, at F.2(B)(l). 
+4 Id. 
+5 Id. 
+3 
+published about him in professional or major trade publications or other major media ...." The 
+Director further indicated that the submitted material did not include "author attribution or publication 
+information."6 In addition, the Director noted that the Petitioner had not shown the circulation or 
+readership of the publications relative to other media. 
+In the appeal brief, the Petitioner states that "[t]here is no way to assess the Apple App store through 
+a URL. The app must be downloaded to an Apple-supported device." The Petitioner contends 
+therefore that "USCIS is creating an impossible evidentiary standard for the evidence that was 
+submitted." Requiring a URL helps USCIS determine the source of the submitted material, but this 
+issue was not the only basis for the Director's determination that the Petitioner did not meet this 
+criterion. As stated by the Director, the evidence did not show the published material was about the 
+Beneficiary. Nor has the Petitioner presented comparative circulation or readership information 
+showing that the articles were in major trade publications or other major media. For these reasons, 
+the Petitioner has not established the Beneficiary meets this criterion. 
+Evidence ofthe alien's participation, either individually or on a panel, as a judge ofthe 
+work ofothers in the same or an allied field ofspecification for which classification is 
+sought. 8 C.F.R. § 204.5(h)(3)(iv). 
+USCIS determines whether the person has acted as the judge of the work of others in the same or an 
+allied field of specification.7 The petitioner must show that the person has not only been invited to 
+judge the work of others, but also that the person actually participated in the judging of the work of 
+others in the same or allied field of specialization.8 For example, a petitioner might document the 
+person's peer review work by submitting a copy of a request from a journal to the person to do the 
+review, accompanied by evidence confirming that the person actually completed the review. 9 
+The Petitioner claims the Beneficiary meets this criterion based on recommendations he provided his 
+colleagues in making hiring decisions for design roles. The record reflects the Petitioner submitted a 
+letter from O-C-, co-founder of I who stated: 
+I was fortunate to be able to first work with [the Beneficiary] beginning in 2009, when 
+we recruited his company's design services for my company,! I 
+I have quite regularly relied on [the Beneficiary's] incredible design experience and 
+talent, on not only leading projects, but also vetting and hiring designers for my 
+companies. He is so exceptionally talented in mobile technology design, and has innate 
+skills to judge candidates' qualifications, that we have asked him to participate in the 
+screening and the hiring process for a number of our critical hires for design services. 
+6 This criterion states that evidence of the published material "shall include the title, date, and author of the material, and 
+any necessary translation." See 8 C.F.R. § 204.5(h)(3)(iii). 
+7 See generally 6 USC1S Policy Manual, supra, at F.2(B)(l). 
+8 Id. 
+9 Id. 
+4 
+is certainly more successful due to his valuable input on which candidates 
+have the right skills and fit for our company. 
+O-C-' s letter does not elaborate and indicate who, when, and what specific work the Beneficiary 
+purportedly judged. Moreover, the Petitioner did not show how O-C-'s letter establishes that vetting 
+and screening job candidates constitutes serving as a judge of the work of others, consistent with this 
+regulatory criterion. 
+In addition, the Petitioner presented a letter from B-Y-, General Manager of Consumer Marketing at 
+I ITelecommunications Company, who indicated: "[W]e have heavily relied on [the 
+Beneficiary's] input and consulted with him when hiring for critical design roles in both I land 
+He is an excellent judge of talent and his insights have been invaluable in making 
+hiring decisions for design roles." In response to the Director's RFE, the Petitioner offered a second 
+letter provided by B-Y-asserting that the Beneficiary assisted his organization by "providing technical 
+evaluations and creative insights that guided the hiring processes for critical design roles with my 
+team." B-Y-further stated: 
+Specifically, [the Beneficiary] assisted us in assessing potential candidates for UI and 
+UX design positions, ensuring that their skills and creative vision aligned with our 
+strategic objectives. His expert opinions were crucial in determining the suitability of 
+these candidates for our projects, effectively serving as a jury to help us make informed 
+decisions. 
+B-Y-'s letters, however, do not contain specific, detailed information reflecting probative evidence of 
+the Petitioner's judging experience. For example, the letters do not include names of individuals or 
+dates ofjudging. In addition, the Petitioner did not offer any evidence (such as candidate evaluation 
+records) to support the claims in the letters. The Petitioner's submission of two letters from B-Y-that 
+make vague claims regarding the Beneficiary's purported judging activity is insufficient to fulfill this 
+criterion. 
+Without additional information or evidence reflecting the Beneficiary's participation as a judge of the 
+work of others, including specific, detailed information, the Petitioner has not demonstrated the 
+Beneficiary meets this criterion. 
+Evidence of the alien's original scient[fic, scholarly, artistic, athletic, or business­
+related contributions ofmajor sign[ficance in the field. 8 C.F.R. § 204.5(h)(3)(v). 
+In order to satisfy the regulation at 8 C.F.R. § 204.5(h)(3)(v), a petitioner must establish that not only 
+has the person made original contributions, but that they have been of major significance in the field. 10 
+As evidence under this criterion, the Petitioner submitted recommendation letters discussing the 
+Beneficiary's product design work for the Petitioner,! Iand 
+I I The record also includes analytics data for the I lapps. In 
+addition, the Petitioner presented information aboutl las well as a share buyback agreement the 
+Beneficiary executed with the company. The Director considered this documentation but found that 
+10 See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+5 
+it was not sufficient to demonstrate that the Beneficiary's work constituted original contributions of 
+major significance in the field. 
+The Petitioner contends on appeal that the Director disregarded "the testimonials ofexperts in the field 
+... without any analysis as to why their testimony was irrelevant." The Beneficiary's references 
+discussed his product design projects at various companies, but their statements do not demonstrate 
+the originality of his work and its major significance in the field. 11 As discussed below, the reference 
+letters do not offer sufficiently detailed information, nor does the record include adequate 
+corroborating documentation, to show the nature of specific "original contributions" that the 
+Beneficiary has made to the field that have been considered to be of major significance. 
+Regarding the Beneficiary's product design work for B-Y-, the company's former 
+group sales and marketing director, asserted that the Beneficiary "lead the design of several critical projectsthat I was leading at including the Online Services App, 
+Phone Operating System Interface Redesign, Streaming Service, and Music App. 
+While B-Y-indicated that the Beneficiary "has time and again delivered beyond all expectations, 
+crafting world-class user experiences," the Petitioner has not shown that the Beneficiary's work for I I has influenced the industry in a major way or has otherwise been considered 
+important at a level consistent with original contributions of major significance in the field. 
+With respect to the Beneficiary's involvement with the development of the app, S-A-, the 
+Petitioner's Chief Executive Officer (CEO) and cofounder, stated: 
+__ (later renamed to I I one of the projects we took on as part of 500 
+LABS, became the foundation for [the Petitioner] -as we decided to spin out the project 
+as its own company and focus on it. Since the inception ofthe company, we've worked 
+with [the Beneficiary] as a freelance designer where we created the first logo and 
+branding for the app, he conducted research on comparable communication apps in the 
+market such as -and conducted user research on validating 
+our product design idea with real users. 
+[The Beneficiary] has been a significant contributor to the design of the 
+application since its verybeginning as a freelance designer and we have continued to 
+work together on since 2017. The design work that [ the Beneficiary] has done 
+for us was a critical factor in helping! Iachieve commercial success. 
+S-A-further claimed that "[t]hel !application has garnered millions ofdownloads," but the record 
+does not include analytics data to corroborate his assertion. The Petitioner has not demonstrated that 
+this app has affected the field in a substantial way (beyond the Petitioner and its app users) or that the 
+Beneficiary's contribution to the product otherwise constitutes an original contribution of major 
+significance in the product design field. 
+In addition, V-B-, founder and CEO ofl indicated that he "first met [the Beneficiary] in 2011" 
+and "decided that he had the right skill set for our mobile app design needs, and he began working as 
+11 While we discuss a sampling of the letters of support, we have reviewed and considered each one. 
+6 
+a freelance designer for I I V-B-further stated that the Beneficiary "led our efforts in designing 
+all of the branding assets and the mobile application design for I Ibetween 2011 and 2013. He 
+played a critical role in making I I a technological and commercial success." The Petitioner, 
+however, has not demonstrated that the Beneficiary's work for this app rises to the level of an original 
+contribution of major significance in his field. 
+Regarding the Beneficiary's product design work for the apps, B-A-, a product 
+manager at stated: 
+Our company recruited the product design services of [ the Beneficiary] for several digital 
+products I was product managing. These projects included 
+movie streaming apps in Turkey, and music 
+streaming applications in Turkey. [The Beneficiary] led the design of these projects end 
+to end from user research to interface and user experience design. Every stakeholder 
+including myself as product manager and engineers were extremely impressed by [the 
+Beneficiary's] product and design savvy. 
+B-A-, however, does not offer specific examples of how the Petitioner's original work forc=]has 
+influenced the field or industry to the extent that it is of major significance in the field. Nor has the 
+Petitioner demonstrated that the level of attention received by the Beneficiary's specific work on these 
+apps signifies that he has made original contributions of major significance in the field. 
+In this case, the recommendation letters offered by the Petitioner do not contain sufficient information 
+and explanation, nor does the record include corroborating evidence, to show that the Beneficiary's 
+specific product design work is viewed throughout his field, rather than by a solicited few, as having 
+risen to the level of original contributions of major significance in the field. Courts have routinely 
+affirmed our decisions concluding that 8 C.F.R. § 204.5(h)(3)(v) "requires substantial influence 
+beyond one's employers, clients, or customers." Strategati, LLC v. Sessions, 2019 WL 2330181, at 
+*6 (S.D. Cal. May 31, 2019) (upholding an agency decision that held "[a] patent is not necessarily 
+evidence of a track record of success with some degree of influence over the field as a whole."); see 
+also Amin v. Mayorkas, 24 F.4th 383, 394 (5th Cir. 2022) (upholding agency decision that held 
+evidence insufficient "because it did not show widespread replication of [ the petitioner's invention]"). 
+Here, the Petitioner has not shown that the Beneficiary's original work has affected his field at a level 
+commensurate with contributions of major significance in the field. 
+For the reasons discussed above, the Petitioner has not established the Beneficiary meets this criterion. 
+Evidence ofthe alien's authorship ofscholarly articles in the field, in professional or 
+major trade publications or other major media. 8 C.F.R. § 204.5(h)(3)(vi). 
+As evidence for this criterion, the Petitioner presented slides and photographic images of what are 
+claimed to be the Beneficiary's speaking engagements. The language of the criterion at 8 C.F.R. 
+§ 204.5(h)(3)(vi) requires "authorship of scholarly articles" and the submitted documentation is not 
+evidence of the Beneficiary's scholarly articles. As defined in the academic arena, a scholarly article 
+7 
+reports on original research, experimentation, or philosophical discourse. 12 It is written by a researcher 
+or expert in the field who is often affiliated with a college, university, or research institution. 13 
+Scholarly articles are also generally peer reviewed by other experts in the field of specialization. 14 For 
+other fields, a scholarly article should be written for learned persons in that field. 15 "Learned" is 
+defined as having "profound knowledge gained by study."16 Learned persons include all persons 
+having profound knowledge of a field. 17 Here, the Petitioner has not shown that the Beneficiary's 
+presented work meets the requirements of a scholarly article. And even if the Petitioner had 
+demonstrated the Beneficiary's authorship of a scholarly article, which it has not, the Petitioner has 
+not shown that the Beneficiary's work was in a professional or major trade publication or other form 
+of major media. Accordingly, the Petitioner has not established the Beneficiary meets the 
+requirements of this criterion. 
+Evidence that the alien has commanded a high salary or other significantly high 
+remuneration for services, in relation to others in the.field. 8 C.F.R. § 204.5(h)(3)(ix). 
+The Petitioner presented its March 2022 letter offering the Beneficiary the position of "Director of 
+Product Design" with a salary of $180,000. 18 In response to the Director's RFE, the Petitioner 
+provided the Beneficiary's Form W-2, Wage and Tax Statement, showing that he earned $181,276 in 
+2023. As evidence the Beneficiary's salary is high relative to that of others working in the field, the 
+Petitioner submitted February 2023 Foreign Labor Certification Wage Results for "Web and Digital 
+Interface Designers" in New York. In addition, the Petitioner offered May 2021 "National estimates 
+for Web and Digital Interface Designers" from the U.S. Bureau of Labor Statistics. However, the 
+Petitioner did not offer comparable salary evidence pertaining to the Beneficiary's specific occupation 
+as a "Director of Product Design." Specifically, the Beneficiary's position of a "Director of Product 
+Design" indicates both a different and a higher job classification than a web and digital interface 
+designer. Moreover, the position description for the Beneficiary contains further job duties and 
+responsibilities than a web and digital interface designer, reflecting a managerial position. 
+To meet this criterion, the Petitioner must show that the Beneficiary has received a high salary in 
+relation to other product design directors rather than web and digital interface designers. Both 
+precedent and case law support this application of 8 C.F.R. § 204.5(h)(3)(ix). See Matter ofPrice, 20 
+I&N Dec. 953, 954 (Assoc. Comm'r 1994) ( considering a professional golfer's earnings versus other 
+PGA Tour golfers); see also Skokos v. US. Dept. ofHomeland Sec., 420 F. App'x 712, 713-14 (9th 
+Cir. 2011) (finding salary information for those performing lesser duties is not a comparison to others 
+in the field); Crimson v. INS, 934 F. Supp. 965, 968 (N.D. Ill. 1996) (considering NHL enforcer's 
+salary versus other NHL enforcers); Muni v. INS, 891 F. Supp. 440, 444-45 (N. D. Ill. 1995) 
+12 See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+13 Id. 
+14 Id. 
+15Id. 
+16 Id. (citing to the Oxford English Dictionary's definition of "learned"). 
+17 See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+18 This job offer letter describes the Beneficiary's position as follows: "You will start in a full-time position of Director 
+of Product Design. In this capacity, you will perform duties related to but not limited to managing all aspects of product 
+and user experience design, the design for our marketing and communications, managing and building our design team 
+and ensuring effective communications and collaboration around design between our product, engineering and executive 
+teams." 
+8 
+( comparing salary of NHL defensive player to salary of other NHL defensemen). Because the 
+Petitioner did not provide sufficient evidence demonstrating the salaries of other product design 
+directors, it did not establish the Beneficiary commands a high salary in relation to others in his field. 
+Accordingly, the Petitioner has not established the Beneficiary fulfills this criterion. 
+III. 0-1 NONIMMIGRANT STATUS 
+The record reflects that in 2022 the Beneficiary received 0-1 status, a classification reserved for 
+nonimmigrants ofextraordinary ability. Although USCIS has approved at least one 0-1 nonimmigrant 
+visa petition filed on behalf of the Beneficiary, this approval does not preclude USCIS from denying 
+an immigrant visa petition which is adjudicated based on a different standard - statute, regulations, 
+and case law. Many Form 1-140 immigrant petitions are denied after USCIS approves nonimmigrant 
+petitions. See, e.g., Sunlift Int'l v. Mayorkas, et al., 2021 WL 3111627 (N.D. Cal. 2021); Q Data 
+Consulting, Inc. v. INS, 293 F. Supp. 2d 25 (D.D.C. 2003); IKEA US v. US Dept. ofJustice, 48 F. 
+Supp. 2d 22 (D.D.C. 1999); Fedin Bros. Co., Ltd. v. Sava, 724 F. Supp. at 1108, ajfd, 905 F. 2d at 41. 
+Furthermore, our authority over the USCIS service centers, the office adjudicating the nonimmigrant 
+visa petition, is comparable to the relationship between a court of appeals and a district court. Even if 
+a service center director has approved a nonimmigrant petition on behalf of an individual, we are not 
+bound to follow that finding in the adjudication of another immigration petition. See, e.g., La. 
+Philharmonic Orchestra v. INS, 248 F.3d 1139 (5th Cir. 2001) (per curiam). Nor are we required to 
+approve applications or petitions where eligibility has not been demonstrated merely because of prior 
+approvals that may have been erroneous. See Matter ofChurch Scientology Int'l, 19 I&N Dec. 593, 
+597 (Comm'r 1988); see also Constr. & Design Co. v. Bureau ofCitizenship & Immigr. Servs., 2008 
+WL 2074097 *5 (N.D. 111. May 14, 2008) (describing as "prudent" that the AAO "assess each 
+application on its own, rather than rubber stamping applications merely because of prior approvals"), 
+aff'd sub nom. Constr. & Design Co. v. US. Citizenship & Immigr. Servs., 563 F.3d 593 (7th Cir. 
+2009). 
+IV. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documentation that the Beneficiary meets at least three of the ten criteria. 19 Because the Beneficiary's 
+inability to meet three of the initial criteria is dispositive of the appeal, we need not provide the type 
+of final merits determination referenced in Kazarian, 596 F.3d at 1119-20. We therefore reserve this 
+issue.20 
+Nevertheless, we have reviewed the record in the aggregate, concluding it does not support a 
+conclusion that the Beneficiary has established the acclaim and recognition required for the 
+classification sought. The Petitioner seeks a highly restrictive visa classification for the Beneficiary, 
+intended for individuals already at the top of their respective fields, rather than those progressing 
+toward the top. Matter ofPrice, 20 I&N Dec. at 954 (Assoc. Comm'r 1994) (concluding that even 
+19 The Petitioner has not established the Beneficiary satisfies the criteria relating to awards, published material, judging, 
+original contributions, authorship of scholarly articles, and high salary. 
+20 See INS v. Bagamasbad, 429 U.S. 24, 25 (1976) ("courts and agencies are not required to make findings on issues the 
+decision of which is unnecessary to the results they reach"); see also Matter ofL-A-C-, 26 l&N Dec. 516, 526 n.7 (BIA 
+2015) ( declining to reach alternative issues on appeal where an applicant is otherwise ineligible). 
+9 
+major league level athletes do not automatically meet the statutory standards for classification as an 
+individual of "extraordinary ability,"); Visinscaia, 4 F. Supp. 3d at 131 (internal quotation marks 
+omitted) (finding that the extraordinary ability designation is "extremely restrictive by design,"); 
+Hamal v. Dep 't ofHomeland Sec. (Hamal II), No. 19-cv-2534, 2021 WL 2338316, at *5 (D.D.C. June 
+8, 2021), aff'd, 2023 WL 1156801 (D.C. Cir. Jan. 31, 2023)(determining that EB-1 visas are "reserved 
+for a very small percentage of prospective immigrants"). See also Hamal v. Dep 't ofHomeland Sec. 
+(Hamal I), No. l 9-cv-2534, 2020 WL 2934954, at * 1 (D.D.C. June 3, 2020) ( citing Kazarian, 596 at 
+1122 (upholding denial of petition of a published theoretical physicist specializing in non-Einsteinian 
+theories of gravitation) (stating that "[c]ourts have found that even highly accomplished individuals 
+fail to win this designation")); Lee v. Ziglar, 237 F. Supp. 2d 914, 918 (N.D. Ill. 2002) (finding that 
+"arguably one of the most famous baseball players in Korean history" did not qualify for visa as a 
+baseball coach). Here, the Petitioner has not shown the significance of the Beneficiary's work is 
+indicative of the required sustained national or international acclaim or it is consistent with a "career 
+of acclaimed work in the field" as contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 
+1990); see also section 203(b )(1 )(A) of the Act. Moreover, the record does not otherwise demonstrate 
+the Beneficiary has garnered national or international acclaim in the field, and he is one of the small 
+percentage who has risen to the very top of the field of endeavor. See section 203(b )(1 )(A) of the Act 
+and 8 C.F.R. § 204.5(h)(2). 
+For the reasons discussed above, the Petitioner has not demonstrated the Beneficiary's eligibility as 
+an individual of extraordinary ability. The appeal will be dismissed for the above stated reasons, with 
+each considered as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+10 

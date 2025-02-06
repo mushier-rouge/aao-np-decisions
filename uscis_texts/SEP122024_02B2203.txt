@@ -1,0 +1,276 @@
+U.S. Citizenship 
+and Immigration 
+Services Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: SEPT. 12, 2024 In Re: 33440983 
+Appeal of Texas Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a business development executive, seeks classification as an individual of extraordinary 
+ability. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A) . 
+This first preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation . 
+The Director of the Texas Service Center denied the petition, concluding the Petitioner did not establish 
+he satisfied at least three of the initial evidentiary criteria. The matter is now before us on appeal. 
+The Petitioner bears the burden of proof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christa's, Inc., 26 I&N Dec. 537,537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l)(A) of the Act makes immigrant visas available to individuals with extraordinary 
+ability in the sciences, arts, education, business, or athletics which has been demonstrated by sustained 
+national or international acclaim and whose achievements have been recognized in the field through 
+extensive documentation, provided that the individual seeks to enter the United States to continue 
+work in the area of extraordinary ability, and the individual's entry into the United States will 
+substantially benefit prospectively the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and the recognition of achievements in the field through a one-time achievement (that is, a 
+major, internationally recognized award) or qualifying documentation that meets at least three of the 
+ten categories listed at 8 C.F.R. § 204.5(h)(3)(i) -(x) (including items such as awards, published 
+material in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+The Petitioner serves as Vice President for Business Development at a a supplier of 
+telecom engineering services and products. 1 Because the Petitioner has not indicated or established 
+receipt of a major, internationally recognized award, he must satisfy at least three of the alternate 
+regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). The Petitioner initially claimed to have satisfied 
+four of these criteria, but the Director determined the Petitioner fulfilled only the judging criterion at 
+8 C.F.R. § 204.5(h)(3)(iv). On appeal, the Petitioner maintains that he meets three additional 
+categories of evidence. 
+Evidence of the alien's original scient[fic, scholarly, artistic, athletic, or business­
+related contributions ofmajor sign[ficance in the field. 8 C.F.R. § 204.5(h)(3)(v) 
+In order to satisfy the regulation at 8 C.F.R. § 204.5(h)(3)(v), a petitioner must establish that not only 
+has he made original contributions, but that they have been of major significance in the field. 2 As 
+evidence under this criterion, the Petitioner submitted documentation relating to his product 
+development work for I I and a guest lecture he provided for a 
+Extension virtual Zoom course, entitled _____________ ___ 3 The record 
+also includes evidence of contracts and licensing of products and services from 4 In addition, 
+the Petitioner presented information about a book he coauthored, entitled 
+___________ as well as letters of support from colleagues in the field discussing 
+his projects at multiple companies. The Director considered this documentation but found that it was 
+not sufficient to demonstrate that the Petitioner's work constituted original contributions of major 
+significance in the field. 
+In his appeal brief, the Petitioner does not contest the Director's findings under this criterion relating 
+to his extension course guest lecture and book. He therefore has not overcome the Director's 
+1 The Petitioner received a Master of Business Administration degree from (2012) and 
+a Certificate from the Product Management Program at __________ (2016). 
+2 See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+3 The Petitioner completed the __________ Executive Education Product Management Program in 
+2016. He did not explain how providing a guest lecture at a university he previously attended is indicative of a business­
+related contribution of major significance in the field. 
+4 This documentation includes !proposals and contracts with for radio frequency engineering and design, 
+proposals and contracts with for fiber construction, proposals and contracts with _____ and licenses 
+sold to While the Petitioner helped determine clients' needs and effectively 
+communicated their needs to I Iengineering team, he has not demonstrated that he originated the technologies 
+used in products such asl I 
+2 
+determination that they do not meet requirements of this criterion. 5 We consider the Petitioner's prior 
+eligibility claims not raised or contested on appeal to be abandoned. An issue not raised on appeal is 
+waived. See, e.g., Matter ofO-R-E-, 28 I&N Dec. 330,336 n.5 (BIA 2021) (citing Matter ofR-A-M-, 
+25 I&N Dec. 657, 658 n.2 (BIA 2012)). 
+The Petitioner contends on appeal that the Director incorrectly concluded the testimonial evidence of 
+his achievements in the field was insufficient. He asserts that the testimony of independent witnesses 
+as well as corporate executives with direct knowledge of his original contributions was not properly 
+considered as part of the record. The Petitioner's references discussed his product development 
+projects at I I and financial work at other companies, but their statements do not demonstrate 
+the originality of his work and its major significance in the field. As discussed below, the reference 
+letters do not offer sufficiently detailed information, nor does the record include adequate 
+corroborating documentation, to show the nature of specific "original contributions" that the Petitioner 
+has made to the field that have been considered to be of major significance. 
+Regarding the Petitioner's involvement in the development of the I !network test measurement 
+tool for __________ the company's CEO and Co-Founder, stated: 
+In the year 2013 we first started working on our automated drive test tool called _ 
+was envisioned with two important benefits to the customer -to make 
+data collection cheaper and error free. 
+[The Petitioner's] personal commitment to deliver this solution was commendable. Right 
+from understanding the customer's problem to helping with the development of the 
+solution he supported the Product team to an unimaginable length. Since he was also a 
+part of the Business Development team, he was able to make this dream a possibility by 
+getting its first-ever contracts from one of the big telecom operators 
+the U.S. (which is I I to the tune of over 4 million dollars, which grew I Ito 
+different level. This activity not only helped the company grow in revenue, but we had 
+to open a back-office operation to manage the projects that were awarded to us. 
+[The Petitioner] also came up with the idea of using Salesforce as a tool to manage the 
+projects and used his analytical ability to visualize and guide the company various key 
+performance indicators that we would need to monitor to make this program a success. 
+While I I indicated that the Petitioner's work "supported the Product team" and helped his 
+company secure a contract with I I the Petitioner has not shown that his work for I I has 
+been considered important at a level consistent with original contributions of major significance in the 
+telecommunications, business development, or project management fields. 
+5 For example, the Petitioner has not demonstrated that his book and guest lecture have influenced the field in a major way, 
+have been highly cited relative to others' work in the field, or have otherwise affected his field at level commensurate with 
+original business-related contributions of major significance. 
+3 
+With respect to the Petitioner's involvement with the development of 
+President and CEO of I I stated: 
+[The Petitioner] has a mindset to help clients build new products. He listens 
+meticulously to his clients and helps his IT teams understand in a language they can 
+understand. This has helped him to work with people from various engineering and 
+development backgrounds and help build products that have filled a 
+lot of gaps that were in the telecom industry. Their latest product I I... is 
+a phenomenal idea of creating an AI based CRM tool for the telecom industry and help 
+project managers get away from working and maintaining Excel sheets and instead get 
+meaningful insights to their I I but generating intelligent reports. This idea was 
+floated by [the Petitioner] when _____ was awarded the biggest project on 
+PIM modulation by one of their clients 3 years ago. Instead of managing the data on 
+Excel sheets [the Petitioner] immediately understood the roadblocks in the system and 
+started working with his development team to develop a cloud-based application to 
+manage the whole program. 
+Mr. further noted that and used it in their national 
+radio access network teams to manage their databases, but the Petitioner has not demonstrated that 
+this tool has affected the field in a substantial way (beyond his company's clientele such as I I or 
+that his contribution to the product otherwise constitutes an original contribution of major significance 
+in the telecommunications field. 
+In addition, I Icurrently Vice President of Business Development atl I and 
+formerly coworker of Petitioner atl I asserted that the Petitioner's "ability to analyze customer 
+needs and data driven decision making approach always helped him and the team to come up with the 
+most innovative solutions for our customers." Likewise, I I formerly Vice President of 
+Data Analytics atl Istated that based on the Petitioner's regular interaction with various clients, 
+I I was able to understand that the biggest problem of the industry at one given moment was 
+the need for an automated drive test tool which helps telecom operators to collect network data while 
+driving between cell tower and other telecom sites." Mr.I I also indicated that the Petitioner's 
+"ability to analyze the problem and bring his unique solution to the engineering team to be brought to 
+life was a great start to the development of our new product." While the Petitioner helped determine 
+clients' needs and effectively communicated their needs to I Iengineering team, he has not 
+demonstrated that he originated the underlying technologies used in products such asl I 
+I land that his work rises to the level of business-related contributions of major significance in 
+the field. 
+Furthermore, Dr.I I professor at ___________ (the Petitioner's alma 
+mater), stated that the Petitioner "put his finance and MBA skills to effective use by working with 
+I I technical professionals and major customers to identify financially valuable new products 
+and services, leading to the introduction of successful telecommunications implementations." Dr. 
+I I however, does not offer specific examples of how the Petitioner's original work for I I 
+has influenced the telecommunications industry to the extent that it is of major significance in the 
+field. 
+4 
+The record also includes letters of support discussing the Petitioner projects at other employers before 
+he joined I I For example, _____ Chief Business Officer -Auto Loans, 
+I I stated that he worked with the Petitioner at both 
+Regarding the Petitioner's work for _____ 
+indicated that the Petitioner "launched multiple new branches for his region" and "helped the region 
+reach record breaking numbers." With respect to the Petitioner's projects at Mr. 
+asserted that the Petitioner headed "the consumer durables lending program in North India," 
+"came up with the idea of Advance Dealer Disbursement that led to record breaking revenue for the 
+whole company across India," and "won the award for the most Innovative regional manager in the 
+entire company." The Petitioner, however, has not shown that his work for D rises to the level of original business-related contributions of major significance in the field 
+Additionally, Senior Vice President, indicated that the 
+Petitioner worked under his supervision as Regional Sales Manager for North India. Mr.I I 
+stated: 
+[The Petitioner] built a strong and motivated sales team and a wide dealer distribution 
+of 250+ dealers in North India and ensured that all major retailers worked with 
+I I [The Petitioner] drove his team to adapt to the latest technology of cloud 
+computing and leverage the new products and processes to create a W o W customer 
+experience. Under his leadership, sales turnover doubled every year and we again 
+started branch expansion in northern markets from 9 cities to 15 cities. 
+While the Petitioner improved sales and helped I Iexpand its branch operations to new 
+cities, Mr.I I does not explain how the Petitioner's work for the company in North India is 
+indicative of original business-related contributions of major significance in his field. Nor has the 
+Petitioner demonstrated that the level of attention received by his work signifies that he has made 
+original contributions of major significance in the field. 
+In this case, the Petitioner has not demonstrated that his specific work to improve his employers' sales, 
+services, and new product offerings rises to the level oforiginal business-related contributions ofmajor 
+significance in the field. Courts have routinely affirmed our decisions concluding that 8 C.F.R. 
+§ 204.5(h)(3)(v) "requires substantial influence beyond one's employers, clients, or customers." 
+Strategati, LLC v. Sessions, 2019 WL 2330181, at *6 (S.D. Cal. May 31, 2019) (upholding an agency 
+decision that held "[aa] patent is not necessarily evidence ofa track record of success with some degree 
+of influence over the field as a whole."); see also Amin v. Mayorkas, 24 F.4th 383,394 (5th Cir. 2022) 
+(upholding agency decision that held evidence insufficient "because it did not show widespread 
+replication of [the petitioner's invention]"). Here, the Petitioner has not shown that his original work 
+has affected his field at a level commensurate with contributions of major significance in the field. 
+For the reasons discussed above, the Petitioner has not established that he has made original 
+contributions of major significance in his field. 
+Evidence ofthe alien's authorship ofscholarly articles in the field, in professional or 
+major trade publications or other major media. 8 C.F.R. § 204.5(h)(3)(vi). 
+5 
+As evidence for this criterion, the Petitioner presented a book he coauthored, entitled I _____ 
+The language of the criterion at 8 C.F.R. 
+§ 204.5(h)(3)(vi) requires "scholarly articles" and the Petitioner's book does not equate to an article. 
+An article is "a nonfictional prose composition usually forming an independent part of a publication 
+(as a magazine)."6 On the other hand, a book is "a long written or printed literary composition."7 
+Furthermore, the regulation requires that the articles be "in professional or major trade publications or 
+other major media." As books may be published independently or self-published, mere publication 
+does not establish that a book is a professional or major trade publication or other type of major media. 
+As defined in the academic arena, a scholarly article reports on original research, experimentation, or 
+philosophical discourse. 8 It is written by a researcher or expert in the field who is often affiliated with 
+a college, university, or research institution. 9 Scholarly articles are also generally peer reviewed by 
+other experts in the field of specialization. 10 While I I contains endnotes and a 
+bibliography, the Petitioner has not shown that his book qualifies as a scholarly article within the 
+purview of academia. 11 
+For other fields, a scholarly article should be written for learned persons in that field. 12 "Learned" is 
+defined as having "profound knowledge gained by study." 13 Learned persons include all persons 
+having profound knowledge of a field. 14 Here, the Petitioner did not show that his book was written 
+for learned persons in the field. For example, recommendations appearing in the initial part of the 
+book state that I l"would be useful to someone new to product management," "is an 
+essential read for anyone looking to bring a new disruptive product to market," is "an essential 
+reference for anyone who aspires to be a rock star product manager," "is a must-read for everyone 
+who cares about building the right products in the right way," and "covers many ideas and frameworks, 
+along with providing step-by-step instructions for aspiring innovators and product developers." In 
+addition, the record includes a quote from the Petitioner indicating that his book covers "the do' s and 
+don'ts of successful product development for people wanting to be the next generation of product 
+managers." These statements do not necessarily indicate that the book was written for learned persons 
+in the field. 
+Even if the Petitioner had demonstrated that I !equates to a scholarly article, which it 
+does not, he has not shown that his book is a professional or major trade publication or other form of 
+major media. Accordingly, the Petitioner has not established that he meets the requirements of this 
+criterion. 
+6 See https://www.merriam-webster.com/dictionary/article, accessed on September 9, 2024. 
+7 See https://www.merriam-webster.com/dictionary/book, accessed on September 9, 2024. 
+8 See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+9 Id. 
+10 Id. 
+11 The book's inclusion as "recommended reading" for a virtual "extension" course at a university where the Petitioner 
+pursued studies I and its coverage in a blog post on the website of the Petitioner's alma 
+mater I do not necessarily render it scholarly. 
+12 See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+13 Id. (citing to the Oxford English Dictiona1y 's definition of "learned"). 
+14 Id. 
+6 
+III. CONCLUSION 
+The Petitioner meets the judging criterion but has not established he satisfies the criteria relating to 
+contributions of major significance and authorship of scholarly articles. Although the Petitioner also 
+claims eligibility for the leading or critical role criterion under 8 C.F.R. § 204.5(h)(3)(viii), we need 
+not reach this additional ground because the Petitioner cannot fulfill the initial evidentiary requirement 
+of three criteria under 8 C.F.R. § 204.5(h)(3). Because the Petitioner's inability to meet three of the 
+initial criteria is dispositive of his appeal, we also need not provide the type of final merits 
+determination referenced in Kazarian, 596 F.3d at 1119-20. We therefore reserve these issues. 15 
+Nevertheless, we have reviewed the record in the aggregate, concluding it does not support a 
+conclusion that the Petitioner has established the acclaim and recognition required for the classification 
+sought. The Petitioner seeks a highly restrictive visa classification, intended for individuals already 
+at the top of their respective fields, rather than those progressing toward the top. Matter ofPrice, 20 
+I&N Dec. at 954 (Assoc. Comm'r 1994) (concluding that even major league level athletes do not 
+automatically meet the statutory standards for classification as an individual of "extraordinary 
+ability,"); Visinscaia, 4 F. Supp. 3d at 131 (internal quotation marks omitted) (finding that the 
+extraordinary ability designation is "extremely restrictive by design,"); Hamal v. Dep 't ofHomeland 
+Sec. (Hamal II), No. 19-cv-2534, 2021 WL 2338316, at *5 (D.D.C. June 8, 2021), aff'd, 2023 WL 
+1156801 (D.C. Cir. Jan. 31, 2023) (determining that EB-1 visas are "reserved for a very small 
+percentage of prospective immigrants"). See also Hamal v. Dep 't ofHomeland Sec. (Hamal I), No. 
+l 9-cv-2534, 2020 WL 2934954, at* 1 (D.D.C. June 3, 2020) ( citing Kazarian, 596 at 1122 (upholding 
+denial of petition of a published theoretical physicist specializing in non-Einsteinian theories of 
+gravitation) (stating that "[c]ourts have found that even highly accomplished individuals fail to win 
+this designation")); Lee v. Ziglar, 237 F. Supp. 2d 914, 918 (N.D. Ill. 2002) (finding that "arguably 
+one of the most famous baseball players in Korean history" did not qualify for visa as a baseball 
+coach). Here, the Petitioner has not shown the significance of his work is indicative of the required 
+sustained national or international acclaim or it is consistent with a "career of acclaimed work in the 
+field" as contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 
+203(b)(l)(A) of the Act. Moreover, the record does not otherwise demonstrate the Petitioner has 
+garnered national or international acclaim in the field, and he is one of the small percentage who has 
+risen to the very top of the field of endeavor. See section 203(b)(l)(A) of the Act and 8 C.F.R. 
+§ 204.5(h)(2). The record does not contain sufficient evidence establishing the Petitioner among the 
+upper echelon in his field. 
+For the reasons discussed above, the Petitioner has not demonstrated eligibility as an individual of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+15 See INS v. Bagamasbad, 429 U.S. 24, 25 (1976) ("courts and agencies are not required to make findings on issues the 
+decision of which is unnecessary to the results they reach"); see also Matter ofL-A-C-, 26 l&N Dec. 516, 526 n.7 (BIA 
+2015) ( declining to reach alternative issues on appeal where an applicant is otherwise ineligible). 
+7 

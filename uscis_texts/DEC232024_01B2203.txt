@@ -1,0 +1,285 @@
+U.S. Citizenship 
+and Immigration 
+Services Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: DEC. 23, 2024 In Re: 34673704 
+Appeal of Nebraska Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner , an artificial intelligence (Al) researcher , seeks classification as an individual of 
+extraordinary ability. See Immigration and Nationality Act (the Act) section 203(b)(l)(A) , 8 U.S.C. 
+§ l l 53(b)(1 )(A). This first preference classification makes immigrant visas available to those who 
+can demonstrate their extraordinary ability through sustained national or international acclaim and 
+whose achievements have been recognized in their field through extensive documentation. 
+The Director of the Nebraska Service Center denied the petition, concluding that the Petitioner had 
+not satisfied the initial evidentiary criteria, of which he must meet at least three. The matter is now 
+before us on appeal. 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc., 26 l&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 
+203(b)(l)(A) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the [ noncitizen] has extraordinary ability in the sciences, arts, education, 
+business, or athletics which has been demonstrated by sustained national or 
+international acclaim and whose achievements have been recognized in the field 
+through extensive documentation , 
+(ii) the [noncitizen] seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the [noncitizen's] entry into the United States will substantially benefit 
+prospectively the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate recognition 
+of their achievements in the field through a one-time achievement (that is, a major, internationally 
+recognized award). If that petitioner does not submit this evidence, then they must provide sufficient 
+qualifying documentation that meets at least three of the ten criteria listed at 8 C.F.R. 
+§ 204.5(h)(3)(i) -(x) (including items such as awards, published material in certain media, and 
+scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F .3d 1115 (9th Cir. 2010). 
+( discussing a two-part review where the documentation is fust counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+The Petitioner , an AI researcher , intends to continue his activities in this field in the United States. 
+Because the Petitioner has not indicated or established that he has received a major, internationally 
+recognized award, he must satisfy at least three of the alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x) . 
+The Director found that the Petitioner met two of these ten criteria, relating to his participation as a 
+judge of the work of others in his field and his authorship of scholarly articles, and we agree with the 
+Director's determination . See 8 C.F.R. § 204.5(h)(3)(iv) , (vi). On appeal, the Petitioner asserts that 
+the Director erred in assessing the evidence submitted with respect to several other regulatory criteria 
+found at 8 C.F.R. § 204.5(h)(3). 
+A. Evidentiary Criteria 
+1. Membership in Associations Requiring Outstanding Achievement of Their Members. 
+To meet this requirement , a petitioner must submit documentation of their "membership in 
+associations in the field for which classification is sought, which require outstanding achievements of 
+their members, as judged by recognized national or international experts in their disciplines or fields." 
+8 C.F.R. § 204.5(h)(3)(ii) . 
+The Petitioner initially provided evidence of his purported memberships in the following groups: 
+• Association for the Advancement of Artificial Intelligence (AAAI) 
+• International Association of Engineers (IAENG) 
+• Electrical and Electronics Engineers (IEEE) Computer Society 
+• International Society for Applied Computing (ISAC) 
+2 
+The Petitioner also claimed to be a member of Scale Artificial Intelligence, Artificial Intelligence, and 
+the Institute of Electrical and Electronics Engineers, but did not submit documentation in support of 
+this claim. 
+The Director issued a request for evidence (RFE), noting that the Petitioner's evidence must be 
+supported by documentary evidence that these associations require outstanding achievements of their 
+members, as judged by recognized national or international experts in their disciplines or fields. In 
+response, the Petitioner submitted copies of the constitutions and bylaws for AAAI, ISAC, and the 
+IEEE Computer Society. No further documentation pertaining to his claimed membership in IAENG 
+was provided. 
+Although the Petitioner has provided documentation in support of his membership in three AI-related 
+organizations, the record is insufficient to demonstrate that the Petitioner has satisfied this criterion. 
+For example, the documentation pertaining to his membership in AAAI, dated May 6, 2023, states 
+that his "application for membership has been received and is currently being processed," thereby 
+raising questions as to whether the Petitioner was actually a member of this association at the time of 
+filing. Moreover, AAAl's bylaws state that "[a] person becomes a member (Regular or Student) upon 
+acceptance of an application for membership by the corporation and the payment of dues." There is 
+no indication in the association's bylaws that membership in AAAI requires outstanding achievements 
+of their members or that national or international experts judge the achievements ofaspiring members. 
+The Petitioner also submitted a certificate from the IEEE Computer Society indicating that he was an 
+"affiliate in good standing." Similar to AAAI, the IEEE Computer Society's bylaws are silent on 
+whether the organization requires outstanding achievements of its members as judged by international 
+experts. The bylaws simply identify the classes of membership, which include member, society 
+affiliate, associate, student, and graduate student, and indicate that to transfer to the class of member, 
+a candidate shall either be a member ( or higher grade) of the IEEE or be qualified as an IEEE affiliate. 
+The documentation pertaining to the Petitioner's membership in ISAC is likewise insufficient. The 
+Petitioner presented an undated certificate indicating that he is a senior member of the organization. 
+The organization's constitution and bylaws simply state that membership "is open to all persons who 
+share the stated purposes of the Society and who have educational, research, or practical experience 
+in some aspect ofcytometry." As membership in ISAC is open to any person desiring to be a member 
+that meets these requirements, outstanding achievements, as judged by recognized national or 
+international experts, are not requirements for membership with this organization. 
+Finally, although the Petitioner submitted letters from IAENG confirming his membership, the 
+Petitioner declined to submit evidence of the membership requirements for this association. The 
+Petitioner also failed to provide evidence that admittance is determined by nationally or internationally 
+recognized experts in the field. As the record does not contain the bylaws or other official 
+documentation of this association's membership criteria, we cannot evaluate whether the Petitioner's 
+membership is qualifying. 
+The record lacks evidence that any of the organizations discussed above require outstanding 
+achievements of their members or that national or international experts judge the achievements of 
+aspiring members. See, e.g., Braga v. Poulos, No. CV 06-5105, 2007 WL 9229758, *5 (S.D. Cal. July 
+3 
+6, 2007), affd, 317 Fed. Appx 680 (9th Cir. 2009) (holding that, without evidence that any of the 
+organizations required outstanding achievements of their members, a petitioner's membership in 
+multiple Jiu Jitsu organizations did not satisfy 8 C.F.R. § 204.5(h)(3)(ii)). Thus, the Petitioner has not 
+met this evidentiary requirement. 
+2. Original Contributions of Major Significance. 
+To meet this requirement, a petitioner must submit "[e ]vidence ofthe [ noncitizen' s] original scientific, 
+scholarly, artistic, athletic, or business-related contributions of major significance in the field." 
+8 C.F.R. § 204.5(h)(3)(v). USCTS should first determine whether a noncitizen has made original 
+contributions in their field. See generally 6 USCIS Policy Manual F.(2)(B)(l), 
+https://www.uscis.gov/policy-manual. If so, the Agency should then determine whether any of them 
+are of "major significance." Id. 
+In support of his purported original contributions to his field, the Petitioner submitted seven support 
+letters. Two former university professors of the Petitioner praise his academic achievements and 
+acknowledge his research accomplishments in machine learning and AI as it pertains to the 
+agroecosystem. A senior research scientist from the Petitioner's current employer states that since he 
+was hired, the Petitioner has "successfully built AT models from scratch" and "has retrained artificial 
+intelligence systems and models." While these letters generally offer praise for the Petitioner's skills 
+and accomplishments in the field of AI, they do not specify the significance of the Petitioner's 
+contributions to his field. Moreover, the authors comprise former professors and the current employer 
+of the Petitioner. See, e.g., Goncharov v. Allen, No. 3:21-CV-1372-B, 2022 WL 17327304, *5 (N.D. 
+Tex. Nov. 29, 2022) (holding that 8 C.F.R. § 204.5(h)(3)(v) "requires substantial influence beyond 
+one's employers, clients, or customers") ( citations omitted). 
+The other four support letters also do not specify the significance of the Petitioner's contributions to 
+his field. For example, a letter from a technologist employed byl Istates that he is familiar with 
+the Petitioner's publications and conference presentations. He briefly discusses the Petitioner's AI 
+work in the field ofanimal husbandry, and concludes that "given the fact that citations are the hallmark 
+of a researcher's impact, it is clear evidence that he has generated contributions of major significance 
+that have been widely recognized in the Science, Technology, Engineering and Math (STEM) field." 
+Another I I employee states that the Petitioner has made "several noteworthy contributions" to 
+AT and computational agriculture research, but he fails to specify or discuss in detail the nature and 
+significance of those contributions. A professor from the 
+highlights the citation statistics for the Petitioner's peer-reviewed article and concludes that such 
+statistics highlight the impact of his work. A senior data scientist from I lopines that the 
+Petitioner is an expert in the area of high-performance computing and that his research in pattern 
+recognition "is of immense impact on our society today." He further concludes that the Petitioner's 
+research impacts the U.S. Department of Agriculture's long-standing efforts to address food security 
+and advance food and nutritional security. 
+To establish "major significance," evidence must show that a petitioner's work has been "widely" 
+adopted or replicated by people in the field who are unaffiliated with the petitioner. Amin v. Mayorkas, 
+24 F.4th 383, 394 (5th Cir. 2022). The evidence must include "specific information relating to the 
+impact of a petitioner's work in the field as a whole." Visinscaia, 4 F.Supp.3d at 134. Here, the 
+4 
+Petitioner's letters do not contain specific, detailed information explaining the unusual influence or 
+high impact his research or work has had on the overall field. Rather, they simply opine that the 
+Petitioner is a skilled and successful researcher. It is the Petitioner's burden to both specify his 
+original contributions and to document the major significance of those contributions in the field. 
+While we acknowledge the Petitioner's research contributed to the field, as is inherently the case of 
+research-type fields, the letters did not establish how those contributions have been majorly significant, 
+as required by the regulation. See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). Detailed 
+letters from experts in the field explaining the nature and significance ofthe person's contribution may 
+also provide valuable context for evaluating the claimed original contributions of major significance, 
+particularly when the record includes documentation corroborating the claimed significance. 
+Id. Submitted letters should specifically describe the person's contribution and its significance to the 
+field and should also set forth the basis of the writer's knowledge and expertise. Id. In this case, the 
+letters lacked specific, detailed information explaining how the Petitioner's contributions have 
+influenced or impacted in a majorly significant manner or have somehow risen to level considered to 
+be of major significance. USCTS need not accept primarily conclusory statements. 1756, Inc. v. The 
+US. Att'yGen., 745 F. Supp. 9, 15 (D.C. Dist. 1990). 
+Further, the Petitioner submitted copies of his published scholarly articles in the field as well as citation 
+statistics. But the record does not show that others in the field regularly cited his articles or otherwise 
+explain their significance. See 6 USCIS Policy Manual, supra, at F.(2)(B)(l) ("[P]ublished research 
+that has provoked widespread commentary on its importance from others working in the field, and 
+documentation that it has been highly cited relative to others' work in that field, may be probative of 
+the significance of the person's contributions to the field of endeavor"). While other researchers' 
+reliance on the Petitioner's work is a positive element, and can be a method to corroborate the assertion 
+that the Petitioner's noteworthy influence on the work of others establishes that his contributions in 
+the field are of major significance, the Petitioner has not submitted evidence to demonstrate that a 
+good number ofresearchers have been sufficiently influenced by his work such that it rises to the level 
+of major significance in the field. The Petitioner has not demonstrated how the citing articles place a 
+heavy reliance on his work to support their own findings or that the number of citations is indicative 
+of a widespread influence. 
+We acknowledge the Petitioner's assertion that researchers from multiple countries have cited to his work 
+and that such citations demonstrate that international sources have noticed and referenced his work. 
+Although others within the Petitioner's field have relied on his research findings within their own work, 
+this is insufficient to demonstrate that the Petitioner has made contributions of major significance within 
+the field. While such citations to his work signify a contribution in the field, the Petitioner has not 
+provided evidence that demonstrates the impact of the articles that cite his work, or that these citing 
+articles have been considerably influential within the field as a whole. 
+On appeal, the Petitioner asserts that the Director erred by not considering the increase in citations to 
+the Petitioner's work subsequent to the filing ofthe petition. In support ofthis assertion, the Petitioner 
+refers to our non-precedent decision concerning the acceptance of updated citation history after the 
+petition's filing. This decision was not published as a precedent and therefore does not bind USCTS 
+officers in future adjudications. See 8 C.F.R. § 103.3(c). Unpublished agency decisions and advisory 
+legal opinions are not binding, even when they are published in private publications or widely 
+5 
+circulated. R.L. Inv. Ltd Partners v. INS, 86 F. Supp. 2d 1014, 1022 (D. Haw. 2000), aff'd, 273 F.3d 
+874 (9th Cir. 2001). Nevertheless, the facts of that case are distinguishable from those presented in 
+this matter, as the case relied on by the Petitioner pertains to a request for employment-based second 
+preference immigrant classification, as well as a national interest waiver of the job offer requirement 
+attached to that classification, pursuant to section 203(b)(2) of the Act, 8 U.S.C. § l 153(b)(2). 
+As properly noted by the Director, the Petitioner must meet all eligibility requirements at 
+the time of filing. See 8 C.F.R. § 103.2(b)(l). Subsequent facts cannot retroactively establish 
+eligibility. See Matter ofKatigbak, 14 I&N Dec. 45, 49 (Reg'l Comm'r 1971). Therefore, we do not 
+agree with the Petitioner's assertion that the Director erred by not considering the additional citations 
+to the Petitioner's work subsequent to the filing of the petition. 
+As the Petitioner has not sufficiently demonstrated the significance of his contributions to his field, 
+we will affirm the Director's finding that he did not meet the evidentiary requirement at 8 C.F.R. 
+§ 204.5(h)(3)(v). 
+3. Performance in a leading or critical role for organizations or establishments that have a 
+distinguished reputation. 
+To qualify under this criterion, a petitioner must show that they played 
+a leading or critical role for an 
+organization or establishment, and that that organization or establishment has a distinguished 
+reputation. 8 C.F.R. § 204.5(h)(3)(viii). When evaluating whether a role is leading, we look at whether 
+the evidence establishes that the person is or was a leader within the organization, or a department or 
+division thereof. See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). A title, with appropriate 
+matching duties, can help to establish that a role is or was leading. Id. For a critical role, we look at 
+whether the evidence establishes that the person has contributed in a way that is of significant 
+importance to the outcome of the organization or establishment's activities or those of a division or 
+department of the organization or establishment. Id. 
+The Petitioner maintains that he has performed in a leading or critical role for 
+In support of this assertion, the Petitioner submits a copy of his letter of 
+appointment to the position of Director of Information and Computer Technology (ICT), which 
+indicates that the duties of his position included developing and implementing ICT strategies in line 
+with the institution's goals and objectives, overseeing the maintenance and upgrading of the 
+institution's ICT infrastructure, leading and managing the ICT team to ensure efficient delivery of 
+services, providing expert advice and guidance on ICT related matters to senior management, and 
+ensuring compliance with relevant ICT policies, procedures, and regulations. The Petitioner also 
+submitted an appropriation bill and a letter of commendation in support of the assertion that he meets 
+the plain language of this criterion. 
+The Petitioner also claims that he performs in a leading or critical role for his current employer, where 
+he serves as an AI researcher. A letter from a senior AI researcher at the company indicates that the 
+Petitioner has "successfully built AI models from scratch" and "has retrained artificial intelligence 
+systems and models," in addition to implementing machine learning algorithms. 
+6 
+While the documentation suggests that the Petitioner played a significant role in these organizations, 
+the submitted evidence is not sufficient to demonstrate that the Petitioner's role was leading or critical. 
+For example, the Petitioner did not provide an organizational chart or other similar evidence to 
+establish where his role fit within the overall hierarchy of the organizations to demonstrate a leading 
+role. Nor does the evidence demonstrate that he has contributed to the organizations in a way that was 
+of significant importance to the outcome oftheir business operations. While the letter from his current 
+employer makes the broad claim that the Petitioner is "a trne genius in the field of AI," it did not 
+further elaborate and articulate how the Petitioner's role was leading or critical to the 
+company. Letters from employers, attesting to an employee's role in the organization, must contain 
+detailed and probative information that specifically addresses how the person's role for the 
+organization or establishment was leading or critical. See id. 
+To support that an organization has a distinguished reputation, the relative size or longevity of an 
+organization is considered together with other relevant information, such as the scale of its customer 
+base or relevant media coverage. "Merriam-Webster's online dictionary defines 'distinguished' as 
+"marked by eminence, distinction, or excellence' or 'befitting an eminent person."' Id. Here, the 
+Petitioner has not demonstrated that the organizations have distinguished reputations. In denying the 
+petition, the Director noted that the Petitioner did not submit evidence, such as media coverage, to 
+support the assertion that _____________ has a distinguished reputation. 
+Although the Petitioner objects to the Director's statement on appeal, we note that relevant factors for 
+evaluating the reputation of an organization or establishment can include the scale ofits customer base 
+or relevant media coverage. See id. 
+Although the Petitioner asserts that his current employer is a contractor 
+and submits media coverage regarding its contracts and the company's role in the AI sector, this fact 
+alone is insufficient to establish the company's eminence, distinction, or excellence. While the 
+submitted documentation confirms that his current employer has obtained government contracts, the 
+evidence does not demonstrate that the company itself has a distinguished reputation. Without more, 
+the evidence is insufficient to establish that the company has a distinguished reputation as required by 
+the regulation at 8 C.F.R. § 204.5(h)(3)(viii). 
+For the reasons outlined above, the Petitioner has not met the evidentiary requirements of 8 C.F.R. 
+§ 204.5(h)(3)(v). 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three ofthe ten criteria. As a result, we need not provide the type of final 
+merits determination referenced in Kazarian, 596 F.3d at 1119-20. Nevertheless, we advise that we 
+have reviewed the record in the aggregate, concluding that it does not support a finding that the 
+Petitioner has established the acclaim and recognition required for the classification sought. 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than for individuals progressing toward the top. USCIS has long held 
+that even athletes performing at the major league level do not automatically meet the "extraordinary 
+ability" standard. Matter ofPrice, 20 I&N Dec. 953,954 (Assoc. Comm'r 1994). Here, the Petitioner 
+7 
+has not shown that the significance of his work is indicative of the required sustained national or 
+international acclaim or that it is consistent with a "career of acclaimed work in the field" as 
+contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 203(b )(l)(A) 
+of the Act. Moreover, the record does not otherwise demonstrate that the Petitioner has garnered 
+national or international acclaim in the field, and he is one of the small percentage at very top of the 
+field of endeavor. See section 203(b )(1 )(A) of the Act and 8 C.F.R. § 204.5(h)(2). 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an individual of 
+extraordinary ability. 
+ORDER: The appeal is dismissed. 
+8 
